@@ -14,7 +14,7 @@
 	<richedit.h>
 	"resource.h"
 
-1428256502 source:e:\projekty\dragon-service-net\src\models.cpp
+1428277144 source:e:\projekty\dragon-service-net\src\models.cpp
 	"Models.h"
 
 1428256262 e:\projekty\dragon-service-net\include\models.h
@@ -24,7 +24,7 @@
 	<string>
 	<windows.h>
 
-1428276100 source:e:\projekty\dragon-service-net\src\server.cpp
+1428277144 source:e:\projekty\dragon-service-net\src\server.cpp
 	"Server.h"
 	<cstdio>
 	<winsock2.h>

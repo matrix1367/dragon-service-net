@@ -41,13 +41,9 @@ void CServer::Start(){
 }
 
 bool CServer::Init(void) {
-
     //Initialize socket support WINDOWS ONLY!
-
     WSADATA wsaData;
-    int err;
-
-     err = WSAStartup( MAKEWORD( 2, 2 ), &wsaData );
+    int err = WSAStartup( MAKEWORD( 2, 2 ), &wsaData );
     if ( err != 0 || ( LOBYTE( wsaData.wVersion ) != 2 ||
             HIBYTE( wsaData.wVersion ) != 2 )) {
         fprintf(stderr, "Could not find useable sock dll %d\n",WSAGetLastError());
@@ -55,7 +51,6 @@ bool CServer::Init(void) {
     }
 
     //Initialize sockets and set any options
-
     int * p_int ;
     m_hsock = socket(AF_INET, SOCK_STREAM, 0);
     if(m_hsock == -1){

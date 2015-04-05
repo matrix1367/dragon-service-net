@@ -17,7 +17,8 @@
 1428264295 e:\projekty\dragon-service-net\clients\weether\include\models.h
 	"Client.h"
 
-1428268562 e:\projekty\dragon-service-net\clients\weether\include\client.h
+1428277649 e:\projekty\dragon-service-net\clients\weether\include\client.h
+	<windows.h>
 
 1428264260 source:e:\projekty\dragon-service-net\clients\weether\src\models.cpp
 	"Models.h"
