@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1385320478 source:e:\projekty\dragon-service-net\clients\weether\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1385320478 e:\projekty\dragon-service-net\clients\weether\resource.h
+
+1428264294 source:e:\projekty\dragon-service-net\clients\weether\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	"Models.h"
+
+1428264295 e:\projekty\dragon-service-net\clients\weether\include\models.h
+	"Client.h"
+
+1428268562 e:\projekty\dragon-service-net\clients\weether\include\client.h
+
+1428264260 source:e:\projekty\dragon-service-net\clients\weether\src\models.cpp
+	"Models.h"
+
+1428270225 source:e:\projekty\dragon-service-net\clients\weether\src\client.cpp
+	"Client.h"
+	<winsock2.h>
+	<windows.h>
+	<fcntl.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<stdio.h>
+	<conio.h>
+
