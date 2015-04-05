@@ -43,4 +43,5 @@ Temporary Items
 .apdisk
 
 *.o
+*.res
 *.exe
