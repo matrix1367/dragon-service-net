@@ -1,13 +1,13 @@
 # depslib dependency file v1.0
-1428279164 source:e:\projekty\dragon-service-net\clients\weether\resource.rc
+1428337137 source:e:\projekty\dragon-service-net\clients\weether\resource.rc
 	<windows.h>
 	<commctrl.h>
 	<richedit.h>
 	"resource.h"
 
-1428279164 e:\projekty\dragon-service-net\clients\weether\resource.h
+1428337137 e:\projekty\dragon-service-net\clients\weether\resource.h
 
-1428325836 source:e:\projekty\dragon-service-net\clients\weether\main.cpp
+1428337137 source:e:\projekty\dragon-service-net\clients\weether\main.cpp
 	<windows.h>
 	<commctrl.h>
 	<stdio.h>
@@ -15,16 +15,16 @@
 	"Models.h"
 	"ScheduleManager.h"
 
-1428264295 e:\projekty\dragon-service-net\clients\weether\include\models.h
+1428337136 e:\projekty\dragon-service-net\clients\weether\include\models.h
 	"Client.h"
 
-1428277649 e:\projekty\dragon-service-net\clients\weether\include\client.h
+1428337136 e:\projekty\dragon-service-net\clients\weether\include\client.h
 	<windows.h>
 
-1428277814 source:e:\projekty\dragon-service-net\clients\weether\src\models.cpp
+1428337137 source:e:\projekty\dragon-service-net\clients\weether\src\models.cpp
 	"Models.h"
 
-1428277792 source:e:\projekty\dragon-service-net\clients\weether\src\client.cpp
+1428337137 source:e:\projekty\dragon-service-net\clients\weether\src\client.cpp
 	"Client.h"
 	<winsock2.h>
 	<windows.h>
@@ -35,30 +35,31 @@
 	<stdio.h>
 	<conio.h>
 
-1428325145 source:e:\projekty\dragon-service-net\clients\weether\src\schedulemanager.cpp
+1428354718 source:e:\projekty\dragon-service-net\clients\weether\src\schedulemanager.cpp
 	"ScheduleManager.h"
 	"CDSerialize.h"
 	<cstdio>
 	"CDLog.h"
 
-1428314125 e:\projekty\dragon-service-net\clients\weether\include\schedulemanager.h
+1428354416 e:\projekty\dragon-service-net\clients\weether\include\schedulemanager.h
 	<vector>
 	<time.h>
 	<string>
 	<windows.h>
 
-1428014050 e:\projekty\dragon-service-net\clients\weether\include\cdserialize.h
+1428337136 e:\projekty\dragon-service-net\clients\weether\include\cdserialize.h
 	<string>
 	<iostream>
 	<fstream>
 	<sstream>
 
-1428325890 source:e:\projekty\dragon-service-net\clients\weether\src\cdlog.cpp
+1428337137 source:e:\projekty\dragon-service-net\clients\weether\src\cdlog.cpp
 	"CDLog.h"
 	<iostream>
 	<fstream>
 	<time.h>
 
-1428014050 e:\projekty\dragon-service-net\clients\weether\include\cdlog.h
+1428347132 e:\projekty\dragon-service-net\clients\weether\include\cdlog.h
 	<string>
+	<sstream>
 

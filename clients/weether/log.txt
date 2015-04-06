@@ -60,3 +60,271 @@
 [Info][Save][26][04/06/15 14:15:50] 
 [Info][ThreadStart][63][04/06/15 14:15:50] taskkk
 [Info][ThreadStart][63][04/06/15 14:15:50] tassooo
+[Info][Load][39][04/06/15 19:21:50] 
+[Info][Start][55][04/06/15 19:21:50] 
+[Info][ThreadStart][61][04/06/15 19:21:50] 
+[Info][Save][29][04/06/15 19:43:50] 
+[Info][Load][39][04/06/15 19:44:00] 
+[Info][Start][55][04/06/15 19:44:00] 
+[Info][ThreadStart][61][04/06/15 19:44:00] 
+[Info][Save][29][04/06/15 19:44:44] 
+[Info][Load][39][04/06/15 19:46:13] 
+[Info][Start][55][04/06/15 19:46:13] 
+[Info][ThreadStart][61][04/06/15 19:46:13] 
+[Info][ThreadStart][74][04/06/15 19:46:14] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:15] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:16] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:17] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:18] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:19] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:20] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:21] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:22] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:23] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:24] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:25] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:26] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:27] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:28] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:29] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:30] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:31] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:32] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:33] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:34] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:34] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:35] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:35] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:36] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:36] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:37] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:37] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:38] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:38] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:39] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:39] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:40] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:40] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:41] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:41] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:42] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:42] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:43] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:43] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:44] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:44] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:45] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:45] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:46] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:46] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:47] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:47] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:48] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:48] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:49] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:49] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:50] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:50] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:51] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:51] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:52] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:52] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:53] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:53] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:54] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:54] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:55] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:55] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:56] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:56] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:57] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:46:57] Task: tassooo jest aktywny.
+[Info][Save][29][04/06/15 19:46:58] 
+[Info][Load][39][04/06/15 19:47:51] 
+[Info][Start][55][04/06/15 19:47:51] 
+[Info][ThreadStart][61][04/06/15 19:47:51] 
+[Info][ThreadStart][74][04/06/15 19:48:01] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:02] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:03] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:04] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:05] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:06] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:07] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:08] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:09] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:10] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:11] Task: taskkk jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:12] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:13] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:14] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:15] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:16] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:17] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:18] Task: tassooo jest aktywny.
+[Info][ThreadStart][74][04/06/15 19:48:19] Task: tassooo jest aktywny.
+[Info][Save][29][04/06/15 19:49:29] 
+[Info][Load][39][04/06/15 20:44:29] 
+[Info][Start][55][04/06/15 20:44:29] 
+[Info][ThreadStart][61][04/06/15 20:44:29] 
+[Info][ThreadStart][76][04/06/15 20:44:39] Task: taskkk zostal wykonany.
+[Info][Load][39][04/06/15 20:50:30] 
+[Info][Start][61][04/06/15 20:50:31] 
+[Info][ThreadStart][67][04/06/15 20:50:31] 
+[Info][ThreadStart][82][04/06/15 20:50:35] Task: taskkk zostal wykonany.
+[Info][Load][39][04/06/15 20:51:09] 
+[Info][Start][61][04/06/15 20:51:09] 
+[Info][ThreadStart][67][04/06/15 20:51:10] 
+[Info][ThreadStart][82][04/06/15 20:51:14] Task: taskkk zostal wykonany.
+[Info][RemoveTask][50][04/06/15 20:51:14] Usuniety schedul o id: 
+[Info][RemoveTask][53][04/06/15 20:51:14] prawidlowe id 
+[Info][Load][39][04/06/15 20:57:55] 
+[Info][Start][63][04/06/15 20:57:55] 
+[Info][ThreadStart][69][04/06/15 20:57:55] 
+[Info][ThreadStart][84][04/06/15 20:58:00] Task: taskkk zostal wykonany.
+[Info][Load][39][04/06/15 20:58:29] 
+[Info][Start][64][04/06/15 20:58:29] 
+[Info][ThreadStart][70][04/06/15 20:58:29] 
+[Info][ThreadStart][85][04/06/15 20:58:34] Task: taskkk zostal wykonany.
+[Info][RemoveTask][49][04/06/15 20:58:34] 
+[Info][Load][39][04/06/15 20:58:55] 
+[Info][Start][65][04/06/15 20:58:55] 
+[Info][ThreadStart][71][04/06/15 20:58:55] 
+[Info][ThreadStart][86][04/06/15 20:59:00] Task: taskkk zostal wykonany.
+[Info][RemoveTask][49][04/06/15 20:59:00] 
+[Info][Load][39][04/06/15 21:05:40] 
+[Info][Start][64][04/06/15 21:05:40] 
+[Info][ThreadStart][70][04/06/15 21:05:40] 
+[Info][ThreadStart][85][04/06/15 21:05:45] Task: taskkk zostal wykonany.
+[Info][RemoveTask][49][04/06/15 21:05:45] _begin
+[Info][RemoveTask][53][04/06/15 21:05:45] Usuniety schedul o id: 0
+[Info][RemoveTask][59][04/06/15 21:05:45] _end
+[Info][Load][39][04/06/15 22:57:39] 
+[Info][Start][64][04/06/15 22:57:39] 
+[Info][ThreadStart][70][04/06/15 22:57:39] 
+[Info][ThreadStart][85][04/06/15 22:57:44] Task: taskkk zostal wykonany.
+[Info][RemoveTask][49][04/06/15 22:57:44] _begin
+[Info][RemoveTask][53][04/06/15 22:57:44] Usuniety schedul o id: 0
+[Info][RemoveTask][59][04/06/15 22:57:44] _end
+[Info][Load][39][04/06/15 22:59:01] 
+[Info][Start][64][04/06/15 22:59:01] 
+[Info][ThreadStart][70][04/06/15 22:59:01] 
+[Info][ThreadStart][85][04/06/15 22:59:06] Task: taskkk zostal wykonany.
+[Info][ThreadStart][91][04/06/15 22:59:06] Add new Task: taskkk
+[Info][RemoveTask][49][04/06/15 22:59:06] _begin
+[Info][RemoveTask][53][04/06/15 22:59:06] Usuniety schedul o id: 0
+[Info][RemoveTask][59][04/06/15 22:59:06] _end
+[Info][Load][39][04/06/15 23:03:27] 
+[Info][Start][81][04/06/15 23:03:27] 
+[Info][ThreadStart][87][04/06/15 23:03:27] 
+[Info][ThreadStart][102][04/06/15 23:03:32] Task: taskkk zostal wykonany.
+[Info][GetNextTask][50][04/06/15 23:03:32] m_dateEnd == 0 
+[Info][ThreadStart][108][04/06/15 23:03:32] Add new Task: taskkk
+[Info][RemoveTask][66][04/06/15 23:03:32] _begin
+[Info][RemoveTask][70][04/06/15 23:03:32] Usuniety schedul o id: 0
+[Info][RemoveTask][76][04/06/15 23:03:32] _end
+[Info][Load][39][04/06/15 23:09:24] 
+[Info][Start][81][04/06/15 23:09:24] 
+[Info][ThreadStart][87][04/06/15 23:09:24] 
+[Info][ThreadStart][102][04/06/15 23:09:29] Task: taskkk zostal wykonany.
+[Info][GetNextTask][50][04/06/15 23:09:29] m_dateEnd == 0 
+[Info][Load][39][04/06/15 23:12:05] 
+[Info][Start][81][04/06/15 23:12:05] 
+[Info][ThreadStart][87][04/06/15 23:12:05] 
+[Info][ThreadStart][102][04/06/15 23:12:10] Task: taskkk zostal wykonany.
+[Info][RemoveTask][66][04/06/15 23:12:10] _begin
+[Info][RemoveTask][70][04/06/15 23:12:10] Usuniety schedul o id: 0
+[Info][RemoveTask][76][04/06/15 23:12:10] _end
+[Info][Load][39][04/06/15 23:13:15] 
+[Info][Start][81][04/06/15 23:13:15] 
+[Info][ThreadStart][87][04/06/15 23:13:15] 
+[Info][ThreadStart][102][04/06/15 23:13:18] Task: taskkk zostal wykonany.
+[Info][Load][39][04/06/15 23:14:22] 
+[Info][Start][81][04/06/15 23:14:22] 
+[Info][ThreadStart][87][04/06/15 23:14:22] 
+[Info][ThreadStart][102][04/06/15 23:14:25] Task: taskkk zostal wykonany.
+[Info][ThreadStart][106][04/06/15 23:14:25] Task: taskkk  posiada interwal.
+[Info][RemoveTask][66][04/06/15 23:14:25] _begin
+[Info][RemoveTask][70][04/06/15 23:14:25] Usuniety schedul o id: 0
+[Info][RemoveTask][76][04/06/15 23:14:25] _end
+[Info][Load][39][04/06/15 23:16:36] 
+[Info][Start][81][04/06/15 23:16:36] 
+[Info][ThreadStart][87][04/06/15 23:16:36] 
+[Info][ThreadStart][96][04/06/15 23:16:36] Task tick: 
+[Info][ThreadStart][96][04/06/15 23:16:37] Task tick: 
+[Info][ThreadStart][96][04/06/15 23:16:38] Task tick: 
+[Info][ThreadStart][96][04/06/15 23:16:39] Task tick: 
+[Info][ThreadStart][103][04/06/15 23:16:39] Task: taskkk zostal wykonany.
+[Info][ThreadStart][107][04/06/15 23:16:39] Task: taskkk  posiada interwal.
+[Info][RemoveTask][66][04/06/15 23:16:39] _begin
+[Info][RemoveTask][70][04/06/15 23:16:39] Usuniety schedul o id: 0
+[Info][RemoveTask][76][04/06/15 23:16:39] _end
+[Info][Load][39][04/06/15 23:17:17] 
+[Info][Start][81][04/06/15 23:17:17] 
+[Info][ThreadStart][87][04/06/15 23:17:17] 
+[Info][ThreadStart][96][04/06/15 23:17:17] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:17:17] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:17:18] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:17:18] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:17:19] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:17:19] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:17:20] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:17:20] for Task tick: 
+[Info][ThreadStart][104][04/06/15 23:17:20] Task: taskkk zostal wykonany.
+[Info][ThreadStart][108][04/06/15 23:17:20] Task: taskkk  posiada interwal.
+[Info][RemoveTask][66][04/06/15 23:17:20] _begin
+[Info][RemoveTask][70][04/06/15 23:17:20] Usuniety schedul o id: 0
+[Info][RemoveTask][76][04/06/15 23:17:20] _end
+[Info][ThreadStart][101][04/06/15 23:17:20] for Task tick: 
+[Info][ThreadStart][101][04/06/15 23:17:20] for Task tick: 
+[Info][Load][39][04/06/15 23:18:55] 
+[Info][Start][81][04/06/15 23:18:55] 
+[Info][ThreadStart][87][04/06/15 23:18:55] 
+[Info][ThreadStart][96][04/06/15 23:18:55] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:18:55] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:18:56] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:18:56] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:18:57] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:18:57] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:18:58] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:18:58] for Task tick: 
+[Info][ThreadStart][104][04/06/15 23:18:58] Task: taskkk zostal wykonany.
+[Info][RemoveTask][66][04/06/15 23:18:58] _begin
+[Info][RemoveTask][70][04/06/15 23:18:58] Usuniety schedul o id: 0
+[Info][RemoveTask][76][04/06/15 23:18:58] _end
+[Info][ThreadStart][101][04/06/15 23:18:58] for Task tick: 
+[Info][Load][39][04/06/15 23:22:26] 
+[Info][Start][81][04/06/15 23:22:26] 
+[Info][ThreadStart][87][04/06/15 23:22:26] 
+[Info][ThreadStart][96][04/06/15 23:22:26] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:22:26] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:22:27] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:22:27] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:22:28] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:22:28] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:22:29] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:22:29] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:22:30] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:22:30] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:22:31] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:22:31] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:22:32] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:22:32] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:22:33] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:22:33] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:22:34] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:22:34] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:22:35] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:22:35] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:22:36] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:22:36] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:22:37] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:22:37] for Task tick: 
+[Info][ThreadStart][96][04/06/15 23:22:38] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:22:38] for Task tick: 
+[Info][Save][29][04/06/15 23:22:39] 
+[Info][Load][39][04/06/15 23:23:51] 
+[Info][Start][81][04/06/15 23:23:51] 
+[Info][ThreadStart][87][04/06/15 23:23:51] 
+[Info][ThreadStart][96][04/06/15 23:23:51] Task tick: 
+[Info][ThreadStart][101][04/06/15 23:23:51] for Task tick: 
+[Info][ThreadStart][101][04/06/15 23:23:51] for Task tick: 

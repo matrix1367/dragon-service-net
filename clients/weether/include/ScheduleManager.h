@@ -12,13 +12,17 @@ class CTask {
     int m_interval;
 public:
     CTask(std::string _name, time_t _dateStart, time_t _dateEnd, int _interval) : m_name(_name), m_dateStart(_dateStart), m_dateEnd(_dateEnd), m_interval(_interval)  {}
+
+    void GetNextTask(CTask* task);
+
     void SetName(std::string name);
     void SetDataStart(time_t dataStart);
     void SetDataEnd(time_t dataEnd);
     void SetInterval(int interval);
     std::string GetName();
-    time_t GetDataStart();
-    time_t GetDataEnd();
+    time_t GetDateStart();
+    time_t GetDateEnd();
+    int GetInterval();
 };
 
 class CScheduleManager
@@ -31,7 +35,7 @@ class CScheduleManager
         void Save();
         void Load();
         void AddTask(std::string name, time_t st, time_t  en, int interval);
-        void RemoveTask(int index);
+        void RemoveTask(unsigned int index);
         void Start();
         void Print();
         DWORD ThreadStart();
