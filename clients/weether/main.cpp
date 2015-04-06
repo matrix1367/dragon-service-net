@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include "resource.h"
 #include "Models.h"
+#include "ScheduleManager.h"
 
 HINSTANCE hInst;
 
@@ -17,6 +18,7 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
     case WM_CLOSE:
     {
+        CScheduleManager::getInstance().Save();
         EndDialog(hwndDlg, 0);
     }
     return TRUE;
@@ -36,6 +38,8 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nShowCmd)
 {
     CModels::getInstance().Init();
+    CScheduleManager::getInstance().Load();
+    CScheduleManager::getInstance().Start();
     hInst=hInstance;
     InitCommonControls();
     return DialogBox(hInst, MAKEINTRESOURCE(DLG_MAIN), NULL, (DLGPROC)DlgMain);

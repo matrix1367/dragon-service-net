@@ -7,12 +7,13 @@
 
 1428279164 e:\projekty\dragon-service-net\clients\weether\resource.h
 
-1428264294 source:e:\projekty\dragon-service-net\clients\weether\main.cpp
+1428325836 source:e:\projekty\dragon-service-net\clients\weether\main.cpp
 	<windows.h>
 	<commctrl.h>
 	<stdio.h>
 	"resource.h"
 	"Models.h"
+	"ScheduleManager.h"
 
 1428264295 e:\projekty\dragon-service-net\clients\weether\include\models.h
 	"Client.h"
@@ -34,11 +35,30 @@
 	<stdio.h>
 	<conio.h>
 
-1428282766 source:e:\projekty\dragon-service-net\clients\weether\src\schedulemanager.cpp
+1428325145 source:e:\projekty\dragon-service-net\clients\weether\src\schedulemanager.cpp
 	"ScheduleManager.h"
+	"CDSerialize.h"
+	<cstdio>
+	"CDLog.h"
 
-1428282834 e:\projekty\dragon-service-net\clients\weether\include\schedulemanager.h
+1428314125 e:\projekty\dragon-service-net\clients\weether\include\schedulemanager.h
 	<vector>
 	<time.h>
+	<string>
+	<windows.h>
+
+1428014050 e:\projekty\dragon-service-net\clients\weether\include\cdserialize.h
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1428325890 source:e:\projekty\dragon-service-net\clients\weether\src\cdlog.cpp
+	"CDLog.h"
+	<iostream>
+	<fstream>
+	<time.h>
+
+1428014050 e:\projekty\dragon-service-net\clients\weether\include\cdlog.h
 	<string>
 

@@ -6,12 +6,19 @@
 #include <windows.h>
 
 class CTask {
-    std::string name;
-    time_t dateStart;
-    time_t dateEnd;
-    int interval;
+    std::string m_name;
+    time_t m_dateStart;
+    time_t m_dateEnd;
+    int m_interval;
 public:
-    CTask(std::string _name, time_t _dateStart, time_t _dateEnd, int _interval) : name(_name), dateStart(_dateStart), dateEnd(_dateEnd), interval(_interval)  {}
+    CTask(std::string _name, time_t _dateStart, time_t _dateEnd, int _interval) : m_name(_name), m_dateStart(_dateStart), m_dateEnd(_dateEnd), m_interval(_interval)  {}
+    void SetName(std::string name);
+    void SetDataStart(time_t dataStart);
+    void SetDataEnd(time_t dataEnd);
+    void SetInterval(int interval);
+    std::string GetName();
+    time_t GetDataStart();
+    time_t GetDataEnd();
 };
 
 class CScheduleManager
@@ -26,6 +33,7 @@ class CScheduleManager
         void AddTask(std::string name, time_t st, time_t  en, int interval);
         void RemoveTask(int index);
         void Start();
+        void Print();
         DWORD ThreadStart();
         static DWORD WINAPI StaticThreadStart(void* Param) {
             CScheduleManager * This = (CScheduleManager*) Param;
