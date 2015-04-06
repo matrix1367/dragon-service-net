@@ -45,6 +45,7 @@
 		</Linker>
 		<Unit filename="include/Client.h" />
 		<Unit filename="include/Models.h" />
+		<Unit filename="include/ScheduleManager.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="manifest.xml" />
 		<Unit filename="resource.h" />
@@ -53,6 +54,7 @@
 		</Unit>
 		<Unit filename="src/Client.cpp" />
 		<Unit filename="src/Models.cpp" />
+		<Unit filename="src/ScheduleManager.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
