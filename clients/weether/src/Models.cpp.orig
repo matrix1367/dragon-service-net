@@ -1,0 +1,16 @@
+#include "Models.h"
+
+void CModels::Init(void) {
+    if(client.Init())
+    {
+        client.Connect();
+    }
+}
+<<<<<<< HEAD
+
+CClient& CModels::GetClient()
+{
+    return client;
+}
+=======
+>>>>>>> 63cdba9a2a1d0064bb5e4f6ece93818a8ff79ba2
