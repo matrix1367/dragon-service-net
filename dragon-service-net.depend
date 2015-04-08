@@ -29,3 +29,51 @@
 	<cstdio>
 	<winsock2.h>
 
+1428498742 source:f:\projects\dragon-service-net-master\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	"Models.h"
+	"EventManager.h"
+
+1428475388 f:\projects\dragon-service-net-master\resource.h
+
+1428485935 f:\projects\dragon-service-net-master\include\models.h
+	<list>
+	"Server.h"
+
+1428486044 f:\projects\dragon-service-net-master\include\server.h
+	<string>
+	<windows.h>
+	<list>
+
+1428485306 source:f:\projects\dragon-service-net-master\src\models.cpp
+	"Models.h"
+	"NetworkManager.h"
+
+1428499350 source:f:\projects\dragon-service-net-master\src\server.cpp
+	"Server.h"
+	<cstdio>
+	<winsock2.h>
+	"EventManager.h"
+
+1428475392 source:f:\projects\dragon-service-net-master\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1428485201 f:\projects\dragon-service-net-master\include\networkmanager.h
+	"Server.h"
+
+1428485297 source:f:\projects\dragon-service-net-master\src\networkmanager.cpp
+	"NetworkManager.h"
+
+1428499232 source:f:\projects\dragon-service-net-master\src\eventmanager.cpp
+	"EventManager.h"
+
+1428499298 f:\projects\dragon-service-net-master\include\eventmanager.h
+	<vector>
+	<windows.h>
+

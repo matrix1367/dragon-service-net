@@ -11,3 +11,4 @@ CClient& CModels::GetClient()
 {
     return client;
 }
+

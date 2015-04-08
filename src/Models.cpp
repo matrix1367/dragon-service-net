@@ -1,7 +1,12 @@
 #include "Models.h"
+#include "NetworkManager.h"
 
 void CModels::Init(void) {
-    if(server.Init()) {
-        server.Start();
-    }
+    //init all Manager
+    CNetworkManager::getInstance().Init();
+}
+
+std::list<SClient> CModels::GetClients()
+{
+    return CNetworkManager::getInstance().GetClients();
 }

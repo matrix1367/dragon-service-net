@@ -3207,3 +3207,11 @@
 [Info][Run][129][04/07/15 14:56:53] Task: taskkk RUN!
 [Info][ThreadSendMessages][39][04/07/15 14:56:53] Kolejka wiedomosci zawiera 14 niewyslanych wiadomosci.
 [Info][Save][30][04/07/15 14:56:54] 
+[Info][Load][40][04/08/15 10:11:02] 
+[Info][Start][84][04/08/15 10:11:02] 
+[Info][ThreadStart][90][04/08/15 10:11:02] 
+[Info][Run][129][04/08/15 10:11:05] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:11:05] 
+[Info][ThreadSendMessages][36][04/08/15 10:11:05] 
+[Info][ThreadSendMessages][39][04/08/15 10:11:05] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Save][30][04/08/15 10:11:06] 

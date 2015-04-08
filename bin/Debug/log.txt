@@ -1150,3 +1150,680 @@
 [Info][ThreadStart][68][04/06/15 18:56:45] taskkk
 [Info][ThreadStart][68][04/06/15 18:56:45] tassooo
 [Info][Save][26][04/06/15 18:56:46] 
+[Info][Load][39][04/08/15 10:06:54] 
+[Info][Start][81][04/08/15 10:06:54] 
+[Info][ThreadStart][87][04/08/15 10:06:54] 
+[Info][ThreadStart][96][04/08/15 10:06:54] Task tick: 
+[Info][ThreadStart][101][04/08/15 10:06:54] for Task tick: 
+[Info][ThreadStart][101][04/08/15 10:06:54] for Task tick: 
+[Info][Load][40][04/08/15 10:07:51] 
+[Info][Start][84][04/08/15 10:07:51] 
+[Info][ThreadStart][90][04/08/15 10:07:51] 
+[Info][Run][129][04/08/15 10:07:54] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:07:54] 
+[Info][ThreadSendMessages][36][04/08/15 10:07:54] 
+[Info][ThreadSendMessages][39][04/08/15 10:07:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:07:56] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:07:57] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:07:58] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:00] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:08:00] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Load][40][04/08/15 10:08:01] 
+[Info][Start][84][04/08/15 10:08:01] 
+[Info][ThreadStart][90][04/08/15 10:08:01] 
+[Info][Run][129][04/08/15 10:08:02] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:08:03] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:08:04] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:08:04] 
+[Info][ThreadSendMessages][36][04/08/15 10:08:04] 
+[Info][ThreadSendMessages][39][04/08/15 10:08:04] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:08:04] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:06] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:06] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:08:06] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:08:07] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:08:08] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:08] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:08:09] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:08:10] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:08:10] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:10] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:12] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:12] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:08:12] Kolejka wiedomosci zawiera 4 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:08:13] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:08:14] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:14] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:08:15] Kolejka wiedomosci zawiera 4 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:08:16] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:08:16] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:16] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:18] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:18] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:08:18] Kolejka wiedomosci zawiera 5 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:08:19] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:08:20] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:20] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:08:21] Kolejka wiedomosci zawiera 5 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:08:22] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:08:22] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:22] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:24] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:24] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:08:24] Kolejka wiedomosci zawiera 6 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:08:25] Kolejka wiedomosci zawiera 4 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:08:26] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:26] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:08:27] Kolejka wiedomosci zawiera 6 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:08:28] Kolejka wiedomosci zawiera 4 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:08:28] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:28] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:30] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:30] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:08:30] Kolejka wiedomosci zawiera 7 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:08:31] Kolejka wiedomosci zawiera 5 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:08:32] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:32] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:08:33] Kolejka wiedomosci zawiera 7 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:08:34] Kolejka wiedomosci zawiera 5 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:08:34] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:34] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:36] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:36] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:08:36] Kolejka wiedomosci zawiera 8 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:08:37] Kolejka wiedomosci zawiera 6 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:08:38] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:38] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:08:39] Kolejka wiedomosci zawiera 8 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:08:40] Kolejka wiedomosci zawiera 6 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:08:40] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:40] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:42] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:42] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:08:42] Kolejka wiedomosci zawiera 9 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:08:43] Kolejka wiedomosci zawiera 7 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:08:44] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:44] Task: taskkk RUN!
+[Info][Save][30][04/08/15 10:08:45] 
+[Info][ThreadSendMessages][39][04/08/15 10:08:45] Kolejka wiedomosci zawiera 9 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:08:46] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:08:48] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:08:48] Kolejka wiedomosci zawiera 10 niewyslanych wiadomosci.
+[Info][Save][30][04/08/15 10:08:50] 
+[Info][Load][40][04/08/15 10:11:45] 
+[Info][Start][84][04/08/15 10:11:45] 
+[Info][ThreadStart][90][04/08/15 10:11:45] 
+[Info][Run][129][04/08/15 10:11:48] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:11:48] 
+[Info][ThreadSendMessages][36][04/08/15 10:11:48] 
+[Info][ThreadSendMessages][39][04/08/15 10:11:48] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:11:50] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:11:51] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:11:52] Task: taskkk RUN!
+[Info][Save][30][04/08/15 10:11:53] 
+[Info][Load][40][04/08/15 10:21:49] 
+[Info][Start][84][04/08/15 10:21:49] 
+[Info][ThreadStart][90][04/08/15 10:21:49] 
+[Info][Load][40][04/08/15 10:21:51] 
+[Info][Start][84][04/08/15 10:21:51] 
+[Info][ThreadStart][90][04/08/15 10:21:51] 
+[Info][Run][129][04/08/15 10:21:52] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:21:52] 
+[Info][ThreadSendMessages][36][04/08/15 10:21:52] 
+[Info][ThreadSendMessages][39][04/08/15 10:21:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:21:54] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:21:54] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:21:54] 
+[Info][ThreadSendMessages][36][04/08/15 10:21:54] 
+[Info][ThreadSendMessages][39][04/08/15 10:21:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:21:55] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:21:56] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:21:56] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:21:57] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:21:58] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:21:58] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:21:58] Task: taskkk RUN!
+[Info][Save][30][04/08/15 10:22:00] 
+[Info][Run][129][04/08/15 10:22:00] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:22:00] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:22:02] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:22:03] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:22:04] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:22:06] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:22:06] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:22:08] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:22:09] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:22:10] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:22:12] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:22:12] Kolejka wiedomosci zawiera 4 niewyslanych wiadomosci.
+[Info][Save][30][04/08/15 10:22:14] 
+[Info][Load][40][04/08/15 10:28:43] 
+[Info][Start][84][04/08/15 10:28:43] 
+[Info][ThreadStart][90][04/08/15 10:28:43] 
+[Info][Run][129][04/08/15 10:28:46] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:28:46] 
+[Info][ThreadSendMessages][36][04/08/15 10:28:46] 
+[Info][ThreadSendMessages][39][04/08/15 10:28:46] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Load][40][04/08/15 10:28:47] 
+[Info][Start][84][04/08/15 10:28:47] 
+[Info][ThreadStart][90][04/08/15 10:28:47] 
+[Info][Run][129][04/08/15 10:28:48] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:28:49] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:28:50] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:28:50] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:28:50] 
+[Info][ThreadSendMessages][36][04/08/15 10:28:50] 
+[Info][ThreadSendMessages][39][04/08/15 10:28:50] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:28:52] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:28:52] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:28:52] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:28:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:28:54] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:28:54] Task: taskkk RUN!
+[Info][Save][30][04/08/15 10:28:54] 
+[Info][ThreadSendMessages][39][04/08/15 10:28:55] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:28:56] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:28:58] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:28:58] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:29:00] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:29:01] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:29:02] Task: taskkk RUN!
+[Info][Save][30][04/08/15 10:29:02] 
+[Info][Load][40][04/08/15 10:31:00] 
+[Info][Start][84][04/08/15 10:31:00] 
+[Info][ThreadStart][90][04/08/15 10:31:00] 
+[Info][Load][40][04/08/15 10:31:01] 
+[Info][Start][84][04/08/15 10:31:01] 
+[Info][ThreadStart][90][04/08/15 10:31:01] 
+[Info][Load][40][04/08/15 10:31:02] 
+[Info][Start][84][04/08/15 10:31:02] 
+[Info][ThreadStart][90][04/08/15 10:31:02] 
+[Info][Run][129][04/08/15 10:31:03] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:31:03] 
+[Info][ThreadSendMessages][36][04/08/15 10:31:03] 
+[Info][ThreadSendMessages][39][04/08/15 10:31:03] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:31:04] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:31:04] 
+[Info][ThreadSendMessages][36][04/08/15 10:31:04] 
+[Info][ThreadSendMessages][39][04/08/15 10:31:04] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:31:05] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:31:05] 
+[Info][ThreadSendMessages][36][04/08/15 10:31:05] 
+[Info][ThreadSendMessages][39][04/08/15 10:31:05] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:31:05] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:31:06] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:31:06] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:31:07] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:31:07] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:31:07] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:31:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Save][30][04/08/15 10:31:08] 
+[Info][Run][129][04/08/15 10:31:08] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:31:10] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:31:10] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:31:10] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:31:10] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:31:11] Task: taskkk RUN!
+[Info][Save][30][04/08/15 10:31:12] 
+[Info][ThreadSendMessages][39][04/08/15 10:31:13] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:31:13] Task: taskkk RUN!
+[Info][Save][30][04/08/15 10:31:13] 
+[Info][Load][40][04/08/15 10:33:26] 
+[Info][Start][84][04/08/15 10:33:26] 
+[Info][ThreadStart][90][04/08/15 10:33:26] 
+[Info][Load][40][04/08/15 10:33:27] 
+[Info][Start][84][04/08/15 10:33:27] 
+[Info][ThreadStart][90][04/08/15 10:33:27] 
+[Info][Load][40][04/08/15 10:33:27] 
+[Info][Start][84][04/08/15 10:33:27] 
+[Info][ThreadStart][90][04/08/15 10:33:27] 
+[Info][Run][129][04/08/15 10:33:29] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:33:29] 
+[Info][ThreadSendMessages][36][04/08/15 10:33:29] 
+[Info][ThreadSendMessages][39][04/08/15 10:33:29] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:33:30] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:33:30] 
+[Info][ThreadSendMessages][36][04/08/15 10:33:30] 
+[Info][ThreadSendMessages][39][04/08/15 10:33:30] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:33:30] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:33:30] 
+[Info][ThreadSendMessages][36][04/08/15 10:33:30] 
+[Info][ThreadSendMessages][39][04/08/15 10:33:30] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:33:31] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:33:32] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:33:32] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:33:32] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:33:33] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:33:33] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:33:33] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:33:34] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:33:34] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:33:35] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:33:35] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Save][30][04/08/15 10:33:35] 
+[Info][Run][129][04/08/15 10:33:36] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:33:36] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:33:37] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:33:38] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:33:38] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:33:39] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:33:39] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:33:40] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:33:41] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:33:41] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:33:42] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:33:42] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:33:43] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:33:44] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:33:44] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:33:45] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:33:45] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:33:46] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:33:47] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:33:47] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:33:48] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:33:48] Kolejka wiedomosci zawiera 4 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:33:49] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:33:50] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:33:50] Kolejka wiedomosci zawiera 4 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:33:51] Kolejka wiedomosci zawiera 4 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:33:51] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:33:52] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:33:53] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:33:53] Kolejka wiedomosci zawiera 5 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:33:54] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:33:54] Kolejka wiedomosci zawiera 5 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:33:55] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:33:56] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:33:56] Kolejka wiedomosci zawiera 5 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:33:57] Kolejka wiedomosci zawiera 5 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:33:57] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:33:58] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:33:59] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:33:59] Kolejka wiedomosci zawiera 6 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:34:00] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:34:00] Kolejka wiedomosci zawiera 6 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:34:01] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:34:02] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:34:02] Kolejka wiedomosci zawiera 6 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:34:03] Kolejka wiedomosci zawiera 6 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:34:03] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:34:04] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:34:05] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:34:05] Kolejka wiedomosci zawiera 7 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:34:06] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:34:06] Kolejka wiedomosci zawiera 7 niewyslanych wiadomosci.
+[Info][Save][30][04/08/15 10:34:07] 
+[Info][Run][129][04/08/15 10:34:07] Task: taskkk RUN!
+[Info][Save][30][04/08/15 10:34:07] 
+[Info][Load][40][04/08/15 10:35:40] 
+[Info][Start][84][04/08/15 10:35:40] 
+[Info][ThreadStart][90][04/08/15 10:35:40] 
+[Info][Load][40][04/08/15 10:35:41] 
+[Info][Start][84][04/08/15 10:35:41] 
+[Info][ThreadStart][90][04/08/15 10:35:41] 
+[Info][Load][40][04/08/15 10:35:42] 
+[Info][Start][84][04/08/15 10:35:42] 
+[Info][ThreadStart][90][04/08/15 10:35:42] 
+[Info][Run][129][04/08/15 10:35:43] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:35:43] 
+[Info][ThreadSendMessages][36][04/08/15 10:35:43] 
+[Info][ThreadSendMessages][39][04/08/15 10:35:43] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:35:44] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:35:44] 
+[Info][ThreadSendMessages][36][04/08/15 10:35:44] 
+[Info][ThreadSendMessages][39][04/08/15 10:35:44] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:35:45] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:35:45] 
+[Info][ThreadSendMessages][36][04/08/15 10:35:45] 
+[Info][ThreadSendMessages][39][04/08/15 10:35:45] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:35:45] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:35:46] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:35:46] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:35:47] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:35:47] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:35:47] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:35:48] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:35:48] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:35:49] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:35:49] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:35:49] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:35:50] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:35:50] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:35:51] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:35:51] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:35:51] Task: taskkk RUN!
+[Info][Save][30][04/08/15 10:35:52] 
+[Info][Run][129][04/08/15 10:35:52] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:35:53] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:35:53] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:35:54] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:35:54] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:35:55] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:35:56] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:35:56] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Save][30][04/08/15 10:35:57] 
+[Info][Run][129][04/08/15 10:35:57] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:35:57] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:35:59] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:36:00] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:36:01] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:36:03] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:36:03] Task: taskkk RUN!
+[Info][Save][30][04/08/15 10:36:04] 
+[Info][Load][40][04/08/15 10:36:08] 
+[Info][Start][84][04/08/15 10:36:08] 
+[Info][ThreadStart][90][04/08/15 10:36:08] 
+[Info][Run][129][04/08/15 10:36:11] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:36:11] 
+[Info][ThreadSendMessages][36][04/08/15 10:36:11] 
+[Info][ThreadSendMessages][39][04/08/15 10:36:11] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Save][30][04/08/15 10:36:12] 
+[Info][Load][40][04/08/15 10:36:20] 
+[Info][Start][84][04/08/15 10:36:20] 
+[Info][ThreadStart][90][04/08/15 10:36:20] 
+[Info][Run][129][04/08/15 10:36:23] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:36:23] 
+[Info][ThreadSendMessages][36][04/08/15 10:36:23] 
+[Info][ThreadSendMessages][39][04/08/15 10:36:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:36:25] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:36:26] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:36:27] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:36:29] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:36:29] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Save][30][04/08/15 10:36:30] 
+[Info][Load][40][04/08/15 10:39:18] 
+[Info][Start][84][04/08/15 10:39:18] 
+[Info][ThreadStart][90][04/08/15 10:39:18] 
+[Info][Load][40][04/08/15 10:39:19] 
+[Info][Start][84][04/08/15 10:39:19] 
+[Info][ThreadStart][90][04/08/15 10:39:19] 
+[Info][Load][40][04/08/15 10:39:21] 
+[Info][Start][84][04/08/15 10:39:21] 
+[Info][ThreadStart][90][04/08/15 10:39:21] 
+[Info][Run][129][04/08/15 10:39:21] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:39:21] 
+[Info][ThreadSendMessages][36][04/08/15 10:39:21] 
+[Info][ThreadSendMessages][39][04/08/15 10:39:21] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:22] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:39:22] 
+[Info][ThreadSendMessages][36][04/08/15 10:39:22] 
+[Info][ThreadSendMessages][39][04/08/15 10:39:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:23] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:39:24] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:39:24] 
+[Info][ThreadSendMessages][36][04/08/15 10:39:24] 
+[Info][ThreadSendMessages][39][04/08/15 10:39:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:24] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:39:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:39:25] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:25] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:39:26] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:39:26] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:39:27] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:27] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:39:27] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Save][30][04/08/15 10:39:28] 
+[Info][Run][129][04/08/15 10:39:28] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:39:28] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:29] Task: taskkk RUN!
+[Info][Save][30][04/08/15 10:39:30] 
+[Info][Run][129][04/08/15 10:39:30] Task: taskkk RUN!
+[Info][Save][30][04/08/15 10:39:31] 
+[Info][Load][40][04/08/15 10:39:34] 
+[Info][Start][84][04/08/15 10:39:34] 
+[Info][ThreadStart][90][04/08/15 10:39:34] 
+[Info][Run][129][04/08/15 10:39:37] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:39:37] 
+[Info][ThreadSendMessages][36][04/08/15 10:39:37] 
+[Info][ThreadSendMessages][39][04/08/15 10:39:37] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:39] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:39:40] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Save][30][04/08/15 10:39:40] 
+[Info][Load][40][04/08/15 10:39:43] 
+[Info][Start][84][04/08/15 10:39:43] 
+[Info][ThreadStart][90][04/08/15 10:39:43] 
+[Info][Load][40][04/08/15 10:39:43] 
+[Info][Start][84][04/08/15 10:39:43] 
+[Info][ThreadStart][90][04/08/15 10:39:43] 
+[Info][Load][40][04/08/15 10:39:46] 
+[Info][Start][84][04/08/15 10:39:46] 
+[Info][ThreadStart][90][04/08/15 10:39:46] 
+[Info][Run][129][04/08/15 10:39:46] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:39:46] 
+[Info][ThreadSendMessages][36][04/08/15 10:39:46] 
+[Info][ThreadSendMessages][39][04/08/15 10:39:46] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:46] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:39:46] 
+[Info][ThreadSendMessages][36][04/08/15 10:39:46] 
+[Info][ThreadSendMessages][39][04/08/15 10:39:46] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Load][40][04/08/15 10:39:47] 
+[Info][Start][84][04/08/15 10:39:47] 
+[Info][ThreadStart][90][04/08/15 10:39:47] 
+[Info][Load][40][04/08/15 10:39:48] 
+[Info][Start][84][04/08/15 10:39:48] 
+[Info][ThreadStart][90][04/08/15 10:39:48] 
+[Info][Run][129][04/08/15 10:39:48] Task: taskkk RUN!
+[Info][Load][40][04/08/15 10:39:48] 
+[Info][Start][84][04/08/15 10:39:48] 
+[Info][ThreadStart][90][04/08/15 10:39:48] 
+[Info][Run][129][04/08/15 10:39:48] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:39:49] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:39:49] 
+[Info][ThreadSendMessages][36][04/08/15 10:39:49] 
+[Info][ThreadSendMessages][39][04/08/15 10:39:49] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:39:49] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:39:49] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:50] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:39:50] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:39:50] 
+[Info][ThreadSendMessages][36][04/08/15 10:39:50] 
+[Info][ThreadSendMessages][39][04/08/15 10:39:50] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:50] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:39:51] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:39:51] 
+[Info][ThreadSendMessages][36][04/08/15 10:39:51] 
+[Info][ThreadSendMessages][39][04/08/15 10:39:51] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:51] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:39:51] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 10:39:51] 
+[Info][ThreadSendMessages][36][04/08/15 10:39:51] 
+[Info][ThreadSendMessages][39][04/08/15 10:39:51] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:39:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:52] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:39:52] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:52] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:39:52] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:39:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:53] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:39:53] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:39:53] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:39:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:39:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:54] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:39:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:54] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:39:54] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:39:55] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:39:55] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:39:55] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 10:39:55] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:55] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:39:55] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:56] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:39:56] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:39:56] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Save][30][04/08/15 10:39:56] 
+[Info][Run][129][04/08/15 10:39:56] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:39:57] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:39:57] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:57] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:39:57] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:39:58] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:39:58] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Save][30][04/08/15 10:39:58] 
+[Info][Run][129][04/08/15 10:39:58] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:39:59] Task: taskkk RUN!
+[Info][Save][30][04/08/15 10:39:59] 
+[Info][Run][129][04/08/15 10:39:59] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:40:00] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:40:00] Task: taskkk RUN!
+[Info][Save][30][04/08/15 10:40:00] 
+[Info][ThreadSendMessages][39][04/08/15 10:40:00] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 10:40:01] Task: taskkk RUN!
+[Info][Save][30][04/08/15 10:40:01] 
+[Info][Run][129][04/08/15 10:40:01] Task: taskkk RUN!
+[Info][Run][129][04/08/15 10:40:03] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 10:40:03] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Save][30][04/08/15 10:40:04] 
+[Info][Load][40][04/08/15 15:14:16] 
+[Info][Start][84][04/08/15 15:14:16] 
+[Info][ThreadStart][90][04/08/15 15:14:16] 
+[Info][Run][129][04/08/15 15:14:19] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 15:14:19] 
+[Info][ThreadSendMessages][36][04/08/15 15:14:19] 
+[Info][ThreadSendMessages][39][04/08/15 15:14:19] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:14:21] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:14:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:14:23] Task: taskkk RUN!
+[Info][Run][129][04/08/15 15:14:25] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:14:25] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:14:27] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:14:28] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Load][40][04/08/15 15:14:28] 
+[Info][Start][84][04/08/15 15:14:28] 
+[Info][ThreadStart][90][04/08/15 15:14:28] 
+[Info][Run][129][04/08/15 15:14:29] Task: taskkk RUN!
+[Info][Run][129][04/08/15 15:14:31] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:14:31] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:14:31] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 15:14:31] 
+[Info][ThreadSendMessages][36][04/08/15 15:14:31] 
+[Info][ThreadSendMessages][39][04/08/15 15:14:31] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:14:33] Task: taskkk RUN!
+[Info][Run][129][04/08/15 15:14:33] Task: taskkk RUN!
+[Info][Save][30][04/08/15 15:14:33] 
+[Info][ThreadSendMessages][39][04/08/15 15:14:34] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Save][30][04/08/15 15:14:34] 
+[Info][Load][40][04/08/15 15:25:52] 
+[Info][Start][84][04/08/15 15:25:52] 
+[Info][ThreadStart][90][04/08/15 15:25:52] 
+[Info][Run][129][04/08/15 15:25:55] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 15:25:55] 
+[Info][ThreadSendMessages][36][04/08/15 15:25:55] 
+[Info][ThreadSendMessages][39][04/08/15 15:25:55] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:25:57] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:25:58] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:25:59] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:26:01] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:26:01] Task: taskkk RUN!
+[Info][Run][129][04/08/15 15:26:03] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:26:04] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:26:05] Task: taskkk RUN!
+[Info][Load][40][04/08/15 15:26:06] 
+[Info][Start][84][04/08/15 15:26:06] 
+[Info][ThreadStart][90][04/08/15 15:26:06] 
+[Info][Run][129][04/08/15 15:26:07] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:26:07] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:26:09] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 15:26:09] 
+[Info][ThreadSendMessages][36][04/08/15 15:26:09] 
+[Info][ThreadSendMessages][39][04/08/15 15:26:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:26:09] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:26:10] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:26:11] Task: taskkk RUN!
+[Info][Load][40][04/08/15 15:26:11] 
+[Info][Start][84][04/08/15 15:26:11] 
+[Info][ThreadStart][90][04/08/15 15:26:11] 
+[Info][Run][129][04/08/15 15:26:11] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:26:12] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:26:13] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:26:13] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:26:13] Task: taskkk RUN!
+[Info][Run][129][04/08/15 15:26:14] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 15:26:14] 
+[Info][ThreadSendMessages][36][04/08/15 15:26:14] 
+[Info][ThreadSendMessages][39][04/08/15 15:26:14] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:26:15] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:26:15] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:26:15] Task: taskkk RUN!
+[Info][Run][129][04/08/15 15:26:16] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:26:16] Kolejka wiedomosci zawiera 4 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:26:17] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:26:17] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:26:17] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:26:18] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:26:18] Task: taskkk RUN!
+[Info][Save][30][04/08/15 15:26:18] 
+[Info][Run][129][04/08/15 15:26:19] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:26:19] Kolejka wiedomosci zawiera 4 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 15:26:20] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:26:20] Task: taskkk RUN!
+[Info][Run][129][04/08/15 15:26:21] Task: taskkk RUN!
+[Info][Run][129][04/08/15 15:26:22] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:26:22] Kolejka wiedomosci zawiera 5 niewyslanych wiadomosci.
+[Info][Save][30][04/08/15 15:26:22] 
+[Info][ThreadSendMessages][39][04/08/15 15:26:23] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:26:24] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:26:26] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:26:26] Task: taskkk RUN!
+[Info][Run][129][04/08/15 15:26:28] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:26:29] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Save][30][04/08/15 15:26:30] 
+[Info][Load][40][04/08/15 15:32:34] 
+[Info][Start][84][04/08/15 15:32:34] 
+[Info][ThreadStart][90][04/08/15 15:32:34] 
+[Info][Run][129][04/08/15 15:32:37] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 15:32:37] 
+[Info][ThreadSendMessages][36][04/08/15 15:32:37] 
+[Info][ThreadSendMessages][39][04/08/15 15:32:37] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:32:39] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:32:40] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:32:41] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:32:43] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:32:43] Task: taskkk RUN!
+[Info][Run][129][04/08/15 15:32:45] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:32:46] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:32:47] Task: taskkk RUN!
+[Info][Run][129][04/08/15 15:32:49] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:32:49] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Load][40][04/08/15 15:32:50] 
+[Info][Start][84][04/08/15 15:32:50] 
+[Info][ThreadStart][90][04/08/15 15:32:50] 
+[Info][Run][129][04/08/15 15:32:51] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:32:52] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:32:53] Task: taskkk RUN!
+[Info][SendMessages][30][04/08/15 15:32:53] 
+[Info][ThreadSendMessages][36][04/08/15 15:32:53] 
+[Info][ThreadSendMessages][39][04/08/15 15:32:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:32:53] Task: taskkk RUN!
+[Info][Run][129][04/08/15 15:32:55] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:32:55] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:32:55] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:32:56] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:32:57] Task: taskkk RUN!
+[Info][Run][129][04/08/15 15:32:57] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:32:58] Kolejka wiedomosci zawiera 4 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:32:59] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:32:59] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:32:59] Task: taskkk RUN!
+[Info][Run][129][04/08/15 15:33:01] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:33:01] Kolejka wiedomosci zawiera 4 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:33:01] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:33:02] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:33:03] Task: taskkk RUN!
+[Info][Run][129][04/08/15 15:33:03] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:33:04] Kolejka wiedomosci zawiera 5 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:33:05] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:33:05] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:33:05] Task: taskkk RUN!
+[Info][Run][129][04/08/15 15:33:07] Task: taskkk RUN!
+[Info][Run][129][04/08/15 15:33:07] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:33:07] Kolejka wiedomosci zawiera 5 niewyslanych wiadomosci.
+[Info][ThreadSendMessages][39][04/08/15 15:33:08] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:33:09] Task: taskkk RUN!
+[Info][Save][30][04/08/15 15:33:09] 
+[Info][Run][129][04/08/15 15:33:09] Task: taskkk RUN!
+[Info][ThreadSendMessages][39][04/08/15 15:33:10] Kolejka wiedomosci zawiera 6 niewyslanych wiadomosci.
+[Info][Run][129][04/08/15 15:33:11] Task: taskkk RUN!
+[Info][Save][30][04/08/15 15:33:12] 

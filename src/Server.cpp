@@ -1,6 +1,7 @@
 #include "Server.h"
 #include <cstdio>
 #include <winsock2.h>
+#include "EventManager.h"
 
 DWORD WINAPI SocketHandler(void*);
 
@@ -15,6 +16,11 @@ CServer::~CServer()
     //dtor
 }
 
+std::list<SClient> CServer::GetClients()
+{
+    return m_clients;
+}
+
 DWORD WINAPI CServer::ThreadStart()
 {
     int* csock;
@@ -27,7 +33,15 @@ DWORD WINAPI CServer::ThreadStart()
 
         if((*csock = accept( m_hsock, (SOCKADDR*)&sadr, &addr_size))!= INVALID_SOCKET ){
             printf("Received connection from %s\n",inet_ntoa(sadr.sin_addr));
-            CreateThread(0,0,&SocketHandler, (void*)csock , 0,0);
+            SClient clientData;
+            clientData.socketHandle = csock;
+            clientData.ip = inet_ntoa(sadr.sin_addr);
+            m_clients.push_back(clientData);
+
+            CEventManager::getInstance().Send(EVENT_CLIENT_CONNECTION);
+
+            this->SetTmpParam((void*)csock);
+            CreateThread(0,0,&StaticThreadConnectClient, (void*)this , 0,0);
         }
         else{
             fprintf(stderr, "Error accepting %d\n",WSAGetLastError());
@@ -89,7 +103,7 @@ bool CServer::Init(void) {
     return true;
 }
 
-DWORD WINAPI SocketHandler(void* lp){
+DWORD WINAPI CServer::ThreadConnectClient(void* lp){
     int *csock = (int*)lp;
 
     char buffer[1024];
@@ -103,7 +117,6 @@ DWORD WINAPI SocketHandler(void* lp){
         }
         printf("Received bytes %d\nReceived string \"%s\"\n", bytecount, buffer);
         strcat(buffer, " SERVER ECHO");
-
         if((bytecount = send(*csock, buffer, strlen(buffer), 0))==SOCKET_ERROR){
             fprintf(stderr, "Error sending data %d\n", WSAGetLastError());
             goto FINISH;
@@ -113,6 +126,17 @@ DWORD WINAPI SocketHandler(void* lp){
     }
 
 FINISH:
+
+    for (std::list<SClient>::iterator itClients = m_clients.begin() ; itClients != m_clients.end(); itClients++ )
+    {
+        if (itClients->socketHandle == csock) {
+               printf("Delete socket csock %d\n", *csock);
+               m_clients.erase(itClients);
+               break;
+        }
+    }
+
+    CEventManager::getInstance().Send(EVENT_CLIENT_DISCONNECT);
     free(csock);
     return 0;
 }

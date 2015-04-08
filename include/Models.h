@@ -1,5 +1,6 @@
 #ifndef CMODELS_H
 #define CMODELS_H
+#include <list>
 #include "Server.h"
 
 class CModels
@@ -11,14 +12,14 @@ class CModels
         }
 
         void Init(void);
-
+        std::list<SClient> GetClients();
     protected:
     private:
         CModels() {}
         virtual ~CModels() {}
         void operator= (CModels const&);
 
-        CServer server;
+
 };
 
 #endif // CMODELS_H
