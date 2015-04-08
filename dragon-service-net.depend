@@ -1,14 +1,15 @@
 # depslib dependency file v1.0
-1428256584 source:e:\projekty\dragon-service-net\main.cpp
+1428504837 source:e:\projekty\dragon-service-net\main.cpp
 	<windows.h>
 	<commctrl.h>
 	<stdio.h>
 	"resource.h"
 	"Models.h"
+	"EventManager.h"
 
-1385320478 e:\projekty\dragon-service-net\resource.h
+1428504837 e:\projekty\dragon-service-net\resource.h
 
-1385320478 source:e:\projekty\dragon-service-net\resource.rc
+1428504837 source:e:\projekty\dragon-service-net\resource.rc
 	<windows.h>
 	<commctrl.h>
 	<richedit.h>
@@ -17,12 +18,14 @@
 1428277144 source:e:\projekty\dragon-service-net\src\models.cpp
 	"Models.h"
 
-1428256262 e:\projekty\dragon-service-net\include\models.h
+1428504837 e:\projekty\dragon-service-net\include\models.h
+	<list>
 	"Server.h"
 
-1428276046 e:\projekty\dragon-service-net\include\server.h
+1428504837 e:\projekty\dragon-service-net\include\server.h
 	<string>
 	<windows.h>
+	<list>
 
 1428277144 source:e:\projekty\dragon-service-net\src\server.cpp
 	"Server.h"
@@ -74,6 +77,10 @@
 	"EventManager.h"
 
 1428499298 f:\projects\dragon-service-net-master\include\eventmanager.h
+	<vector>
+	<windows.h>
+
+1428504837 e:\projekty\dragon-service-net\include\eventmanager.h
 	<vector>
 	<windows.h>
 

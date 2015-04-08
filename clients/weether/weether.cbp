@@ -46,6 +46,8 @@
 		<Unit filename="include/CDLog.h" />
 		<Unit filename="include/CDSerialize.h" />
 		<Unit filename="include/Client.h" />
+		<Unit filename="include/Message.h" />
+		<Unit filename="include/MessageManager.h" />
 		<Unit filename="include/Models.h" />
 		<Unit filename="include/ScheduleManager.h" />
 		<Unit filename="main.cpp" />
@@ -56,6 +58,8 @@
 		</Unit>
 		<Unit filename="src/CDLog.cpp" />
 		<Unit filename="src/Client.cpp" />
+		<Unit filename="src/Message.cpp" />
+		<Unit filename="src/MessageManager.cpp" />
 		<Unit filename="src/Models.cpp" />
 		<Unit filename="src/ScheduleManager.cpp" />
 		<Extensions>
