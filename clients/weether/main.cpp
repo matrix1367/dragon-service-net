@@ -4,6 +4,7 @@
 #include "resource.h"
 #include "Models.h"
 #include "ScheduleManager.h"
+#include "CDSetting.h"
 
 HINSTANCE hInst;
 
@@ -37,6 +38,7 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
 int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nShowCmd)
 {
+    CDSetting::getInstance().Load();
     CModels::getInstance().Init();
     CScheduleManager::getInstance().Load();
     CScheduleManager::getInstance().Start();
