@@ -4,6 +4,8 @@
 #include <windows.h>
 #include <list>
 
+enum CMD { CMD_UNKNOWN, CMD_GET_NAME_CLIENT, CMD_SET_NAME_CLIENT};
+
 typedef struct TClient {
     std::string GetSrtIP() {
         return ip;
@@ -49,6 +51,8 @@ class CServer
             return m_TmpParam;
         }
 
+        bool Send(int* csock, std::string msg);
+        std::string CommandCreate(CMD cmd, std::string parm1);
         std::list<SClient> GetClients();
     protected:
     private:
@@ -59,6 +63,8 @@ class CServer
         int m_hsock;
         DWORD m_threadID;
         std::list<SClient> m_clients;
+
+        void CommandParser(int* csock, std::string command);
 };
 
 #endif // CSERVER_H

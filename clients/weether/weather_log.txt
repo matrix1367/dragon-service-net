@@ -1,0 +1,124 @@
+[Info][Load][40][04/09/15 14:40:44] 
+[Info][Start][84][04/09/15 14:40:44] 
+[Info][CommandParser][53][04/09/15 14:40:44] CClient: 00001||
+[Info][ThreadStart][90][04/09/15 14:40:44] 
+[Info][CommandParser][56][04/09/15 14:40:44] cmd:00001
+[Info][CommandParser][60][04/09/15 14:40:44] cmd:CMD_GET_NAME_CLIENT
+[Info][Run][129][04/09/15 14:40:54] Task: taskkk RUN!
+[Info][SendMessages][30][04/09/15 14:40:54] 
+[Info][ThreadSendMessages][36][04/09/15 14:40:54] 
+[Info][ThreadSendMessages][39][04/09/15 14:40:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Load][40][04/09/15 14:42:00] 
+[Info][Start][84][04/09/15 14:42:00] 
+[Info][ThreadStart][90][04/09/15 14:42:00] 
+[Info][CommandParser][53][04/09/15 14:42:00] CClient: 00001||
+[Info][CommandParser][56][04/09/15 14:42:00] cmd:00001
+[Info][CommandParser][60][04/09/15 14:42:00] cmd:CMD_GET_NAME_CLIENT
+[Info][Run][129][04/09/15 14:42:14] Task: taskkk RUN!
+[Info][SendMessages][30][04/09/15 14:42:14] 
+[Info][ThreadSendMessages][36][04/09/15 14:42:14] 
+[Info][ThreadSendMessages][39][04/09/15 14:42:14] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Load][40][04/09/15 14:52:56] 
+[Info][Start][84][04/09/15 14:52:56] 
+[Info][ThreadStart][90][04/09/15 14:52:56] 
+[Info][CommandParser][53][04/09/15 14:52:56] CClient: 00001||
+[Info][CommandParser][56][04/09/15 14:52:57] cmd:00001
+[Info][CommandParser][60][04/09/15 14:52:57] cmd: CMD_GET_NAME_CLIENT
+[Info][Run][129][04/09/15 14:54:09] Task: taskkk RUN!
+[Info][SendMessages][30][04/09/15 14:54:09] 
+[Info][ThreadSendMessages][36][04/09/15 14:54:09] 
+[Info][ThreadSendMessages][39][04/09/15 14:54:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Load][40][04/09/15 14:58:22] 
+[Info][Start][84][04/09/15 14:58:22] 
+[Info][CommandParser][53][04/09/15 14:58:22] CClient: 00001||
+[Info][ThreadStart][90][04/09/15 14:58:22] 
+[Info][CommandParser][56][04/09/15 14:58:22] cmd:00001
+[Info][CommandParser][60][04/09/15 14:58:22] cmd: CMD_GET_NAME_CLIENT
+[Info][Load][40][04/09/15 15:19:26] 
+[Info][Start][84][04/09/15 15:19:26] 
+[Info][CommandParser][53][04/09/15 15:19:26] CClient: 00001||
+[Info][ThreadStart][90][04/09/15 15:19:26] 
+[Info][CommandParser][56][04/09/15 15:19:26] cmd:00001
+[Info][CommandParser][60][04/09/15 15:19:26] cmd: CMD_GET_NAME_CLIENT
+[Info][Run][129][04/09/15 15:19:43] Task: taskkk RUN!
+[Info][SendMessages][30][04/09/15 15:19:43] 
+[Info][ThreadSendMessages][36][04/09/15 15:19:43] 
+[Info][ThreadSendMessages][39][04/09/15 15:19:43] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Load][40][04/09/15 15:20:25] 
+[Info][CommandParser][53][04/09/15 15:20:25] CClient: 00001||
+[Info][Start][84][04/09/15 15:20:25] 
+[Info][CommandParser][56][04/09/15 15:20:25] cmd:00001
+[Info][ThreadStart][90][04/09/15 15:20:25] 
+[Info][CommandParser][60][04/09/15 15:20:25] cmd: CMD_GET_NAME_CLIENT
+[Info][Run][129][04/09/15 15:20:48] Task: taskkk RUN!
+[Info][SendMessages][30][04/09/15 15:20:48] 
+[Info][ThreadSendMessages][36][04/09/15 15:20:48] 
+[Info][ThreadSendMessages][39][04/09/15 15:20:48] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Load][40][04/09/15 15:23:03] 
+[Info][Start][84][04/09/15 15:23:03] 
+[Info][CommandParser][53][04/09/15 15:23:03] CClient: 00001||
+[Info][ThreadStart][90][04/09/15 15:23:03] 
+[Info][CommandParser][56][04/09/15 15:23:03] cmd:00001
+[Info][Run][129][04/09/15 15:23:13] Task: taskkk RUN!
+[Info][SendMessages][30][04/09/15 15:23:13] 
+[Info][ThreadSendMessages][36][04/09/15 15:23:13] 
+[Info][ThreadSendMessages][39][04/09/15 15:23:13] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Save][30][04/09/15 15:23:54] 
+[Info][Load][40][04/09/15 15:32:37] 
+[Info][Start][84][04/09/15 15:32:37] 
+[Info][ThreadStart][90][04/09/15 15:32:37] 
+[Info][CommandParser][53][04/09/15 15:32:37] CClient: 00001||
+[Info][Run][129][04/09/15 15:32:47] Task: taskkk RUN!
+[Info][SendMessages][30][04/09/15 15:32:47] 
+[Info][ThreadSendMessages][36][04/09/15 15:32:47] 
+[Info][ThreadSendMessages][39][04/09/15 15:32:47] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Save][30][04/09/15 15:34:01] 
+[Info][Load][40][04/09/15 15:35:19] 
+[Info][Start][84][04/09/15 15:35:19] 
+[Info][CommandParser][53][04/09/15 15:35:19] CClient: 00001||
+[Info][ThreadStart][90][04/09/15 15:35:19] 
+[Info][Run][129][04/09/15 15:35:29] Task: taskkk RUN!
+[Info][SendMessages][30][04/09/15 15:35:29] 
+[Info][ThreadSendMessages][36][04/09/15 15:35:29] 
+[Info][ThreadSendMessages][39][04/09/15 15:35:29] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Save][30][04/09/15 15:37:36] 
+[Info][Load][40][04/09/15 15:39:01] 
+[Info][Start][84][04/09/15 15:39:01] 
+[Info][ThreadStart][90][04/09/15 15:39:01] 
+[Info][CommandParser][53][04/09/15 15:39:01] CClient: 00001||
+[Info][Run][129][04/09/15 15:39:11] Task: taskkk RUN!
+[Info][SendMessages][30][04/09/15 15:39:11] 
+[Info][ThreadSendMessages][36][04/09/15 15:39:11] 
+[Info][ThreadSendMessages][39][04/09/15 15:39:11] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Save][30][04/09/15 15:39:15] 
+[Info][Load][40][04/09/15 15:43:52] 
+[Info][CommandParser][53][04/09/15 15:43:52] CClient: 00001||
+[Info][Start][84][04/09/15 15:43:52] 
+[Info][ThreadStart][90][04/09/15 15:43:52] 
+[Info][Run][129][04/09/15 15:44:02] Task: taskkk RUN!
+[Info][SendMessages][30][04/09/15 15:44:02] 
+[Info][ThreadSendMessages][36][04/09/15 15:44:02] 
+[Info][ThreadSendMessages][39][04/09/15 15:44:02] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Save][30][04/09/15 15:45:17] 
+[Info][Load][40][04/09/15 15:50:05] 
+[Info][Start][84][04/09/15 15:50:05] 
+[Info][CommandParser][53][04/09/15 15:50:05] CClient: 00001||
+[Info][ThreadStart][90][04/09/15 15:50:05] 
+[Info][Load][40][04/09/15 15:50:34] 
+[Info][Start][84][04/09/15 15:50:34] 
+[Info][CommandParser][53][04/09/15 15:50:34] CClient: 00001||
+[Info][ThreadStart][90][04/09/15 15:50:34] 
+[Info][Run][129][04/09/15 15:50:44] Task: taskkk RUN!
+[Info][SendMessages][30][04/09/15 15:50:44] 
+[Info][ThreadSendMessages][36][04/09/15 15:50:44] 
+[Info][ThreadSendMessages][39][04/09/15 15:50:44] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Save][30][04/09/15 15:51:09] 
+[Info][Load][40][04/09/15 15:54:42] 
+[Info][Start][84][04/09/15 15:54:42] 
+[Info][CommandParser][53][04/09/15 15:54:42] CClient: 00001||
+[Info][ThreadStart][90][04/09/15 15:54:42] 
+[Info][Run][129][04/09/15 15:54:52] Task: taskkk RUN!
+[Info][SendMessages][30][04/09/15 15:54:52] 
+[Info][ThreadSendMessages][36][04/09/15 15:54:52] 
+[Info][ThreadSendMessages][39][04/09/15 15:54:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Save][30][04/09/15 15:55:04] 

@@ -14,7 +14,6 @@
 				<Compiler>
 					<Add option="-g" />
 					<Add directory="include" />
-					<Add directory="clients/weether/include" />
 				</Compiler>
 				<Linker>
 					<Add option="-lWS2_32" />
@@ -43,6 +42,7 @@
 			<Add library="kernel32" />
 			<Add library="comctl32" />
 		</Linker>
+		<Unit filename="include/CDLog.h" />
 		<Unit filename="include/EventManager.h" />
 		<Unit filename="include/Models.h" />
 		<Unit filename="include/NetworkManager.h" />

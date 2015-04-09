@@ -7,6 +7,8 @@
 #include <errno.h>
 #include <stdio.h>
 #include <conio.h>
+#include "CDSetting.h"
+#include "CDLog.h"
 
 CClient::CClient()
 {
@@ -26,8 +28,57 @@ bool CClient::Send(std::string msg)
         fprintf(stderr, "Error sending data %d\n", WSAGetLastError());
         return false;
     }
-    printf("Sent bytes %d\n", bytecount);
+    printf("Sent cmd %s bytes %d\n", msg.c_str(), bytecount);
     return true;
+}
+
+std::string CClient::CommandCreate(CMD cmd, std::string parm1)
+{
+    switch (cmd) {
+    case CMD_GET_NAME_CLIENT:
+        {
+            return "00001|" + parm1 + "|";
+        }
+    case CMD_SET_NAME_CLIENT:
+        {
+            return "00002|" + parm1 + "|";
+        }
+        default: {
+            return "00000|";
+        }
+    }
+}
+
+void CClient::CommandParser(std::string command) {
+    CDLog::Write( __FUNCTION__ , __LINE__, Info, "CClient: " + command );
+    if (command.length() > 4) {
+        std::string cmd = command.substr(0, 5);
+
+        if (cmd == "00001") {
+            printf("[%s][%d] command CMD_GET_NAME_CLIENT:%s\n" , __FUNCTION__, __LINE__, cmd.c_str() );
+             Send(CommandCreate(CMD_SET_NAME_CLIENT, "DUPA"));
+        } else {
+            printf("[%s][%d] command nieznana:%s\n" , __FUNCTION__, __LINE__, cmd.c_str() );
+
+        }
+        /*
+        CDLog::Write( __FUNCTION__ , __LINE__, Info, "cmd:" + cmd );
+        int intCmd = atoi(cmd.c_str());
+        switch (intCmd) {
+            case CMD_GET_NAME_CLIENT : {
+                //CDLog::Write( __FUNCTION__ , __LINE__, Info,  "cmd: CMD_GET_NAME_CLIENT", intCmd );
+                printf("[%s][%d] command CMD_GET_NAME_CLIENT:%d" , __FUNCTION__, __LINE__, intCmd );
+               // this->Send(this->CommandCreate(CMD_SET_NAME_CLIENT, CDSetting::getInstance().getSetting().nameApplication));
+                break;
+            }
+
+            default : {
+                break;
+            }
+        } */
+    } else {
+         printf("[%s][%d] command error: %s\n" , __FUNCTION__, __LINE__, command.c_str() );
+    }
 }
 
 DWORD WINAPI CClient::ThreadStart()
@@ -38,9 +89,11 @@ DWORD WINAPI CClient::ThreadStart()
         int buffer_len = 1024;
         int bytecount;
 
-        int c;
+     //   int c;
         memset(buffer, '\0', buffer_len);
 
+       // strcpy(buffer, CDSetting::getInstance().getSetting().nameApplication.c_str());
+/*
         for(char* p=buffer ; (c=getch())!=13 ; p++){
             printf("%c", c);
             *p = c;
@@ -53,12 +106,13 @@ DWORD WINAPI CClient::ThreadStart()
             return false;
         }
         printf("Sent bytes %d\n", bytecount);
-
+*/
         if((bytecount = recv(m_hsock, buffer, buffer_len, 0))==SOCKET_ERROR){
             fprintf(stderr, "Error receiving data %d\n", WSAGetLastError());
-            return false;
+            break;
         }
-        printf("Recieved bytes %d\nReceived string \"%s\"\n", bytecount, buffer);
+        this->CommandParser(std::string(buffer));
+        //printf("Recieved bytes %d\nReceived string \"%s\"\n", bytecount, buffer);
     }
 
     return closesocket(m_hsock);

@@ -2,6 +2,7 @@
 #include <cstdio>
 #include <winsock2.h>
 #include "EventManager.h"
+#include "CDLog.h"
 
 DWORD WINAPI SocketHandler(void*);
 
@@ -53,6 +54,71 @@ DWORD WINAPI CServer::ThreadStart()
 void CServer::Start(){
     CreateThread(0,0,StaticThreadStart, (void*)this , 0,&m_threadID);
 }
+
+bool CServer::Send(int* csock, std::string msg)
+{
+   int bytecount = 0;
+   if((bytecount = send(*csock, msg.c_str(), strlen(msg.c_str()), 0))==SOCKET_ERROR){
+        fprintf(stderr, "Error sending data %d\n", WSAGetLastError());
+        return false;
+    }
+    printf("Sent cmd %s bytes %d\n", msg.c_str(), bytecount);
+    return true;
+}
+
+
+
+std::string CServer::CommandCreate(CMD cmd, std::string parm1)
+{
+    switch (cmd) {
+    case CMD_GET_NAME_CLIENT:
+        {
+            return "00001|" + parm1 + "|";
+        }
+    case CMD_SET_NAME_CLIENT:
+        {
+            return "00002|" + parm1 + "|";
+        }
+        default: {
+            return "00000|";
+        }
+    }
+}
+
+void CServer::CommandParser(int* csock, std::string command)
+{
+    CDLog::Write( __FUNCTION__ , __LINE__, Info, command.c_str() );
+    if (command.length() > 4) {
+        std::string cmd = command.substr(0,5);
+
+        if (cmd == "00002") {
+            CDLog::Write( __FUNCTION__ , __LINE__, Info, "cmd: CMD_SET_NAME_CLIENT");
+            std::string parms= command.substr(6, command.length() - cmd.length());
+            CDLog::Write( __FUNCTION__ , __LINE__, Info, "paramters:"+parms );
+
+        } else {
+            CDLog::Write( __FUNCTION__ , __LINE__, Info, "komenda nieznana:" + cmd );
+        }
+
+        /*
+        CDLog::Write( __FUNCTION__ , __LINE__, Info, "only cmd:" + cmd );
+        int intCmd = atoi(cmd.c_str());
+        switch (intCmd) {
+            case CMD_SET_NAME_CLIENT : {
+                std::string parms= command.substr(5, command.length() - 5);
+                CDLog::Write( __FUNCTION__ , __LINE__, Info, "paramters:"+parms );
+                break;
+            }
+
+            default : {
+                break;
+            }
+        } */
+    } else {
+        CDLog::Write( __FUNCTION__ , __LINE__, Info, "komenda niewlasciwa:" + command );
+    }
+}
+
 
 bool CServer::Init(void) {
     //Initialize socket support WINDOWS ONLY!
@@ -106,6 +172,9 @@ bool CServer::Init(void) {
 DWORD WINAPI CServer::ThreadConnectClient(void* lp){
     int *csock = (int*)lp;
 
+    this->Send(csock, this->CommandCreate(CMD_GET_NAME_CLIENT,""));
+
+
     char buffer[1024];
     int buffer_len = 1024;
     int bytecount;
@@ -115,14 +184,16 @@ DWORD WINAPI CServer::ThreadConnectClient(void* lp){
             fprintf(stderr, "Error receiving data %d\n", WSAGetLastError());
             goto FINISH;
         }
-        printf("Received bytes %d\nReceived string \"%s\"\n", bytecount, buffer);
-        strcat(buffer, " SERVER ECHO");
+        this->CommandParser(csock, std::string(buffer));
+        //printf("Received bytes %d\nReceived string \"%s\"\n", bytecount, buffer);
+/*        strcat(buffer, " SERVER ECHO");
         if((bytecount = send(*csock, buffer, strlen(buffer), 0))==SOCKET_ERROR){
             fprintf(stderr, "Error sending data %d\n", WSAGetLastError());
             goto FINISH;
         }
 
         printf("Sent bytes %d\n", bytecount);
+*/
     }
 
 FINISH:

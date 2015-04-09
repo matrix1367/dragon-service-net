@@ -10,7 +10,7 @@ CScheduleManager::CScheduleManager()
     time_t now;
     time( & now );
 
-    AddTask("taskkk",now + 3 , 0, 2);
+    AddTask("taskkk",now + 10 , 0, 2000);
    // AddTask("tassooo", now+21, now+28, 0);
 }
 

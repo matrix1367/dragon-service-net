@@ -6,7 +6,7 @@
 using namespace std;
 
 
-std::string CDLog::m_nameFile = "log.txt";
+std::string CDLog::m_nameFile = "weather_log.txt";
 LogLevel CDLog::activeLogLvel = Info;
 
 

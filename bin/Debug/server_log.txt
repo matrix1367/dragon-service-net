@@ -1,0 +1,20 @@
+[Info][CommandParser][90][04/09/15 15:39:11] taskkk : 1428586751
+[Info][CommandParser][93][04/09/15 15:39:11] only cmd:taskk
+[Info][CommandParser][90][04/09/15 15:44:02] taskkk : 1428587042
+[Info][CommandParser][97][04/09/15 15:44:02] komenda nieznana:taskk
+[Info][CommandParser][90][04/09/15 15:50:34] 00002|DUPA|
+[Info][CommandParser][95][04/09/15 15:50:34] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][90][04/09/15 15:50:44] taskkk : 1428587444
+[Info][CommandParser][97][04/09/15 15:50:44] komenda nieznana:taskk
+[Info][CommandParser][90][04/09/15 15:54:42] 00002|DUPA|
+[Info][CommandParser][95][04/09/15 15:54:42] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][90][04/09/15 15:54:52] taskkk : 1428587692
+[Info][CommandParser][97][04/09/15 15:54:52] komenda nieznana:taskk
+[Info][CommandParser][90][04/09/15 15:55:25] 00002|DUPA|
+[Info][CommandParser][95][04/09/15 15:55:25] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/09/15 15:55:25] paramters:|DUPA|
+[Info][CommandParser][90][04/09/15 15:55:35] taskkk : 1428587735
+[Info][CommandParser][100][04/09/15 15:55:35] komenda nieznana:taskk
+[Info][CommandParser][90][04/09/15 15:56:19] 00002|DUPA|
+[Info][CommandParser][95][04/09/15 15:56:19] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/09/15 15:56:19] paramters:DUPA|

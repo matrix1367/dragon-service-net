@@ -6,7 +6,7 @@
 using namespace std;
 
 
-std::string CDLog::m_nameFile = "log.txt";
+std::string CDLog::m_nameFile = "server_log.txt";
 LogLevel CDLog::activeLogLvel = Info;
 
 
@@ -24,7 +24,7 @@ void CDLog::Write(const char *fun ,  int line ,LogLevel lvl, std::string msg)
     data = localtime( & czas );
 
     strftime( godzina, 80, "[%c] ", data );
-
+    cout << CDLog::LogLvelToString(lvl).c_str() << '[' << fun << ']' << '[' <<line << ']' <<  godzina  <<  msg  << "\n";
     myfile  << CDLog::LogLvelToString(lvl).c_str() << '[' << fun << ']' << '[' <<line << ']' <<  godzina  <<  msg  << "\n";
     myfile.close();
 }
