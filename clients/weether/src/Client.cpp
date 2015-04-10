@@ -43,6 +43,10 @@ std::string CClient::CommandCreate(CMD cmd, std::string parm1)
         {
             return "00002|" + parm1 + "|";
         }
+    case  CMD_MESSAGE :
+        {
+            return "00003|" + parm1 + "|";
+        }
         default: {
             return "00000|";
         }

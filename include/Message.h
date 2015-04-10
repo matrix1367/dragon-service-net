@@ -7,7 +7,6 @@ class CMessage
     public:
         CMessage();
         CMessage(const std::string _name, const std::string _description) : m_Name(_name), m_Description(_description) {}
-        std::string ConvertObjToStr();
         virtual ~CMessage();
         std::string GetName() { return m_Name; }
         void SetName(std::string val) { m_Name = val; }
@@ -15,6 +14,7 @@ class CMessage
         void SetDescription(std::string val) { m_Description = val; }
         unsigned int GetID() { return m_ID; }
         void SetID(unsigned int val) { m_ID = val; }
+        static CMessage ConvertStrToObj(std::string parm);
     protected:
     private:
         std::string m_Name;

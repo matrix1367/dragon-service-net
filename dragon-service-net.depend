@@ -32,21 +32,22 @@
 	<cstdio>
 	<winsock2.h>
 
-1428499933 source:f:\projects\dragon-service-net-master\main.cpp
+1428672656 source:f:\projects\dragon-service-net-master\main.cpp
 	<windows.h>
 	<commctrl.h>
 	<stdio.h>
 	"resource.h"
 	"Models.h"
 	"EventManager.h"
+	"MessageManager.h"
 
-1428475388 f:\projects\dragon-service-net-master\resource.h
+1428672073 f:\projects\dragon-service-net-master\resource.h
 
 1428485935 f:\projects\dragon-service-net-master\include\models.h
 	<list>
 	"Server.h"
 
-1428654664 f:\projects\dragon-service-net-master\include\server.h
+1428655145 f:\projects\dragon-service-net-master\include\server.h
 	<string>
 	<windows.h>
 	<list>
@@ -55,16 +56,17 @@
 	"Models.h"
 	"NetworkManager.h"
 
-1428653904 source:f:\projects\dragon-service-net-master\src\server.cpp
+1428667551 source:f:\projects\dragon-service-net-master\src\server.cpp
 	"Server.h"
-	<cstdio>
-	<winsock2.h>
 	"EventManager.h"
+	"MessageManager.h"
 	"Tools.h"
 	"CDLog.h"
+	<cstdio>
+	<winsock2.h>
 	<string>
 
-1428475392 source:f:\projects\dragon-service-net-master\resource.rc
+1428672073 source:f:\projects\dragon-service-net-master\resource.rc
 	<windows.h>
 	<commctrl.h>
 	<richedit.h>
@@ -79,7 +81,7 @@
 1428499232 source:f:\projects\dragon-service-net-master\src\eventmanager.cpp
 	"EventManager.h"
 
-1428499298 f:\projects\dragon-service-net-master\include\eventmanager.h
+1428657311 f:\projects\dragon-service-net-master\include\eventmanager.h
 	<vector>
 	<windows.h>
 
@@ -101,6 +103,27 @@
 	<string>
 	<sstream>
 
-1428653229 f:\projects\dragon-service-net-master\include\tools.h
+1428670299 f:\projects\dragon-service-net-master\include\tools.h
 	<vector>
+	<cstring>
+	<string>
+
+1428670886 source:f:\projects\dragon-service-net-master\src\message.cpp
+	"Message.h"
+	"Tools.h"
+	"CDLog.h"
+
+1428670059 f:\projects\dragon-service-net-master\include\message.h
+	<string>
+
+1428670167 source:f:\projects\dragon-service-net-master\src\messagemanager.cpp
+	"MessageManager.h"
+
+1428672422 f:\projects\dragon-service-net-master\include\messagemanager.h
+	"Message.h"
+	<string>
+	<list>
+
+1428670336 source:f:\projects\dragon-service-net-master\src\tools.cpp
+	"Tools.h"
 

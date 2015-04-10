@@ -44,6 +44,8 @@
 		</Linker>
 		<Unit filename="include/CDLog.h" />
 		<Unit filename="include/EventManager.h" />
+		<Unit filename="include/Message.h" />
+		<Unit filename="include/MessageManager.h" />
 		<Unit filename="include/Models.h" />
 		<Unit filename="include/NetworkManager.h" />
 		<Unit filename="include/Server.h" />
@@ -56,9 +58,12 @@
 		</Unit>
 		<Unit filename="src/CDLog.cpp" />
 		<Unit filename="src/EventManager.cpp" />
+		<Unit filename="src/Message.cpp" />
+		<Unit filename="src/MessageManager.cpp" />
 		<Unit filename="src/Models.cpp" />
 		<Unit filename="src/NetworkManager.cpp" />
 		<Unit filename="src/Server.cpp" />
+		<Unit filename="src/Tools.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

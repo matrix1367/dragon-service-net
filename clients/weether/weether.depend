@@ -79,7 +79,7 @@
 1428412958 f:\projects\dragon-service-net-master\clients\weether\include\models.h
 	"Client.h"
 
-1428577684 f:\projects\dragon-service-net-master\clients\weether\include\client.h
+1428657589 f:\projects\dragon-service-net-master\clients\weether\include\client.h
 	<windows.h>
 	<string>
 
@@ -105,7 +105,7 @@
 	<string>
 	<sstream>
 
-1428651498 source:f:\projects\dragon-service-net-master\clients\weether\src\client.cpp
+1428670039 source:f:\projects\dragon-service-net-master\clients\weether\src\client.cpp
 	"Client.h"
 	<winsock2.h>
 	<windows.h>
@@ -134,13 +134,13 @@
 	<fstream>
 	<sstream>
 
-1428406585 source:f:\projects\dragon-service-net-master\clients\weether\src\message.cpp
+1428670609 source:f:\projects\dragon-service-net-master\clients\weether\src\message.cpp
 	"Message.h"
 
-1428407722 f:\projects\dragon-service-net-master\clients\weether\include\message.h
+1428667607 f:\projects\dragon-service-net-master\clients\weether\include\message.h
 	<string>
 
-1428411324 source:f:\projects\dragon-service-net-master\clients\weether\src\messagemanager.cpp
+1428670037 source:f:\projects\dragon-service-net-master\clients\weether\src\messagemanager.cpp
 	"MessageManager.h"
 	"Models.h"
 	"CDLog.h"

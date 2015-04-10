@@ -4,8 +4,104 @@
 #include "resource.h"
 #include "Models.h"
 #include "EventManager.h"
+#include "MessageManager.h"
 
 HINSTANCE hInst;
+
+void RefreshListViewMessage(TypeParmT parm)
+{
+    HWND listView = parm.handle;
+    LVITEM lvi;
+    lvi.mask = LVIF_TEXT;
+    int i = 0;
+    ListView_DeleteAllItems(parm.handle);
+    std::list<CMessage> message = CMessageManager::GetInstance().GetMessages();
+    for (std::list<CMessage>::iterator it= message.begin(); it != message.end(); it++) {
+        char buffer[5];
+        itoa(i+1,buffer,10);
+
+        lvi.pszText = const_cast<char * >(std::string(buffer).c_str());
+        lvi.iItem = i;
+        lvi.iSubItem = 0;
+
+        ListView_InsertItem( listView, & lvi );
+        ListView_SetItemText( listView, i, 1, const_cast<char *>("NULL"));
+        ListView_SetItemText( listView, i, 2, const_cast<char *>(it->GetName().c_str()));
+        ListView_SetItemText( listView, i, 3, const_cast<char *>(it->GetDescription().c_str()));
+
+        i++;
+    }
+}
+
+BOOL CALLBACK IddQueue(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
+{
+    switch(uMsg)
+    {
+    case WM_INITDIALOG:
+    {
+        HWND listView = GetDlgItem(hwndDlg,IDD_QUEUE_LISTVIEW);
+
+        char lp[] = {"lp"};
+        char nameClient[] = {"Klient"};
+        char title[] = {"Tytu³"};
+        char description[] = {"Opis"};
+
+        LVCOLUMN lvc;
+        lvc.mask = LVCF_WIDTH | LVCF_TEXT | LVCF_SUBITEM;
+
+        lvc.iSubItem = 0;
+        lvc.cx = 30;
+        lvc.pszText = lp;
+        ListView_InsertColumn( listView, 0, & lvc );
+
+        lvc.iSubItem = 0;
+        lvc.cx = 100;
+        lvc.pszText = nameClient;
+        ListView_InsertColumn( listView, 1, & lvc );
+
+        lvc.iSubItem = 0;
+        lvc.cx = 150;
+        lvc.pszText = title;
+        ListView_InsertColumn( listView, 2, & lvc );
+
+        lvc.iSubItem = 0;
+        lvc.cx = 250;
+        lvc.pszText = description;
+        ListView_InsertColumn( listView, 3, & lvc );
+
+
+        Event event;
+        event.paem1.handle = listView;
+        event.typeEvent = EVENT_GET_MESSAGE;
+        event.handleFunction = &RefreshListViewMessage;
+        CEventManager::getInstance().Subscribe(event);
+    }
+    return TRUE;
+
+    case WM_CLOSE:
+    {
+        EndDialog(hwndDlg, 0);
+    }
+    return TRUE;
+
+    case WM_COMMAND:
+    {
+        switch(LOWORD(wParam))
+        {
+        }
+    }
+    return TRUE;
+
+    case WM_SIZE:
+    {
+        HWND listView = GetDlgItem(hwndDlg,IDD_QUEUE_LISTVIEW);
+        MoveWindow(listView, 0, 0, LOWORD(lParam), HIWORD(lParam), true);
+    }
+    return true;
+
+    }
+    return FALSE;
+}
 
 
 void RefreshListViewClients(TypeParmT parm) {
@@ -102,6 +198,9 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     {
         switch(LOWORD(wParam))
         {
+            case ID_QUEUE: {
+                DialogBox(hInst, MAKEINTRESOURCE(IDD_QUEUE), NULL, (DLGPROC)IddQueue);
+            }
         }
     }
     return TRUE;

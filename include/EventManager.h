@@ -13,7 +13,8 @@ typedef void ( * OnEventT ) (TypeParmT) ;
 
 enum TYPE_EVENT {
     EVENT_CLIENT_CONNECTION,
-    EVENT_CLIENT_DISCONNECT
+    EVENT_CLIENT_DISCONNECT,
+    EVENT_GET_MESSAGE
 };
 
 

@@ -1,9 +1,10 @@
 #include "Server.h"
-#include <cstdio>
-#include <winsock2.h>
 #include "EventManager.h"
+#include "MessageManager.h"
 #include "Tools.h"
 #include "CDLog.h"
+#include <cstdio>
+#include <winsock2.h>
 #include <string>
 
 DWORD WINAPI SocketHandler(void*);
@@ -81,6 +82,10 @@ std::string CServer::CommandCreate(CMD cmd, std::string parm1)
         {
             return "00002|" + parm1 + "|";
         }
+    case  CMD_MESSAGE :
+        {
+            return "00003|" + parm1 + "|";
+        }
         default: {
             return "00000|";
         }
@@ -115,7 +120,21 @@ void CServer::CommandParser(int* csock, std::string command)
             }
             CDLog::Write( __FUNCTION__ , __LINE__, Info, "paramters:"+parms );
         */
-        } else {
+
+        } else if ( cmd == "00003") {
+            //CMD_MESSAGE
+            CDLog::Write( __FUNCTION__ , __LINE__, Info, "cmd: CMD_MESSAGE");
+            if (parms.size() == 1) {
+                CDLog::Write( __FUNCTION__ , __LINE__, Info, "message:" + parms[0]);
+                CMessageManager::GetInstance().AddMessage(CMessage::ConvertStrToObj(parms[0]));
+                CEventManager::getInstance().Send(EVENT_GET_MESSAGE);
+            } else {
+                CDLog::Write( __FUNCTION__ , __LINE__, Error, "bledna liczba parametrow");
+            }
+
+
+        }
+        else {
             CDLog::Write( __FUNCTION__ , __LINE__, Info, "komenda nieznana:" + cmd );
         }
 

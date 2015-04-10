@@ -4,7 +4,7 @@
 #include <windows.h>
 #include <list>
 
-enum CMD { CMD_UNKNOWN, CMD_GET_NAME_CLIENT, CMD_SET_NAME_CLIENT};
+enum CMD { CMD_UNKNOWN, CMD_GET_NAME_CLIENT, CMD_SET_NAME_CLIENT , CMD_MESSAGE};
 
 typedef struct TClient {
     std::string GetSrtIP() {
