@@ -35,7 +35,7 @@ DWORD WINAPI CServer::ThreadStart()
         printf("waiting for a connection\n");
         csock = (int*)malloc(sizeof(int));
 
-        if((*csock = accept( m_hsock, (SOCKADDR*)&sadr, &addr_size))!= INVALID_SOCKET ){
+        if((*csock = accept( m_hsock, (SOCKADDR*)&sadr, &addr_size))!=  (int)INVALID_SOCKET ){
             printf("Received connection from %s\n",inet_ntoa(sadr.sin_addr));
             SClient clientData;
             clientData.socketHandle = csock;
@@ -126,7 +126,7 @@ void CServer::CommandParser(int* csock, std::string command)
             CDLog::Write( __FUNCTION__ , __LINE__, Info, "cmd: CMD_MESSAGE");
             if (parms.size() == 1) {
                 CDLog::Write( __FUNCTION__ , __LINE__, Info, "message:" + parms[0]);
-                CMessageManager::GetInstance().AddMessage(CMessage::ConvertStrToObj(parms[0]));
+                CMessageManager::GetInstance().AddMessage(CMessage::ConvertStrToObj(parms[0], *csock));
                 CEventManager::getInstance().Send(EVENT_GET_MESSAGE);
             } else {
                 CDLog::Write( __FUNCTION__ , __LINE__, Error, "bledna liczba parametrow");

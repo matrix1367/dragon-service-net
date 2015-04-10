@@ -25,7 +25,7 @@ void RefreshListViewMessage(TypeParmT parm)
         lvi.iSubItem = 0;
 
         ListView_InsertItem( listView, & lvi );
-        ListView_SetItemText( listView, i, 1, const_cast<char *>("NULL"));
+        ListView_SetItemText( listView, i, 1, const_cast<char *>(it->GetStrID().c_str()));
         ListView_SetItemText( listView, i, 2, const_cast<char *>(it->GetName().c_str()));
         ListView_SetItemText( listView, i, 3, const_cast<char *>(it->GetDescription().c_str()));
 
@@ -75,6 +75,9 @@ BOOL CALLBACK IddQueue(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
         event.typeEvent = EVENT_GET_MESSAGE;
         event.handleFunction = &RefreshListViewMessage;
         CEventManager::getInstance().Subscribe(event);
+
+
+        RefreshListViewMessage()
     }
     return TRUE;
 

@@ -1,36 +1,43 @@
 # depslib dependency file v1.0
-1428504837 source:e:\projekty\dragon-service-net\main.cpp
+1428674496 source:e:\projekty\dragon-service-net\main.cpp
 	<windows.h>
 	<commctrl.h>
 	<stdio.h>
 	"resource.h"
 	"Models.h"
 	"EventManager.h"
+	"MessageManager.h"
 
-1428504837 e:\projekty\dragon-service-net\resource.h
+1428674496 e:\projekty\dragon-service-net\resource.h
 
-1428504837 source:e:\projekty\dragon-service-net\resource.rc
+1428674496 source:e:\projekty\dragon-service-net\resource.rc
 	<windows.h>
 	<commctrl.h>
 	<richedit.h>
 	"resource.h"
 
-1428277144 source:e:\projekty\dragon-service-net\src\models.cpp
+1428504837 source:e:\projekty\dragon-service-net\src\models.cpp
 	"Models.h"
+	"NetworkManager.h"
 
 1428504837 e:\projekty\dragon-service-net\include\models.h
 	<list>
 	"Server.h"
 
-1428504837 e:\projekty\dragon-service-net\include\server.h
+1428676659 e:\projekty\dragon-service-net\include\server.h
 	<string>
 	<windows.h>
 	<list>
 
-1428277144 source:e:\projekty\dragon-service-net\src\server.cpp
+1428676737 source:e:\projekty\dragon-service-net\src\server.cpp
 	"Server.h"
+	"EventManager.h"
+	"MessageManager.h"
+	"Tools.h"
+	"CDLog.h"
 	<cstdio>
 	<winsock2.h>
+	<string>
 
 1428672656 source:f:\projects\dragon-service-net-master\main.cpp
 	<windows.h>
@@ -85,7 +92,7 @@
 	<vector>
 	<windows.h>
 
-1428504837 e:\projekty\dragon-service-net\include\eventmanager.h
+1428674496 e:\projekty\dragon-service-net\include\eventmanager.h
 	<vector>
 	<windows.h>
 
@@ -126,4 +133,48 @@
 
 1428670336 source:f:\projects\dragon-service-net-master\src\tools.cpp
 	"Tools.h"
+
+1428504837 source:e:\projekty\dragon-service-net\src\eventmanager.cpp
+	"EventManager.h"
+
+1428504837 e:\projekty\dragon-service-net\include\networkmanager.h
+	"Server.h"
+
+1428504837 source:e:\projekty\dragon-service-net\src\networkmanager.cpp
+	"NetworkManager.h"
+
+1428674496 e:\projekty\dragon-service-net\include\messagemanager.h
+	"Message.h"
+	<string>
+	<list>
+
+1428678511 e:\projekty\dragon-service-net\include\message.h
+	"CDLog.h"
+	<string>
+
+1428674496 source:e:\projekty\dragon-service-net\src\cdlog.cpp
+	"CDLog.h"
+	<iostream>
+	<fstream>
+	<time.h>
+
+1428674496 e:\projekty\dragon-service-net\include\cdlog.h
+	<string>
+	<sstream>
+
+1428674496 source:e:\projekty\dragon-service-net\src\messagemanager.cpp
+	"MessageManager.h"
+
+1428674496 source:e:\projekty\dragon-service-net\src\tools.cpp
+	"Tools.h"
+
+1428674496 e:\projekty\dragon-service-net\include\tools.h
+	<vector>
+	<cstring>
+	<string>
+
+1428676390 source:e:\projekty\dragon-service-net\src\message.cpp
+	"Message.h"
+	"Tools.h"
+	"CDLog.h"
 
