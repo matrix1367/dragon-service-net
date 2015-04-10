@@ -7,25 +7,26 @@
 
 1428337137 e:\projekty\dragon-service-net\clients\weether\resource.h
 
-1428337137 source:e:\projekty\dragon-service-net\clients\weether\main.cpp
+1428674496 source:e:\projekty\dragon-service-net\clients\weether\main.cpp
 	<windows.h>
 	<commctrl.h>
 	<stdio.h>
 	"resource.h"
 	"Models.h"
 	"ScheduleManager.h"
+	"CDSetting.h"
 
 1428414133 e:\projekty\dragon-service-net\clients\weether\include\models.h
 	"Client.h"
 
-1428414133 e:\projekty\dragon-service-net\clients\weether\include\client.h
+1428674496 e:\projekty\dragon-service-net\clients\weether\include\client.h
 	<windows.h>
 	<string>
 
-1428337137 source:e:\projekty\dragon-service-net\clients\weether\src\models.cpp
+1428504837 source:e:\projekty\dragon-service-net\clients\weether\src\models.cpp
 	"Models.h"
 
-1428414134 source:e:\projekty\dragon-service-net\clients\weether\src\client.cpp
+1428674496 source:e:\projekty\dragon-service-net\clients\weether\src\client.cpp
 	"Client.h"
 	<winsock2.h>
 	<windows.h>
@@ -35,8 +36,10 @@
 	<errno.h>
 	<stdio.h>
 	<conio.h>
+	"CDSetting.h"
+	"CDLog.h"
 
-1428414134 source:e:\projekty\dragon-service-net\clients\weether\src\schedulemanager.cpp
+1428674496 source:e:\projekty\dragon-service-net\clients\weether\src\schedulemanager.cpp
 	"ScheduleManager.h"
 	"MessageManager.h"
 	"CDSerialize.h"
@@ -55,7 +58,7 @@
 	<fstream>
 	<sstream>
 
-1428337137 source:e:\projekty\dragon-service-net\clients\weether\src\cdlog.cpp
+1428674496 source:e:\projekty\dragon-service-net\clients\weether\src\cdlog.cpp
 	"CDLog.h"
 	<iostream>
 	<fstream>
@@ -150,13 +153,13 @@
 	<queue>
 	<windows.h>
 
-1428414134 source:e:\projekty\dragon-service-net\clients\weether\src\message.cpp
+1428674496 source:e:\projekty\dragon-service-net\clients\weether\src\message.cpp
 	"Message.h"
 
-1428414133 e:\projekty\dragon-service-net\clients\weether\include\message.h
+1428674496 e:\projekty\dragon-service-net\clients\weether\include\message.h
 	<string>
 
-1428414134 source:e:\projekty\dragon-service-net\clients\weether\src\messagemanager.cpp
+1428674496 source:e:\projekty\dragon-service-net\clients\weether\src\messagemanager.cpp
 	"MessageManager.h"
 	"Models.h"
 	"CDLog.h"
@@ -170,6 +173,16 @@
 	<string>
 
 1428651460 source:f:\projects\dragon-service-net-master\clients\weether\src\cdsetting.cpp
+	"CDSetting.h"
+	"CDSerialize.h"
+	"CDLog.h"
+	<windows.h>
+	"Shlwapi.h"
+
+1428674496 e:\projekty\dragon-service-net\clients\weether\include\cdsetting.h
+	<string>
+
+1428674496 source:e:\projekty\dragon-service-net\clients\weether\src\cdsetting.cpp
 	"CDSetting.h"
 	"CDSerialize.h"
 	"CDLog.h"
