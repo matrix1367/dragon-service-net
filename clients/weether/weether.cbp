@@ -17,6 +17,7 @@
 				</Compiler>
 				<Linker>
 					<Add option="-lWS2_32" />
+					<Add option="-lShlwapi" />
 				</Linker>
 			</Target>
 			<Target title="Release">

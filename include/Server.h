@@ -21,6 +21,7 @@ typedef struct TClient {
     std::string GetStrStatus() {
         return "Connect";
     }
+
     int* socketHandle;
     std::string ip;
     std::string name;

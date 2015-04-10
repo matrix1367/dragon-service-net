@@ -46,7 +46,7 @@
 	<list>
 	"Server.h"
 
-1428579802 f:\projects\dragon-service-net-master\include\server.h
+1428654664 f:\projects\dragon-service-net-master\include\server.h
 	<string>
 	<windows.h>
 	<list>
@@ -55,12 +55,14 @@
 	"Models.h"
 	"NetworkManager.h"
 
-1428585464 source:f:\projects\dragon-service-net-master\src\server.cpp
+1428653904 source:f:\projects\dragon-service-net-master\src\server.cpp
 	"Server.h"
 	<cstdio>
 	<winsock2.h>
 	"EventManager.h"
+	"Tools.h"
 	"CDLog.h"
+	<string>
 
 1428475392 source:f:\projects\dragon-service-net-master\resource.rc
 	<windows.h>
@@ -98,4 +100,7 @@
 1428355505 f:\projects\dragon-service-net-master\include\cdlog.h
 	<string>
 	<sstream>
+
+1428653229 f:\projects\dragon-service-net-master\include\tools.h
+	<vector>
 

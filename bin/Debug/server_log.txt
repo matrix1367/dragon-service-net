@@ -1,20 +1,44 @@
-[Info][CommandParser][90][04/09/15 15:39:11] taskkk : 1428586751
-[Info][CommandParser][93][04/09/15 15:39:11] only cmd:taskk
-[Info][CommandParser][90][04/09/15 15:44:02] taskkk : 1428587042
-[Info][CommandParser][97][04/09/15 15:44:02] komenda nieznana:taskk
-[Info][CommandParser][90][04/09/15 15:50:34] 00002|DUPA|
-[Info][CommandParser][95][04/09/15 15:50:34] cmd: CMD_SET_NAME_CLIENT
-[Info][CommandParser][90][04/09/15 15:50:44] taskkk : 1428587444
-[Info][CommandParser][97][04/09/15 15:50:44] komenda nieznana:taskk
-[Info][CommandParser][90][04/09/15 15:54:42] 00002|DUPA|
-[Info][CommandParser][95][04/09/15 15:54:42] cmd: CMD_SET_NAME_CLIENT
-[Info][CommandParser][90][04/09/15 15:54:52] taskkk : 1428587692
-[Info][CommandParser][97][04/09/15 15:54:52] komenda nieznana:taskk
-[Info][CommandParser][90][04/09/15 15:55:25] 00002|DUPA|
-[Info][CommandParser][95][04/09/15 15:55:25] cmd: CMD_SET_NAME_CLIENT
-[Info][CommandParser][97][04/09/15 15:55:25] paramters:|DUPA|
-[Info][CommandParser][90][04/09/15 15:55:35] taskkk : 1428587735
-[Info][CommandParser][100][04/09/15 15:55:35] komenda nieznana:taskk
-[Info][CommandParser][90][04/09/15 15:56:19] 00002|DUPA|
-[Info][CommandParser][95][04/09/15 15:56:19] cmd: CMD_SET_NAME_CLIENT
-[Info][CommandParser][97][04/09/15 15:56:19] paramters:DUPA|
+[Info][CommandParser][90][04/10/15 07:54:31] 00002|DUPA|
+[Info][CommandParser][95][04/10/15 07:54:31] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/10/15 07:54:31] paramters:DUPA|
+[Info][CommandParser][90][04/10/15 07:54:41] taskkk : 1428645281
+[Info][CommandParser][100][04/10/15 07:54:41] komenda nieznana:taskk
+[Info][CommandParser][90][04/10/15 09:25:15] 00002|DUPA|
+[Info][CommandParser][95][04/10/15 09:25:15] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/10/15 09:25:15] paramters:DUPA|
+[Info][CommandParser][90][04/10/15 09:27:18] 00002|DUPA|
+[Info][CommandParser][95][04/10/15 09:27:18] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/10/15 09:27:18] paramters:DUPA|
+[Info][CommandParser][90][04/10/15 09:28:32] 00002|DUPA|
+[Info][CommandParser][95][04/10/15 09:28:32] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/10/15 09:28:32] paramters:DUPA|
+[Info][CommandParser][90][04/10/15 09:32:10] 00002|DUPA|
+[Info][CommandParser][95][04/10/15 09:32:10] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/10/15 09:32:10] paramters:DUPA|
+[Info][CommandParser][90][04/10/15 09:32:21] 00002|DUPA|
+[Info][CommandParser][95][04/10/15 09:32:21] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/10/15 09:32:21] paramters:DUPA|
+[Info][CommandParser][90][04/10/15 09:32:28] 00002|DUPA|
+[Info][CommandParser][95][04/10/15 09:32:28] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/10/15 09:32:28] paramters:DUPA|
+[Info][CommandParser][90][04/10/15 09:32:48] 00002|DUPA|
+[Info][CommandParser][95][04/10/15 09:32:48] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/10/15 09:32:48] paramters:DUPA|
+[Info][CommandParser][90][04/10/15 09:32:58] taskkk : 1428651178
+[Info][CommandParser][100][04/10/15 09:32:58] komenda nieznana:taskk
+[Info][CommandParser][90][04/10/15 09:35:52] 00002|DUPA|
+[Info][CommandParser][95][04/10/15 09:35:52] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/10/15 09:35:52] paramters:DUPA|
+[Info][CommandParser][90][04/10/15 09:36:02] taskkk : 1428651362
+[Info][CommandParser][100][04/10/15 09:36:02] komenda nieznana:taskk
+[Info][CommandParser][90][04/10/15 09:38:26] 00002|Weather|
+[Info][CommandParser][95][04/10/15 09:38:26] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/10/15 09:38:26] paramters:Weather|
+[Info][CommandParser][90][04/10/15 09:38:36] taskkk : 1428651516
+[Info][CommandParser][100][04/10/15 09:38:36] komenda nieznana:taskk
+[Info][CommandParser][92][04/10/15 10:22:03] 00002|Weather|
+[Info][CommandParser][99][04/10/15 10:22:03] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][92][04/10/15 10:32:39] 00002|Weather|
+[Info][CommandParser][99][04/10/15 10:32:39] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][92][04/10/15 10:32:49] taskkk : 1428654769
+[Info][CommandParser][119][04/10/15 10:32:49] komenda nieznana:taskk

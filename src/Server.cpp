@@ -2,7 +2,9 @@
 #include <cstdio>
 #include <winsock2.h>
 #include "EventManager.h"
+#include "Tools.h"
 #include "CDLog.h"
+#include <string>
 
 DWORD WINAPI SocketHandler(void*);
 
@@ -90,30 +92,34 @@ void CServer::CommandParser(int* csock, std::string command)
     CDLog::Write( __FUNCTION__ , __LINE__, Info, command.c_str() );
     if (command.length() > 4) {
         std::string cmd = command.substr(0,5);
+        std::string parmsStr= command.substr(6, command.length() - cmd.length());
+        std::vector<std::string> parms = split(const_cast<char *>(parmsStr.c_str()), "|");
 
         if (cmd == "00002") {
             CDLog::Write( __FUNCTION__ , __LINE__, Info, "cmd: CMD_SET_NAME_CLIENT");
-            std::string parms= command.substr(6, command.length() - cmd.length());
-            CDLog::Write( __FUNCTION__ , __LINE__, Info, "paramters:"+parms );
+            if (parms.size() == 1) {
+                for (std::list<SClient>::iterator itClients = m_clients.begin() ; itClients != m_clients.end(); itClients++ )
+                {
+                    if (itClients->socketHandle == csock) {
+                           printf("Ustawiono nazwe %s klienta %d\n", parms[0].c_str(), *csock);
+                           itClients->name = parms[0];
+                           //todo: stworzyc oddzielny event
+                           CEventManager::getInstance().Send(EVENT_CLIENT_CONNECTION);
+                           break;
+                    }
+                }
+            }
 
+          /*  for (unsigned int i = 0 ; i < parms.size() ; i ++) {
+                printf("Parm %d: %s" , i, parms[i].c_str());
+            }
+            CDLog::Write( __FUNCTION__ , __LINE__, Info, "paramters:"+parms );
+        */
         } else {
             CDLog::Write( __FUNCTION__ , __LINE__, Info, "komenda nieznana:" + cmd );
         }
 
-        /*
-        CDLog::Write( __FUNCTION__ , __LINE__, Info, "only cmd:" + cmd );
-        int intCmd = atoi(cmd.c_str());
-        switch (intCmd) {
-            case CMD_SET_NAME_CLIENT : {
-                std::string parms= command.substr(5, command.length() - 5);
-                CDLog::Write( __FUNCTION__ , __LINE__, Info, "paramters:"+parms );
-                break;
-            }
 
-            default : {
-                break;
-            }
-        } */
     } else {
         CDLog::Write( __FUNCTION__ , __LINE__, Info, "komenda niewlasciwa:" + command );
     }

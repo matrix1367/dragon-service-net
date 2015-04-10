@@ -65,7 +65,7 @@
 	<string>
 	<sstream>
 
-1428562137 source:f:\projects\dragon-service-net-master\clients\weether\main.cpp
+1428650904 source:f:\projects\dragon-service-net-master\clients\weether\main.cpp
 	<windows.h>
 	<commctrl.h>
 	<stdio.h>
@@ -105,7 +105,7 @@
 	<string>
 	<sstream>
 
-1428587430 source:f:\projects\dragon-service-net-master\clients\weether\src\client.cpp
+1428651498 source:f:\projects\dragon-service-net-master\clients\weether\src\client.cpp
 	"Client.h"
 	<winsock2.h>
 	<windows.h>
@@ -166,11 +166,13 @@
 	<queue>
 	<windows.h>
 
-1428562046 f:\projects\dragon-service-net-master\clients\weether\include\cdsetting.h
+1428651077 f:\projects\dragon-service-net-master\clients\weether\include\cdsetting.h
 	<string>
 
-1428562076 source:f:\projects\dragon-service-net-master\clients\weether\src\cdsetting.cpp
+1428651460 source:f:\projects\dragon-service-net-master\clients\weether\src\cdsetting.cpp
 	"CDSetting.h"
 	"CDSerialize.h"
+	"CDLog.h"
 	<windows.h>
+	"Shlwapi.h"
 

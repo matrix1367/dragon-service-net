@@ -5,7 +5,7 @@
 struct CDSettingData {
     public:
         CDSettingData();
-        std::string nameApplication;
+        char nameApplication[30];
 };
 
 class CDSetting
@@ -21,6 +21,8 @@ public:
     void Save();
     void Load();
 
+    void Init();
+
     CDSettingData getSetting() {
         return settingData;
     }
@@ -33,6 +35,7 @@ private:
     virtual ~CDSetting();
 
     CDSettingData settingData;
+    std::string pathExe;
 };
 
 #endif // CDSETTING_H

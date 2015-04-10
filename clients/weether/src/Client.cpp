@@ -56,7 +56,7 @@ void CClient::CommandParser(std::string command) {
 
         if (cmd == "00001") {
             printf("[%s][%d] command CMD_GET_NAME_CLIENT:%s\n" , __FUNCTION__, __LINE__, cmd.c_str() );
-             Send(CommandCreate(CMD_SET_NAME_CLIENT, "DUPA"));
+             Send(CommandCreate(CMD_SET_NAME_CLIENT, CDSetting::getInstance().getSetting().nameApplication));
         } else {
             printf("[%s][%d] command nieznana:%s\n" , __FUNCTION__, __LINE__, cmd.c_str() );
 

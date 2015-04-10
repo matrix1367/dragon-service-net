@@ -122,3 +122,82 @@
 [Info][ThreadSendMessages][36][04/09/15 15:54:52] 
 [Info][ThreadSendMessages][39][04/09/15 15:54:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
 [Info][Save][30][04/09/15 15:55:04] 
+[Info][Load][40][04/10/15 09:25:15] 
+[Info][Start][84][04/10/15 09:25:15] 
+[Info][ThreadStart][90][04/10/15 09:25:15] 
+[Info][CommandParser][53][04/10/15 09:25:15] CClient: 00001||
+[Info][Save][30][04/10/15 09:25:22] 
+[Info][Load][40][04/10/15 09:27:18] 
+[Info][CommandParser][53][04/10/15 09:27:18] CClient: 00001||
+[Info][Start][84][04/10/15 09:27:18] 
+[Info][ThreadStart][90][04/10/15 09:27:18] 
+[Info][Save][30][04/10/15 09:27:25] 
+[Info][Load][40][04/10/15 09:28:32] 
+[Info][Start][84][04/10/15 09:28:32] 
+[Info][CommandParser][53][04/10/15 09:28:32] CClient: 00001||
+[Info][ThreadStart][90][04/10/15 09:28:32] 
+[Info][Save][30][04/10/15 09:28:35] 
+[Info][Load][40][04/10/15 09:32:10] 
+[Info][Start][84][04/10/15 09:32:10] 
+[Info][CommandParser][53][04/10/15 09:32:10] CClient: 00001||
+[Info][ThreadStart][90][04/10/15 09:32:10] 
+[Info][Save][30][04/10/15 09:32:12] 
+[Info][Load][40][04/10/15 09:32:21] 
+[Info][CommandParser][53][04/10/15 09:32:21] CClient: 00001||
+[Info][Start][84][04/10/15 09:32:21] 
+[Info][ThreadStart][90][04/10/15 09:32:21] 
+[Info][Save][30][04/10/15 09:32:24] 
+[Info][Load][40][04/10/15 09:32:28] 
+[Info][CommandParser][53][04/10/15 09:32:28] CClient: 00001||
+[Info][Start][84][04/10/15 09:32:28] 
+[Info][ThreadStart][90][04/10/15 09:32:28] 
+[Info][Save][30][04/10/15 09:32:29] 
+[Info][Load][40][04/10/15 09:32:48] 
+[Info][Start][84][04/10/15 09:32:48] 
+[Info][CommandParser][53][04/10/15 09:32:48] CClient: 00001||
+[Info][ThreadStart][90][04/10/15 09:32:48] 
+[Info][Run][129][04/10/15 09:32:58] Task: taskkk RUN!
+[Info][SendMessages][30][04/10/15 09:32:58] 
+[Info][ThreadSendMessages][36][04/10/15 09:32:58] 
+[Info][ThreadSendMessages][39][04/10/15 09:32:58] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Save][30][04/10/15 09:33:01] 
+[Info][Load][40][04/10/15 09:35:52] 
+[Info][Start][84][04/10/15 09:35:52] 
+[Info][ThreadStart][90][04/10/15 09:35:52] 
+[Info][CommandParser][53][04/10/15 09:35:52] CClient: 00001||
+[Info][Run][129][04/10/15 09:36:02] Task: taskkk RUN!
+[Info][SendMessages][30][04/10/15 09:36:02] 
+[Info][ThreadSendMessages][36][04/10/15 09:36:02] 
+[Info][ThreadSendMessages][39][04/10/15 09:36:02] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Save][30][04/10/15 09:36:06] 
+[Info][Load][40][04/10/15 09:38:26] 
+[Info][CommandParser][53][04/10/15 09:38:26] CClient: 00001||
+[Info][Start][84][04/10/15 09:38:26] 
+[Info][ThreadStart][90][04/10/15 09:38:26] 
+[Info][Run][129][04/10/15 09:38:36] Task: taskkk RUN!
+[Info][SendMessages][30][04/10/15 09:38:36] 
+[Info][ThreadSendMessages][36][04/10/15 09:38:36] 
+[Info][ThreadSendMessages][39][04/10/15 09:38:36] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Save][30][04/10/15 09:38:37] 
+[Info][Load][40][04/10/15 10:22:03] 
+[Info][Start][84][04/10/15 10:22:03] 
+[Info][CommandParser][53][04/10/15 10:22:03] CClient: 00001||
+[Info][ThreadStart][90][04/10/15 10:22:03] 
+[Info][Save][30][04/10/15 10:22:13] 
+[Info][Load][40][04/10/15 10:32:19] 
+[Info][Start][84][04/10/15 10:32:19] 
+[Info][ThreadStart][90][04/10/15 10:32:19] 
+[Info][Run][129][04/10/15 10:32:29] Task: taskkk RUN!
+[Info][SendMessages][30][04/10/15 10:32:29] 
+[Info][ThreadSendMessages][36][04/10/15 10:32:29] 
+[Info][ThreadSendMessages][39][04/10/15 10:32:29] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Save][30][04/10/15 10:32:34] 
+[Info][Load][40][04/10/15 10:32:39] 
+[Info][Start][84][04/10/15 10:32:39] 
+[Info][CommandParser][53][04/10/15 10:32:39] CClient: 00001||
+[Info][ThreadStart][90][04/10/15 10:32:39] 
+[Info][Run][129][04/10/15 10:32:49] Task: taskkk RUN!
+[Info][SendMessages][30][04/10/15 10:32:49] 
+[Info][ThreadSendMessages][36][04/10/15 10:32:49] 
+[Info][ThreadSendMessages][39][04/10/15 10:32:49] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci.
+[Info][Save][30][04/10/15 10:34:35] 
