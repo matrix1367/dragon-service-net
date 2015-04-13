@@ -76,8 +76,9 @@ BOOL CALLBACK IddQueue(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
         event.handleFunction = &RefreshListViewMessage;
         CEventManager::getInstance().Subscribe(event);
 
-
-        RefreshListViewMessage()
+        TypeParmT parm;
+        parm.handle = listView;
+        RefreshListViewMessage(parm);
     }
     return TRUE;
 

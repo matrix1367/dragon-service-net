@@ -63,7 +63,7 @@
 	"Models.h"
 	"NetworkManager.h"
 
-1428667551 source:f:\projects\dragon-service-net-master\src\server.cpp
+1428905657 source:f:\projects\dragon-service-net-master\src\server.cpp
 	"Server.h"
 	"EventManager.h"
 	"MessageManager.h"
@@ -115,15 +115,16 @@
 	<cstring>
 	<string>
 
-1428670886 source:f:\projects\dragon-service-net-master\src\message.cpp
+1428905657 source:f:\projects\dragon-service-net-master\src\message.cpp
 	"Message.h"
 	"Tools.h"
 	"CDLog.h"
 
-1428670059 f:\projects\dragon-service-net-master\include\message.h
+1428905657 f:\projects\dragon-service-net-master\include\message.h
+	"CDLog.h"
 	<string>
 
-1428670167 source:f:\projects\dragon-service-net-master\src\messagemanager.cpp
+1428672680 source:f:\projects\dragon-service-net-master\src\messagemanager.cpp
 	"MessageManager.h"
 
 1428672422 f:\projects\dragon-service-net-master\include\messagemanager.h
