@@ -14,6 +14,11 @@ public:
     CTask(std::string _name, time_t _dateStart, time_t _dateEnd, int _interval) : m_name(_name), m_dateStart(_dateStart), m_dateEnd(_dateEnd), m_interval(_interval)  {}
     void Run();
 
+    std::string GetStrName();
+    std::string GetStrDateStart();
+    std::string GetStrDateEnd();
+    std::string GetStrInterval();
+
     void GetNextTask(CTask* task);
 
     void SetName(std::string name);
@@ -44,6 +49,7 @@ class CScheduleManager
             CScheduleManager * This = (CScheduleManager*) Param;
             return This->ThreadStart();
         }
+        std::list<CTask> GetSchedule();
     protected:
     private:
         CScheduleManager();

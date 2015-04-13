@@ -68,7 +68,7 @@
 	<string>
 	<sstream>
 
-1428650904 source:f:\projects\dragon-service-net-master\clients\weether\main.cpp
+1428928657 source:f:\projects\dragon-service-net-master\clients\weether\main.cpp
 	<windows.h>
 	<commctrl.h>
 	<stdio.h>
@@ -77,7 +77,7 @@
 	"ScheduleManager.h"
 	"CDSetting.h"
 
-1428355505 f:\projects\dragon-service-net-master\clients\weether\resource.h
+1428926349 f:\projects\dragon-service-net-master\clients\weether\resource.h
 
 1428911263 f:\projects\dragon-service-net-master\clients\weether\include\models.h
 	"Client.h"
@@ -86,13 +86,13 @@
 	<windows.h>
 	<string>
 
-1428412969 f:\projects\dragon-service-net-master\clients\weether\include\schedulemanager.h
+1428928032 f:\projects\dragon-service-net-master\clients\weether\include\schedulemanager.h
 	<list>
 	<time.h>
 	<string>
 	<windows.h>
 
-1428355505 source:f:\projects\dragon-service-net-master\clients\weether\resource.rc
+1428926349 source:f:\projects\dragon-service-net-master\clients\weether\resource.rc
 	<windows.h>
 	<commctrl.h>
 	<richedit.h>
@@ -126,7 +126,7 @@
 	"CDLog.h"
 	<cstdio>
 
-1428918719 source:f:\projects\dragon-service-net-master\clients\weether\src\schedulemanager.cpp
+1428928672 source:f:\projects\dragon-service-net-master\clients\weether\src\schedulemanager.cpp
 	"ScheduleManager.h"
 	"MessageManager.h"
 	"CDSerialize.h"

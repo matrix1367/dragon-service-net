@@ -108,6 +108,7 @@ DWORD CScheduleManager::ThreadStart()
                 if (itVCTask->GetDateEnd() == 0) {
                  // CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + " zostal wykonany." );
                   itVCTask->Run();
+
                   if (itVCTask->GetInterval() > 0) {
                             //task posiada interwal;
                             //CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + "  posiada interwal." );
@@ -123,6 +124,12 @@ DWORD CScheduleManager::ThreadStart()
     return 0;
 }
 
+std::list<CTask> CScheduleManager::GetSchedule()
+{
+    return schedules;
+}
+
+
 int testI = 0;
 void CTask::Run()
 {
@@ -130,6 +137,35 @@ void CTask::Run()
     CMessageManager::GetInstance().AddMessage(m_name, CDLog::ToString(testI));
     testI++;
 }
+
+std::string CTask::GetStrName()
+{
+    return m_name;
+}
+
+std::string CTask::GetStrDateStart()
+{
+    struct tm * data;
+    char godzina[ 80 ];
+    data = localtime( & m_dateStart );
+    strftime( godzina, 80, "[%c] ", data );
+    return std::string(godzina);
+}
+
+std::string CTask::GetStrDateEnd()
+{
+    struct tm * data;
+    char godzina[ 80 ];
+    data = localtime( & m_dateEnd );
+    strftime( godzina, 80, "[%c] ", data );
+    return std::string(godzina);
+}
+
+std::string CTask::GetStrInterval()
+{
+    return CDLog::ToString(m_interval);
+}
+
 
 void CTask::SetName(std::string name)
 {
