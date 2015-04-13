@@ -126,7 +126,7 @@
 	"CDLog.h"
 	<cstdio>
 
-1428672720 source:f:\projects\dragon-service-net-master\clients\weether\src\schedulemanager.cpp
+1428918719 source:f:\projects\dragon-service-net-master\clients\weether\src\schedulemanager.cpp
 	"ScheduleManager.h"
 	"MessageManager.h"
 	"CDSerialize.h"
@@ -145,7 +145,7 @@
 1428667607 f:\projects\dragon-service-net-master\clients\weether\include\message.h
 	<string>
 
-1428908353 source:f:\projects\dragon-service-net-master\clients\weether\src\messagemanager.cpp
+1428918268 source:f:\projects\dragon-service-net-master\clients\weether\src\messagemanager.cpp
 	"MessageManager.h"
 	"Models.h"
 	"CDLog.h"

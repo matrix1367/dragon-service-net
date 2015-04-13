@@ -1,5 +1,10 @@
+#ifndef _WIN32_IE
+  #define  _WIN32_IE 0x0400
+#endif // _WIN32_IE
+
 #include <windows.h>
-#include <commctrl.h>
+#include <CommCtrl.h>
+
 #include <stdio.h>
 #include "resource.h"
 #include "Models.h"
@@ -16,9 +21,9 @@ void RefreshListViewMessage(TypeParmT parm)
     int i = 0;
     ListView_DeleteAllItems(parm.handle);
     std::list<CMessage> message = CMessageManager::GetInstance().GetMessages();
-    for (std::list<CMessage>::iterator it= message.begin(); it != message.end(); it++) {
+    for (std::list<CMessage>::reverse_iterator it= message.rbegin(); it != message.rend(); it++) {
         char buffer[5];
-        itoa(i+1,buffer,10);
+        itoa(message.size()-1,buffer,10);
 
         lvi.pszText = const_cast<char * >(std::string(buffer).c_str());
         lvi.iItem = i;
@@ -31,6 +36,27 @@ void RefreshListViewMessage(TypeParmT parm)
 
         i++;
     }
+}
+
+void AddLastItemListViewMessage(TypeParmT parm)
+{
+    HWND listView = parm.handle;
+    LVITEM lvi;
+    lvi.mask = LVIF_TEXT;
+    std::list<CMessage> message = CMessageManager::GetInstance().GetMessages();
+    int i = 0;
+    char buffer[5];
+    itoa(message.size()-1,buffer,10);
+
+    lvi.pszText = const_cast<char * >(std::string(buffer).c_str());
+    lvi.iItem = i;
+    lvi.iSubItem = 0;
+
+    ListView_InsertItem( listView, & lvi );
+    ListView_SetItemText( listView, i, 1, const_cast<char *>(message.back().GetStrID().c_str()));
+    ListView_SetItemText( listView, i, 2, const_cast<char *>(message.back().GetName().c_str()));
+    ListView_SetItemText( listView, i, 3, const_cast<char *>(message.back().GetDescription().c_str()));
+
 }
 
 BOOL CALLBACK IddQueue(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
@@ -69,11 +95,12 @@ BOOL CALLBACK IddQueue(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
         lvc.pszText = description;
         ListView_InsertColumn( listView, 3, & lvc );
 
+        ListView_SetExtendedListViewStyleEx(listView, LVS_EX_FULLROWSELECT, LVS_EX_FULLROWSELECT);
 
         Event event;
         event.paem1.handle = listView;
         event.typeEvent = EVENT_GET_MESSAGE;
-        event.handleFunction = &RefreshListViewMessage;
+        event.handleFunction = &AddLastItemListViewMessage;
         CEventManager::getInstance().Subscribe(event);
 
         TypeParmT parm;

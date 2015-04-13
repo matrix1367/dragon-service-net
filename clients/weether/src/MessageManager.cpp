@@ -46,8 +46,6 @@ DWORD CMessageManager::ThreadSendMessages()
                     m_messages.pop();
                     Sleep(100);
                 }
-
-
             }
         }
         else

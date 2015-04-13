@@ -10,7 +10,7 @@ CScheduleManager::CScheduleManager()
     time_t now;
     time( & now );
 
-    AddTask("taskkk",now + 3 , 0, 3);
+    AddTask("taskkk",now + 3 , 0, 2);
    // AddTask("tassooo", now+21, now+28, 0);
 }
 
@@ -123,11 +123,12 @@ DWORD CScheduleManager::ThreadStart()
     return 0;
 }
 
-
+int testI = 0;
 void CTask::Run()
 {
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + m_name+ " RUN!" );
-    CMessageManager::GetInstance().AddMessage(m_name, CDLog::ToString(m_dateStart));
+    CMessageManager::GetInstance().AddMessage(m_name, CDLog::ToString(testI));
+    testI++;
 }
 
 void CTask::SetName(std::string name)

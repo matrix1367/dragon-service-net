@@ -115,12 +115,6 @@ void CServer::CommandParser(int* csock, std::string command)
                 }
             }
 
-          /*  for (unsigned int i = 0 ; i < parms.size() ; i ++) {
-                printf("Parm %d: %s" , i, parms[i].c_str());
-            }
-            CDLog::Write( __FUNCTION__ , __LINE__, Info, "paramters:"+parms );
-        */
-
         } else if ( cmd == "00003") {
             //CMD_MESSAGE
             CDLog::Write( __FUNCTION__ , __LINE__, Info, "cmd: CMD_MESSAGE");

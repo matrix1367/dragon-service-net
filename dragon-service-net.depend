@@ -39,9 +39,9 @@
 	<winsock2.h>
 	<string>
 
-1428672656 source:f:\projects\dragon-service-net-master\main.cpp
+1428923872 source:f:\projects\dragon-service-net-master\main.cpp
 	<windows.h>
-	<commctrl.h>
+	<CommCtrl.h>
 	<stdio.h>
 	"resource.h"
 	"Models.h"
@@ -63,7 +63,7 @@
 	"Models.h"
 	"NetworkManager.h"
 
-1428905657 source:f:\projects\dragon-service-net-master\src\server.cpp
+1428916720 source:f:\projects\dragon-service-net-master\src\server.cpp
 	"Server.h"
 	"EventManager.h"
 	"MessageManager.h"
