@@ -924,3 +924,377 @@
 [Info][CommandParser][97][04/13/15 08:20:37] 00003|taskkk;1428906034;|
 [Info][CommandParser][126][04/13/15 08:20:37] cmd: CMD_MESSAGE
 [Info][CommandParser][128][04/13/15 08:20:37] message:taskkk;1428906034;
+[Info][CommandParser][97][04/13/15 08:49:49] 00002|Weather|
+[Info][CommandParser][104][04/13/15 08:49:49] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/13/15 08:49:49] 00003|taskkk;1428907786;|
+[Info][CommandParser][126][04/13/15 08:49:49] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 08:49:49] message:taskkk;1428907786;
+[Info][CommandParser][97][04/13/15 08:49:52] 00003|taskkk;1428907789;|
+[Info][CommandParser][126][04/13/15 08:49:52] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 08:49:52] message:taskkk;1428907789;
+[Info][CommandParser][97][04/13/15 08:49:55] 00003|taskkk;1428907792;|
+[Info][CommandParser][126][04/13/15 08:49:55] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 08:49:55] message:taskkk;1428907792;
+[Info][CommandParser][97][04/13/15 08:49:58] 00003|taskkk;1428907795;|
+[Info][CommandParser][126][04/13/15 08:49:58] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 08:49:58] message:taskkk;1428907795;
+[Info][CommandParser][97][04/13/15 08:50:01] 00003|taskkk;1428907798;|
+[Info][CommandParser][126][04/13/15 08:50:01] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 08:50:01] message:taskkk;1428907798;
+[Info][CommandParser][97][04/13/15 08:50:04] 00003|taskkk;1428907801;|
+[Info][CommandParser][126][04/13/15 08:50:04] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 08:50:04] message:taskkk;1428907801;
+[Info][CommandParser][97][04/13/15 08:50:07] 00003|taskkk;1428907804;|
+[Info][CommandParser][126][04/13/15 08:50:07] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 08:50:07] message:taskkk;1428907804;
+[Info][CommandParser][97][04/13/15 08:50:10] 00003|taskkk;1428907807;|
+[Info][CommandParser][126][04/13/15 08:50:10] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 08:50:10] message:taskkk;1428907807;
+[Info][CommandParser][97][04/13/15 09:09:28] 00003|taskkk;1428908922;|
+[Info][CommandParser][126][04/13/15 09:09:28] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:28] message:taskkk;1428908922;
+[Info][CommandParser][97][04/13/15 09:09:28] 00002|Weather|
+[Info][CommandParser][104][04/13/15 09:09:28] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/13/15 09:09:28] 00003|taskkk;1428908925;|
+[Info][CommandParser][126][04/13/15 09:09:28] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:28] message:taskkk;1428908925;
+[Info][CommandParser][97][04/13/15 09:09:28] 00003|taskkk;1428908928;|
+[Info][CommandParser][126][04/13/15 09:09:28] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:28] message:taskkk;1428908928;
+[Info][CommandParser][97][04/13/15 09:09:28] 00003|taskkk;1428908931;|
+[Info][CommandParser][126][04/13/15 09:09:28] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:28] message:taskkk;1428908931;
+[Info][CommandParser][97][04/13/15 09:09:28] 00003|taskkk;1428908934;|
+[Info][CommandParser][126][04/13/15 09:09:28] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:28] message:taskkk;1428908934;
+[Info][CommandParser][97][04/13/15 09:09:28] 00003|taskkk;1428908937;|
+[Info][CommandParser][126][04/13/15 09:09:28] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:28] message:taskkk;1428908937;
+[Info][CommandParser][97][04/13/15 09:09:29] 00003|taskkk;1428908940;|
+[Info][CommandParser][126][04/13/15 09:09:29] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:29] message:taskkk;1428908940;
+[Info][CommandParser][97][04/13/15 09:09:29] 00003|taskkk;1428908943;|
+[Info][CommandParser][126][04/13/15 09:09:29] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:29] message:taskkk;1428908943;
+[Info][CommandParser][97][04/13/15 09:09:32] 00003|taskkk;1428908946;|
+[Info][CommandParser][126][04/13/15 09:09:32] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:32] message:taskkk;1428908946;
+[Info][CommandParser][97][04/13/15 09:09:32] 00003|taskkk;1428908949;|
+[Info][CommandParser][126][04/13/15 09:09:32] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:32] message:taskkk;1428908949;
+[Info][CommandParser][97][04/13/15 09:09:32] 00003|taskkk;1428908952;|
+[Info][CommandParser][126][04/13/15 09:09:32] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:32] message:taskkk;1428908952;
+[Info][CommandParser][97][04/13/15 09:09:32] 00003|taskkk;1428908955;|
+[Info][CommandParser][126][04/13/15 09:09:32] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:32] message:taskkk;1428908955;
+[Info][CommandParser][97][04/13/15 09:09:32] 00003|taskkk;1428908958;|
+[Info][CommandParser][126][04/13/15 09:09:32] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:32] message:taskkk;1428908958;
+[Info][CommandParser][97][04/13/15 09:09:35] 00003|taskkk;1428908961;|
+[Info][CommandParser][126][04/13/15 09:09:35] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:35] message:taskkk;1428908961;
+[Info][CommandParser][97][04/13/15 09:09:35] 00003|taskkk;1428908964;|
+[Info][CommandParser][126][04/13/15 09:09:35] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:35] message:taskkk;1428908964;
+[Info][CommandParser][97][04/13/15 09:09:35] 00003|taskkk;1428908967;|
+[Info][CommandParser][126][04/13/15 09:09:35] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:35] message:taskkk;1428908967;
+[Info][CommandParser][97][04/13/15 09:09:39] 00003|taskkk;1428908970;|
+[Info][CommandParser][126][04/13/15 09:09:39] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:39] message:taskkk;1428908970;
+[Info][CommandParser][97][04/13/15 09:09:39] 00003|taskkk;1428908973;|
+[Info][CommandParser][126][04/13/15 09:09:39] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:39] message:taskkk;1428908973;
+[Info][CommandParser][97][04/13/15 09:09:42] 00003|taskkk;1428908976;|
+[Info][CommandParser][126][04/13/15 09:09:42] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:42] message:taskkk;1428908976;
+[Info][CommandParser][97][04/13/15 09:09:45] 00003|taskkk;1428908979;|
+[Info][CommandParser][126][04/13/15 09:09:45] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:45] message:taskkk;1428908979;
+[Info][CommandParser][97][04/13/15 09:09:48] 00003|taskkk;1428908982;|
+[Info][CommandParser][126][04/13/15 09:09:48] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:09:48] message:taskkk;1428908982;
+[Info][CommandParser][97][04/13/15 09:49:53] 00003|taskkk;1428911376;|
+[Info][CommandParser][126][04/13/15 09:49:53] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:49:53] message:taskkk;1428911376;
+[Info][CommandParser][97][04/13/15 09:49:53] 00002|Weather|
+[Info][CommandParser][104][04/13/15 09:49:53] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/13/15 09:49:54] 00003|taskkk;1428911379;|
+[Info][CommandParser][126][04/13/15 09:49:54] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:49:54] message:taskkk;1428911379;
+[Info][CommandParser][97][04/13/15 09:49:54] 00003|taskkk;1428911382;|
+[Info][CommandParser][126][04/13/15 09:49:54] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:49:54] message:taskkk;1428911382;
+[Info][CommandParser][97][04/13/15 09:49:57] 00003|taskkk;1428911385;|
+[Info][CommandParser][126][04/13/15 09:49:57] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:49:57] message:taskkk;1428911385;
+[Info][CommandParser][97][04/13/15 09:49:57] 00003|taskkk;1428911388;|
+[Info][CommandParser][126][04/13/15 09:49:57] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:49:57] message:taskkk;1428911388;
+[Info][CommandParser][97][04/13/15 09:50:00] 00003|taskkk;1428911391;|
+[Info][CommandParser][126][04/13/15 09:50:00] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:50:00] message:taskkk;1428911391;
+[Info][CommandParser][97][04/13/15 09:50:00] 00003|taskkk;1428911394;|
+[Info][CommandParser][126][04/13/15 09:50:00] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:50:00] message:taskkk;1428911394;
+[Info][CommandParser][97][04/13/15 09:50:03] 00003|taskkk;1428911397;|
+[Info][CommandParser][126][04/13/15 09:50:03] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:50:03] message:taskkk;1428911397;
+[Info][CommandParser][97][04/13/15 09:50:06] 00003|taskkk;1428911400;|
+[Info][CommandParser][126][04/13/15 09:50:06] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:50:06] message:taskkk;1428911400;
+[Info][CommandParser][97][04/13/15 09:50:09] 00003|taskkk;1428911403;|
+[Info][CommandParser][126][04/13/15 09:50:09] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:50:09] message:taskkk;1428911403;
+[Info][CommandParser][97][04/13/15 09:50:09] 00003|taskkk;1428911406;|
+[Info][CommandParser][126][04/13/15 09:50:09] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:50:09] message:taskkk;1428911406;
+[Info][CommandParser][97][04/13/15 09:50:13] 00003|taskkk;1428911409;|
+[Info][CommandParser][126][04/13/15 09:50:13] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:50:13] message:taskkk;1428911409;
+[Info][CommandParser][97][04/13/15 09:50:16] 00003|taskkk;1428911412;|
+[Info][CommandParser][126][04/13/15 09:50:16] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:50:16] message:taskkk;1428911412;
+[Info][CommandParser][97][04/13/15 09:50:19] 00003|taskkk;1428911415;|
+[Info][CommandParser][126][04/13/15 09:50:19] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:50:19] message:taskkk;1428911415;
+[Info][CommandParser][97][04/13/15 09:50:22] 00003|taskkk;1428911418;|
+[Info][CommandParser][126][04/13/15 09:50:22] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:50:22] message:taskkk;1428911418;
+[Info][CommandParser][97][04/13/15 09:50:25] 00003|taskkk;1428911421;|
+[Info][CommandParser][126][04/13/15 09:50:25] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:50:25] message:taskkk;1428911421;
+[Info][CommandParser][97][04/13/15 09:50:28] 00003|taskkk;1428911424;|
+[Info][CommandParser][126][04/13/15 09:50:28] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:50:28] message:taskkk;1428911424;
+[Info][CommandParser][97][04/13/15 09:50:31] 00003|taskkk;1428911427;|
+[Info][CommandParser][126][04/13/15 09:50:31] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:50:31] message:taskkk;1428911427;
+[Info][CommandParser][97][04/13/15 09:50:34] 00003|taskkk;1428911430;|
+[Info][CommandParser][126][04/13/15 09:50:34] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:50:34] message:taskkk;1428911430;
+[Info][CommandParser][97][04/13/15 09:50:37] 00003|taskkk;1428911433;|
+[Info][CommandParser][126][04/13/15 09:50:37] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:50:37] message:taskkk;1428911433;
+[Info][CommandParser][97][04/13/15 09:50:40] 00003|taskkk;1428911436;|
+[Info][CommandParser][126][04/13/15 09:50:40] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:50:40] message:taskkk;1428911436;
+[Info][CommandParser][97][04/13/15 09:50:44] 00003|taskkk;1428911439;|
+[Info][CommandParser][126][04/13/15 09:50:44] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:50:44] message:taskkk;1428911439;
+[Info][CommandParser][97][04/13/15 09:59:24] 00003|taskkk;1428911963;|
+[Info][CommandParser][126][04/13/15 09:59:24] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:59:24] message:taskkk;1428911963;
+[Info][CommandParser][97][04/13/15 09:59:24] 00002|Weather|
+[Info][CommandParser][104][04/13/15 09:59:24] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/13/15 09:59:27] 00003|taskkk;1428911966;|
+[Info][CommandParser][126][04/13/15 09:59:27] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:59:27] message:taskkk;1428911966;
+[Info][CommandParser][97][04/13/15 09:59:30] 00003|taskkk;1428911969;|
+[Info][CommandParser][126][04/13/15 09:59:30] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 09:59:30] message:taskkk;1428911969;
+[Info][CommandParser][97][04/13/15 10:00:59] 00003|taskkk;1428912058;|
+[Info][CommandParser][126][04/13/15 10:00:59] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:00:59] message:taskkk;1428912058;
+[Info][CommandParser][97][04/13/15 10:00:59] 00002|Weather|
+[Info][CommandParser][104][04/13/15 10:00:59] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/13/15 10:01:02] 00003|taskkk;1428912061;|
+[Info][CommandParser][126][04/13/15 10:01:02] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:01:02] message:taskkk;1428912061;
+[Info][CommandParser][97][04/13/15 10:04:36] 00002|Weather|
+[Info][CommandParser][104][04/13/15 10:04:36] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/13/15 10:04:39] 00003|taskkk;1428912279;|
+[Info][CommandParser][126][04/13/15 10:04:39] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:04:39] message:taskkk;1428912279;
+[Info][CommandParser][97][04/13/15 10:04:42] 00003|taskkk;1428912282;|
+[Info][CommandParser][126][04/13/15 10:04:42] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:04:42] message:taskkk;1428912282;
+[Info][CommandParser][97][04/13/15 10:04:45] 00003|taskkk;1428912285;|
+[Info][CommandParser][126][04/13/15 10:04:45] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:04:45] message:taskkk;1428912285;
+[Info][CommandParser][97][04/13/15 10:04:48] 00003|taskkk;1428912288;|
+[Info][CommandParser][126][04/13/15 10:04:48] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:04:48] message:taskkk;1428912288;
+[Info][CommandParser][97][04/13/15 10:04:51] 00003|taskkk;1428912291;|
+[Info][CommandParser][126][04/13/15 10:04:51] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:04:51] message:taskkk;1428912291;
+[Info][CommandParser][97][04/13/15 10:04:54] 00003|taskkk;1428912294;|
+[Info][CommandParser][126][04/13/15 10:04:54] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:04:54] message:taskkk;1428912294;
+[Info][CommandParser][97][04/13/15 10:05:38] 00003|taskkk;1428912297;|
+[Info][CommandParser][126][04/13/15 10:05:38] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:38] message:taskkk;1428912297;
+[Info][CommandParser][97][04/13/15 10:05:38] 00002|Weather|
+[Info][CommandParser][104][04/13/15 10:05:38] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/13/15 10:05:38] 00002|Weather|
+[Info][CommandParser][104][04/13/15 10:05:38] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/13/15 10:05:38] 00003|taskkk;1428912300;|
+[Info][CommandParser][126][04/13/15 10:05:38] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:38] message:taskkk;1428912300;
+[Info][CommandParser][97][04/13/15 10:05:38] 00003|taskkk;1428912303;|
+[Info][CommandParser][126][04/13/15 10:05:38] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:38] message:taskkk;1428912303;
+[Info][CommandParser][97][04/13/15 10:05:38] 00003|taskkk;1428912306;|
+[Info][CommandParser][126][04/13/15 10:05:38] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:38] message:taskkk;1428912306;
+[Info][CommandParser][97][04/13/15 10:05:38] 00003|taskkk;1428912309;|
+[Info][CommandParser][126][04/13/15 10:05:38] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:38] message:taskkk;1428912309;
+[Info][CommandParser][97][04/13/15 10:05:38] 00003|taskkk;1428912312;|
+[Info][CommandParser][126][04/13/15 10:05:38] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:38] message:taskkk;1428912312;
+[Info][CommandParser][97][04/13/15 10:05:38] 00003|taskkk;1428912315;|
+[Info][CommandParser][126][04/13/15 10:05:38] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:38] message:taskkk;1428912315;
+[Info][CommandParser][97][04/13/15 10:05:41] 00003|taskkk;1428912318;|
+[Info][CommandParser][126][04/13/15 10:05:41] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:41] message:taskkk;1428912318;
+[Info][CommandParser][97][04/13/15 10:05:41] 00003|taskkk;1428912321;|
+[Info][CommandParser][126][04/13/15 10:05:41] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:41] message:taskkk;1428912321;
+[Info][CommandParser][97][04/13/15 10:05:41] 00003|taskkk;1428912324;|
+[Info][CommandParser][126][04/13/15 10:05:41] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:41] message:taskkk;1428912324;
+[Info][CommandParser][97][04/13/15 10:05:42] 00003|taskkk;1428912327;|
+[Info][CommandParser][126][04/13/15 10:05:42] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:42] message:taskkk;1428912327;
+[Info][CommandParser][97][04/13/15 10:05:45] 00003|taskkk;1428912330;|
+[Info][CommandParser][126][04/13/15 10:05:45] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:45] message:taskkk;1428912330;
+[Info][CommandParser][97][04/13/15 10:05:45] 00003|taskkk;1428912333;|
+[Info][CommandParser][126][04/13/15 10:05:45] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:45] message:taskkk;1428912333;
+[Info][CommandParser][97][04/13/15 10:05:45] 00003|taskkk;1428912336;|
+[Info][CommandParser][126][04/13/15 10:05:45] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:45] message:taskkk;1428912336;
+[Info][CommandParser][97][04/13/15 10:05:48] 00003|taskkk;1428912339;|
+[Info][CommandParser][126][04/13/15 10:05:48] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:48] message:taskkk;1428912339;
+[Info][CommandParser][97][04/13/15 10:05:48] 00003|taskkk;1428912342;|
+[Info][CommandParser][126][04/13/15 10:05:48] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:48] message:taskkk;1428912342;
+[Info][CommandParser][97][04/13/15 10:05:51] 00003|taskkk;1428912345;|
+[Info][CommandParser][126][04/13/15 10:05:51] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:51] message:taskkk;1428912345;
+[Info][CommandParser][97][04/13/15 10:05:51] 00003|taskkk;1428912348;|
+[Info][CommandParser][126][04/13/15 10:05:51] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:51] message:taskkk;1428912348;
+[Info][CommandParser][97][04/13/15 10:05:54] 00003|taskkk;1428912351;|
+[Info][CommandParser][126][04/13/15 10:05:54] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:54] message:taskkk;1428912351;
+[Info][CommandParser][97][04/13/15 10:05:57] 00003|taskkk;1428912354;|
+[Info][CommandParser][126][04/13/15 10:05:57] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:05:57] message:taskkk;1428912354;
+[Info][CommandParser][97][04/13/15 10:06:01] 00003|taskkk;1428912357;|
+[Info][CommandParser][126][04/13/15 10:06:01] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:01] message:taskkk;1428912357;
+[Info][CommandParser][97][04/13/15 10:06:04] 00003|taskkk;1428912360;|
+[Info][CommandParser][126][04/13/15 10:06:04] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:04] message:taskkk;1428912360;
+[Info][CommandParser][97][04/13/15 10:06:07] 00003|taskkk;1428912363;|
+[Info][CommandParser][126][04/13/15 10:06:07] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:07] message:taskkk;1428912363;
+[Info][CommandParser][97][04/13/15 10:06:10] 00003|taskkk;1428912366;|
+[Info][CommandParser][126][04/13/15 10:06:10] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:10] message:taskkk;1428912366;
+[Info][CommandParser][97][04/13/15 10:06:13] 00003|taskkk;1428912369;|
+[Info][CommandParser][126][04/13/15 10:06:13] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:13] message:taskkk;1428912369;
+[Info][CommandParser][97][04/13/15 10:06:16] 00003|taskkk;1428912372;|
+[Info][CommandParser][126][04/13/15 10:06:16] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:16] message:taskkk;1428912372;
+[Info][CommandParser][97][04/13/15 10:06:19] 00003|taskkk;1428912375;|
+[Info][CommandParser][126][04/13/15 10:06:19] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:19] message:taskkk;1428912375;
+[Info][CommandParser][97][04/13/15 10:06:22] 00003|taskkk;1428912378;|
+[Info][CommandParser][126][04/13/15 10:06:22] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:22] message:taskkk;1428912378;
+[Info][CommandParser][97][04/13/15 10:06:25] 00003|taskkk;1428912381;|
+[Info][CommandParser][126][04/13/15 10:06:25] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:25] message:taskkk;1428912381;
+[Info][CommandParser][97][04/13/15 10:06:28] 00003|taskkk;1428912384;|
+[Info][CommandParser][126][04/13/15 10:06:28] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:28] message:taskkk;1428912384;
+[Info][CommandParser][97][04/13/15 10:06:32] 00003|taskkk;1428912387;|
+[Info][CommandParser][126][04/13/15 10:06:32] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:32] message:taskkk;1428912387;
+[Info][CommandParser][97][04/13/15 10:06:35] 00003|taskkk;1428912390;|
+[Info][CommandParser][126][04/13/15 10:06:35] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:35] message:taskkk;1428912390;
+[Info][CommandParser][97][04/13/15 10:06:38] 00003|taskkk;1428912393;|
+[Info][CommandParser][126][04/13/15 10:06:38] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:38] message:taskkk;1428912393;
+[Info][CommandParser][97][04/13/15 10:06:41] 00003|taskkk;1428912396;|
+[Info][CommandParser][126][04/13/15 10:06:41] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:41] message:taskkk;1428912396;
+[Info][CommandParser][97][04/13/15 10:06:44] 00003|taskkk;1428912399;|
+[Info][CommandParser][126][04/13/15 10:06:44] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:44] message:taskkk;1428912399;
+[Info][CommandParser][97][04/13/15 10:06:47] 00003|taskkk;1428912402;|
+[Info][CommandParser][126][04/13/15 10:06:47] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:47] message:taskkk;1428912402;
+[Info][CommandParser][97][04/13/15 10:06:50] 00003|taskkk;1428912405;|
+[Info][CommandParser][126][04/13/15 10:06:50] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:50] message:taskkk;1428912405;
+[Info][CommandParser][97][04/13/15 10:06:53] 00003|taskkk;1428912408;|
+[Info][CommandParser][126][04/13/15 10:06:53] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:53] message:taskkk;1428912408;
+[Info][CommandParser][97][04/13/15 10:06:56] 00003|taskkk;1428912411;|
+[Info][CommandParser][126][04/13/15 10:06:56] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:56] message:taskkk;1428912411;
+[Info][CommandParser][97][04/13/15 10:06:59] 00003|taskkk;1428912414;|
+[Info][CommandParser][126][04/13/15 10:06:59] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:06:59] message:taskkk;1428912414;
+[Info][CommandParser][97][04/13/15 10:07:03] 00003|taskkk;1428912417;|
+[Info][CommandParser][126][04/13/15 10:07:03] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:07:03] message:taskkk;1428912417;
+[Info][CommandParser][97][04/13/15 10:13:42] 00002|Weather|
+[Info][CommandParser][104][04/13/15 10:13:42] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/13/15 10:13:44] 00003|taskkk;1428912821;|
+[Info][CommandParser][126][04/13/15 10:13:44] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:13:44] message:taskkk;1428912821;
+[Info][CommandParser][97][04/13/15 10:13:51] 00002|Weather|
+[Info][CommandParser][104][04/13/15 10:13:51] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][97][04/13/15 10:13:53] 00003|taskkk;1428912824;|
+[Info][CommandParser][126][04/13/15 10:13:53] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:13:53] message:taskkk;1428912824;
+[Info][CommandParser][97][04/13/15 10:13:53] 00003|taskkk;1428912827;|
+[Info][CommandParser][126][04/13/15 10:13:53] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:13:53] message:taskkk;1428912827;
+[Info][CommandParser][97][04/13/15 10:13:56] 00003|taskkk;1428912830;|
+[Info][CommandParser][126][04/13/15 10:13:56] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:13:56] message:taskkk;1428912830;
+[Info][CommandParser][97][04/13/15 10:13:57] 00003|taskkk;1428912833;|
+[Info][CommandParser][126][04/13/15 10:13:57] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:13:57] message:taskkk;1428912833;
+[Info][CommandParser][97][04/13/15 10:14:00] 00003|taskkk;1428912836;|
+[Info][CommandParser][126][04/13/15 10:14:00] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:14:00] message:taskkk;1428912836;
+[Info][CommandParser][97][04/13/15 10:14:03] 00003|taskkk;1428912839;|
+[Info][CommandParser][126][04/13/15 10:14:03] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:14:03] message:taskkk;1428912839;
+[Info][CommandParser][97][04/13/15 10:14:06] 00003|taskkk;1428912842;|
+[Info][CommandParser][126][04/13/15 10:14:06] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:14:06] message:taskkk;1428912842;
+[Info][CommandParser][97][04/13/15 10:14:09] 00003|taskkk;1428912845;|
+[Info][CommandParser][126][04/13/15 10:14:09] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:14:09] message:taskkk;1428912845;
+[Info][CommandParser][97][04/13/15 10:14:12] 00003|taskkk;1428912848;|
+[Info][CommandParser][126][04/13/15 10:14:12] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:14:12] message:taskkk;1428912848;
+[Info][CommandParser][97][04/13/15 10:14:15] 00003|taskkk;1428912851;|
+[Info][CommandParser][126][04/13/15 10:14:15] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:14:15] message:taskkk;1428912851;
+[Info][CommandParser][97][04/13/15 10:14:18] 00003|taskkk;1428912854;|
+[Info][CommandParser][126][04/13/15 10:14:18] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:14:18] message:taskkk;1428912854;
+[Info][CommandParser][97][04/13/15 10:14:21] 00003|taskkk;1428912857;|
+[Info][CommandParser][126][04/13/15 10:14:21] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:14:21] message:taskkk;1428912857;
+[Info][CommandParser][97][04/13/15 10:14:25] 00003|taskkk;1428912860;|
+[Info][CommandParser][126][04/13/15 10:14:25] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:14:25] message:taskkk;1428912860;
+[Info][CommandParser][97][04/13/15 10:14:28] 00003|taskkk;1428912863;|
+[Info][CommandParser][126][04/13/15 10:14:28] cmd: CMD_MESSAGE
+[Info][CommandParser][128][04/13/15 10:14:28] message:taskkk;1428912863;

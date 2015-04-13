@@ -20,11 +20,13 @@ class CClient
         }
         std::string CommandCreate(CMD cmdID, std::string parm1);
         bool Send(std::string msg);
+        bool IsConnect() { return m_isConnect;}
+        bool SetIsConnect(bool val) { m_isConnect = val; return val;}
     protected:
     private:
         DWORD WINAPI ThreadStart();
         void CommandParser(std::string command);
-
+        bool m_isConnect;
         char* m_ipAddres;
         int m_port;
         int m_hsock;

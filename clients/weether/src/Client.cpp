@@ -113,6 +113,7 @@ DWORD WINAPI CClient::ThreadStart()
 */
         if((bytecount = recv(m_hsock, buffer, buffer_len, 0))==SOCKET_ERROR){
             fprintf(stderr, "Error receiving data %d\n", WSAGetLastError());
+            m_isConnect = false;
             break;
         }
         this->CommandParser(std::string(buffer));
