@@ -12,6 +12,95 @@
 
 HINSTANCE hInst;
 
+std::string GetWindowText(HWND hwndDlg, int id) {
+    TCHAR buffDataOd[1024];
+    HWND hwndComponnent =       GetDlgItem(hwndDlg, id);
+    GetWindowText(hwndComponnent, buffDataOd, 1024);
+    return std::string(buffDataOd);
+}
+
+time_t ConvertStringToTime_T(std::string date, std::string time) {
+    time_t result = 0;
+    struct tm * timeinfo=  localtime( & result );
+    if (date.size() == 10)
+    {
+
+        std::string strYear = date.substr(0,4);
+        std::string strMonth = date.substr(5,2);
+        std::string strDay = date.substr(8,2);
+        timeinfo->tm_year = atoi(strYear.c_str()) - 1900;
+        timeinfo->tm_mon  = atoi(strMonth.c_str()) - 1;
+        timeinfo->tm_mday   = atoi(strDay.c_str());
+        if (time.size() ==  8) {
+            std::string strH = time.substr(0,2);
+            std::string strM = time.substr(0,2);
+            std::string strS = time.substr(0,2);
+            timeinfo->tm_hour = atoi(strH.c_str());
+            timeinfo->tm_min = atoi(strM.c_str());
+            timeinfo->tm_sec = atoi(strS.c_str());
+        }
+    }
+    result = mktime(timeinfo);
+    return result;
+}
+
+BOOL CALLBACK DlgTask(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
+{
+    switch(uMsg)
+    {
+    case WM_INITDIALOG:
+    {
+    }
+    return TRUE;
+
+    case WM_CLOSE:
+    {
+
+        EndDialog(hwndDlg, 0);
+    }
+    return TRUE;
+
+    case WM_COMMAND:
+    {
+        switch(LOWORD(wParam))
+        {
+
+            case IDOK:
+            {
+                std::string name = GetWindowText(hwndDlg,IDD_DIALOG_TASK_NAME);
+                std::string dateSt = GetWindowText(hwndDlg,IDD_DIALOG_TASK_DATE_ST);
+                std::string timeSt = GetWindowText(hwndDlg,IDD_DIALOG_TASK_TIME_ST);
+                std::string dateEnd = GetWindowText(hwndDlg,IDD_DIALOG_TASK_DATE_END);
+                std::string timeEnd = GetWindowText(hwndDlg,IDD_DIALOG_TASK_TIME_END);
+                std::string interval = GetWindowText(hwndDlg,IDD_DIALOG_TASK_INTERVAL);
+                //indexJob = GetWindowText(hwndDlg,IDD_DIALOG_TASK_NAME);
+                int intInterval = 0;
+                time_t tDateSt = ConvertStringToTime_T(dateSt, timeSt);
+                time_t tDateEnd = 0;
+                if (SendDlgItemMessage(hwndDlg,IDD_DIALOG_TASK_CHECK_STOP ,BM_GETCHECK,0,0)==BST_CHECKED)  {
+                    tDateEnd = ConvertStringToTime_T(dateEnd, timeEnd);
+                }
+
+                if (SendDlgItemMessage(hwndDlg,IDD_DIALOG_TASK_CHECK_INTERVAL ,BM_GETCHECK,0,0)==BST_CHECKED)  {
+                    intInterval = atoi(interval.c_str());
+                }
+
+                CScheduleManager::getInstance().AddTask(name, tDateSt, tDateEnd , intInterval );
+                EndDialog(hwndDlg, IDOK);
+                break;
+            }
+            case IDCANCEL:
+            {
+                EndDialog(hwndDlg, IDCANCEL);
+                break;
+            }
+        }
+    }
+    return TRUE;
+    }
+    return FALSE;
+}
+
 void RefreshListViewSchedule(HWND listView) {
     //HWND listView = parm.handle;
     LVITEM lvi;
@@ -69,7 +158,7 @@ BOOL CALLBACK DlgSchedule(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
         ListView_InsertColumn( listView, 2, & lvc );
 
         lvc.iSubItem = 0;
-        lvc.cx = 100;
+        lvc.cx = 120;
         lvc.pszText = adressIP;
         ListView_InsertColumn( listView, 3, & lvc );
 
@@ -93,11 +182,20 @@ BOOL CALLBACK DlgSchedule(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     }
     return TRUE;
 
-    case WM_RBUTTONDOWN:
+    case WM_CONTEXTMENU:
             {
+
+                int iSelected = -1;
+                iSelected = SendMessage(GetDlgItem(hwndDlg,DLG_SCHEDULE_LISTVIE), LVM_GETNEXTITEM, -1,LVNI_SELECTED);
+
                 POINT cursor;
                 GetCursorPos(&cursor);
-                TrackPopupMenu((HMENU) GetSubMenu(LoadMenu(hInst, MAKEINTRESOURCE(IDR_MENU_SCHEDUL_EDIT)), 0), TPM_LEFTALIGN, cursor.x, cursor.y, 0, hwndDlg, NULL);
+                if (iSelected != -1) {
+                    TrackPopupMenu((HMENU) GetSubMenu(LoadMenu(hInst, MAKEINTRESOURCE(IDR_MENU_SCHEDUL_EDIT_ACTIVE)), 0), TPM_LEFTALIGN, cursor.x, cursor.y, 0, hwndDlg, NULL);
+                } else {
+                    TrackPopupMenu((HMENU) GetSubMenu(LoadMenu(hInst, MAKEINTRESOURCE(IDR_MENU_SCHEDUL_EDIT)), 0), TPM_LEFTALIGN, cursor.x, cursor.y, 0, hwndDlg, NULL);
+                }
+
             }
             break;
 
@@ -105,6 +203,24 @@ BOOL CALLBACK DlgSchedule(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     {
         switch(LOWORD(wParam))
         {
+            case IDR_MENU_SCHEDUL_EDIT_ADD: {
+                printf("IDR_MENU_SCHEDUL_EDIT_ADD:\n");
+                int res = DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_TASK), NULL, (DLGPROC)DlgTask);
+                if (res == IDOK) {
+                    HWND listView = GetDlgItem(hwndDlg, DLG_SCHEDULE_LISTVIE);
+                    RefreshListViewSchedule(listView);
+                }
+                break;
+            }
+            case IDR_MENU_SCHEDUL_EDIT_EDIT: {
+                printf("IDR_MENU_SCHEDUL_EDIT_EDIT:\n");
+                DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_TASK), NULL, (DLGPROC)DlgTask);
+                break;
+            }
+            case IDR_MENU_SCHEDUL_EDIT_DELETE: {
+                printf("IDR_MENU_SCHEDUL_EDIT_DELETE:\n");
+                break;
+            }
         }
     }
     return TRUE;

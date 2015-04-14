@@ -10,7 +10,7 @@ CScheduleManager::CScheduleManager()
     time_t now;
     time( & now );
 
-    AddTask("taskkk",now + 3 , 0, 2);
+    AddTask("taskkk",now + 3 , 0, 12);
    // AddTask("tassooo", now+21, now+28, 0);
 }
 
@@ -113,6 +113,8 @@ DWORD CScheduleManager::ThreadStart()
                             //task posiada interwal;
                             //CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + "  posiada interwal." );
                             itVCTask->SetDateStart( itVCTask->GetDateStart() + itVCTask->GetInterval());
+                        } else {
+                           // RemoveTask(i);
                         }
                 }
            }
