@@ -3069,3 +3069,18 @@
 [Info][ThreadSendMessages][43][04/14/15 09:08:01] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
 [Info][Save][30][04/14/15 09:08:06] 
 [Info][Save][30][04/14/15 09:08:06] 
+[Info][WaitingForServer][21][04/15/15 20:26:31] Thread: Oczekiwanie na serwer....
+[Info][Load][50][04/15/15 20:26:31] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:26:31] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][112][04/15/15 20:26:31] 
+[Info][CommandParser][57][04/15/15 20:26:31] CClient: 00001||
+[Info][ThreadStart][118][04/15/15 20:26:31] 
+[Info][Save][35][04/15/15 20:26:43] 
+[Info][Save][35][04/15/15 20:26:45] 
+[Info][WaitingForServer][21][04/15/15 20:26:53] Thread: Oczekiwanie na serwer....
+[Info][ThreadWaitingForServer][34][04/15/15 20:26:53] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][CommandParser][57][04/15/15 20:26:53] CClient: 00001||
+[Info][Start][112][04/15/15 20:26:53] 
+[Info][ThreadStart][118][04/15/15 20:26:53] 
+[Info][Save][35][04/15/15 20:28:18] 
+[Info][Save][35][04/15/15 20:28:21] 

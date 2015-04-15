@@ -6,12 +6,15 @@
 #include <windows.h>
 
 class CTask {
-    std::string m_name;
+    char m_name[30];
     time_t m_dateStart;
     time_t m_dateEnd;
     int m_interval;
 public:
-    CTask(std::string _name, time_t _dateStart, time_t _dateEnd, int _interval) : m_name(_name), m_dateStart(_dateStart), m_dateEnd(_dateEnd), m_interval(_interval)  {}
+    CTask() {};
+    CTask(std::string _name, time_t _dateStart, time_t _dateEnd, int _interval) : m_dateStart(_dateStart), m_dateEnd(_dateEnd), m_interval(_interval)  {
+        strcpy(m_name, _name.c_str());
+    }
     void Run();
 
     std::string GetStrName();
@@ -41,6 +44,7 @@ class CScheduleManager
         void Save();
         void Load();
         void AddTask(std::string name, time_t st, time_t  en, int interval);
+        void AddTask(const CTask& task);
         void RemoveTask(unsigned int index);
         void Start();
         void Print();

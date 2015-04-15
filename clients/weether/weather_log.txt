@@ -29289,3 +29289,1698 @@
 [Info][ThreadWaitingForServer][31][04/15/15 16:03:24] >>>[ping serwera]<<<
 [Info][Save][40][04/15/15 16:03:26] 
 [Info][Save][40][04/15/15 16:03:28] 
+[Info][WaitingForServer][21][04/15/15 18:12:00] Thread: Oczekiwanie na serwer....
+[Info][Load][54][04/15/15 18:12:00] 
+[Info][ThreadWaitingForServer][31][04/15/15 18:12:01] >>>[ping serwera]<<<
+[Info][WaitingForServer][21][04/15/15 18:12:51] Thread: Oczekiwanie na serwer....
+[Info][Load][54][04/15/15 18:12:51] 
+[Info][ThreadWaitingForServer][31][04/15/15 18:12:52] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:12:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:12:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:13:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:13:07] >>>[ping serwera]<<<
+[Info][WaitingForServer][21][04/15/15 18:28:09] Thread: Oczekiwanie na serwer....
+[Info][Load][54][04/15/15 18:28:09] 
+[Info][ThreadWaitingForServer][31][04/15/15 18:28:10] >>>[ping serwera]<<<
+[Info][WaitingForServer][21][04/15/15 18:32:42] Thread: Oczekiwanie na serwer....
+[Info][Load][54][04/15/15 18:32:42] 
+[Info][Start][111][04/15/15 18:32:42] 
+[Info][ThreadStart][117][04/15/15 18:32:42] 
+[Info][ThreadWaitingForServer][31][04/15/15 18:32:43] >>>[ping serwera]<<<
+[Info][Save][40][04/15/15 18:32:45] 
+[Info][WaitingForServer][21][04/15/15 18:34:25] Thread: Oczekiwanie na serwer....
+[Info][Load][54][04/15/15 18:34:25] 
+[Info][WaitingForServer][21][04/15/15 18:49:13] Thread: Oczekiwanie na serwer....
+[Info][Load][54][04/15/15 18:49:13] 
+[Info][ThreadWaitingForServer][31][04/15/15 18:49:14] >>>[ping serwera]<<<
+[Info][WaitingForServer][21][04/15/15 18:52:27] Thread: Oczekiwanie na serwer....
+[Info][Load][54][04/15/15 18:52:27] 
+[Info][Start][111][04/15/15 18:52:27] 
+[Info][ThreadStart][117][04/15/15 18:52:27] 
+[Info][ThreadWaitingForServer][31][04/15/15 18:52:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:52:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:52:36] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:52:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:52:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:52:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:52:52] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:52:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:53:00] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:53:01] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][SendMessages][32][04/15/15 18:53:01] 
+[Info][ThreadSendMessages][38][04/15/15 18:53:01] 
+[Info][Run][166][04/15/15 18:53:02] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:53:03] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:53:03] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:53:03] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:53:04] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:53:04] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:53:04] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:53:05] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:53:06] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:53:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:53:12] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:53:13] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:53:14] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:53:15] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:53:15] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:53:15] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:53:16] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:53:16] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:53:16] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:53:17] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:53:18] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:53:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:53:23] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:53:25] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:53:26] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:53:27] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:53:27] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:53:27] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:53:27] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:53:28] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:53:28] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:53:29] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:53:30] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:53:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:53:36] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:53:37] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:53:39] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:53:39] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:53:39] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:53:39] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:53:40] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:53:40] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:53:40] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:53:41] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:53:42] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:53:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:53:48] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:53:49] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:53:50] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:53:51] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:53:51] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:53:51] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:53:52] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:53:52] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:53:52] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:53:53] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:53:54] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:53:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:54:00] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:54:01] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:54:02] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:54:03] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:54:03] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:54:03] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:54:04] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:54:04] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:54:04] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:54:05] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:54:06] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:54:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:54:11] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:54:13] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:54:14] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:54:15] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:54:15] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:54:15] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:54:15] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:54:16] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:54:16] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:54:17] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:54:18] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:54:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:54:23] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:54:25] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:54:27] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:54:27] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:54:27] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:54:27] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:54:28] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:54:28] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:54:28] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:54:29] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:54:30] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:54:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:54:36] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:54:37] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:54:38] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:54:39] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:54:39] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:54:39] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:54:40] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:54:40] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:54:40] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:54:41] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:54:42] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:54:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:54:47] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:54:49] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:54:50] Task: fgjfgjgfjtaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:54:51] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:54:51] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:54:51] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:54:51] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:54:52] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:54:52] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:54:53] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:54:54] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:54:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:54:59] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:55:02] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:55:02] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:55:03] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:55:03] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:55:03] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:55:03] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:55:04] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:55:04] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:55:05] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:55:06] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:55:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:55:12] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:55:13] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:55:14] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:55:15] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:55:15] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:55:15] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:55:16] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:55:16] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:55:17] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:55:17] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:55:19] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:55:21] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:55:25] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:55:25] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:55:26] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:55:27] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:55:27] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:55:27] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:55:28] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:55:28] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:55:29] Task: tasasdadasdkkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:55:30] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:55:30] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:55:34] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:55:37] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:55:38] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:55:38] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:55:39] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:55:39] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:55:39] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:55:40] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:55:40] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:55:41] Task: tasasdadasdkkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:55:41] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:55:42] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:55:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:55:48] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:55:49] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:55:50] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:55:51] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:55:51] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:55:51] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:55:51] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:55:52] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:55:52] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:55:53] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:55:54] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:55:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:55:58] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:56:01] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:56:01] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:56:02] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:56:03] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:56:03] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:56:03] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:56:04] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:56:04] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:56:04] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:56:05] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:56:06] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:56:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:56:12] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:56:13] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:56:14] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:56:15] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:56:15] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:56:15] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:56:16] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:56:16] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:56:16] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:56:17] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:56:18] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:56:20] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:56:24] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:56:25] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:56:26] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:56:27] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:56:27] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:56:27] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:56:28] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:56:28] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:56:28] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:56:29] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:56:30] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:56:33] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:56:37] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:56:38] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:56:38] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:56:40] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:56:40] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:56:40] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:56:40] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:56:40] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:56:41] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:56:42] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:56:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:56:48] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:56:49] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:56:51] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:56:51] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:56:51] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:56:51] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:56:52] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:56:52] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:56:52] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:56:53] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:56:54] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:56:57] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:57:01] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:57:01] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:57:02] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:57:03] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:57:03] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:57:03] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:57:04] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:57:04] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:57:05] Task: tasasdadasdkkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:57:05] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:57:06] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:57:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:57:13] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:57:13] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:57:14] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:57:15] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:57:15] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:57:15] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:57:16] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:57:16] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:57:17] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:57:17] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:57:18] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:57:20] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:57:23] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:57:25] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:57:26] Task: fgjfgjgfjtaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:57:27] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:57:27] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:57:27] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:57:27] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:57:28] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:57:28] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:57:29] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:57:30] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:57:30] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:57:34] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:57:37] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:57:37] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:57:38] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:57:39] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:57:39] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:57:39] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:57:40] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:57:40] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:57:41] Task: tasasdadasdkkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:57:41] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:57:42] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:57:45] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:57:49] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:57:50] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:57:50] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:57:51] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:57:51] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:57:51] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:57:52] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:57:52] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:57:54] Task: taskkk RUN!
+[Info][Run][166][04/15/15 18:57:54] Task: tasasdadasdkkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:57:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:57:59] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:58:02] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:58:02] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:58:03] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:58:03] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:58:03] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:58:03] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:58:04] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:58:04] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:58:05] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:58:06] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:58:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:58:13] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:58:13] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:58:14] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:58:15] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:58:15] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:58:15] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:58:16] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:58:16] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:58:17] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:58:17] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:58:18] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:58:21] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:58:25] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:58:25] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:58:26] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:58:27] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:58:27] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:58:27] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:58:28] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:58:28] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:58:29] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:58:29] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:58:30] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:58:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:58:36] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:58:37] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:58:38] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:58:39] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:58:39] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:58:39] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:58:39] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:58:40] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:58:40] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:58:41] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:58:42] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:58:42] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:58:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:58:49] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:58:49] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:58:50] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:58:51] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:58:51] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:58:51] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:58:52] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:58:52] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:58:52] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:58:53] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:58:54] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:58:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:59:00] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:59:01] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:59:02] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:59:03] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:59:03] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:59:03] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:59:04] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:59:04] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:59:04] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:59:05] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:59:06] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:59:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:59:12] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:59:13] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:59:15] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:59:15] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:59:15] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:59:15] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:59:16] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:59:16] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:59:16] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:59:17] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:59:18] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:59:21] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:59:25] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:59:26] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:59:26] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:59:27] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:59:27] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:59:27] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:59:29] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:59:29] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:59:29] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:59:30] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:59:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 18:59:36] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:59:38] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:59:38] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 18:59:39] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:59:39] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:59:39] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:59:40] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:59:40] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:59:41] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:59:41] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 18:59:42] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:59:45] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:59:49] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 18:59:50] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 18:59:50] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 18:59:51] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 18:59:51] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 18:59:51] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 18:59:52] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 18:59:52] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 18:59:53] Task: tasasdadasdkkk RUN!
+[Info][Save][40][04/15/15 18:59:54] 
+[Info][WaitingForServer][21][04/15/15 19:00:10] Thread: Oczekiwanie na serwer....
+[Info][Load][54][04/15/15 19:00:10] 
+[Info][Start][111][04/15/15 19:00:10] 
+[Info][ThreadStart][117][04/15/15 19:00:10] 
+[Info][ThreadWaitingForServer][31][04/15/15 19:00:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:00:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:00:18] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:00:21] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:00:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:00:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:00:30] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:00:34] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:00:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:00:41] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:00:44] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][SendMessages][32][04/15/15 19:00:44] 
+[Info][ThreadSendMessages][38][04/15/15 19:00:44] 
+[Info][ThreadWaitingForServer][31][04/15/15 19:00:45] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:00:45] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:00:46] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:00:46] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:00:46] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:00:47] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:00:47] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:00:48] Task: tasasdadasdkkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:00:49] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:00:49] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:00:53] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:00:56] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:00:57] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:00:57] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:00:58] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:00:58] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:00:58] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:00:59] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:00:59] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:01:01] Task: taskkk RUN!
+[Info][Run][166][04/15/15 19:01:01] Task: tasasdadasdkkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:01:02] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:01:06] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:01:08] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:01:09] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:01:10] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:01:10] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:01:10] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:01:11] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:01:11] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:01:11] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:01:12] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:01:14] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:01:16] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:01:20] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:01:21] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:01:21] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:01:23] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:01:23] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:01:23] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:01:23] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:01:23] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:01:24] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:01:25] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:01:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:01:31] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:01:32] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:01:33] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:01:34] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:01:34] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:01:34] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:01:35] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:01:35] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:01:36] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:01:36] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:01:38] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:01:41] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:01:44] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:01:45] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:01:45] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:01:46] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:01:46] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:01:46] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:01:47] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:01:47] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:01:49] Task: taskkk RUN!
+[Info][Run][166][04/15/15 19:01:49] Task: tasasdadasdkkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:01:49] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:01:53] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:01:56] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:01:57] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:01:57] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:01:58] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:01:58] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:01:58] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:01:59] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:01:59] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:02:00] Task: tasasdadasdkkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:01] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:02:01] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:04] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:08] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:02:08] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:02:09] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:02:10] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:02:10] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:02:10] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:11] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:02:11] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:02:11] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:02:12] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:02:13] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:20] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:02:20] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:02:21] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:02:22] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:02:22] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:02:22] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:23] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:02:23] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:02:23] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:02:24] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:02:25] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:29] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:02:32] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:32] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:02:33] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:02:34] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:02:34] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:02:34] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:02:35] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:02:35] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:36] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:02:36] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:02:37] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:43] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:02:44] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:02:45] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:02:46] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:02:46] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:02:46] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:47] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:02:47] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:02:47] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:02:48] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:02:50] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:50] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:55] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:02:56] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:02:57] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:02:58] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:02:58] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:02:58] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:02:59] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:02:59] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:02:59] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:03:00] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:03:01] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:03:03] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:03:08] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:03:08] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:03:09] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:03:10] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:03:10] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:03:10] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:03:11] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:03:11] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:03:13] Task: taskkk RUN!
+[Info][Run][166][04/15/15 19:03:13] Task: tasasdadasdkkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:03:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:03:18] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:03:20] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:03:21] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:03:23] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:03:23] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:03:23] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:03:23] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:03:23] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:03:23] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:03:24] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:03:25] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:03:28] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:03:32] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:03:33] Task: fgjfgjgfjtaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:03:34] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:03:35] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:03:35] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:03:35] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:03:35] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:03:35] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:03:36] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:03:37] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:03:39] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:03:44] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:03:44] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:03:45] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:03:46] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:03:46] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:03:46] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:03:47] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:03:47] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:03:49] Task: taskkk RUN!
+[Info][Run][166][04/15/15 19:03:49] Task: tasasdadasdkkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:03:49] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:03:53] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:03:56] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:03:57] Task: fgjfgjgfjtaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:03:58] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:03:59] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:03:59] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:03:59] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:03:59] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:03:59] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:04:00] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:04:01] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:04:02] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:04:06] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:04:08] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:04:09] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:04:10] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:04:10] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:04:10] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:04:10] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:04:11] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:04:11] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:04:12] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:04:13] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:04:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:04:17] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:04:20] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:04:20] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:04:21] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:04:22] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:04:22] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:04:22] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:04:23] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:04:23] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:04:24] Task: tasasdadasdkkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:04:24] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:04:25] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:04:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:04:30] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:04:32] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:04:33] Task: fgjfgjgfjtaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:04:33] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:04:34] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:04:34] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:04:34] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:04:35] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:04:35] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:04:36] Task: tasasdadasdkkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:04:36] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:04:37] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:04:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:04:42] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:04:44] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:04:45] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:04:46] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:04:46] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:04:46] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:04:46] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:04:47] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:04:47] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:04:48] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:04:49] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:04:49] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:04:53] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:04:56] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:04:57] Task: fgjfgjgfjtaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:04:57] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:04:58] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:04:58] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:04:58] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:04:59] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:04:59] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:05:00] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:05:01] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:05:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:05:05] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:05:08] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:05:09] Task: fgjfgjgfjtaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:05:09] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:05:10] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:05:10] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:05:10] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:05:11] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:05:11] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:05:13] Task: taskkk RUN!
+[Info][Run][166][04/15/15 19:05:13] Task: tasasdadasdkkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:05:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:05:19] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:05:20] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:05:21] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:05:22] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:05:22] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:05:22] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:05:23] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:05:23] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:05:23] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:05:25] Task: taskkk RUN!
+[Info][Run][166][04/15/15 19:05:25] Task: tasasdadasdkkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:05:29] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:05:32] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:05:34] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:05:34] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:05:34] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:05:34] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:05:34] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:05:35] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:05:35] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:05:36] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:05:37] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:05:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:05:43] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:05:44] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:05:46] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:05:46] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:05:46] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:05:46] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:05:47] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:05:47] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:05:48] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:05:48] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:05:49] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:05:52] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:05:56] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:05:56] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:05:57] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:05:58] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:05:58] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:05:58] Task: tfffffaskkk RUN!
+[Info][Run][166][04/15/15 19:05:59] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:05:59] Task: tgfhfghfghaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:06:00] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:06:00] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:06:01] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:06:04] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:06:08] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:06:08] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][166][04/15/15 19:06:09] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][166][04/15/15 19:06:10] Task: tasasdasdkkk RUN!
+[Info][Run][166][04/15/15 19:06:10] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][166][04/15/15 19:06:10] Task: tfffffaskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:06:11] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:06:11] Task: tas23423423kkk RUN!
+[Info][Run][166][04/15/15 19:06:11] Task: tgfhfghfghaskkk RUN!
+[Info][Run][166][04/15/15 19:06:12] Task: tasasdadasdkkk RUN!
+[Info][Run][166][04/15/15 19:06:13] Task: taskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:06:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/15/15 19:06:17] >>>[ping serwera]<<<
+[Info][Save][40][04/15/15 19:06:18] 
+[Info][Run][166][04/15/15 19:06:20] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][ThreadWaitingForServer][31][04/15/15 19:06:20] >>>[ping serwera]<<<
+[Info][Run][166][04/15/15 19:06:21] Task: fgjfgjgfjtaskkk RUN!
+[Info][Save][40][04/15/15 19:06:21] 
+[Info][WaitingForServer][21][04/15/15 19:30:58] Thread: Oczekiwanie na serwer....
+[Info][Load][54][04/15/15 19:30:58] 
+[Info][ThreadWaitingForServer][34][04/15/15 19:30:58] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][116][04/15/15 19:30:58] 
+[Info][CommandParser][57][04/15/15 19:30:58] CClient: 00001||
+[Info][ThreadStart][122][04/15/15 19:30:58] 
+[Info][Run][171][04/15/15 19:30:58] Task: taskkk RUN!
+[Info][SendMessages][32][04/15/15 19:30:58] 
+[Info][Run][171][04/15/15 19:30:58] Task: tasasdadasdkkk RUN!
+[Info][ThreadSendMessages][38][04/15/15 19:30:58] 
+[Info][Run][171][04/15/15 19:30:58] Task: tas23423423kkk RUN!
+[Info][ThreadSendMessages][43][04/15/15 19:30:58] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][Run][171][04/15/15 19:30:58] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:30:58] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:30:58] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:30:58] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:30:58] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:30:58] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:30:58] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:30:59] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:30:59] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:30:59] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:30:59] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:30:59] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:30:59] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:30:59] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:30:59] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:30:59] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:30:59] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:00] Task: tfffffaskkk RUN!
+[Info][ThreadSendMessages][43][04/15/15 19:31:01] Kolejka wiedomosci zawiera 35 niewyslanych wiadomosci, wysy³anie...
+[Info][Run][171][04/15/15 19:31:01] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:01] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:01] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:01] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:01] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:01] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:01] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:01] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:01] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:01] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:02] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:02] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:02] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:02] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:02] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:02] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:02] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:02] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:02] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:02] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:03] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:03] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:03] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:03] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:03] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:03] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:03] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:03] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:03] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:03] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:04] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:04] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:04] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:04] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:04] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:04] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:04] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:04] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:04] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:04] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:05] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:05] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:05] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:05] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:05] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:05] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:05] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:05] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:05] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:05] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:06] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:06] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:06] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:06] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:06] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:06] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:06] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:06] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:06] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:06] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:07] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:07] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:07] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:07] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:07] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:07] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:07] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:07] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:07] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:07] Task: tfffffaskkk RUN!
+[Info][ThreadSendMessages][43][04/15/15 19:31:07] Kolejka wiedomosci zawiera 67 niewyslanych wiadomosci, wysy³anie...
+[Info][Run][171][04/15/15 19:31:08] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:08] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:09] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:09] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:09] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:09] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:09] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:09] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:09] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:09] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:09] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:09] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:10] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:10] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:10] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:10] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:10] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:10] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:10] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:10] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:10] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:10] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:11] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:11] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:11] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:11] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:11] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:11] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:11] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:11] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:11] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:11] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:12] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:12] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:12] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:12] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:12] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:12] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:12] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:12] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:12] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:12] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:13] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:13] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:13] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:13] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:13] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:13] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:13] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:13] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:13] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:13] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:14] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:14] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:14] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:14] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:14] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:14] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:14] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:14] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:14] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:14] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:15] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:15] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:15] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:15] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:15] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:15] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:15] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:15] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:15] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:15] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:16] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:16] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:16] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:16] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:16] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:16] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:16] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:16] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:16] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:16] Task: tfffffaskkk RUN!
+[Info][ThreadSendMessages][43][04/15/15 19:31:17] Kolejka wiedomosci zawiera 98 niewyslanych wiadomosci, wysy³anie...
+[Info][Run][171][04/15/15 19:31:17] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:17] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:17] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:17] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:17] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:17] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:17] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:17] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:17] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:17] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:18] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:18] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:18] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:18] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:18] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:18] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:18] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:18] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:18] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:18] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:19] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:19] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:19] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:19] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:19] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:19] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:19] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:19] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:19] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:19] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:20] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:20] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:20] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:20] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:20] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:20] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:20] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:20] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:20] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:20] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:21] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:21] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:21] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:21] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:21] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:21] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:21] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:21] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:21] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:21] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:22] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:22] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:22] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:22] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:22] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:23] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:23] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:23] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:23] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:23] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:24] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:24] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:24] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:24] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:24] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:24] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:24] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:24] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:24] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:24] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:25] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:25] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:25] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:25] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:25] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:25] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:25] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:25] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:25] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:25] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:26] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:26] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:26] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:26] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:26] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:26] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:26] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:26] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:26] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:26] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:27] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:27] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:27] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:27] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:27] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:27] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:27] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:27] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:27] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:27] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:28] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:28] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:28] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:28] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:28] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:28] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:28] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:28] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:28] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:28] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:29] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:29] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:29] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:29] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:29] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:29] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:29] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:29] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:29] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:29] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:30] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:30] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:30] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:30] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:30] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:30] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:30] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:30] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:30] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:30] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:31] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:31] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:31] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:31] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:31] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:31] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:31] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:31] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:31] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:31] Task: tfffffaskkk RUN!
+[Info][ThreadSendMessages][43][04/15/15 19:31:32] Kolejka wiedomosci zawiera 134 niewyslanych wiadomosci, wysy³anie...
+[Info][Run][171][04/15/15 19:31:33] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:33] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:33] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:33] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:33] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:33] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:33] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:33] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:33] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:33] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:33] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:33] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:34] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:34] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:34] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:34] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:34] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:34] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:34] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:34] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:34] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:34] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:34] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:34] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:34] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:35] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:35] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:35] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:35] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:35] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:35] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:35] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:35] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:35] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:35] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:35] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:35] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:36] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:36] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:36] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:36] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:36] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:36] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:36] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:36] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:36] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:36] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:36] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:37] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:37] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:37] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:37] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:37] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:37] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:37] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:37] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:37] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:37] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:37] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:39] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:39] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:39] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:39] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:39] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:39] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:39] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:39] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:39] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:39] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:40] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:40] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:40] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:40] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:40] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:40] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:40] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:40] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:40] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:40] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:41] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:41] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:41] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:41] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:41] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:41] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:41] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:41] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:41] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:41] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:42] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:42] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:42] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:42] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:42] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:42] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:42] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:42] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:42] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:42] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:43] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:43] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:43] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:43] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:43] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:43] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:43] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:43] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:43] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:43] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:44] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:44] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:44] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:44] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:44] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:44] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:44] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:44] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:44] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:44] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:44] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:45] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:45] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:45] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:45] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:45] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:45] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:45] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:45] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:45] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:45] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:45] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:46] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:46] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:46] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:46] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:46] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:46] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:46] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:46] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:46] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:46] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:46] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:46] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:46] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:47] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:47] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:47] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:47] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:47] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:47] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:47] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:47] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:47] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:47] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:47] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:47] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:48] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:48] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:48] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:48] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:48] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:48] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:48] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:48] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:48] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:48] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:48] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:49] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:49] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:49] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:49] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:49] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:49] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:49] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:49] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:49] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:49] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:49] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:50] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:50] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:50] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:50] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:50] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:50] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:50] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:50] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:50] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:50] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:51] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:51] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:51] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:51] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:51] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:51] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:51] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:51] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:51] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:51] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:52] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:52] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:52] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:52] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:52] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:52] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:52] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:52] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:52] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:52] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:53] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:53] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:53] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:53] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:53] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:53] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:53] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:53] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:53] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:53] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:54] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:54] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:54] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:54] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:54] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:54] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:54] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:54] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:54] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:54] Task: tfffffaskkk RUN!
+[Info][ThreadSendMessages][43][04/15/15 19:31:55] Kolejka wiedomosci zawiera 196 niewyslanych wiadomosci, wysy³anie...
+[Info][Run][171][04/15/15 19:31:55] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:55] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:55] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:55] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:55] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:55] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:55] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:55] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:55] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:55] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:56] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:56] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:56] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:57] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:57] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:57] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:57] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:57] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:57] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:57] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:57] Task: tfffffaskkk RUN!
+[Info][Save][40][04/15/15 19:31:57] 
+[Info][Run][171][04/15/15 19:31:58] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:58] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:58] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:58] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:58] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:58] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:58] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:58] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:58] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:58] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:58] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:58] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:58] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:58] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:59] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:59] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:59] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:31:59] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:59] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:31:59] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:31:59] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:31:59] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:31:59] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:31:59] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:31:59] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:31:59] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:32:00] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:32:00] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:32:00] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:32:00] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:32:00] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:32:00] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:32:00] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:32:00] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:32:00] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:32:00] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:32:00] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:32:01] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:32:01] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:32:01] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:32:01] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:32:01] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:32:01] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:32:01] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:32:01] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:32:01] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:32:01] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:32:01] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:32:02] Task: taskkk RUN!
+[Info][Run][171][04/15/15 19:32:02] Task: tasasdadasdkkk RUN!
+[Info][Run][171][04/15/15 19:32:02] Task: tas23423423kkk RUN!
+[Info][Run][171][04/15/15 19:32:02] Task: tasasdasdkkk RUN!
+[Info][Run][171][04/15/15 19:32:02] Task: taskdasdasdasdasdasdkk RUN!
+[Info][Run][171][04/15/15 19:32:02] Task: tgfhfghfghaskkk RUN!
+[Info][Run][171][04/15/15 19:32:02] Task: fgjfgjgfjtaskkk RUN!
+[Info][Run][171][04/15/15 19:32:02] Task: tagfdhfghgfjfgjskkk RUN!
+[Info][Run][171][04/15/15 19:32:02] Task: tfffffaskkk RUN!
+[Info][Run][171][04/15/15 19:32:02] Task: tfffffaskkk RUN!
+[Info][Save][40][04/15/15 19:32:02] 
+[Info][WaitingForServer][21][04/15/15 19:54:38] Thread: Oczekiwanie na serwer....
+[Info][Load][49][04/15/15 19:54:38] 
+[Info][ThreadWaitingForServer][34][04/15/15 19:54:38] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][111][04/15/15 19:54:38] 
+[Info][CommandParser][57][04/15/15 19:54:38] CClient: 00001||
+[Info][ThreadStart][117][04/15/15 19:54:38] 
+[Info][Save][35][04/15/15 19:59:06] 
+[Info][Save][35][04/15/15 19:59:11] 
+[Info][WaitingForServer][21][04/15/15 20:13:03] Thread: Oczekiwanie na serwer....
+[Info][Load][49][04/15/15 20:13:03] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:13:03] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][111][04/15/15 20:13:03] 
+[Info][CommandParser][57][04/15/15 20:13:03] CClient: 00001||
+[Info][ThreadStart][117][04/15/15 20:13:03] 
+[Info][Save][35][04/15/15 20:14:05] 
+[Info][Save][35][04/15/15 20:14:07] 
+[Info][WaitingForServer][21][04/15/15 20:14:26] Thread: Oczekiwanie na serwer....
+[Info][Load][49][04/15/15 20:14:26] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:14:26] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][111][04/15/15 20:14:26] 
+[Info][CommandParser][57][04/15/15 20:14:26] CClient: 00001||
+[Info][ThreadStart][117][04/15/15 20:14:26] 
+[Info][Save][35][04/15/15 20:14:32] 
+[Info][Save][35][04/15/15 20:14:33] 
+[Info][WaitingForServer][21][04/15/15 20:14:36] Thread: Oczekiwanie na serwer....
+[Info][Load][49][04/15/15 20:14:36] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:14:36] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][111][04/15/15 20:14:36] 
+[Info][CommandParser][57][04/15/15 20:14:36] CClient: 00001||
+[Info][ThreadStart][117][04/15/15 20:14:37] 
+[Info][Save][35][04/15/15 20:14:44] 
+[Info][Save][35][04/15/15 20:14:47] 
+[Info][WaitingForServer][21][04/15/15 20:17:17] Thread: Oczekiwanie na serwer....
+[Info][Load][49][04/15/15 20:17:17] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:17:17] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][111][04/15/15 20:17:17] 
+[Info][CommandParser][57][04/15/15 20:17:17] CClient: 00001||
+[Info][ThreadStart][117][04/15/15 20:17:17] 
+[Info][Save][35][04/15/15 20:17:24] 
+[Info][Save][35][04/15/15 20:17:25] 
+[Info][WaitingForServer][21][04/15/15 20:17:28] Thread: Oczekiwanie na serwer....
+[Info][Load][49][04/15/15 20:17:28] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:17:28] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][111][04/15/15 20:17:28] 
+[Info][CommandParser][57][04/15/15 20:17:28] CClient: 00001||
+[Info][ThreadStart][117][04/15/15 20:17:28] 
+[Info][Save][35][04/15/15 20:18:11] 
+[Info][Save][35][04/15/15 20:18:16] 
+[Info][Save][35][04/15/15 20:18:17] 
+[Info][WaitingForServer][21][04/15/15 20:20:00] Thread: Oczekiwanie na serwer....
+[Info][Load][50][04/15/15 20:20:00] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:20:00] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][112][04/15/15 20:20:00] 
+[Info][CommandParser][57][04/15/15 20:20:00] CClient: 00001||
+[Info][ThreadStart][118][04/15/15 20:20:00] 
+[Info][Save][35][04/15/15 20:20:12] 
+[Info][WaitingForServer][21][04/15/15 20:20:23] Thread: Oczekiwanie na serwer....
+[Info][Load][50][04/15/15 20:20:23] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:20:23] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][112][04/15/15 20:20:23] 
+[Info][CommandParser][57][04/15/15 20:20:23] CClient: 00001||
+[Info][ThreadStart][118][04/15/15 20:20:23] 
+[Info][Run][171][04/15/15 20:20:23] Task: test1s RUN!
+[Info][SendMessages][32][04/15/15 20:20:23] 
+[Info][Run][171][04/15/15 20:20:23] Task: test1s RUN!
+[Info][Run][171][04/15/15 20:20:23] Task: test1s RUN!
+[Info][ThreadSendMessages][38][04/15/15 20:20:23] 
+[Info][Run][171][04/15/15 20:20:23] Task: test1s RUN!
+[Info][ThreadSendMessages][43][04/15/15 20:20:23] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci, wysy³anie...
+[Info][Run][171][04/15/15 20:20:23] Task: test1s RUN!
+[Info][Run][171][04/15/15 20:20:23] Task: test1s RUN!
+[Info][Run][171][04/15/15 20:20:23] Task: test1s RUN!
+[Info][ThreadSendMessages][43][04/15/15 20:20:26] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][04/15/15 20:20:30] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][35][04/15/15 20:20:47] 
+[Info][WaitingForServer][21][04/15/15 20:22:15] Thread: Oczekiwanie na serwer....
+[Info][Load][50][04/15/15 20:22:15] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:22:15] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][112][04/15/15 20:22:15] 
+[Info][CommandParser][57][04/15/15 20:22:15] CClient: 00001||
+[Info][ThreadStart][118][04/15/15 20:22:15] 
+[Info][Run][171][04/15/15 20:22:36] Task: test RUN!
+[Info][SendMessages][32][04/15/15 20:22:36] 
+[Info][ThreadSendMessages][38][04/15/15 20:22:36] 
+[Info][ThreadSendMessages][43][04/15/15 20:22:36] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][35][04/15/15 20:22:49] 
+[Info][Save][35][04/15/15 20:22:55] 
+[Info][Save][35][04/15/15 20:23:08] 
+[Info][Save][35][04/15/15 20:23:13] 
+[Info][WaitingForServer][21][04/15/15 20:23:18] Thread: Oczekiwanie na serwer....
+[Info][Load][50][04/15/15 20:23:18] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:23:18] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][112][04/15/15 20:23:18] 
+[Info][CommandParser][57][04/15/15 20:23:18] CClient: 00001||
+[Info][ThreadStart][118][04/15/15 20:23:18] 
+[Info][Run][171][04/15/15 20:23:18] Task: test RUN!
+[Info][SendMessages][32][04/15/15 20:23:18] 
+[Info][ThreadSendMessages][38][04/15/15 20:23:18] 
+[Info][ThreadSendMessages][43][04/15/15 20:23:18] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][35][04/15/15 20:23:28] 
+[Info][Save][35][04/15/15 20:23:36] 
+[Info][Save][35][04/15/15 20:23:37] 
+[Info][WaitingForServer][21][04/15/15 20:24:06] Thread: Oczekiwanie na serwer....
+[Info][Load][50][04/15/15 20:24:06] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:24:06] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][112][04/15/15 20:24:06] 
+[Info][CommandParser][57][04/15/15 20:24:06] CClient: 00001||
+[Info][ThreadStart][118][04/15/15 20:24:06] 
+[Info][Save][35][04/15/15 20:24:23] 
+[Info][Save][35][04/15/15 20:24:28] 
+[Info][WaitingForServer][21][04/15/15 20:24:41] Thread: Oczekiwanie na serwer....
+[Info][Load][50][04/15/15 20:24:41] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:24:41] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][112][04/15/15 20:24:41] 
+[Info][CommandParser][57][04/15/15 20:24:41] CClient: 00001||
+[Info][ThreadStart][118][04/15/15 20:24:41] 
+[Info][Save][35][04/15/15 20:24:50] 
+[Info][Save][35][04/15/15 20:24:53] 
+[Info][WaitingForServer][21][04/15/15 20:35:45] Thread: Oczekiwanie na serwer....
+[Info][Load][50][04/15/15 20:35:45] 
+[Info][Start][114][04/15/15 20:35:45] 
+/15 20:35:45] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][CommandParser][57][04/15/15 20:35:45] CClient: 00001||
+[Info][ThreadStart][120][04/15/15 20:35:45] 
+[Info][Run][173][04/15/15 20:36:07] Task: test RUN!
+[Info][SendMessages][32][04/15/15 20:36:07] 
+[Info][ThreadSendMessages][38][04/15/15 20:36:07] 
+[Info][ThreadSendMessages][43][04/15/15 20:36:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][35][04/15/15 20:36:30] 
+[Info][Save][35][04/15/15 20:36:32] 
+[Info][WaitingForServer][21][04/15/15 20:36:36] Thread: Oczekiwanie na serwer....
+[Info][Load][50][04/15/15 20:36:36] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:36:36] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][CommandParser][57][04/15/15 20:36:36] CClient: 00001||
+[Info][WaitingForServer][21][04/15/15 20:47:52] Thread: Oczekiwanie na serwer....
+[Info][Load][50][04/15/15 20:47:52] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:47:52] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][115][04/15/15 20:47:52] 
+[Info][CommandParser][57][04/15/15 20:47:52] CClient: 00001||
+[Info][ThreadStart][121][04/15/15 20:47:52] 
+[Info][Save][35][04/15/15 20:47:58] 
+[Info][Save][35][04/15/15 20:48:00] 
+[Info][WaitingForServer][21][04/15/15 20:48:04] Thread: Oczekiwanie na serwer....
+[Info][Load][50][04/15/15 20:48:04] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:48:04] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][115][04/15/15 20:48:04] 
+[Info][CommandParser][57][04/15/15 20:48:04] CClient: 00001||
+[Info][ThreadStart][121][04/15/15 20:48:04] 
+[Info][Run][174][04/15/15 20:48:23] Task: test RUN!
+[Info][SendMessages][32][04/15/15 20:48:23] 
+[Info][ThreadSendMessages][38][04/15/15 20:48:23] 
+[Info][ThreadSendMessages][43][04/15/15 20:48:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][35][04/15/15 20:48:25] 
+[Info][Save][35][04/15/15 20:48:27] 
+[Info][WaitingForServer][21][04/15/15 20:48:31] Thread: Oczekiwanie na serwer....
+[Info][Load][50][04/15/15 20:48:31] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:48:31] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][115][04/15/15 20:48:31] 
+[Info][CommandParser][57][04/15/15 20:48:31] CClient: 00001||
+[Info][ThreadStart][121][04/15/15 20:48:31] 
+[Info][Save][35][04/15/15 20:48:38] 
+[Info][Save][35][04/15/15 20:48:40] 
+[Info][WaitingForServer][21][04/15/15 20:50:54] Thread: Oczekiwanie na serwer....
+[Info][Load][50][04/15/15 20:50:54] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:50:54] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][119][04/15/15 20:50:54] 
+[Info][CommandParser][57][04/15/15 20:50:54] CClient: 00001||
+[Info][ThreadStart][125][04/15/15 20:50:54] 
+[Info][Run][178][04/15/15 20:51:02] Task: ggfgfgf RUN!
+[Info][SendMessages][32][04/15/15 20:51:02] 
+[Info][ThreadSendMessages][38][04/15/15 20:51:02] 
+[Info][ThreadSendMessages][43][04/15/15 20:51:02] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][35][04/15/15 20:51:03] 
+[Info][Save][35][04/15/15 20:51:04] 
+[Info][WaitingForServer][21][04/15/15 20:51:32] Thread: Oczekiwanie na serwer....
+[Info][Load][50][04/15/15 20:51:32] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:51:32] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][119][04/15/15 20:51:32] 
+[Info][CommandParser][57][04/15/15 20:51:32] CClient: 00001||
+[Info][ThreadStart][125][04/15/15 20:51:32] 
+[Info][Run][178][04/15/15 20:51:32] Task: ggfgfgf RUN!
+[Info][SendMessages][32][04/15/15 20:51:32] 
+[Info][ThreadSendMessages][38][04/15/15 20:51:32] 
+[Info][ThreadSendMessages][43][04/15/15 20:51:32] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][35][04/15/15 20:51:45] 
+[Info][Save][35][04/15/15 20:51:47] 
+[Info][WaitingForServer][21][04/15/15 20:51:51] Thread: Oczekiwanie na serwer....
+[Info][Load][50][04/15/15 20:51:51] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:51:51] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][119][04/15/15 20:51:51] 
+[Info][CommandParser][57][04/15/15 20:51:51] CClient: 00001||
+[Info][ThreadStart][125][04/15/15 20:51:51] 
+[Info][Run][178][04/15/15 20:51:51] Task: ggfgfgf RUN!
+[Info][SendMessages][32][04/15/15 20:51:51] 
+[Info][ThreadSendMessages][38][04/15/15 20:51:51] 
+[Info][ThreadSendMessages][43][04/15/15 20:51:51] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][35][04/15/15 20:52:03] 
+[Info][Save][35][04/15/15 20:52:05] 
+[Info][WaitingForServer][21][04/15/15 20:52:10] Thread: Oczekiwanie na serwer....
+[Info][Load][50][04/15/15 20:52:10] 
+[Info][ThreadWaitingForServer][34][04/15/15 20:52:10] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][Start][119][04/15/15 20:52:10] 
+[Info][CommandParser][57][04/15/15 20:52:10] CClient: 00001||
+[Info][ThreadStart][125][04/15/15 20:52:10] 
+[Info][Run][178][04/15/15 20:52:10] Task: ggfgfgf RUN!
+[Info][SendMessages][32][04/15/15 20:52:10] 
+[Info][ThreadSendMessages][38][04/15/15 20:52:10] 
+[Info][ThreadSendMessages][43][04/15/15 20:52:10] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][35][04/15/15 20:53:17] 
+[Info][Save][35][04/15/15 20:53:18] 

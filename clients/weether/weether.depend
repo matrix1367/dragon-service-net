@@ -1,13 +1,13 @@
 # depslib dependency file v1.0
-1428337137 source:e:\projekty\dragon-service-net\clients\weether\resource.rc
+1429107893 source:e:\projekty\dragon-service-net\clients\weether\resource.rc
 	<windows.h>
 	<commctrl.h>
 	<richedit.h>
 	"resource.h"
 
-1428337137 e:\projekty\dragon-service-net\clients\weether\resource.h
+1429107893 e:\projekty\dragon-service-net\clients\weether\resource.h
 
-1428674496 source:e:\projekty\dragon-service-net\clients\weether\main.cpp
+1429107893 source:e:\projekty\dragon-service-net\clients\weether\main.cpp
 	<windows.h>
 	<commctrl.h>
 	<stdio.h>
@@ -16,17 +16,19 @@
 	"ScheduleManager.h"
 	"CDSetting.h"
 
-1428414133 e:\projekty\dragon-service-net\clients\weether\include\models.h
+1429107893 e:\projekty\dragon-service-net\clients\weether\include\models.h
 	"Client.h"
 
-1428674496 e:\projekty\dragon-service-net\clients\weether\include\client.h
+1429107893 e:\projekty\dragon-service-net\clients\weether\include\client.h
 	<windows.h>
 	<string>
 
-1428504837 source:e:\projekty\dragon-service-net\clients\weether\src\models.cpp
+1429107893 source:e:\projekty\dragon-service-net\clients\weether\src\models.cpp
 	"Models.h"
+	"CDLog.h"
+	<cstdio>
 
-1428674496 source:e:\projekty\dragon-service-net\clients\weether\src\client.cpp
+1429107893 source:e:\projekty\dragon-service-net\clients\weether\src\client.cpp
 	"Client.h"
 	<winsock2.h>
 	<windows.h>
@@ -39,14 +41,14 @@
 	"CDSetting.h"
 	"CDLog.h"
 
-1428674496 source:e:\projekty\dragon-service-net\clients\weether\src\schedulemanager.cpp
+1429123852 source:e:\projekty\dragon-service-net\clients\weether\src\schedulemanager.cpp
 	"ScheduleManager.h"
 	"MessageManager.h"
 	"CDSerialize.h"
 	<cstdio>
 	"CDLog.h"
 
-1428414133 e:\projekty\dragon-service-net\clients\weether\include\schedulemanager.h
+1429118701 e:\projekty\dragon-service-net\clients\weether\include\schedulemanager.h
 	<list>
 	<time.h>
 	<string>
@@ -161,7 +163,7 @@
 1428674496 e:\projekty\dragon-service-net\clients\weether\include\message.h
 	<string>
 
-1428674496 source:e:\projekty\dragon-service-net\clients\weether\src\messagemanager.cpp
+1429107893 source:e:\projekty\dragon-service-net\clients\weether\src\messagemanager.cpp
 	"MessageManager.h"
 	"Models.h"
 	"CDLog.h"

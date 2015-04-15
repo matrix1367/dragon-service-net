@@ -7,18 +7,13 @@
 CScheduleManager::CScheduleManager()
 {
     isStopSchedule = false;
-    time_t now;
-    time( & now );
+ //   time_t now;
+  //  time( & now );
 
-    AddTask("taskkk",now + 39 , 0, 12);
-     AddTask("tasasdadasdkkk",now + 38 , 0, 12);
-      AddTask("tas23423423kkk",now + 37 , 0, 12);
-       AddTask("tasasdasdkkk",now + 36 , 0, 12);
-        AddTask("taskdasdasdasdasdasdkk",now + 36 , 0, 12);
-         AddTask("tgfhfghfghaskkk",now + 37 , 0, 12);
-          AddTask("fgjfgjgfjtaskkk",now + 35 , 0, 12);
-           AddTask("tagfdhfghgfjfgjskkk",now + 34 , 0, 12);
-            AddTask("tfffffaskkk",now + 36 , 0, 12);
+    //AddTask("taskkk",now + 39 , 0, 12);
+     //AddTask("tasasdadasdkkk",now + 38 , 0, 12);
+      //AddTask("tas23423423kkk",now + 37 , 0, 12);
+
    // AddTask("tassooo", now+21, now+28, 0);
 }
 
@@ -38,10 +33,10 @@ void CScheduleManager::AddTask(std::string name, time_t st, time_t  en, int inte
 void CScheduleManager::Save()
 {
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "" );
-    printf("SAVE");
-    ofstream out_file("task.txt", ios::out | ios::binary);
+    printf("SAVE Schedule\n");
+    ofstream out_file("task.txt", ios::out | ios::binary | ios::trunc);
     if (!out_file) return;
-    for (std::list<CTask>::iterator itVCTask = schedules.begin(); itVCTask != schedules.end(); ++itVCTask )
+    for (std::list<CTask>::iterator itVCTask = schedules.begin(); itVCTask != schedules.end(); ++itVCTask++ )
     {
         out_file.write((char*) &(*itVCTask), sizeof(CTask));
     }
@@ -52,28 +47,32 @@ void CScheduleManager::Save()
 void CScheduleManager::Load()
 {
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "" );
-    printf("LOAD");
+    printf("LOAD Schedule\n");
     ifstream in_file("task.txt", ios::in | ios::binary);
     if (!in_file) return ;
-            in_file.read((char *) &data, sizeof(T));
-            in_file.close();
+
+    in_file.seekg (0, in_file.end);
+    int sizeFile = in_file.tellg();
+    in_file.seekg (0, in_file.beg);
+
+    in_file.seekg(0,  std::ios::beg);
+     while(sizeFile >0) {
+        CTask data ;
+        in_file.read((char *) &data, sizeof(CTask));
+        AddTask(data);
+        sizeFile -= sizeof(CTask);
+     }
+    in_file.close();
 }
 
+void CScheduleManager::AddTask(const CTask& task)
+{
+    schedules.push_back(task);
+}
+
+
 void CTask::GetNextTask(CTask* task) {
-    if (m_interval > 0) {
-            if (m_dateEnd == 0) {
-                CDLog::Write( __FUNCTION__ , __LINE__, Info, "m_dateEnd == 0 "  );
-                task =  new CTask(m_name, m_dateStart + m_interval, 0, m_interval );
-               // return task;
-            } else {
-                CDLog::Write( __FUNCTION__ , __LINE__, Info, "m_dateEnd != 0 full task" );
-                task =  new CTask(m_name+"_:_", m_dateStart + m_interval, m_dateEnd + m_interval, m_interval );
-              //  return task;
-            }
-    } else {
-        CDLog::Write( __FUNCTION__ , __LINE__, Info, "m_interval < 0 -> null task"  );
-        task =  new CTask("", 0 , 0 ,0);
-    }
+
 }
 
 void CScheduleManager::RemoveTask(unsigned index)
@@ -146,7 +145,11 @@ DWORD CScheduleManager::ThreadStart()
                   if (itVCTask->GetInterval() > 0) {
                             //task posiada interwal;
                             //CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + "  posiada interwal." );
-                            itVCTask->SetDateStart( itVCTask->GetDateStart() + itVCTask->GetInterval());
+                            time_t newTime;
+                            do {
+                                newTime =  itVCTask->GetDateStart() + itVCTask->GetInterval();
+                            } while ( newTime <= now);
+                            itVCTask->SetDateStart( newTime );
                         } else {
                            // RemoveTask(i);
                            schedules.erase(itVCTask);
@@ -170,7 +173,7 @@ std::list<CTask> CScheduleManager::GetSchedule()
 int testI = 0;
 void CTask::Run()
 {
-    CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + m_name+ " RUN!" );
+    CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + std::string(m_name)+ " RUN!" );
     CMessageManager::GetInstance().AddMessage(m_name, CDLog::ToString(testI));
     testI++;
 }
@@ -206,7 +209,7 @@ std::string CTask::GetStrInterval()
 
 void CTask::SetName(std::string name)
 {
-    m_name = name;
+    strcpy(m_name, name.c_str());
 }
 
 void CTask::SetDateStart(time_t dateStart)
