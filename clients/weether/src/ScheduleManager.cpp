@@ -10,7 +10,15 @@ CScheduleManager::CScheduleManager()
     time_t now;
     time( & now );
 
-    AddTask("taskkk",now + 3 , 0, 12);
+    AddTask("taskkk",now + 39 , 0, 12);
+     AddTask("tasasdadasdkkk",now + 38 , 0, 12);
+      AddTask("tas23423423kkk",now + 37 , 0, 12);
+       AddTask("tasasdasdkkk",now + 36 , 0, 12);
+        AddTask("taskdasdasdasdasdasdkk",now + 36 , 0, 12);
+         AddTask("tgfhfghfghaskkk",now + 37 , 0, 12);
+          AddTask("fgjfgjgfjtaskkk",now + 35 , 0, 12);
+           AddTask("tagfdhfghgfjfgjskkk",now + 34 , 0, 12);
+            AddTask("tfffffaskkk",now + 36 , 0, 12);
    // AddTask("tassooo", now+21, now+28, 0);
 }
 
@@ -25,24 +33,30 @@ void CScheduleManager::AddTask(std::string name, time_t st, time_t  en, int inte
     schedules.push_back(task);
 }
 
+
+
 void CScheduleManager::Save()
 {
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "" );
-    //printf("SAVE");
-    //CDSettingData settingData(automaticCallMainDlL, automaticShowMainForm);
-    //CDSerialize<std::vector<CTask> > serialzer("dragon_setting.dat");
-    //serialzer.Write(schedules);
-    //Print();
+    printf("SAVE");
+    ofstream out_file("task.txt", ios::out | ios::binary);
+    if (!out_file) return;
+    for (std::list<CTask>::iterator itVCTask = schedules.begin(); itVCTask != schedules.end(); ++itVCTask )
+    {
+        out_file.write((char*) &(*itVCTask), sizeof(CTask));
+    }
+    out_file.close();
+
 }
 
 void CScheduleManager::Load()
 {
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "" );
-    //printf("LOAD");
-    //schedules.clear();
-    //CDSerialize<std::vector<CTask> > serialzer("dragon_setting.dat");
-    //serialzer.Read(schedules);
-    //Print();
+    printf("LOAD");
+    ifstream in_file("task.txt", ios::in | ios::binary);
+    if (!in_file) return ;
+            in_file.read((char *) &data, sizeof(T));
+            in_file.close();
 }
 
 void CTask::GetNextTask(CTask* task) {
@@ -64,9 +78,17 @@ void CTask::GetNextTask(CTask* task) {
 
 void CScheduleManager::RemoveTask(unsigned index)
 {
-    CDLog::Write( __FUNCTION__ , __LINE__, Info, "_begin" );
+//    CDLog::Write( __FUNCTION__ , __LINE__, Info, "_begin" );
+unsigned int i = 0;
+for (std::list<CTask>::iterator itVCTask = schedules.begin(); itVCTask != schedules.end(); ++itVCTask , i++)
+{
 
-
+    if(i == index) {
+        schedules.erase(itVCTask);
+        break;
+    }
+}
+/*
     if (schedules.size() > index) {
         CDLog::Write( __FUNCTION__ , __LINE__, Info, "Usuniety schedul o id: " + CDLog::ToString(index) );
         std::list<CTask>::iterator it = schedules.begin();
@@ -75,8 +97,20 @@ void CScheduleManager::RemoveTask(unsigned index)
     } else {
         CDLog::Write( __FUNCTION__ , __LINE__, Info, "Nieprawidlowe id " + CDLog::ToString(index) );
     }
+*/
+ //   CDLog::Write( __FUNCTION__ , __LINE__, Info, "_end" );
+}
 
-    CDLog::Write( __FUNCTION__ , __LINE__, Info, "_end" );
+CTask* CScheduleManager::GetTask(int index)
+{
+    int i = 0;
+    for (std::list<CTask>::iterator itVCTask = schedules.begin(); itVCTask != schedules.end(); ++itVCTask , i++)
+    {
+        if(i == index) {
+            return &(*itVCTask);
+        }
+    }
+    return NULL;
 }
 
 void CScheduleManager::Start()
@@ -115,6 +149,7 @@ DWORD CScheduleManager::ThreadStart()
                             itVCTask->SetDateStart( itVCTask->GetDateStart() + itVCTask->GetInterval());
                         } else {
                            // RemoveTask(i);
+                           schedules.erase(itVCTask);
                         }
                 }
            }

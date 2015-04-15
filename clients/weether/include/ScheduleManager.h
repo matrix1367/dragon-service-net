@@ -50,6 +50,7 @@ class CScheduleManager
             return This->ThreadStart();
         }
         std::list<CTask> GetSchedule();
+        CTask* GetTask(int index);
     protected:
     private:
         CScheduleManager();

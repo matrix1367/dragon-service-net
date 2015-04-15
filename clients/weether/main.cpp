@@ -44,12 +44,17 @@ time_t ConvertStringToTime_T(std::string date, std::string time) {
     return result;
 }
 
+int selectIndex = -1;
 BOOL CALLBACK DlgTask(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 {
     switch(uMsg)
     {
     case WM_INITDIALOG:
     {
+        if (selectIndex > -1) {
+           // CTask taskEdit
+
+        }
     }
     return TRUE;
 
@@ -62,6 +67,25 @@ BOOL CALLBACK DlgTask(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
     case WM_COMMAND:
     {
+        if ( HIWORD( wParam ) == BN_CLICKED )
+        {
+            if ( LOWORD( wParam ) == IDD_DIALOG_TASK_CHECK_STOP )
+            {
+                HWND dataP = GetDlgItem(hwndDlg, IDD_DIALOG_TASK_DATE_END);
+                HWND timeP = GetDlgItem(hwndDlg, IDD_DIALOG_TASK_TIME_END);
+                bool checkboxActive = (SendDlgItemMessage(hwndDlg,IDD_DIALOG_TASK_CHECK_STOP ,BM_GETCHECK,0,0)==BST_CHECKED);
+                    EnableWindow(dataP,checkboxActive);
+                    EnableWindow(timeP,checkboxActive);
+
+               // MessageBox( hwndDlg, "You clicked me!", "How dare you?", MB_OK );
+            }
+
+            if ( LOWORD( wParam ) == IDD_DIALOG_TASK_CHECK_INTERVAL ) {
+                bool checkboxActive = (SendDlgItemMessage(hwndDlg,IDD_DIALOG_TASK_CHECK_INTERVAL ,BM_GETCHECK,0,0)==BST_CHECKED);
+                HWND editI = GetDlgItem(hwndDlg, IDD_DIALOG_TASK_INTERVAL);
+                EnableWindow(editI,checkboxActive);
+            }
+        }
         switch(LOWORD(wParam))
         {
 
@@ -214,11 +238,23 @@ BOOL CALLBACK DlgSchedule(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
             }
             case IDR_MENU_SCHEDUL_EDIT_EDIT: {
                 printf("IDR_MENU_SCHEDUL_EDIT_EDIT:\n");
-                DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_TASK), NULL, (DLGPROC)DlgTask);
+                int res =  DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_TASK), NULL, (DLGPROC)DlgTask);
+                if (res == IDOK) {
+                    HWND listView = GetDlgItem(hwndDlg, DLG_SCHEDULE_LISTVIE);
+                    RefreshListViewSchedule(listView);
+                }
                 break;
             }
             case IDR_MENU_SCHEDUL_EDIT_DELETE: {
                 printf("IDR_MENU_SCHEDUL_EDIT_DELETE:\n");
+                HWND listView = GetDlgItem(hwndDlg, DLG_SCHEDULE_LISTVIE);
+                int iPos = ListView_GetNextItem(listView, -1, LVNI_SELECTED);
+                while (iPos != -1) {
+                    CScheduleManager::getInstance().RemoveTask(iPos);
+                    ListView_DeleteItem(listView,iPos);
+                    iPos = ListView_GetNextItem(listView, iPos, LVNI_SELECTED);
+                }
+                //RefreshListViewSchedule(listView);
                 break;
             }
         }
