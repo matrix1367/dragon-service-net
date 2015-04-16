@@ -26,6 +26,7 @@ bool CClient::Send(std::string msg)
     int bytecount;
     if( (bytecount=send(m_hsock, msg.c_str(), strlen(msg.c_str()),0))==SOCKET_ERROR){
         fprintf(stderr, "Error sending data %d\n", WSAGetLastError());
+         m_isConnect = false;
         return false;
     }
     printf("Sent cmd %s bytes %d\n", msg.c_str(), bytecount);

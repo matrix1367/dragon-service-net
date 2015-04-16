@@ -13,7 +13,6 @@ CDSettingData::CDSettingData()
 CDSetting::CDSetting()
 {
     Init();
-
 }
 
 CDSetting::~CDSetting()

@@ -33,11 +33,12 @@ time_t ConvertStringToTime_T(std::string date, std::string time) {
         timeinfo->tm_mday   = atoi(strDay.c_str());
         if (time.size() ==  8) {
             std::string strH = time.substr(0,2);
-            std::string strM = time.substr(0,2);
-            std::string strS = time.substr(0,2);
+            std::string strM = time.substr(3,2);
+            std::string strS = time.substr(6,2);
             timeinfo->tm_hour = atoi(strH.c_str());
             timeinfo->tm_min = atoi(strM.c_str());
             timeinfo->tm_sec = atoi(strS.c_str());
+            //printf("CONVERT DATA: %s:%s:%s" , strH.c_str(), strM.c_str(), strS.c_str());
         }
     }
     result = mktime(timeinfo);
@@ -76,8 +77,6 @@ BOOL CALLBACK DlgTask(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
                 bool checkboxActive = (SendDlgItemMessage(hwndDlg,IDD_DIALOG_TASK_CHECK_STOP ,BM_GETCHECK,0,0)==BST_CHECKED);
                     EnableWindow(dataP,checkboxActive);
                     EnableWindow(timeP,checkboxActive);
-
-               // MessageBox( hwndDlg, "You clicked me!", "How dare you?", MB_OK );
             }
 
             if ( LOWORD( wParam ) == IDD_DIALOG_TASK_CHECK_INTERVAL ) {
@@ -97,6 +96,9 @@ BOOL CALLBACK DlgTask(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
                 std::string dateEnd = GetWindowText(hwndDlg,IDD_DIALOG_TASK_DATE_END);
                 std::string timeEnd = GetWindowText(hwndDlg,IDD_DIALOG_TASK_TIME_END);
                 std::string interval = GetWindowText(hwndDlg,IDD_DIALOG_TASK_INTERVAL);
+
+                //printf("name %s, data %s, time %s, date %s, time %s, interval %s", name.c_str(), dateSt.c_str(), timeSt.c_str(), dateEnd.c_str(), timeEnd.c_str(), interval.c_str());
+
                 //indexJob = GetWindowText(hwndDlg,IDD_DIALOG_TASK_NAME);
                 int intInterval = 0;
                 time_t tDateSt = ConvertStringToTime_T(dateSt, timeSt);

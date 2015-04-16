@@ -30984,3 +30984,73 @@
 [Info][ThreadSendMessages][43][04/15/15 20:52:10] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
 [Info][Save][35][04/15/15 20:53:17] 
 [Info][Save][35][04/15/15 20:53:18] 
+[Info][WaitingForServer][21][04/16/15 09:52:12] Thread: Oczekiwanie na serwer....
+[Info][Load][49][04/16/15 09:52:12] 
+[Info][Start][117][04/16/15 09:52:12] 
+[Info][ThreadStart][123][04/16/15 09:52:12] 
+[Info][Run][176][04/16/15 09:52:12] Task: ggfgfgf RUN!
+[Info][SendMessages][32][04/16/15 09:52:12] 
+[Info][ThreadSendMessages][38][04/16/15 09:52:12] 
+[Info][ThreadWaitingForServer][34][04/16/15 09:52:12] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][CommandParser][58][04/16/15 09:52:12] CClient: 00001||
+[Info][ThreadSendMessages][43][04/16/15 09:52:15] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][35][04/16/15 09:53:43] 
+[Info][Save][35][04/16/15 09:53:45] 
+[Info][WaitingForServer][21][04/16/15 10:17:51] Thread: Oczekiwanie na serwer....
+[Info][Load][49][04/16/15 10:17:51] 
+[Info][Start][117][04/16/15 10:17:51] 
+[Info][ThreadStart][123][04/16/15 10:17:51] 
+[Info][Run][176][04/16/15 10:17:51] Task: ggfgfgf RUN!
+[Info][SendMessages][32][04/16/15 10:17:51] 
+[Info][ThreadSendMessages][38][04/16/15 10:17:51] 
+[Info][ThreadWaitingForServer][34][04/16/15 10:17:51] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][CommandParser][58][04/16/15 10:17:51] CClient: 00001||
+[Info][ThreadSendMessages][43][04/16/15 10:17:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][35][04/16/15 10:22:03] 
+[Info][Save][35][04/16/15 10:22:04] 
+[Info][WaitingForServer][21][04/16/15 10:23:55] Thread: Oczekiwanie na serwer....
+[Info][Load][49][04/16/15 10:23:55] 
+[Info][Start][117][04/16/15 10:23:55] 
+[Info][ThreadStart][123][04/16/15 10:23:55] 
+[Info][Run][176][04/16/15 10:23:55] Task: ggfgfgf RUN!
+[Info][SendMessages][32][04/16/15 10:23:55] 
+[Info][ThreadSendMessages][38][04/16/15 10:23:55] 
+[Info][ThreadWaitingForServer][34][04/16/15 10:23:55] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][CommandParser][58][04/16/15 10:23:55] CClient: 00001||
+[Info][ThreadSendMessages][43][04/16/15 10:23:58] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][35][04/16/15 10:25:38] 
+[Info][Save][35][04/16/15 10:25:39] 
+[Info][WaitingForServer][21][04/16/15 10:25:45] Thread: Oczekiwanie na serwer....
+[Info][Load][49][04/16/15 10:25:45] 
+[Info][Start][117][04/16/15 10:25:45] 
+[Info][ThreadStart][123][04/16/15 10:25:45] 
+[Info][Run][176][04/16/15 10:25:45] Task: ggfgfgf RUN!
+[Info][SendMessages][32][04/16/15 10:25:45] 
+[Info][ThreadSendMessages][38][04/16/15 10:25:45] 
+[Info][ThreadWaitingForServer][34][04/16/15 10:25:45] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][CommandParser][58][04/16/15 10:25:45] CClient: 00001||
+[Info][ThreadSendMessages][43][04/16/15 10:25:48] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][35][04/16/15 10:26:22] 
+[Info][Save][35][04/16/15 10:26:24] 
+[Info][WaitingForServer][21][04/16/15 10:26:31] Thread: Oczekiwanie na serwer....
+[Info][Load][49][04/16/15 10:26:31] 
+[Info][Start][117][04/16/15 10:26:31] 
+[Info][ThreadStart][123][04/16/15 10:26:31] 
+[Info][Run][176][04/16/15 10:26:31] Task: ggfgfgf RUN!
+[Info][SendMessages][32][04/16/15 10:26:31] 
+[Info][ThreadSendMessages][38][04/16/15 10:26:31] 
+[Info][ThreadWaitingForServer][34][04/16/15 10:26:31] Klient nawi¹za³ po³¹czenie z serwerem.
+[Info][CommandParser][58][04/16/15 10:26:31] CClient: 00001||
+[Info][ThreadSendMessages][43][04/16/15 10:26:34] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Run][176][04/16/15 10:30:10] Task: tert RUN!
+[Info][ThreadSendMessages][43][04/16/15 10:30:10] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Run][176][04/16/15 10:30:20] Task: tert RUN!
+[Info][ThreadSendMessages][43][04/16/15 10:30:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Run][176][04/16/15 10:30:30] Task: tert RUN!
+[Info][ThreadSendMessages][43][04/16/15 10:30:31] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Run][176][04/16/15 10:30:40] Task: tert RUN!
+[Info][ThreadSendMessages][43][04/16/15 10:30:40] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Run][176][04/16/15 10:30:50] Task: tert RUN!
+[Info][ThreadSendMessages][43][04/16/15 10:30:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][35][04/16/15 10:30:53] 
+[Info][Save][35][04/16/15 10:30:55] 
