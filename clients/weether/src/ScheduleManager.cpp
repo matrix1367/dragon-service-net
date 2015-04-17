@@ -247,6 +247,16 @@ int CTask::GetInterval()
     return m_interval;
 }
 
+void CTask::SetIdJob(int id_job)
+{
+        m_id_job = id_job;
+}
+
+int CTask::GetIdJob()
+{
+    return m_id_job;
+}
+
 
 void CScheduleManager::Print()
 {

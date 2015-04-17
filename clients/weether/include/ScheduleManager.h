@@ -10,10 +10,12 @@ class CTask {
     time_t m_dateStart;
     time_t m_dateEnd;
     int m_interval;
+    int m_id_job;
 public:
     CTask() {};
     CTask(std::string _name, time_t _dateStart, time_t _dateEnd, int _interval) : m_dateStart(_dateStart), m_dateEnd(_dateEnd), m_interval(_interval)  {
         strcpy(m_name, _name.c_str());
+        m_id_job = 0;
     }
     void Run();
 
@@ -28,10 +30,12 @@ public:
     void SetDateStart(time_t dataStart);
     void SetDataEnd(time_t dataEnd);
     void SetInterval(int interval);
+    void SetIdJob(int id_job);
     std::string GetName();
     time_t GetDateStart();
     time_t GetDateEnd();
     int GetInterval();
+    int GetIdJob();
 };
 
 class CScheduleManager

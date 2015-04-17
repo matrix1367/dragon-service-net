@@ -53,6 +53,7 @@
 		<Unit filename="include/MessageManager.h" />
 		<Unit filename="include/Models.h" />
 		<Unit filename="include/ScheduleManager.h" />
+		<Unit filename="include/TasksManager.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="manifest.xml" />
 		<Unit filename="resource.h" />
@@ -67,6 +68,7 @@
 		<Unit filename="src/MessageManager.cpp" />
 		<Unit filename="src/Models.cpp" />
 		<Unit filename="src/ScheduleManager.cpp" />
+		<Unit filename="src/TasksManager.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
