@@ -1,7 +1,7 @@
 # depslib dependency file v1.0
-1428674496 source:e:\projekty\dragon-service-net\main.cpp
+1429107893 source:e:\projekty\dragon-service-net\main.cpp
 	<windows.h>
-	<commctrl.h>
+	<CommCtrl.h>
 	<stdio.h>
 	"resource.h"
 	"Models.h"
@@ -29,7 +29,7 @@
 	<windows.h>
 	<list>
 
-1428676737 source:e:\projekty\dragon-service-net\src\server.cpp
+1429107893 source:e:\projekty\dragon-service-net\src\server.cpp
 	"Server.h"
 	"EventManager.h"
 	"MessageManager.h"

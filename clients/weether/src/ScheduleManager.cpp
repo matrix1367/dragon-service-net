@@ -3,6 +3,9 @@
 #include "CDSerialize.h"
 #include <cstdio>
 #include "CDLog.h"
+//#include "IJob.h"
+#include "TasksManager.h"
+#include "EventManager.h"
 
 CScheduleManager::CScheduleManager()
 {
@@ -22,9 +25,10 @@ CScheduleManager::~CScheduleManager()
     //dtor
 }
 
-void CScheduleManager::AddTask(std::string name, time_t st, time_t  en, int interval)
+void CScheduleManager::AddTask(std::string name, time_t st, time_t  en, int interval, int IDJob)
 {
     CTask task(name, st, en, interval);
+    task.SetIdJob(IDJob);
     schedules.push_back(task);
 }
 
@@ -122,37 +126,41 @@ DWORD CScheduleManager::ThreadStart()
 {
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "" );
     time_t now;
-    std::list<CTask> newTasks;
-  //  struct tm * data;
 
-    //data = localtime( & now );
-    int i;
+    unsigned int i;
     while(!isStopSchedule)
     {
        // CDLog::Write( __FUNCTION__ , __LINE__, Debug, "Task tick: " );
         time( & now );
         i = 0;
-        newTasks.clear();
+
 
         for (std::list<CTask>::iterator itVCTask = schedules.begin(); itVCTask != schedules.end(); itVCTask++ , i++)
         {
            // CDLog::Write( __FUNCTION__ , __LINE__, Info, "for Task tick: " );
+           if (i >= schedules.size()) {
+            break;
+           }
            if(itVCTask->GetDateStart() <= now) {
                 if (itVCTask->GetDateEnd() == 0) {
-                 // CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + " zostal wykonany." );
+                  CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + " zostal wykonany." );
                   itVCTask->Run();
 
                   if (itVCTask->GetInterval() > 0) {
                             //task posiada interwal;
-                            //CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + "  posiada interwal." );
+                            CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + "  posiada interwal : " + itVCTask->GetStrInterval() );
                             time_t newTime;
                             do {
                                 newTime =  itVCTask->GetDateStart() + itVCTask->GetInterval();
                             } while ( newTime <= now);
                             itVCTask->SetDateStart( newTime );
+                            CEventManager::getInstance().Send(EVENT_ADD_SCHEDULE);
+                            continue;
                         } else {
-                           // RemoveTask(i);
+                           CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + "  nie posiada interwal zostanie usuniety." );
                            schedules.erase(itVCTask);
+                           CEventManager::getInstance().Send(EVENT_DELETE_SCHEDULE);
+                           continue;
                         }
                 }
            }
@@ -170,12 +178,16 @@ std::list<CTask> CScheduleManager::GetSchedule()
 }
 
 
-int testI = 0;
+//int testI = 0;
 void CTask::Run()
 {
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + std::string(m_name)+ " RUN!" );
-    CMessageManager::GetInstance().AddMessage(m_name, CDLog::ToString(testI));
-    testI++;
+    IJob* job = CJobsManager::getInstance().GetJobs(m_id_job );
+    CMessageManager::GetInstance().AddMessage(job->Run());
+
+    delete job;
+
+  //  testI++;
 }
 
 std::string CTask::GetStrName()
@@ -188,7 +200,7 @@ std::string CTask::GetStrDateStart()
     struct tm * data;
     char godzina[ 80 ];
     data = localtime( & m_dateStart );
-    strftime( godzina, 80, "[%c] ", data );
+    strftime( godzina, 80, "%d-%m-%Y %X", data );
     return std::string(godzina);
 }
 
@@ -197,7 +209,7 @@ std::string CTask::GetStrDateEnd()
     struct tm * data;
     char godzina[ 80 ];
     data = localtime( & m_dateEnd );
-    strftime( godzina, 80, "[%c] ", data );
+    strftime( godzina, 80, "%d-%m-%Y %X", data );
     return std::string(godzina);
 }
 

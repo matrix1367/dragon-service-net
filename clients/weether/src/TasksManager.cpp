@@ -1,9 +1,8 @@
 #include "TasksManager.h"
-#include "JobTime.h"
 
 CJobsManager::CJobsManager()
 {
-    //ctor
+
 }
 
 CJobsManager::~CJobsManager()
@@ -11,16 +10,28 @@ CJobsManager::~CJobsManager()
     //dtor
 }
 
-IJob* CJobsManager::GetJob(int id) {
-    switch (id) {
-        case ID_JOB_TIME : {
-            CJobTime job;
-            jobs.push_back(&job);
-            return &job;
-        }
-        default :
-            {
-                return 0;
-            }
+std::vector<std::string> CJobsManager::GetStrAllNameJob() {
+    std::vector<std::string> result;
+    result.push_back("Time");
+
+    return result;
+}
+
+std::string CJobsManager::GetStrNameJob(int IdJob){
+                switch (IdJob) {
+                    case ID_JOB_TIME : {
+                        return "Time";
+                    }
+                    default :
+                    {
+                         return "ID JOB ERROR";
+                    }
+                }
+}
+
+int CJobsManager::GetIdJob(int indexJob) {
+    if (indexJob == 0) {
+        return ID_JOB_TIME;
     }
+     return ID_JOB_TIME;
 }

@@ -6,6 +6,7 @@
 #include <windows.h>
 
 class CTask {
+private:
     char m_name[30];
     time_t m_dateStart;
     time_t m_dateEnd;
@@ -47,7 +48,7 @@ class CScheduleManager
         }
         void Save();
         void Load();
-        void AddTask(std::string name, time_t st, time_t  en, int interval);
+        void AddTask(std::string name, time_t st, time_t  en, int interval, int IDJob);
         void AddTask(const CTask& task);
         void RemoveTask(unsigned int index);
         void Start();

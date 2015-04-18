@@ -5,10 +5,13 @@
 #include <windows.h>
 #include <commctrl.h>
 #include <stdio.h>
+#include <vector>
 #include "resource.h"
 #include "Models.h"
 #include "ScheduleManager.h"
 #include "CDSetting.h"
+#include "TasksManager.h"
+#include "EventManager.h"
 
 HINSTANCE hInst;
 
@@ -55,6 +58,14 @@ BOOL CALLBACK DlgTask(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
         if (selectIndex > -1) {
            // CTask taskEdit
 
+        } else {
+            std::vector<std::string> strJob = CJobsManager::getInstance().GetStrAllNameJob();
+            HWND hWndComboBox = GetDlgItem(hwndDlg, IDD_DIALOG_TASK_JOB);
+
+            for (std::vector<std::string>::iterator it = strJob.begin(); it != strJob.end() ; it++) {
+                SendMessage(hWndComboBox,(UINT) CB_ADDSTRING,(WPARAM) 0,(LPARAM) (*it).c_str());
+            }
+            SendMessage((HWND) hWndComboBox, (UINT) CB_SETCURSEL,(WPARAM) 0, (LPARAM) 0);
         }
     }
     return TRUE;
@@ -110,8 +121,10 @@ BOOL CALLBACK DlgTask(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
                 if (SendDlgItemMessage(hwndDlg,IDD_DIALOG_TASK_CHECK_INTERVAL ,BM_GETCHECK,0,0)==BST_CHECKED)  {
                     intInterval = atoi(interval.c_str());
                 }
+                 HWND hWndComboBox = GetDlgItem(hwndDlg, IDD_DIALOG_TASK_JOB);
+                int index = SendMessage((HWND) hWndComboBox, (UINT) CB_GETCURSEL,(WPARAM) 0, (LPARAM) 0);
 
-                CScheduleManager::getInstance().AddTask(name, tDateSt, tDateEnd , intInterval );
+                CScheduleManager::getInstance().AddTask(name, tDateSt, tDateEnd , intInterval, CJobsManager::getInstance().GetIdJob(index) );
                 EndDialog(hwndDlg, IDOK);
                 break;
             }
@@ -127,8 +140,8 @@ BOOL CALLBACK DlgTask(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     return FALSE;
 }
 
-void RefreshListViewSchedule(HWND listView) {
-    //HWND listView = parm.handle;
+void RefreshListViewSchedule(TypeParmT parm) {
+    HWND listView = parm.handle;
     LVITEM lvi;
     lvi.mask = LVIF_TEXT;
     int i = 0;
@@ -147,6 +160,7 @@ void RefreshListViewSchedule(HWND listView) {
         ListView_SetItemText( listView, i, 2, const_cast<char *>(it->GetStrDateStart().c_str()));
         ListView_SetItemText( listView, i, 3, const_cast<char *>(it->GetStrDateEnd().c_str()));
         ListView_SetItemText( listView, i, 4, const_cast<char *>(it->GetStrInterval().c_str()));
+         ListView_SetItemText( listView, i, 5, const_cast<char *>( CJobsManager::getInstance().GetStrNameJob(it->GetIdJob()).c_str() ));
         i++;
     }
 }
@@ -161,9 +175,10 @@ BOOL CALLBACK DlgSchedule(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
         char lp[] = {"lp"};
         char name[] = {"Nazwa"};
-        char id[] = {"Data pocz¹tkowa"};
-        char adressIP[] = {"Data koñcowa"};
-        char status[] = {"Interwa³"};
+        char id[] = {"Data poczatkowa"};
+        char adressIP[] = {"Data koncowa"};
+        char status[] = {"Interwal"};
+         char jobName[] = {"Nazwa zadania"};
 
         LVCOLUMN lvc;
         lvc.mask = LVCF_WIDTH | LVCF_TEXT | LVCF_SUBITEM;
@@ -193,7 +208,23 @@ BOOL CALLBACK DlgSchedule(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
         lvc.pszText = status;
         ListView_InsertColumn( listView, 4, & lvc );
 
-        RefreshListViewSchedule(listView);
+        lvc.iSubItem = 0;
+        lvc.cx = 120;
+        lvc.pszText = jobName;
+        ListView_InsertColumn( listView, 5, & lvc );
+
+
+  TypeParmT parm;
+    parm.handle = listView;
+        RefreshListViewSchedule(parm);
+
+        Event event;
+        event.paem1.handle = listView;
+        event.typeEvent = EVENT_ADD_SCHEDULE;
+        event.handleFunction = &RefreshListViewSchedule;
+        CEventManager::getInstance().Subscribe(event);
+        event.typeEvent = EVENT_DELETE_SCHEDULE;
+        CEventManager::getInstance().Subscribe(event);
 
         ListView_SetExtendedListViewStyleEx(listView, LVS_EX_FULLROWSELECT, LVS_EX_FULLROWSELECT);
 
@@ -233,8 +264,9 @@ BOOL CALLBACK DlgSchedule(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
                 printf("IDR_MENU_SCHEDUL_EDIT_ADD:\n");
                 int res = DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_TASK), NULL, (DLGPROC)DlgTask);
                 if (res == IDOK) {
-                    HWND listView = GetDlgItem(hwndDlg, DLG_SCHEDULE_LISTVIE);
-                    RefreshListViewSchedule(listView);
+                    CEventManager::getInstance().Send(EVENT_ADD_SCHEDULE);
+                    //HWND listView = GetDlgItem(hwndDlg, DLG_SCHEDULE_LISTVIE);
+                    //RefreshListViewSchedule(listView);
                 }
                 break;
             }
@@ -242,8 +274,9 @@ BOOL CALLBACK DlgSchedule(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
                 printf("IDR_MENU_SCHEDUL_EDIT_EDIT:\n");
                 int res =  DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_TASK), NULL, (DLGPROC)DlgTask);
                 if (res == IDOK) {
-                    HWND listView = GetDlgItem(hwndDlg, DLG_SCHEDULE_LISTVIE);
-                    RefreshListViewSchedule(listView);
+                    CEventManager::getInstance().Send(EVENT_ADD_SCHEDULE);
+                    //HWND listView = GetDlgItem(hwndDlg, DLG_SCHEDULE_LISTVIE);
+                   // RefreshListViewSchedule(listView);
                 }
                 break;
             }
@@ -297,6 +330,13 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
         {
               case ID_MENU_SCHEDULE: {
                 DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_SCHEDULE), NULL, (DLGPROC)DlgSchedule);
+                break;
+            }
+            case ID_MENU_EXIT: {
+                CScheduleManager::getInstance().Save();
+                CDSetting::getInstance().Save();
+                EndDialog(hwndDlg, 0);
+                break;
             }
         }
     }

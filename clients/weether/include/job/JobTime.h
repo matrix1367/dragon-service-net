@@ -1,13 +1,14 @@
 #ifndef CJOBTIME_H
 #define CJOBTIME_H
 #include "IJob.h"
+#include "Message.h"
 
 class CJobTime : public IJob
 {
     public:
         CJobTime();
         virtual ~CJobTime();
-        int Run();
+        CMessage Run();
     protected:
     private:
 };

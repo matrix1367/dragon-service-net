@@ -22,3 +22,4 @@
 #define IDD_DIALOG_TASK_TIME_END                40013
 #define IDD_DIALOG_TASK_CHECK_INTERVAL          40014
 #define IDD_DIALOG_TASK_CHECK_STOP              40015
+#define ID_MENU_EXIT                            40016

@@ -18,7 +18,7 @@ IDR_MENU1 MENU
 {
     POPUP "App"
     {
-        MENUITEM "Exit", 0
+        MENUITEM "Exit", ID_MENU_EXIT
     }
     POPUP "Setting"
     {
