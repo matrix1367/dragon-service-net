@@ -48,6 +48,7 @@
 		<Unit filename="include/CDSerialize.h" />
 		<Unit filename="include/CDSetting.h" />
 		<Unit filename="include/Client.h" />
+		<Unit filename="include/EventManager.h" />
 		<Unit filename="include/IJob.h" />
 		<Unit filename="include/Message.h" />
 		<Unit filename="include/MessageManager.h" />
@@ -64,6 +65,7 @@
 		<Unit filename="src/CDLog.cpp" />
 		<Unit filename="src/CDSetting.cpp" />
 		<Unit filename="src/Client.cpp" />
+		<Unit filename="src/EventManager.cpp" />
 		<Unit filename="src/IJob.cpp" />
 		<Unit filename="src/Message.cpp" />
 		<Unit filename="src/MessageManager.cpp" />
