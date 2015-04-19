@@ -31962,3 +31962,559 @@ ostal wykonany.
 [Info][ThreadStart][151][04/18/15 19:14:45] Task: in  posiada interwal : 5
 [Info][ThreadSendMessages][43][04/18/15 19:14:45] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
 [Info][Save][39][04/18/15 19:14:47] 
+[Info][WaitingForServer][18][04/18/15 19:41:25] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/18/15 19:41:25] 
+[Info][ThreadWaitingForServer][31][04/18/15 19:41:25] Klient nawiazan polaczenie z serwerem.
+[Info][Start][121][04/18/15 19:41:25] 
+[Info][CommandParser][58][04/18/15 19:41:25] CClient: 00001||
+[Info][ThreadStart][127][04/18/15 19:41:25] 
+[Info][ThreadStart][146][04/18/15 19:41:25] Task: in zostal wykonany.
+[Info][Run][184][04/18/15 19:41:25] Task: in RUN!
+[Info][SendMessages][32][04/18/15 19:41:26] 
+[Info][ThreadStart][151][04/18/15 19:41:26] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][38][04/18/15 19:41:26] 
+[Info][ThreadSendMessages][43][04/18/15 19:41:26] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][39][04/18/15 19:41:40] 
+[Info][Save][39][04/18/15 19:41:47] 
+[Info][WaitingForServer][18][04/18/15 19:44:40] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/18/15 19:44:40] 
+[Info][ThreadWaitingForServer][31][04/18/15 19:44:40] Klient nawiazan polaczenie z serwerem.
+[Info][Start][121][04/18/15 19:44:40] 
+[Info][CommandParser][58][04/18/15 19:44:40] CClient: 00001||
+[Info][ThreadStart][127][04/18/15 19:44:40] 
+[Info][ThreadStart][146][04/18/15 19:44:40] Task: in zostal wykonany.
+[Info][Run][184][04/18/15 19:44:40] Task: in RUN!
+[Info][SendMessages][32][04/18/15 19:44:40] 
+[Info][ThreadStart][151][04/18/15 19:44:40] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][38][04/18/15 19:44:40] 
+[Info][ThreadSendMessages][43][04/18/15 19:44:41] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][39][04/18/15 19:45:04] 
+[Info][WaitingForServer][18][04/18/15 21:22:05] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/18/15 21:22:05] 
+[Info][ThreadWaitingForServer][31][04/18/15 21:22:05] Klient nawiazan polaczenie z serwerem.
+[Info][Start][121][04/18/15 21:22:05] 
+[Info][CommandParser][58][04/18/15 21:22:05] CClient: 00001||
+[Info][ThreadStart][127][04/18/15 21:22:05] 
+[Info][ThreadStart][146][04/18/15 21:22:05] Task: in zostal wykonany.
+[Info][Run][184][04/18/15 21:22:05] Task: in RUN!
+[Info][SendMessages][32][04/18/15 21:22:05] 
+[Info][ThreadStart][151][04/18/15 21:22:05] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][38][04/18/15 21:22:05] 
+[Info][ThreadSendMessages][43][04/18/15 21:22:05] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][39][04/18/15 21:24:18] 
+[Info][WaitingForServer][18][04/19/15 01:06:35] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/19/15 01:06:35] 
+[Info][ThreadWaitingForServer][31][04/19/15 01:06:35] Klient nawiazan polaczenie z serwerem.
+[Info][Start][121][04/19/15 01:06:35] 
+[Info][CommandParser][58][04/19/15 01:06:35] CClient: 00001||
+[Info][ThreadStart][127][04/19/15 01:06:35] 
+[Info][ThreadStart][146][04/19/15 01:06:35] Task: in zostal wykonany.
+[Info][Run][184][04/19/15 01:06:35] Task: in RUN!
+[Info][SendMessages][32][04/19/15 01:06:35] 
+[Info][ThreadStart][151][04/19/15 01:06:35] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][38][04/19/15 01:06:35] 
+[Info][ThreadSendMessages][43][04/19/15 01:06:35] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][39][04/19/15 01:06:40] 
+[Info][Save][39][04/19/15 01:06:56] 
+[Info][WaitingForServer][18][04/19/15 01:27:21] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/19/15 01:27:21] 
+[Info][ThreadWaitingForServer][28][04/19/15 01:27:21] >>>[ping serwera]<<<
+[Info][Start][121][04/19/15 01:27:21] 
+[Info][ThreadStart][127][04/19/15 01:27:21] 
+[Info][ThreadStart][146][04/19/15 01:27:21] Task: in zostal wykonany.
+[Info][Run][184][04/19/15 01:27:21] Task: in RUN!
+[Info][SendMessages][32][04/19/15 01:27:21] 
+[Info][ThreadStart][151][04/19/15 01:27:21] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][38][04/19/15 01:27:21] 
+[Info][ThreadWaitingForServer][28][04/19/15 01:27:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:27:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:27:30] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:27:33] >>>[ping serwera]<<<
+[Info][Save][39][04/19/15 01:27:35] 
+[Info][WaitingForServer][18][04/19/15 01:27:39] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/19/15 01:27:39] 
+[Info][ThreadWaitingForServer][28][04/19/15 01:27:39] >>>[ping serwera]<<<
+[Info][Start][121][04/19/15 01:27:39] 
+[Info][ThreadStart][127][04/19/15 01:27:39] 
+[Info][ThreadStart][146][04/19/15 01:27:39] Task: in zostal wykonany.
+[Info][Run][184][04/19/15 01:27:39] Task: in RUN!
+[Info][SendMessages][32][04/19/15 01:27:39] 
+[Info][ThreadStart][151][04/19/15 01:27:39] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][38][04/19/15 01:27:39] 
+[Info][ThreadWaitingForServer][28][04/19/15 01:27:42] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:27:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:27:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:27:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:27:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:27:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:28:00] >>>[ping serwera]<<<
+[Info][Save][39][04/19/15 01:28:01] 
+[Info][WaitingForServer][18][04/19/15 01:28:05] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/19/15 01:28:05] 
+[Info][ThreadWaitingForServer][28][04/19/15 01:28:05] >>>[ping serwera]<<<
+[Info][Start][121][04/19/15 01:28:05] 
+[Info][ThreadStart][127][04/19/15 01:28:05] 
+[Info][ThreadStart][146][04/19/15 01:28:05] Task: in zostal wykonany.
+[Info][Run][184][04/19/15 01:28:05] Task: in RUN!
+[Info][SendMessages][32][04/19/15 01:28:05] 
+[Info][ThreadStart][151][04/19/15 01:28:05] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][38][04/19/15 01:28:05] 
+[Info][ThreadWaitingForServer][28][04/19/15 01:28:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:28:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:28:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:28:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:28:21] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:28:24] >>>[ping serwera]<<<
+[Info][Save][39][04/19/15 01:28:26] 
+[Info][WaitingForServer][18][04/19/15 01:51:18] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/19/15 01:51:18] 
+[Info][ThreadWaitingForServer][28][04/19/15 01:51:18] >>>[ping serwera]<<<
+[Info][Start][121][04/19/15 01:51:18] 
+[Info][ThreadStart][127][04/19/15 01:51:18] 
+[Info][ThreadStart][146][04/19/15 01:51:18] Task: in zostal wykonany.
+[Info][Run][184][04/19/15 01:51:18] Task: in RUN!
+[Info][SendMessages][32][04/19/15 01:51:18] 
+[Info][ThreadStart][151][04/19/15 01:51:18] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][38][04/19/15 01:51:18] 
+[Info][ThreadWaitingForServer][28][04/19/15 01:51:21] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:51:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:51:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:51:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:51:34] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:51:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 01:51:40] >>>[ping serwera]<<<
+[Info][Save][39][04/19/15 01:51:43] 
+[Info][WaitingForServer][18][04/19/15 02:14:04] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/19/15 02:14:04] 
+[Info][ThreadWaitingForServer][31][04/19/15 02:14:04] Klient nawiazan polaczenie z serwerem.
+[Info][Start][121][04/19/15 02:14:04] 
+[Info][CommandParser][59][04/19/15 02:14:04] CClient: 00001||
+[Info][ThreadStart][127][04/19/15 02:14:04] 
+[Info][ThreadStart][146][04/19/15 02:14:04] Task: in zostal wykonany.
+[Info][Run][184][04/19/15 02:14:04] Task: in RUN!
+[Info][SendMessages][32][04/19/15 02:14:04] 
+[Info][ThreadStart][151][04/19/15 02:14:04] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][38][04/19/15 02:14:04] 
+[Info][ThreadSendMessages][43][04/19/15 02:14:04] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][39][04/19/15 02:14:11] 
+[Info][WaitingForServer][18][04/19/15 11:29:59] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/19/15 11:29:59] 
+[Info][ThreadWaitingForServer][28][04/19/15 11:29:59] >>>[ping serwera]<<<
+[Info][Start][121][04/19/15 11:29:59] 
+[Info][ThreadStart][127][04/19/15 11:29:59] 
+[Info][ThreadStart][146][04/19/15 11:29:59] Task: in zostal wykonany.
+[Info][Run][184][04/19/15 11:29:59] Task: in RUN!
+[Info][SendMessages][32][04/19/15 11:29:59] 
+[Info][ThreadStart][151][04/19/15 11:29:59] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][38][04/19/15 11:29:59] 
+[Info][ThreadWaitingForServer][28][04/19/15 11:30:02] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 11:30:05] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 11:30:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 11:30:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 11:30:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 11:30:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 11:30:20] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 11:30:23] >>>[ping serwera]<<<
+[Info][Save][39][04/19/15 11:30:26] 
+[Info][WaitingForServer][18][04/19/15 11:30:58] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/19/15 11:30:58] 
+[Info][ThreadWaitingForServer][28][04/19/15 11:30:58] >>>[ping serwera]<<<
+[Info][Start][121][04/19/15 11:30:58] 
+[Info][ThreadStart][127][04/19/15 11:30:58] 
+[Info][ThreadStart][146][04/19/15 11:30:58] Task: in zostal wykonany.
+[Info][Run][184][04/19/15 11:30:58] Task: in RUN!
+[Info][SendMessages][32][04/19/15 11:30:58] 
+[Info][ThreadStart][151][04/19/15 11:30:58] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][38][04/19/15 11:30:58] 
+[Info][ThreadWaitingForServer][28][04/19/15 11:31:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 11:31:04] >>>[ping serwera]<<<
+[Info][Save][39][04/19/15 11:31:05] 
+[Info][WaitingForServer][18][04/19/15 12:01:35] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/19/15 12:01:35] 
+[Info][ThreadWaitingForServer][31][04/19/15 12:01:35] Klient nawiazan polaczenie z serwerem.
+[Info][Start][121][04/19/15 12:01:35] 
+[Info][CommandParser][62][04/19/15 12:01:35] CClient: 00001||
+[Info][ThreadStart][127][04/19/15 12:01:35] 
+[Info][ThreadStart][146][04/19/15 12:01:35] Task: in zostal wykonany.
+[Info][Run][184][04/19/15 12:01:35] Task: in RUN!
+[Info][SendMessages][32][04/19/15 12:01:35] 
+[Info][ThreadStart][151][04/19/15 12:01:35] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][38][04/19/15 12:01:35] 
+[Info][ThreadSendMessages][43][04/19/15 12:01:35] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][39][04/19/15 12:03:08] 
+[Info][Save][39][04/19/15 12:03:23] 
+[Info][Save][39][04/19/15 12:03:25] 
+[Info][WaitingForServer][18][04/19/15 12:04:52] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/19/15 12:04:52] 
+[Info][ThreadWaitingForServer][31][04/19/15 12:04:52] Klient nawiazan polaczenie z serwerem.
+[Info][Start][121][04/19/15 12:04:52] 
+[Info][CommandParser][61][04/19/15 12:04:52] CClient: 00001||
+[Info][ThreadStart][127][04/19/15 12:04:52] 
+[Info][ThreadStart][146][04/19/15 12:04:52] Task: in zostal wykonany.
+[Info][Run][185][04/19/15 12:04:53] Task: in RUN!
+[Info][SendMessages][32][04/19/15 12:04:53] 
+[Info][ThreadStart][151][04/19/15 12:04:53] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][38][04/19/15 12:04:53] 
+[Info][ThreadSendMessages][43][04/19/15 12:04:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][39][04/19/15 12:04:55] 
+[Info][WaitingForServer][18][04/19/15 12:05:16] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/19/15 12:05:16] 
+[Info][ThreadWaitingForServer][31][04/19/15 12:05:16] Klient nawiazan polaczenie z serwerem.
+[Info][Start][121][04/19/15 12:05:16] 
+[Info][CommandParser][61][04/19/15 12:05:16] CClient: 00001||
+[Info][ThreadStart][127][04/19/15 12:05:16] 
+[Info][ThreadStart][146][04/19/15 12:05:16] Task: in zostal wykonany.
+[Info][Run][185][04/19/15 12:05:16] Task: in RUN!
+[Info][SendMessages][32][04/19/15 12:05:16] 
+[Info][ThreadStart][151][04/19/15 12:05:16] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][38][04/19/15 12:05:16] 
+[Info][ThreadSendMessages][43][04/19/15 12:05:16] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][39][04/19/15 12:05:43] 
+[Info][WaitingForServer][18][04/19/15 12:08:11] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/19/15 12:08:11] 
+[Info][ThreadWaitingForServer][31][04/19/15 12:08:11] Klient nawiazan polaczenie z serwerem.
+[Info][Start][121][04/19/15 12:08:11] 
+[Info][CommandParser][61][04/19/15 12:08:11] CClient: 00001||
+[Info][ThreadStart][127][04/19/15 12:08:11] 
+[Info][ThreadStart][146][04/19/15 12:08:11] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:08:11] Task: in RUN!
+[Info][SendMessages][32][04/19/15 12:08:11] 
+[Info][ThreadStart][151][04/19/15 12:08:11] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][38][04/19/15 12:08:11] 
+[Info][ThreadSendMessages][43][04/19/15 12:08:11] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:08:15] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:08:15] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:08:15] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:08:17] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:08:20] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:08:20] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:08:20] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:08:21] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:08:25] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:08:25] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:08:25] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:08:27] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:08:30] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:08:30] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:08:30] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:08:33] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:08:35] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:08:35] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:08:35] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:08:36] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:08:40] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:08:40] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:08:40] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:08:42] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:08:45] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:08:45] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:08:45] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:08:48] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:08:50] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:08:50] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:08:50] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:08:51] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:08:55] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:08:55] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:08:55] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:08:57] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:09:00] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:09:00] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:09:00] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:09:00] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:09:05] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:09:05] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:09:05] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:09:07] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:09:10] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:09:10] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:09:10] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:09:13] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:09:15] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:09:15] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:09:15] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:09:16] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:09:20] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:09:20] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:09:20] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:09:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:09:25] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:09:25] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:09:25] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:09:28] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:09:30] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:09:30] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:09:30] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:09:31] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:09:35] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:09:35] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:09:35] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:09:37] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:09:40] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:09:40] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:09:40] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:09:43] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:09:45] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:09:45] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:09:45] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:09:46] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:09:50] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:09:50] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:09:50] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:09:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:09:55] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:09:55] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:09:55] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:09:56] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][39][04/19/15 12:09:56] 
+[Info][ThreadStart][146][04/19/15 12:10:00] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:10:00] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:10:00] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:10:02] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:10:05] Task: in zostal wykonany.
+[Info][Run][186][04/19/15 12:10:05] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:10:05] Task: in  posiada interwal : 5
+[Info][Save][39][04/19/15 12:10:06] 
+[Info][WaitingForServer][18][04/19/15 12:31:05] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/19/15 12:31:05] 
+[Info][ThreadWaitingForServer][31][04/19/15 12:31:05] Klient nawiazan polaczenie z serwerem.
+[Info][Start][121][04/19/15 12:31:05] 
+[Info][CommandParser][61][04/19/15 12:31:05] CClient: 00001||
+[Info][ThreadStart][127][04/19/15 12:31:05] 
+[Info][ThreadStart][146][04/19/15 12:31:05] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:31:05] Task: in RUN!
+[Info][SendMessages][32][04/19/15 12:31:05] 
+[Info][ThreadStart][151][04/19/15 12:31:05] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][38][04/19/15 12:31:05] 
+[Info][ThreadSendMessages][43][04/19/15 12:31:05] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:31:10] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:31:10] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:31:10] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:31:11] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:31:15] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:31:15] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:31:15] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:31:17] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:31:20] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:31:20] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:31:20] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:31:21] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:31:25] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:31:25] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:31:25] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:31:27] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][168][04/19/15 12:31:29] Task: terrr zostal wykonany.
+[Info][Run][213][04/19/15 12:31:29] Task: terrr RUN!
+[Info][ThreadStart][172][04/19/15 12:31:29] Task: terrr  posiada interwal : 10
+[Info][ThreadSendMessages][43][04/19/15 12:31:30] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:31:30] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:31:30] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:31:30] Task: in  posiada interwal : 5
+[Info][ThreadStart][168][04/19/15 12:31:32] Task: terrr zostal wykonany.
+[Info][Run][213][04/19/15 12:31:32] Task: terrr RUN!
+[Info][ThreadStart][172][04/19/15 12:31:32] Task: terrr  posiada interwal : 10
+[Info][ThreadSendMessages][43][04/19/15 12:31:33] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:31:35] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:31:35] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:31:35] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:31:36] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][04/19/15 12:31:39] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:31:40] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:31:40] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:31:40] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:31:42] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][168][04/19/15 12:31:42] Task: terrr zostal wykonany.
+[Info][Run][213][04/19/15 12:31:42] Task: terrr RUN!
+[Info][ThreadStart][172][04/19/15 12:31:42] Task: terrr  posiada interwal : 10
+[Info][ThreadStart][146][04/19/15 12:31:45] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:31:45] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:31:45] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:31:45] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][04/19/15 12:31:48] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:31:50] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:31:50] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:31:50] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:31:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][168][04/19/15 12:31:52] Task: terrr zostal wykonany.
+[Info][Run][213][04/19/15 12:31:52] Task: terrr RUN!
+[Info][ThreadStart][172][04/19/15 12:31:52] Task: terrr  posiada interwal : 10
+[Info][ThreadSendMessages][43][04/19/15 12:31:55] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:31:55] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:31:55] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:31:55] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:31:58] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:32:00] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:32:00] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:32:00] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:32:01] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][168][04/19/15 12:32:02] Task: terrr zostal wykonany.
+[Info][Run][213][04/19/15 12:32:02] Task: terrr RUN!
+[Info][ThreadStart][172][04/19/15 12:32:02] Task: terrr  posiada interwal : 10
+[Info][ThreadSendMessages][43][04/19/15 12:32:04] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:32:05] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:32:05] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:32:05] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:32:07] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:32:10] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:32:10] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:32:10] Task: in  posiada interwal : 5
+[Info][ThreadStart][168][04/19/15 12:32:12] Task: terrr zostal wykonany.
+[Info][Run][213][04/19/15 12:32:12] Task: terrr RUN!
+[Info][ThreadStart][172][04/19/15 12:32:12] Task: terrr  posiada interwal : 10
+[Info][ThreadSendMessages][43][04/19/15 12:32:13] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:32:15] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:32:15] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:32:15] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:32:16] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][04/19/15 12:32:19] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:32:20] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:32:20] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:32:20] Task: in  posiada interwal : 5
+[Info][ThreadStart][168][04/19/15 12:32:22] Task: terrr zostal wykonany.
+[Info][Run][213][04/19/15 12:32:22] Task: terrr RUN!
+[Info][ThreadStart][172][04/19/15 12:32:22] Task: terrr  posiada interwal : 10
+[Info][ThreadSendMessages][43][04/19/15 12:32:23] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:32:25] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:32:25] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:32:25] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:32:26] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][04/19/15 12:32:29] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:32:30] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:32:30] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:32:30] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:32:32] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][168][04/19/15 12:32:32] Task: terrr zostal wykonany.
+[Info][Run][213][04/19/15 12:32:32] Task: terrr RUN!
+[Info][ThreadStart][172][04/19/15 12:32:32] Task: terrr  posiada interwal : 10
+[Info][ThreadSendMessages][43][04/19/15 12:32:35] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:32:35] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:32:35] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:32:35] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:32:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:32:40] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:32:40] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:32:40] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:32:41] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][168][04/19/15 12:32:42] Task: terrr zostal wykonany.
+[Info][Run][213][04/19/15 12:32:42] Task: terrr RUN!
+[Info][ThreadStart][172][04/19/15 12:32:42] Task: terrr  posiada interwal : 10
+[Info][ThreadSendMessages][43][04/19/15 12:32:44] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:32:45] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:32:45] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:32:45] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:32:47] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:32:50] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:32:50] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:32:50] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:32:51] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][168][04/19/15 12:32:52] Task: terrr zostal wykonany.
+[Info][Run][213][04/19/15 12:32:52] Task: terrr RUN!
+[Info][ThreadStart][172][04/19/15 12:32:52] Task: terrr  posiada interwal : 10
+[Info][ThreadSendMessages][43][04/19/15 12:32:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:32:55] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:32:55] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:32:55] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:32:57] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:33:00] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:33:00] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:33:00] Task: in  posiada interwal : 5
+[Info][ThreadStart][168][04/19/15 12:33:02] Task: terrr zostal wykonany.
+[Info][Run][213][04/19/15 12:33:02] Task: terrr RUN!
+[Info][ThreadStart][172][04/19/15 12:33:02] Task: terrr  posiada interwal : 10
+[Info][ThreadSendMessages][43][04/19/15 12:33:03] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:33:05] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:33:05] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:33:05] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:33:06] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][04/19/15 12:33:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:33:10] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:33:10] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:33:10] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:33:12] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][168][04/19/15 12:33:12] Task: terrr zostal wykonany.
+[Info][Run][213][04/19/15 12:33:12] Task: terrr RUN!
+[Info][ThreadStart][172][04/19/15 12:33:12] Task: terrr  posiada interwal : 10
+[Info][ThreadStart][176][04/19/15 12:33:12] Task: terrr  ddata start jest wieksza od end zostanie usuniety.
+[Info][ThreadSendMessages][43][04/19/15 12:33:15] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:33:15] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:33:15] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:33:15] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:33:18] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:33:20] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:33:20] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:33:20] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:33:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:33:25] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:33:25] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:33:25] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:33:28] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:33:30] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:33:30] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:33:30] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:33:31] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:33:35] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:33:35] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:33:35] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:33:37] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:33:40] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:33:40] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:33:40] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:33:43] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:33:45] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:33:45] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:33:45] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:33:46] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:33:50] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:33:50] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:33:50] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:33:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:33:55] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:33:55] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:33:55] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:33:58] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:34:00] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:34:00] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:34:00] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:34:01] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:34:05] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:34:05] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:34:05] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:34:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:34:10] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:34:10] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:34:10] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:34:11] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:34:15] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:34:15] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:34:15] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:34:17] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:34:20] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:34:20] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:34:20] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:34:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:34:25] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:34:25] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:34:25] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:34:26] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:34:30] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:34:30] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:34:30] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:34:32] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:34:35] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:34:35] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:34:35] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:34:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:34:40] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:34:40] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:34:40] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:34:41] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][39][04/19/15 12:34:42] 
+[Info][ThreadStart][146][04/19/15 12:34:45] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:34:45] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:34:45] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:34:47] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][146][04/19/15 12:34:50] Task: in zostal wykonany.
+[Info][Run][213][04/19/15 12:34:50] Task: in RUN!
+[Info][ThreadStart][151][04/19/15 12:34:50] Task: in  posiada interwal : 5
+[Info][ThreadSendMessages][43][04/19/15 12:34:51] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][39][04/19/15 12:34:52] 

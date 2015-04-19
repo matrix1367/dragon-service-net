@@ -150,9 +150,38 @@ DWORD CScheduleManager::ThreadStart()
                             //task posiada interwal;
                             CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + "  posiada interwal : " + itVCTask->GetStrInterval() );
                             time_t newTime;
-                            do {
-                                newTime =  itVCTask->GetDateStart() + itVCTask->GetInterval();
-                            } while ( newTime <= now);
+                            newTime =  itVCTask->GetDateStart() + itVCTask->GetInterval();
+                            while (newTime <= now) {
+                                 newTime += itVCTask->GetInterval();
+                            }
+
+                            itVCTask->SetDateStart( newTime );
+                            CEventManager::getInstance().Send(EVENT_ADD_SCHEDULE);
+                            continue;
+                        } else {
+                           CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + "  nie posiada interwal zostanie usuniety." );
+                           schedules.erase(itVCTask);
+                           CEventManager::getInstance().Send(EVENT_DELETE_SCHEDULE);
+                           continue;
+                        }
+                } else {
+                    CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + " zostal wykonany." );
+                    itVCTask->Run();
+                        if (itVCTask->GetInterval() > 0) {
+                            //task posiada interwal;
+                            CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + "  posiada interwal : " + itVCTask->GetStrInterval() );
+                            time_t newTime;
+                            newTime =  itVCTask->GetDateStart() + itVCTask->GetInterval();
+                            if (newTime > itVCTask->GetDateEnd()) {
+                                CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + "  ddata start jest wieksza od end zostanie usuniety." );
+                                schedules.erase(itVCTask);
+                                CEventManager::getInstance().Send(EVENT_DELETE_SCHEDULE);
+                                continue;
+                            }
+                            while (newTime <= now ) {
+                                 newTime += itVCTask->GetInterval();
+                            }
+
                             itVCTask->SetDateStart( newTime );
                             CEventManager::getInstance().Send(EVENT_ADD_SCHEDULE);
                             continue;

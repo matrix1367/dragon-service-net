@@ -10,8 +10,16 @@
 #include "Models.h"
 #include "EventManager.h"
 #include "MessageManager.h"
+#include "CDSetting.h"
 
 HINSTANCE hInst;
+
+std::string GetWindowText(HWND hwndDlg, int id) {
+    TCHAR buffDataOd[1024];
+    HWND hwndComponnent =       GetDlgItem(hwndDlg, id);
+    GetWindowText(hwndComponnent, buffDataOd, 1024);
+    return std::string(buffDataOd);
+}
 
 void RefreshListViewMessage(TypeParmT parm)
 {
@@ -209,6 +217,52 @@ void InitComponents(HWND hwnd) {
     CEventManager::getInstance().Subscribe(event);
 }
 
+BOOL CALLBACK IddSetting(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
+{
+    switch(uMsg)
+    {
+    case WM_INITDIALOG:
+    {
+        HWND hEditIP = GetDlgItem(hwndDlg,IDD_DIALOG_SETTING_IP);
+        HWND hEditPort = GetDlgItem(hwndDlg,IDD_DIALOG_SETTING_PORT);
+        SetWindowText( hEditIP, CDSetting::getInstance().getSetting().ipServer );
+        SetWindowText( hEditPort, CDSetting::getInstance().getSetting().portServer );
+    }
+    return TRUE;
+
+    case WM_CLOSE:
+    {
+        EndDialog(hwndDlg, 0);
+    }
+    return TRUE;
+
+    case WM_COMMAND:
+    {
+        switch(LOWORD(wParam))
+        {
+            case IDOK: {
+                std::string ip = GetWindowText(hwndDlg,IDD_DIALOG_SETTING_IP);
+                std::string port = GetWindowText(hwndDlg,IDD_DIALOG_SETTING_PORT);
+                CDSetting::getInstance().SetIp(ip);
+                CDSetting::getInstance().SetPort(port);
+                EndDialog(hwndDlg, 0);
+                break;
+            }
+            case IDCANCEL: {
+                EndDialog(hwndDlg, 0);
+                break;
+            }
+        }
+
+    }
+    return TRUE;
+
+
+
+    }
+    return FALSE;
+}
+
 BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 {
     switch(uMsg)
@@ -232,6 +286,16 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
             case ID_QUEUE: {
                 DialogBox(hInst, MAKEINTRESOURCE(IDD_QUEUE), NULL, (DLGPROC)IddQueue);
             }
+            case ID_MENU_SETTING:
+                {
+                    DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_SETTING), NULL, (DLGPROC)IddSetting);
+                    break;
+                }
+            case ID_MENU_EXIT:
+                {
+                    EndDialog(hwndDlg, 0);
+                    break;
+                }
         }
     }
     return TRUE;
@@ -250,6 +314,7 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
 int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nShowCmd)
 {
+    CDSetting::getInstance().Load();
     CModels::getInstance().Init();
     hInst=hInstance;
     InitCommonControls();

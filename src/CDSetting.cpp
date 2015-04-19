@@ -6,7 +6,6 @@
 
 CDSettingData::CDSettingData()
 {
-    strcpy(nameApplication, "Weather");
     strcpy(ipServer, "127.0.0.1");
     strcpy(portServer, "1101");
 }
@@ -37,7 +36,7 @@ void CDSetting::Init() {
         GetModuleFileName(hModule,ownPth, (sizeof(ownPth)));
         PathRemoveFileSpec(ownPth);
         pathExe = std::string(ownPth) + '\\';
-        //printf("pathe: %s\n" , ownPth);
+
     } else {
          printf("pathe exe is  errror!\n" );
     }
@@ -47,7 +46,7 @@ void CDSetting::Init() {
 void CDSetting::Save()
 {
     //CDSettingData settingData(automaticCallMainDlL, automaticShowMainForm);
-    CDSerialize<CDSettingData> serialzer(pathExe + "dragon_setting.dat");
+    CDSerialize<CDSettingData> serialzer(pathExe + "dragon_setting-net.dat");
     serialzer.Write(settingData);
 }
 

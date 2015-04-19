@@ -1,13 +1,13 @@
 # depslib dependency file v1.0
-1429366632 source:e:\projekty\dragon-service-net\clients\weether\resource.rc
+1429379054 source:e:\projekty\dragon-service-net\clients\weether\resource.rc
 	<windows.h>
 	<commctrl.h>
 	<richedit.h>
 	"resource.h"
 
-1429366665 e:\projekty\dragon-service-net\clients\weether\resource.h
+1429379050 e:\projekty\dragon-service-net\clients\weether\resource.h
 
-1429376692 source:e:\projekty\dragon-service-net\clients\weether\main.cpp
+1429399422 source:e:\projekty\dragon-service-net\clients\weether\main.cpp
 	<windows.h>
 	<commctrl.h>
 	<stdio.h>
@@ -31,7 +31,7 @@
 	"CDLog.h"
 	<cstdio>
 
-1429224884 source:e:\projekty\dragon-service-net\clients\weether\src\client.cpp
+1429437771 source:e:\projekty\dragon-service-net\clients\weether\src\client.cpp
 	"Client.h"
 	<winsock2.h>
 	<windows.h>
@@ -44,13 +44,14 @@
 	"CDSetting.h"
 	"CDLog.h"
 
-1429367990 source:e:\projekty\dragon-service-net\clients\weether\src\schedulemanager.cpp
+1429376715 source:e:\projekty\dragon-service-net\clients\weether\src\schedulemanager.cpp
 	"ScheduleManager.h"
 	"MessageManager.h"
 	"CDSerialize.h"
 	<cstdio>
 	"CDLog.h"
 	"TasksManager.h"
+	"EventManager.h"
 
 1429362768 e:\projekty\dragon-service-net\clients\weether\include\schedulemanager.h
 	<list>
@@ -187,10 +188,10 @@
 	<windows.h>
 	"Shlwapi.h"
 
-1428674496 e:\projekty\dragon-service-net\clients\weether\include\cdsetting.h
+1429385352 e:\projekty\dragon-service-net\clients\weether\include\cdsetting.h
 	<string>
 
-1429224884 source:e:\projekty\dragon-service-net\clients\weether\src\cdsetting.cpp
+1429398007 source:e:\projekty\dragon-service-net\clients\weether\src\cdsetting.cpp
 	"CDSetting.h"
 	"CDSerialize.h"
 	"CDLog.h"

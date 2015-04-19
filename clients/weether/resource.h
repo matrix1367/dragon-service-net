@@ -6,8 +6,12 @@
 #define IDD_DIALOG_SCHEDULE                     102
 #define IDR_MENU1                               103
 #define IDR_MENU_SCHEDUL_EDIT                   105
+#define IDD_DIALOG_SETTING                      107
 #define DLG_SCHEDULE_LISTVIE                    40000
+#define IDD_DIALOG_SETTING_PORT                 41000
+#define IDD_DIALOG_SETTING_IP                   41001
 #define ID_MENU_SCHEDULE                        40001
+#define ID_MENU_SETTING                         41003
 #define IDR_MENU_SCHEDUL_EDIT_ADD               40002
 #define IDR_MENU_SCHEDUL_EDIT_EDIT              40003
 #define IDR_MENU_SCHEDUL_EDIT_DELETE            40004

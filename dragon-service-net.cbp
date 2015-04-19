@@ -17,6 +17,7 @@
 				</Compiler>
 				<Linker>
 					<Add option="-lWS2_32" />
+					<Add option="-lShlwapi" />
 				</Linker>
 			</Target>
 			<Target title="Release">
@@ -43,6 +44,8 @@
 			<Add library="comctl32" />
 		</Linker>
 		<Unit filename="include/CDLog.h" />
+		<Unit filename="include/CDSerialize.h" />
+		<Unit filename="include/CDSetting.h" />
 		<Unit filename="include/EventManager.h" />
 		<Unit filename="include/Message.h" />
 		<Unit filename="include/MessageManager.h" />
@@ -57,6 +60,7 @@
 			<Option compilerVar="WINDRES" />
 		</Unit>
 		<Unit filename="src/CDLog.cpp" />
+		<Unit filename="src/CDSetting.cpp" />
 		<Unit filename="src/EventManager.cpp" />
 		<Unit filename="src/Message.cpp" />
 		<Unit filename="src/MessageManager.cpp" />

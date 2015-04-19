@@ -306,6 +306,49 @@ BOOL CALLBACK DlgSchedule(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     return FALSE;
 }
 
+BOOL CALLBACK DlgSetting(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
+{
+switch(uMsg)
+    {
+    case WM_INITDIALOG:
+    {
+        HWND hEditIP = GetDlgItem(hwndDlg,IDD_DIALOG_SETTING_IP);
+        HWND hEditPort = GetDlgItem(hwndDlg,IDD_DIALOG_SETTING_PORT);
+        SetWindowText( hEditIP, CDSetting::getInstance().getSetting().ipServer );
+        SetWindowText( hEditPort, CDSetting::getInstance().getSetting().portServer );
+    }
+    return TRUE;
+
+    case WM_CLOSE:
+    {
+        //CScheduleManager::getInstance().Save();
+        CDSetting::getInstance().Save();
+        EndDialog(hwndDlg, 0);
+    }
+    return TRUE;
+
+    case WM_COMMAND:
+    {
+        switch(LOWORD(wParam))
+        {
+            case IDOK: {
+                std::string ip = GetWindowText(hwndDlg,IDD_DIALOG_SETTING_IP);
+                std::string port = GetWindowText(hwndDlg,IDD_DIALOG_SETTING_PORT);
+                CDSetting::getInstance().SetIp(ip);
+                CDSetting::getInstance().SetPort(port);
+                EndDialog(hwndDlg, 0);
+                break;
+            }
+            case IDCANCEL: {
+                EndDialog(hwndDlg, 0);
+                break;
+            }
+        }
+    }
+    return TRUE;
+    }
+    return FALSE;
+}
 
 BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 {
@@ -313,6 +356,7 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     {
     case WM_INITDIALOG:
     {
+
     }
     return TRUE;
 
@@ -328,7 +372,11 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     {
         switch(LOWORD(wParam))
         {
-              case ID_MENU_SCHEDULE: {
+            case ID_MENU_SETTING: {
+                DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_SETTING), NULL, (DLGPROC)DlgSetting);
+                break;
+            }
+            case ID_MENU_SCHEDULE: {
                 DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_SCHEDULE), NULL, (DLGPROC)DlgSchedule);
                 break;
             }

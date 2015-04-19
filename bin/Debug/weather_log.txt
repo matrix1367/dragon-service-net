@@ -3084,3 +3084,68 @@
 [Info][ThreadStart][118][04/15/15 20:26:53] 
 [Info][Save][35][04/15/15 20:28:18] 
 [Info][Save][35][04/15/15 20:28:21] 
+[Info][WaitingForServer][18][04/19/15 12:36:22] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/19/15 12:36:22] 
+[Info][ThreadWaitingForServer][31][04/19/15 12:36:22] Klient nawiazan polaczenie z serwerem.
+[Info][Start][121][04/19/15 12:36:22] 
+[Info][CommandParser][61][04/19/15 12:36:22] CClient: 00001||
+[Info][ThreadStart][127][04/19/15 12:36:22] 
+[Info][Save][39][04/19/15 12:37:50] 
+[Info][Save][39][04/19/15 12:37:51] 
+[Info][WaitingForServer][18][04/19/15 12:38:18] Thread: Oczekiwanie na serwer....
+[Info][Load][53][04/19/15 12:38:18] 
+[Info][ThreadWaitingForServer][31][04/19/15 12:38:18] Klient nawiazan polaczenie z serwerem.
+[Info][Start][121][04/19/15 12:38:18] 
+[Info][CommandParser][61][04/19/15 12:38:18] CClient: 00001||
+[Info][ThreadStart][127][04/19/15 12:38:18] 
+[Info][ThreadStart][168][04/19/15 12:38:41] Task: yyyy zostal wykonany.
+[Info][Run][213][04/19/15 12:38:41] Task: yyyy RUN!
+[Info][SendMessages][32][04/19/15 12:38:41] 
+[Info][ThreadStart][172][04/19/15 12:38:41] Task: yyyy  posiada interwal : 10
+[Info][ThreadSendMessages][38][04/19/15 12:38:41] 
+[Info][ThreadSendMessages][43][04/19/15 12:38:41] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][168][04/19/15 12:38:44] Task: yyyy zostal wykonany.
+[Info][Run][213][04/19/15 12:38:44] Task: yyyy RUN!
+[Info][ThreadStart][172][04/19/15 12:38:44] Task: yyyy  posiada interwal : 10
+[Info][ThreadSendMessages][43][04/19/15 12:38:44] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][39][04/19/15 12:38:47] 
+[Info][ThreadStart][168][04/19/15 12:38:54] Task: yyyy zostal wykonany.
+[Info][Run][213][04/19/15 12:38:54] Task: yyyy RUN!
+[Info][ThreadStart][172][04/19/15 12:38:54] Task: yyyy  posiada interwal : 10
+[Info][ThreadSendMessages][43][04/19/15 12:38:56] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][168][04/19/15 12:39:04] Task: yyyy zostal wykonany.
+[Info][Run][213][04/19/15 12:39:04] Task: yyyy RUN!
+[Info][ThreadStart][172][04/19/15 12:39:04] Task: yyyy  posiada interwal : 10
+[Info][ThreadSendMessages][43][04/19/15 12:39:05] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][168][04/19/15 12:39:14] Task: yyyy zostal wykonany.
+[Info][Run][213][04/19/15 12:39:14] Task: yyyy RUN!
+[Info][ThreadStart][172][04/19/15 12:39:14] Task: yyyy  posiada interwal : 10
+[Info][ThreadSendMessages][43][04/19/15 12:39:15] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][168][04/19/15 12:39:24] Task: yyyy zostal wykonany.
+[Info][Run][213][04/19/15 12:39:24] Task: yyyy RUN!
+[Info][ThreadStart][172][04/19/15 12:39:24] Task: yyyy  posiada interwal : 10
+[Info][ThreadSendMessages][43][04/19/15 12:39:27] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][168][04/19/15 12:39:34] Task: yyyy zostal wykonany.
+[Info][Run][213][04/19/15 12:39:34] Task: yyyy RUN!
+[Info][ThreadStart][172][04/19/15 12:39:34] Task: yyyy  posiada interwal : 10
+[Info][WaitingForServer][18][04/19/15 12:39:36] Thread: Oczekiwanie na serwer....
+[Info][ThreadWaitingForServer][28][04/19/15 12:39:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 12:39:41] >>>[ping serwera]<<<
+[Info][ThreadStart][168][04/19/15 12:39:44] Task: yyyy zostal wykonany.
+[Info][Run][213][04/19/15 12:39:44] Task: yyyy RUN!
+[Info][ThreadStart][172][04/19/15 12:39:44] Task: yyyy  posiada interwal : 10
+[Info][ThreadWaitingForServer][28][04/19/15 12:39:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][31][04/19/15 12:39:48] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][61][04/19/15 12:39:48] CClient: 00001||
+[Info][ThreadSendMessages][43][04/19/15 12:39:51] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][04/19/15 12:39:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][168][04/19/15 12:39:54] Task: yyyy zostal wykonany.
+[Info][Run][213][04/19/15 12:39:54] Task: yyyy RUN!
+[Info][ThreadStart][172][04/19/15 12:39:54] Task: yyyy  posiada interwal : 10
+[Info][ThreadSendMessages][43][04/19/15 12:39:57] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][WaitingForServer][18][04/19/15 12:40:03] Thread: Oczekiwanie na serwer....
+[Info][ThreadStart][168][04/19/15 12:40:04] Task: yyyy zostal wykonany.
+[Info][Run][213][04/19/15 12:40:04] Task: yyyy RUN!
+[Info][ThreadStart][172][04/19/15 12:40:04] Task: yyyy  posiada interwal : 10
+[Info][ThreadWaitingForServer][28][04/19/15 12:40:04] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][28][04/19/15 12:40:08] >>>[ping serwera]<<<

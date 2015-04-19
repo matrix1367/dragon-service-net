@@ -12,13 +12,16 @@
 
 CClient::CClient()
 {
-    m_ipAddres = (char*)"127.0.0.1";
-    m_port = 1101;
+    m_ipAddres = (char*) malloc(sizeof(char) * 12);
+    strcpy(m_ipAddres, CDSetting::getInstance().getSetting().ipServer);
+    m_port = atoi(CDSetting::getInstance().getSetting().portServer);
+    printf("Connect to server ip: [%s] , port: [%d]\n" , m_ipAddres, m_port);
 }
 
 CClient::~CClient()
 {
     //dtor
+    free(m_ipAddres);
 }
 
 bool CClient::Send(std::string msg)

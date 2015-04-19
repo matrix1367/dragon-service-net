@@ -6,13 +6,17 @@
 #include <cstdio>
 #include <winsock2.h>
 #include <string>
+#include "CDSetting.h"
 
 DWORD WINAPI SocketHandler(void*);
 
 CServer::CServer()
 {
-    m_port = 1101;
-    m_adresIP ="127.0.0.1";
+    //m_port = 1101;
+    //m_adresIP ="127.0.0.1";
+    m_adresIP = CDSetting::getInstance().getSetting().ipServer;
+    m_port = atoi(CDSetting::getInstance().getSetting().portServer);
+  //  printf("Start server ip: [%s] , port: [%d]\n" , m_adresIP, m_port);
 }
 
 CServer::~CServer()

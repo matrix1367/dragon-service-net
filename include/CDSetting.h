@@ -5,7 +5,6 @@
 struct CDSettingData {
     public:
         CDSettingData();
-        char nameApplication[30];
         char ipServer[11];
         char portServer[5];
 };
