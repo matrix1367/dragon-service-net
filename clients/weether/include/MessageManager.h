@@ -12,7 +12,7 @@ class CMessageManager
             return instance;
         }
 
-        void AddMessage(const CMessage& message);
+        void AddMessage(CMessage message);
         void AddMessage(const std::string name, const std::string description);
 
         void SendMessages();

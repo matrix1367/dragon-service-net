@@ -104,3 +104,109 @@
 1428674496 source:e:\projekty\dragon-service-net\src\tools.cpp
 	"Tools.h"
 
+1428583172 source:f:\projects\dragon-service-net-master\src\cdlog.cpp
+	"CDLog.h"
+	<iostream>
+	<fstream>
+	<time.h>
+
+1428355505 f:\projects\dragon-service-net-master\include\cdlog.h
+	<string>
+	<sstream>
+
+1428499232 source:f:\projects\dragon-service-net-master\src\eventmanager.cpp
+	"EventManager.h"
+
+1428657311 f:\projects\dragon-service-net-master\include\eventmanager.h
+	<vector>
+	<windows.h>
+
+1428905657 source:f:\projects\dragon-service-net-master\src\message.cpp
+	"Message.h"
+	"Tools.h"
+	"CDLog.h"
+
+1428905657 f:\projects\dragon-service-net-master\include\message.h
+	"CDLog.h"
+	<string>
+
+1428670299 f:\projects\dragon-service-net-master\include\tools.h
+	<vector>
+	<cstring>
+	<string>
+
+1428672680 source:f:\projects\dragon-service-net-master\src\messagemanager.cpp
+	"MessageManager.h"
+
+1428672422 f:\projects\dragon-service-net-master\include\messagemanager.h
+	"Message.h"
+	<string>
+	<list>
+
+1428485306 source:f:\projects\dragon-service-net-master\src\models.cpp
+	"Models.h"
+	"NetworkManager.h"
+
+1428485935 f:\projects\dragon-service-net-master\include\models.h
+	<list>
+	"Server.h"
+
+1428655145 f:\projects\dragon-service-net-master\include\server.h
+	<string>
+	<windows.h>
+	<list>
+
+1428485201 f:\projects\dragon-service-net-master\include\networkmanager.h
+	"Server.h"
+
+1428485297 source:f:\projects\dragon-service-net-master\src\networkmanager.cpp
+	"NetworkManager.h"
+
+1428670336 source:f:\projects\dragon-service-net-master\src\tools.cpp
+	"Tools.h"
+
+1429514315 source:f:\projects\dragon-service-net-master\main.cpp
+	<windows.h>
+	<CommCtrl.h>
+	<stdio.h>
+	"resource.h"
+	"Models.h"
+	"EventManager.h"
+	"MessageManager.h"
+	"CDSetting.h"
+
+1429514315 f:\projects\dragon-service-net-master\resource.h
+
+1429514315 f:\projects\dragon-service-net-master\include\cdsetting.h
+	<string>
+
+1429514315 source:f:\projects\dragon-service-net-master\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1429514315 source:f:\projects\dragon-service-net-master\src\server.cpp
+	"Server.h"
+	"EventManager.h"
+	"MessageManager.h"
+	"Tools.h"
+	"CDLog.h"
+	<cstdio>
+	<winsock2.h>
+	<string>
+	"CDSetting.h"
+
+1429515383 source:f:\projects\dragon-service-net-master\src\cdsetting.cpp
+	"CDSetting.h"
+	"CDSerialize.h"
+	"CDLog.h"
+	<windows.h>
+	"Shlwapi.h"
+
+1429514315 f:\projects\dragon-service-net-master\include\cdserialize.h
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+

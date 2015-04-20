@@ -75,16 +75,19 @@
 	<string>
 	<sstream>
 
-1429173086 source:f:\projects\dragon-service-net-master\clients\weether\main.cpp
+1429514315 source:f:\projects\dragon-service-net-master\clients\weether\main.cpp
 	<windows.h>
 	<commctrl.h>
 	<stdio.h>
+	<vector>
 	"resource.h"
 	"Models.h"
 	"ScheduleManager.h"
 	"CDSetting.h"
+	"TasksManager.h"
+	"EventManager.h"
 
-1429018721 f:\projects\dragon-service-net-master\clients\weether\resource.h
+1429514315 f:\projects\dragon-service-net-master\clients\weether\resource.h
 
 1428911263 f:\projects\dragon-service-net-master\clients\weether\include\models.h
 	"Client.h"
@@ -93,13 +96,13 @@
 	<windows.h>
 	<string>
 
-1429271206 f:\projects\dragon-service-net-master\clients\weether\include\schedulemanager.h
+1429514315 f:\projects\dragon-service-net-master\clients\weether\include\schedulemanager.h
 	<list>
 	<time.h>
 	<string>
 	<windows.h>
 
-1429101680 source:f:\projects\dragon-service-net-master\clients\weether\resource.rc
+1429514315 source:f:\projects\dragon-service-net-master\clients\weether\resource.rc
 	<windows.h>
 	<commctrl.h>
 	<richedit.h>
@@ -115,7 +118,7 @@
 	<string>
 	<sstream>
 
-1429168732 source:f:\projects\dragon-service-net-master\clients\weether\src\client.cpp
+1429514315 source:f:\projects\dragon-service-net-master\clients\weether\src\client.cpp
 	"Client.h"
 	<winsock2.h>
 	<windows.h>
@@ -128,17 +131,19 @@
 	"CDSetting.h"
 	"CDLog.h"
 
-1428911957 source:f:\projects\dragon-service-net-master\clients\weether\src\models.cpp
+1429514315 source:f:\projects\dragon-service-net-master\clients\weether\src\models.cpp
 	"Models.h"
 	"CDLog.h"
 	<cstdio>
 
-1429269320 source:f:\projects\dragon-service-net-master\clients\weether\src\schedulemanager.cpp
+1429523445 source:f:\projects\dragon-service-net-master\clients\weether\src\schedulemanager.cpp
 	"ScheduleManager.h"
 	"MessageManager.h"
 	"CDSerialize.h"
 	<cstdio>
 	"CDLog.h"
+	"TasksManager.h"
+	"EventManager.h"
 
 1428355505 f:\projects\dragon-service-net-master\clients\weether\include\cdserialize.h
 	<string>
@@ -152,12 +157,12 @@
 1428667607 f:\projects\dragon-service-net-master\clients\weether\include\message.h
 	<string>
 
-1429170645 source:f:\projects\dragon-service-net-master\clients\weether\src\messagemanager.cpp
+1429522002 source:f:\projects\dragon-service-net-master\clients\weether\src\messagemanager.cpp
 	"MessageManager.h"
 	"Models.h"
 	"CDLog.h"
 
-1428409207 f:\projects\dragon-service-net-master\clients\weether\include\messagemanager.h
+1429521976 f:\projects\dragon-service-net-master\clients\weether\include\messagemanager.h
 	<Message.h>
 	<queue>
 	<windows.h>
@@ -178,10 +183,10 @@
 	<queue>
 	<windows.h>
 
-1428651077 f:\projects\dragon-service-net-master\clients\weether\include\cdsetting.h
+1429514315 f:\projects\dragon-service-net-master\clients\weether\include\cdsetting.h
 	<string>
 
-1429168229 source:f:\projects\dragon-service-net-master\clients\weether\src\cdsetting.cpp
+1429514315 source:f:\projects\dragon-service-net-master\clients\weether\src\cdsetting.cpp
 	"CDSetting.h"
 	"CDSerialize.h"
 	"CDLog.h"
@@ -201,13 +206,16 @@
 1429258889 source:f:\projects\dragon-service-net-master\clients\weether\src\ijob.cpp
 	"IJob.h"
 
-1429272344 f:\projects\dragon-service-net-master\clients\weether\include\ijob.h
+1429522821 f:\projects\dragon-service-net-master\clients\weether\include\ijob.h
+	"Message.h"
 
-1429272963 source:f:\projects\dragon-service-net-master\clients\weether\src\job\jobtime.cpp
-	"JobTime.h"
+1429522788 source:f:\projects\dragon-service-net-master\clients\weether\src\job\jobtime.cpp
+	"job\JobTime.h"
+	<time.h>
 
-1429272619 f:\projects\dragon-service-net-master\clients\weether\include\job\jobtime.h
+1429522788 f:\projects\dragon-service-net-master\clients\weether\include\job\jobtime.h
 	"IJob.h"
+	"Message.h"
 
 1429280760 source:e:\projekty\dragon-service-net\clients\weether\src\ijob.cpp
 	"IJob.h"
@@ -237,4 +245,19 @@
 1429376469 e:\projekty\dragon-service-net\clients\weether\include\eventmanager.h
 	<vector>
 	<windows.h>
+
+1429514315 f:\projects\dragon-service-net-master\clients\weether\include\tasksmanager.h
+	"IJob.h"
+	"job/JobTime.h"
+	<vector>
+
+1429514315 f:\projects\dragon-service-net-master\clients\weether\include\eventmanager.h
+	<vector>
+	<windows.h>
+
+1429514315 source:f:\projects\dragon-service-net-master\clients\weether\src\eventmanager.cpp
+	"EventManager.h"
+
+1429514550 source:f:\projects\dragon-service-net-master\clients\weether\src\tasksmanager.cpp
+	"TasksManager.h"
 

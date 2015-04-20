@@ -16,7 +16,7 @@ CMessageManager::~CMessageManager()
     //dtor
 }
 
-void CMessageManager::AddMessage(const CMessage& message)
+void CMessageManager::AddMessage(CMessage message)
 {
     m_messages.push(message);
 }

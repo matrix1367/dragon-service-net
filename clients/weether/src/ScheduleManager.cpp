@@ -206,17 +206,28 @@ std::list<CTask> CScheduleManager::GetSchedule()
     return schedules;
 }
 
+ static DWORD WINAPI ThreadRun(void* Param) {
+    CTask * task = (CTask*) Param;
+    CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + task->GetStrName() + " RUN!" );
 
-//int testI = 0;
-void CTask::Run()
-{
-    CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + std::string(m_name)+ " RUN!" );
-    IJob* job = CJobsManager::getInstance().GetJobs(m_id_job );
+    IJob* job = CJobsManager::getInstance().GetJobs(task->GetIdJob() );
+
     CMessageManager::GetInstance().AddMessage(job->Run());
 
     delete job;
+    return 0;
+ }
 
-  //  testI++;
+
+void CTask::Run()
+{
+    //DWORD m_threadID;
+    //CreateThread(0,0,ThreadRun, (void*)this , 0 , &m_threadID);
+
+    IJob* job = CJobsManager::getInstance().GetJobs(this->GetIdJob() );
+    CMessageManager::GetInstance().AddMessage(job->Run());
+
+    delete job;
 }
 
 std::string CTask::GetStrName()

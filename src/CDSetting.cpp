@@ -53,7 +53,7 @@ void CDSetting::Save()
 void CDSetting::Load()
 {
     CDSettingData settingDataLoad;
-    CDSerialize<CDSettingData> serialzer(pathExe + "dragon_setting.dat");
+    CDSerialize<CDSettingData> serialzer(pathExe + "dragon_setting-net.dat");
     if(serialzer.Read(settingDataLoad)) {
             settingData = settingDataLoad;
     } else {

@@ -18,15 +18,15 @@ std::vector<std::string> CJobsManager::GetStrAllNameJob() {
 }
 
 std::string CJobsManager::GetStrNameJob(int IdJob){
-                switch (IdJob) {
-                    case ID_JOB_TIME : {
-                        return "Time";
-                    }
-                    default :
-                    {
-                         return "ID JOB ERROR";
-                    }
-                }
+    switch (IdJob) {
+        case ID_JOB_TIME : {
+            return "Time";
+        }
+        default:
+        {
+             return "ID JOB ERROR";
+        }
+    }
 }
 
 int CJobsManager::GetIdJob(int indexJob) {
