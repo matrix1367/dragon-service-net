@@ -32,7 +32,7 @@ void CMessageManager::SendMessages()
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "" );
     CreateThread(0,0,StaticThreadSendMessages, (void*)this , 0,&m_threadID);
 }
-
+//#include <cstdio>
 DWORD CMessageManager::ThreadSendMessages()
 {
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "" );
@@ -42,6 +42,13 @@ DWORD CMessageManager::ThreadSendMessages()
             if (m_messages.size() > 0 ) {
                 CDLog::Write( __FUNCTION__ , __LINE__, Info, "Kolejka wiedomosci zawiera " + CDLog::ToString(m_messages.size()) + " niewyslanych wiadomosci, wysy³anie..." );
                 for (unsigned int i=0; i< m_messages.size(); i++) {
+
+                    if ( m_messages.front().GetTypeTask() == TYPE_MESSAGE_NO_SEND) {
+                            //printf("Wiadomosc pusta: %s: %s",m_messages.front().GetName().c_str(), m_messages.front().GetDescription().c_str() );
+                            m_messages.pop();
+                            Sleep(100);
+                            continue;
+                    }
                     if(CModels::getInstance().GetClient().Send(CModels::getInstance().GetClient().CommandCreate(CMD_MESSAGE, m_messages.front().ConvertObjToStr()))) {
                         m_messages.pop();
                         Sleep(100);

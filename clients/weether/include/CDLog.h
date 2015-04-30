@@ -20,6 +20,12 @@ public:
         return ss.str();
     }
 
+    static std::string ToStringDouble(double i) {
+        std::ostringstream ss;
+        ss << i;
+        return ss.str();
+    }
+
 protected:
 private:
     static std::string m_nameFile;

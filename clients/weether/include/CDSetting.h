@@ -8,6 +8,7 @@ struct CDSettingData {
         char nameApplication[30];
         char ipServer[11];
         char portServer[5];
+        char cityName[30];
 };
 
 class CDSetting
@@ -31,6 +32,7 @@ public:
 
     void SetIp(std::string ip);
     void SetPort(std::string port);
+    void SetCityName(std::string name) ;
 
 protected:
 private:

@@ -1284,3 +1284,2525 @@
 [Info][CommandParser][101][04/20/15 11:57:24] 00003|Aktualna godzina:;[20-04-2015 11:57:22] ;|
 [Info][CommandParser][124][04/20/15 11:57:24] cmd: CMD_MESSAGE
 [Info][CommandParser][126][04/20/15 11:57:24] message:Aktualna godzina:;[20-04-2015 11:57:22] ;
+[Warning][Load][60][04/20/15 16:58:05] Wczytanie ustawie� nie powiod�o si�.
+[Info][CommandParser][101][04/20/15 16:58:08] 00002|Weather|
+[Info][CommandParser][108][04/20/15 16:58:08] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/20/15 16:58:10] 00003|Aktualna godzina:;[20-04-2015 16:57:37] ;|
+[Info][CommandParser][124][04/20/15 16:58:10] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 16:58:10] message:Aktualna godzina:;[20-04-2015 16:57:37] ;
+[Info][CommandParser][101][04/20/15 16:58:10] 00003|Aktualna godzina:;[20-04-2015 16:57:42] ;|
+[Info][CommandParser][124][04/20/15 16:58:10] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 16:58:10] message:Aktualna godzina:;[20-04-2015 16:57:42] ;
+[Info][CommandParser][101][04/20/15 16:58:14] 00003|Aktualna godzina:;[20-04-2015 16:57:52] ;|
+[Info][CommandParser][124][04/20/15 16:58:14] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 16:58:14] message:Aktualna godzina:;[20-04-2015 16:57:52] ;
+[Info][CommandParser][101][04/20/15 16:58:14] 00003|Aktualna godzina:;[20-04-2015 16:58:02] ;|
+[Info][CommandParser][124][04/20/15 16:58:14] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 16:58:14] message:Aktualna godzina:;[20-04-2015 16:58:02] ;
+[Info][CommandParser][101][04/20/15 16:58:17] 00003|Aktualna godzina:;[20-04-2015 16:58:12] ;|
+[Info][CommandParser][124][04/20/15 16:58:17] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 16:58:17] message:Aktualna godzina:;[20-04-2015 16:58:12] ;
+[Info][CommandParser][101][04/20/15 16:58:23] 00003|Aktualna godzina:;[20-04-2015 16:58:22] ;|
+[Info][CommandParser][124][04/20/15 16:58:23] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 16:58:23] message:Aktualna godzina:;[20-04-2015 16:58:22] ;
+[Info][CommandParser][101][04/20/15 16:58:35] 00003|Aktualna godzina:;[20-04-2015 16:58:32] ;|
+[Info][CommandParser][124][04/20/15 16:58:35] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 16:58:35] message:Aktualna godzina:;[20-04-2015 16:58:32] ;
+[Info][CommandParser][101][04/20/15 16:58:38] 00003|Aktualna godzina:;[20-04-2015 16:58:35] ;|
+[Info][CommandParser][124][04/20/15 16:58:38] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 16:58:38] message:Aktualna godzina:;[20-04-2015 16:58:35] ;
+[Info][CommandParser][101][04/20/15 16:58:44] 00003|Aktualna godzina:;[20-04-2015 16:58:42] ;|
+[Info][CommandParser][124][04/20/15 16:58:44] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 16:58:44] message:Aktualna godzina:;[20-04-2015 16:58:42] ;
+[Info][CommandParser][101][04/20/15 16:58:53] 00003|Aktualna godzina:;[20-04-2015 16:58:52] ;|
+[Info][CommandParser][124][04/20/15 16:58:53] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 16:58:53] message:Aktualna godzina:;[20-04-2015 16:58:52] ;
+[Info][CommandParser][101][04/20/15 17:01:13] 00002|Weather|
+[Info][CommandParser][108][04/20/15 17:01:13] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/20/15 17:01:16] 00003|Aktualna godzina:;[20-04-2015 17:01:13] ;|
+[Info][CommandParser][124][04/20/15 17:01:16] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 17:01:16] message:Aktualna godzina:;[20-04-2015 17:01:13] ;
+[Info][CommandParser][101][04/20/15 17:01:22] 00003|Aktualna godzina:;[20-04-2015 17:01:22] ;|
+[Info][CommandParser][124][04/20/15 17:01:22] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 17:01:22] message:Aktualna godzina:;[20-04-2015 17:01:22] ;
+[Info][CommandParser][101][04/20/15 17:01:34] 00003|Aktualna godzina:;[20-04-2015 17:01:32] ;|
+[Info][CommandParser][124][04/20/15 17:01:34] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 17:01:34] message:Aktualna godzina:;[20-04-2015 17:01:32] ;
+[Info][CommandParser][101][04/20/15 17:01:37] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][CommandParser][124][04/20/15 17:01:37] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 17:01:37] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][ConvertStrToObj][22][04/20/15 17:01:37] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/20/15 17:01:37] wań atmosferycznych
+							 w promieniu 50km
+						</dl>
+			
+						<dl style="color:green;text-align:center">Mróz, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Upał, brak ostrzeżeń</dl>
+				
+					<dl>
+            			                <dt style="text-align:center">Wiatr, ostrzeżenie I stopnia</dt>
+									<dd style="text-align:center">Wiatr w porywach od 70 do 90 km/h</dd>
+										</dl>
+				
+					<dl style="color:green;text-align:center">Opady, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Burze, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Trąby powietrzne, brak ostrzeżeń</dl>
+			</body>
+</html> ;|
+[Info][CommandParser][136][04/20/15 17:01:37] komenda nieznana:wań 
+[Info][CommandParser][101][04/20/15 17:01:41] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][CommandParser][124][04/20/15 17:01:41] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 17:01:41] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][ConvertStrToObj][22][04/20/15 17:01:41] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/20/15 17:01:41] wań atmosferycznych
+							 w promieniu 50km
+						</dl>
+			
+						<dl style="color:green;text-align:center">Mróz, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Upał, brak ostrzeżeń</dl>
+				
+					<dl>
+            			                <dt style="text-align:center">Wiatr, ostrzeżenie I stopnia</dt>
+									<dd style="text-align:center">Wiatr w porywach od 70 do 90 km/h</dd>
+										</dl>
+				
+					<dl style="color:green;text-align:center">Opady, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Burze, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Trąby powietrzne, brak ostrzeżeń</dl>
+			</body>
+</html> ;|
+[Info][CommandParser][136][04/20/15 17:01:41] komenda nieznana:wań 
+[Info][CommandParser][101][04/20/15 17:01:44] 00003|Aktualna godzina:;[20-04-2015 17:01:42] ;|
+[Info][CommandParser][124][04/20/15 17:01:44] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 17:01:44] message:Aktualna godzina:;[20-04-2015 17:01:42] ;
+[Info][CommandParser][101][04/20/15 17:01:50] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][CommandParser][124][04/20/15 17:01:50] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 17:01:50] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][ConvertStrToObj][22][04/20/15 17:01:50] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/20/15 17:01:50] wań atmosferycznych
+							 w promieniu 50km
+						</dl>
+			
+						<dl style="color:green;text-align:center">Mróz, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Upał, brak ostrzeżeń</dl>
+				
+					<dl>
+            			                <dt style="text-align:center">Wiatr, ostrzeżenie I stopnia</dt>
+									<dd style="text-align:center">Wiatr w porywach od 70 do 90 km/h</dd>
+										</dl>
+				
+					<dl style="color:green;text-align:center">Opady, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Burze, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Trąby powietrzne, brak ostrzeżeń</dl>
+			</body>
+</html> ;|
+[Info][CommandParser][136][04/20/15 17:01:50] komenda nieznana:wań 
+[Info][CommandParser][101][04/20/15 17:01:53] 00003|Aktualna godzina:;[20-04-2015 17:01:52] ;|
+[Info][CommandParser][124][04/20/15 17:01:53] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 17:01:53] message:Aktualna godzina:;[20-04-2015 17:01:52] ;
+[Info][CommandParser][101][04/20/15 17:02:02] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][CommandParser][124][04/20/15 17:02:02] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 17:02:02] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][ConvertStrToObj][22][04/20/15 17:02:02] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/20/15 17:02:02] wań atmosferycznych
+							 w promieniu 50km
+						</dl>
+			
+						<dl style="color:green;text-align:center">Mróz, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Upał, brak ostrzeżeń</dl>
+				
+					<dl>
+            			                <dt style="text-align:center">Wiatr, ostrzeżenie I stopnia</dt>
+									<dd style="text-align:center">Wiatr w porywach od 70 do 90 km/h</dd>
+										</dl>
+				
+					<dl style="color:green;text-align:center">Opady, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Burze, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Trąby powietrzne, brak ostrzeżeń</dl>
+			</body>
+</html> ;|
+[Info][CommandParser][136][04/20/15 17:02:02] komenda nieznana:wań 
+[Info][CommandParser][101][04/20/15 17:02:05] 00003|Aktualna godzina:;[20-04-2015 17:02:02] ;|
+[Info][CommandParser][124][04/20/15 17:02:05] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 17:02:05] message:Aktualna godzina:;[20-04-2015 17:02:02] ;
+[Info][CommandParser][101][04/20/15 17:02:11] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][CommandParser][124][04/20/15 17:02:11] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 17:02:11] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][ConvertStrToObj][22][04/20/15 17:02:11] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/20/15 17:02:11] wań atmosferycznych
+							 w promieniu 50km
+						</dl>
+			
+						<dl style="color:green;text-align:center">Mróz, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Upał, brak ostrzeżeń</dl>
+				
+					<dl>
+            			                <dt style="text-align:center">Wiatr, ostrzeżenie I stopnia</dt>
+									<dd style="text-align:center">Wiatr w porywach od 70 do 90 km/h</dd>
+										</dl>
+				
+					<dl style="color:green;text-align:center">Opady, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Burze, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Trąby powietrzne, brak ostrzeżeń</dl>
+			</body>
+</html> ;|
+[Info][CommandParser][136][04/20/15 17:02:11] komenda nieznana:wań 
+[Info][CommandParser][101][04/20/15 17:02:15] 00003|Aktualna godzina:;[20-04-2015 17:02:12] ;|
+[Info][CommandParser][124][04/20/15 17:02:15] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 17:02:15] message:Aktualna godzina:;[20-04-2015 17:02:12] ;
+[Info][CommandParser][101][04/20/15 17:02:21] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][CommandParser][124][04/20/15 17:02:21] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/20/15 17:02:21] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][ConvertStrToObj][22][04/20/15 17:02:21] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/20/15 17:02:21] wań atmosferycznych
+							 w promieniu 50km
+						</dl>
+			
+						<dl style="color:green;text-align:center">Mróz, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Upał, brak ostrzeżeń</dl>
+				
+					<dl>
+            			                <dt style="text-align:center">Wiatr, ostrzeżenie I stopnia</dt>
+									<dd style="text-align:center">Wiatr w porywach od 70 do 90 km/h</dd>
+										</dl>
+				
+					<dl style="color:green;text-align:center">Opady, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Burze, brak ostrzeżeń</dl>
+				
+					<dl style="color:green;text-align:center">Trąby powietrzne, brak ostrzeżeń</dl>
+			</body>
+</html> ;|
+[Info][CommandParser][136][04/20/15 17:02:21] komenda nieznana:wań 
+[Info][CommandParser][101][04/21/15 09:37:36] 00002|Weather|
+[Info][CommandParser][108][04/21/15 09:37:36] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/21/15 09:37:39] 00003|Aktualna godzina:;[21-04-2015 09:37:36] ;|
+[Info][CommandParser][124][04/21/15 09:37:39] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:37:39] message:Aktualna godzina:;[21-04-2015 09:37:36] ;
+[Info][CommandParser][101][04/21/15 09:37:42] 00003|Alert pogodowy dla Lublina;page;|
+[Info][CommandParser][124][04/21/15 09:37:42] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:37:42] message:Alert pogodowy dla Lublina;page;
+[Info][CommandParser][101][04/21/15 09:37:42] 00003|Alert pogodowy dla Lublina;page;|
+[Info][CommandParser][124][04/21/15 09:37:42] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:37:42] message:Alert pogodowy dla Lublina;page;
+[Info][CommandParser][101][04/21/15 09:37:45] 00003|Aktualna godzina:;[21-04-2015 09:37:42] ;|
+[Info][CommandParser][124][04/21/15 09:37:45] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:37:45] message:Aktualna godzina:;[21-04-2015 09:37:42] ;
+[Info][CommandParser][101][04/21/15 09:37:51] 00003|Alert pogodowy dla Lublina;page;|
+[Info][CommandParser][124][04/21/15 09:37:51] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:37:51] message:Alert pogodowy dla Lublina;page;
+[Info][CommandParser][101][04/21/15 09:37:54] 00003|Aktualna godzina:;[21-04-2015 09:37:52] ;|
+[Info][CommandParser][124][04/21/15 09:37:54] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:37:54] message:Aktualna godzina:;[21-04-2015 09:37:52] ;
+[Info][CommandParser][101][04/21/15 09:38:00] 00003|Alert pogodowy dla Lublina;page;|
+[Info][CommandParser][124][04/21/15 09:38:00] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:38:00] message:Alert pogodowy dla Lublina;page;
+[Info][CommandParser][101][04/21/15 09:38:04] 00003|Aktualna godzina:;[21-04-2015 09:38:02] ;|
+[Info][CommandParser][124][04/21/15 09:38:04] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:38:04] message:Aktualna godzina:;[21-04-2015 09:38:02] ;
+[Info][CommandParser][101][04/21/15 09:38:13] 00003|Alert pogodowy dla Lublina;page;|
+[Info][CommandParser][124][04/21/15 09:38:13] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:38:13] message:Alert pogodowy dla Lublina;page;
+[Info][CommandParser][101][04/21/15 09:38:16] 00003|Aktualna godzina:;[21-04-2015 09:38:12] ;|
+[Info][CommandParser][124][04/21/15 09:38:16] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:38:16] message:Aktualna godzina:;[21-04-2015 09:38:12] ;
+[Info][CommandParser][101][04/21/15 09:38:22] 00003|Alert pogodowy dla Lublina;page;|
+[Info][CommandParser][124][04/21/15 09:38:22] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:38:22] message:Alert pogodowy dla Lublina;page;
+[Info][CommandParser][101][04/21/15 09:38:25] 00003|Aktualna godzina:;[21-04-2015 09:38:22] ;|
+[Info][CommandParser][124][04/21/15 09:38:25] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:38:25] message:Aktualna godzina:;[21-04-2015 09:38:22] ;
+[Info][CommandParser][101][04/21/15 09:53:40] 00002|Weather|
+[Info][CommandParser][108][04/21/15 09:53:40] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/21/15 09:53:43] 00003|Aktualna godzina:;[21-04-2015 09:53:40] ;|
+[Info][CommandParser][124][04/21/15 09:53:43] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:53:43] message:Aktualna godzina:;[21-04-2015 09:53:40] ;
+[Info][CommandParser][101][04/21/15 09:53:43] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][CommandParser][124][04/21/15 09:53:43] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:53:43] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][ConvertStrToObj][22][04/21/15 09:53:43] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/21/15 09:53:43] wań atmo;|
+[Info][CommandParser][136][04/21/15 09:53:43] komenda nieznana:wań 
+[Info][CommandParser][101][04/21/15 09:53:46] 00003|Aktualna godzina:;[21-04-2015 09:53:42] ;|
+[Info][CommandParser][124][04/21/15 09:53:46] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:53:46] message:Aktualna godzina:;[21-04-2015 09:53:42] ;
+[Info][CommandParser][101][04/21/15 09:53:52] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][CommandParser][124][04/21/15 09:53:52] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:53:52] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][ConvertStrToObj][22][04/21/15 09:53:52] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/21/15 09:53:52] wań atmo;|
+[Info][CommandParser][136][04/21/15 09:53:52] komenda nieznana:wań 
+[Info][CommandParser][101][04/21/15 09:53:55] 00003|Aktualna godzina:;[21-04-2015 09:53:52] ;|
+[Info][CommandParser][124][04/21/15 09:53:55] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:53:55] message:Aktualna godzina:;[21-04-2015 09:53:52] ;
+[Info][CommandParser][101][04/21/15 09:54:02] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][CommandParser][124][04/21/15 09:54:02] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:54:02] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    margin:0;
+    padding:0;
+    color:red;
+}
+dd.img img {
+    margin:0;
+    padding:1px;
+    float:left;
+}
+p {
+    margin:1px;
+    padding:1px;
+    text-align:center;
+    background:#FF9;
+    border:1px dotted;
+}
+a {
+    color:#00E;
+}
+
+</style>
+</head>
+<body>
+	<p><b><a href="http://burze.dzis.net?page=wyszukiwarka&amp;miejscowosc=Lublin" target="_blank">Lublin</a></b>
+			<i>(51°14'N 22°34'E)</i>
+		</p>
+						<dl style="color:green;text-align:center">Brak wyłado
+[Info][ConvertStrToObj][22][04/21/15 09:54:02] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/21/15 09:54:02] wań atmo;|
+[Info][CommandParser][136][04/21/15 09:54:02] komenda nieznana:wań 
+[Info][CommandParser][101][04/21/15 09:54:05] 00003|Aktualna godzina:;[21-04-2015 09:54:02] ;|
+[Info][CommandParser][124][04/21/15 09:54:05] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:54:05] message:Aktualna godzina:;[21-04-2015 09:54:02] ;
+[Info][CommandParser][101][04/21/15 09:54:19] 00002|Weather|
+[Info][CommandParser][108][04/21/15 09:54:19] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/21/15 09:54:22] 00003|Aktualna godzina:;[21-04-2015 09:54:19] ;|
+[Info][CommandParser][124][04/21/15 09:54:22] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:54:22] message:Aktualna godzina:;[21-04-2015 09:54:19] ;
+[Info][CommandParser][101][04/21/15 09:54:22] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;|
+[Info][CommandParser][124][04/21/15 09:54:22] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:54:22] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;
+[Info][ConvertStrToObj][22][04/21/15 09:54:22] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/21/15 09:54:25] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;|
+[Info][CommandParser][124][04/21/15 09:54:25] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:54:25] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;
+[Info][ConvertStrToObj][22][04/21/15 09:54:25] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/21/15 09:54:28] 00003|Aktualna godzina:;[21-04-2015 09:54:22] ;|
+[Info][CommandParser][124][04/21/15 09:54:28] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:54:28] message:Aktualna godzina:;[21-04-2015 09:54:22] ;
+[Info][CommandParser][101][04/21/15 09:54:31] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;|
+[Info][CommandParser][124][04/21/15 09:54:31] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:54:31] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;
+[Info][ConvertStrToObj][22][04/21/15 09:54:31] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/21/15 09:54:34] 00003|Aktualna godzina:;[21-04-2015 09:54:32] ;|
+[Info][CommandParser][124][04/21/15 09:54:34] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:54:34] message:Aktualna godzina:;[21-04-2015 09:54:32] ;
+[Info][CommandParser][101][04/21/15 09:54:40] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;|
+[Info][CommandParser][124][04/21/15 09:54:40] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:54:40] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;
+[Info][ConvertStrToObj][22][04/21/15 09:54:40] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/21/15 09:54:44] 00003|Aktualna godzina:;[21-04-2015 09:54:42] ;|
+[Info][CommandParser][124][04/21/15 09:54:44] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:54:44] message:Aktualna godzina:;[21-04-2015 09:54:42] ;
+[Info][CommandParser][101][04/21/15 09:54:53] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;|
+[Info][CommandParser][124][04/21/15 09:54:53] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:54:53] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;
+[Info][ConvertStrToObj][22][04/21/15 09:54:53] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/21/15 09:54:56] 00003|Aktualna godzina:;[21-04-2015 09:54:52] ;|
+[Info][CommandParser][124][04/21/15 09:54:56] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 09:54:56] message:Aktualna godzina:;[21-04-2015 09:54:52] ;
+[Info][CommandParser][101][04/21/15 10:21:00] 00002|Weather|
+[Info][CommandParser][108][04/21/15 10:21:00] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/21/15 10:21:03] 00003|Aktualna godzina:;[21-04-2015 10:21:00] ;|
+[Info][CommandParser][124][04/21/15 10:21:03] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:21:03] message:Aktualna godzina:;[21-04-2015 10:21:00] ;
+[Info][CommandParser][101][04/21/15 10:21:03] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:21:03] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:21:03] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:21:06] 00003|Aktualna godzina:;[21-04-2015 10:21:02] ;|
+[Info][CommandParser][124][04/21/15 10:21:06] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:21:06] message:Aktualna godzina:;[21-04-2015 10:21:02] ;
+[Info][CommandParser][101][04/21/15 10:21:12] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:21:12] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:21:12] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:21:15] 00003|Aktualna godzina:;[21-04-2015 10:21:12] ;|
+[Info][CommandParser][124][04/21/15 10:21:15] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:21:15] message:Aktualna godzina:;[21-04-2015 10:21:12] ;
+[Info][CommandParser][101][04/21/15 10:21:21] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:21:21] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:21:21] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:21:24] 00003|Aktualna godzina:;[21-04-2015 10:21:22] ;|
+[Info][CommandParser][124][04/21/15 10:21:24] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:21:24] message:Aktualna godzina:;[21-04-2015 10:21:22] ;
+[Info][CommandParser][101][04/21/15 10:22:18] 00002|Weather|
+[Info][CommandParser][108][04/21/15 10:22:18] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/21/15 10:22:21] 00003|Aktualna godzina:;[21-04-2015 10:22:18] ;|
+[Info][CommandParser][124][04/21/15 10:22:21] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:22:21] message:Aktualna godzina:;[21-04-2015 10:22:18] ;
+[Info][CommandParser][101][04/21/15 10:22:21] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:22:21] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:22:21] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:22:24] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:22:24] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:22:24] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:22:27] 00003|Aktualna godzina:;[21-04-2015 10:22:22] ;|
+[Info][CommandParser][124][04/21/15 10:22:27] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:22:27] message:Aktualna godzina:;[21-04-2015 10:22:22] ;
+[Info][CommandParser][101][04/21/15 10:22:30] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:22:30] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:22:30] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:22:33] 00003|Aktualna godzina:;[21-04-2015 10:22:32] ;|
+[Info][CommandParser][124][04/21/15 10:22:33] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:22:33] message:Aktualna godzina:;[21-04-2015 10:22:32] ;
+[Info][CommandParser][101][04/21/15 10:22:42] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:22:42] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:22:42] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:22:45] 00003|Aktualna godzina:;[21-04-2015 10:22:42] ;|
+[Info][CommandParser][124][04/21/15 10:22:45] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:22:45] message:Aktualna godzina:;[21-04-2015 10:22:42] ;
+[Info][CommandParser][101][04/21/15 10:22:51] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:22:51] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:22:51] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:22:55] 00003|Aktualna godzina:;[21-04-2015 10:22:52] ;|
+[Info][CommandParser][124][04/21/15 10:22:55] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:22:55] message:Aktualna godzina:;[21-04-2015 10:22:52] ;
+[Info][CommandParser][101][04/21/15 10:23:01] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:23:01] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:23:01] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:23:04] 00003|Aktualna godzina:;[21-04-2015 10:23:02] ;|
+[Info][CommandParser][124][04/21/15 10:23:04] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:23:04] message:Aktualna godzina:;[21-04-2015 10:23:02] ;
+[Info][CommandParser][101][04/21/15 10:23:13] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:23:13] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:23:13] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:23:16] 00003|Aktualna godzina:;[21-04-2015 10:23:12] ;|
+[Info][CommandParser][124][04/21/15 10:23:16] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:23:16] message:Aktualna godzina:;[21-04-2015 10:23:12] ;
+[Info][CommandParser][101][04/21/15 10:23:22] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:23:22] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:23:22] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:23:25] 00003|Aktualna godzina:;[21-04-2015 10:23:22] ;|
+[Info][CommandParser][124][04/21/15 10:23:25] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:23:25] message:Aktualna godzina:;[21-04-2015 10:23:22] ;
+[Info][CommandParser][101][04/21/15 10:23:31] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:23:31] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:23:31] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:23:34] 00003|Aktualna godzina:;[21-04-2015 10:23:32] ;|
+[Info][CommandParser][124][04/21/15 10:23:34] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:23:34] message:Aktualna godzina:;[21-04-2015 10:23:32] ;
+[Info][CommandParser][101][04/21/15 10:23:40] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:23:40] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:23:41] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:23:44] 00003|Aktualna godzina:;[21-04-2015 10:23:42] ;|
+[Info][CommandParser][124][04/21/15 10:23:44] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:23:44] message:Aktualna godzina:;[21-04-2015 10:23:42] ;
+[Info][CommandParser][101][04/21/15 10:23:53] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:23:53] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:23:53] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:23:56] 00003|Aktualna godzina:;[21-04-2015 10:23:52] ;|
+[Info][CommandParser][124][04/21/15 10:23:56] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:23:56] message:Aktualna godzina:;[21-04-2015 10:23:52] ;
+[Info][CommandParser][101][04/21/15 10:24:14] 00002|Weather|
+[Info][CommandParser][108][04/21/15 10:24:14] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/21/15 10:24:17] 00003|Aktualna godzina:;[21-04-2015 10:24:14] ;|
+[Info][CommandParser][124][04/21/15 10:24:17] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:24:17] message:Aktualna godzina:;[21-04-2015 10:24:14] ;
+[Info][CommandParser][101][04/21/15 10:24:20] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;|
+[Info][CommandParser][124][04/21/15 10:24:20] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:24:20] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;
+[Info][ConvertStrToObj][22][04/21/15 10:24:20] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/21/15 10:24:24] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;|
+[Info][CommandParser][124][04/21/15 10:24:24] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:24:24] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;
+[Info][ConvertStrToObj][22][04/21/15 10:24:24] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/21/15 10:24:27] 00003|Aktualna godzina:;[21-04-2015 10:24:22] ;|
+[Info][CommandParser][124][04/21/15 10:24:27] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:24:27] message:Aktualna godzina:;[21-04-2015 10:24:22] ;
+[Info][CommandParser][101][04/21/15 10:24:33] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;|
+[Info][CommandParser][124][04/21/15 10:24:33] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:24:33] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;
+[Info][ConvertStrToObj][22][04/21/15 10:24:33] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/21/15 10:24:36] 00003|Aktualna godzina:;[21-04-2015 10:24:32] ;|
+[Info][CommandParser][124][04/21/15 10:24:36] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:24:36] message:Aktualna godzina:;[21-04-2015 10:24:32] ;
+[Info][CommandParser][101][04/21/15 10:24:42] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;|
+[Info][CommandParser][124][04/21/15 10:24:42] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:24:42] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;
+[Info][ConvertStrToObj][22][04/21/15 10:24:42] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/21/15 10:24:45] 00003|Aktualna godzina:;[21-04-2015 10:24:42] ;|
+[Info][CommandParser][124][04/21/15 10:24:45] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:24:45] message:Aktualna godzina:;[21-04-2015 10:24:42] ;
+[Info][CommandParser][101][04/21/15 10:24:51] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;|
+[Info][CommandParser][124][04/21/15 10:24:51] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:24:51] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;
+[Info][ConvertStrToObj][22][04/21/15 10:24:51] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/21/15 10:24:54] 00003|Aktualna godzina:;[21-04-2015 10:24:52] ;|
+[Info][CommandParser][124][04/21/15 10:24:54] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:24:54] message:Aktualna godzina:;[21-04-2015 10:24:52] ;
+[Info][CommandParser][101][04/21/15 10:25:00] 00003|Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;|
+[Info][CommandParser][124][04/21/15 10:25:00] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:25:00] message:Alert pogodowy dla Lublina;<!doctype html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+
+body { 
+    margin:0;
+    padding:0;
+    width: 350px;
+    font:0.8em Lucida,Arial,sans-serif;
+    background:#FFC;
+}
+dl {
+    margin:1px 1px 0 1px;
+    padding:0;
+    clear:both; 
+    background:#FFD;
+    border:1px dotted;
+    overflow: auto;
+}
+dt { 
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    color:red;
+}
+dd {
+    ;
+[Info][ConvertStrToObj][22][04/21/15 10:25:00] liczba parametr�w jest niepoprawna
+[Info][CommandParser][101][04/21/15 10:25:04] 00003|Aktualna godzina:;[21-04-2015 10:25:02] ;|
+[Info][CommandParser][124][04/21/15 10:25:04] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:25:04] message:Aktualna godzina:;[21-04-2015 10:25:02] ;
+[Info][CommandParser][101][04/21/15 10:26:24] 00002|Weather|
+[Info][CommandParser][108][04/21/15 10:26:24] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/21/15 10:26:27] 00003|Aktualna godzina:;[21-04-2015 10:26:24] ;|
+[Info][CommandParser][124][04/21/15 10:26:27] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:26:27] message:Aktualna godzina:;[21-04-2015 10:26:24] ;
+[Info][CommandParser][101][04/21/15 10:26:30] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:26:30] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:26:30] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:26:33] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:26:33] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:26:33] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:26:36] 00003|Aktualna godzina:;[21-04-2015 10:26:32] ;|
+[Info][CommandParser][124][04/21/15 10:26:36] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:26:36] message:Aktualna godzina:;[21-04-2015 10:26:32] ;
+[Info][CommandParser][101][04/21/15 10:26:42] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:26:42] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:26:42] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:26:45] 00003|Aktualna godzina:;[21-04-2015 10:26:42] ;|
+[Info][CommandParser][124][04/21/15 10:26:45] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:26:45] message:Aktualna godzina:;[21-04-2015 10:26:42] ;
+[Info][CommandParser][101][04/21/15 10:26:51] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:26:51] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:26:51] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:26:54] 00003|Aktualna godzina:;[21-04-2015 10:26:52] ;|
+[Info][CommandParser][124][04/21/15 10:26:54] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:26:54] message:Aktualna godzina:;[21-04-2015 10:26:52] ;
+[Info][CommandParser][101][04/21/15 10:27:00] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:27:00] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:27:00] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:27:03] 00003|Aktualna godzina:;[21-04-2015 10:27:02] ;|
+[Info][CommandParser][124][04/21/15 10:27:03] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:27:03] message:Aktualna godzina:;[21-04-2015 10:27:02] ;
+[Info][CommandParser][101][04/21/15 10:27:13] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:27:13] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:27:13] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:27:16] 00003|Aktualna godzina:;[21-04-2015 10:27:12] ;|
+[Info][CommandParser][124][04/21/15 10:27:16] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:27:16] message:Aktualna godzina:;[21-04-2015 10:27:12] ;
+[Info][CommandParser][101][04/21/15 10:27:22] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:27:22] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:27:22] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:27:25] 00003|Aktualna godzina:;[21-04-2015 10:27:22] ;|
+[Info][CommandParser][124][04/21/15 10:27:25] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:27:25] message:Aktualna godzina:;[21-04-2015 10:27:22] ;
+[Info][CommandParser][101][04/21/15 10:27:31] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:27:31] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:27:31] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:27:34] 00003|Aktualna godzina:;[21-04-2015 10:27:32] ;|
+[Info][CommandParser][124][04/21/15 10:27:34] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:27:34] message:Aktualna godzina:;[21-04-2015 10:27:32] ;
+[Info][CommandParser][101][04/21/15 10:27:40] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:27:40] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:27:40] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:27:43] 00003|Aktualna godzina:;[21-04-2015 10:27:42] ;|
+[Info][CommandParser][124][04/21/15 10:27:43] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:27:43] message:Aktualna godzina:;[21-04-2015 10:27:42] ;
+[Info][CommandParser][101][04/21/15 10:27:52] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:27:52] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:27:52] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:27:56] 00003|Aktualna godzina:;[21-04-2015 10:27:52] ;|
+[Info][CommandParser][124][04/21/15 10:27:56] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:27:56] message:Aktualna godzina:;[21-04-2015 10:27:52] ;
+[Info][CommandParser][101][04/21/15 10:28:02] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:28:02] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:28:02] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:28:05] 00003|Aktualna godzina:;[21-04-2015 10:28:02] ;|
+[Info][CommandParser][124][04/21/15 10:28:05] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:28:05] message:Aktualna godzina:;[21-04-2015 10:28:02] ;
+[Info][CommandParser][101][04/21/15 10:28:11] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:28:11] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:28:11] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:28:14] 00003|Aktualna godzina:;[21-04-2015 10:28:12] ;|
+[Info][CommandParser][124][04/21/15 10:28:14] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:28:14] message:Aktualna godzina:;[21-04-2015 10:28:12] ;
+[Info][CommandParser][101][04/21/15 10:28:20] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:28:20] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:28:20] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:28:23] 00003|Aktualna godzina:;[21-04-2015 10:28:22] ;|
+[Info][CommandParser][124][04/21/15 10:28:23] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:28:23] message:Aktualna godzina:;[21-04-2015 10:28:22] ;
+[Info][CommandParser][101][04/21/15 10:28:32] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:28:32] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:28:32] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:28:35] 00003|Aktualna godzina:;[21-04-2015 10:28:32] ;|
+[Info][CommandParser][124][04/21/15 10:28:35] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:28:35] message:Aktualna godzina:;[21-04-2015 10:28:32] ;
+[Info][CommandParser][101][04/21/15 10:28:41] 00003|Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;|
+[Info][CommandParser][124][04/21/15 10:28:41] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:28:41] message:Alert pogodowy dla Lublina;http://burze.dzis.net/ramka.php?miejsc"owosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50http://burze.dzis.net/ramka.php?miejscowosc=Lublin&promien=50;
+[Info][CommandParser][101][04/21/15 10:28:45] 00003|Aktualna godzina:;[21-04-2015 10:28:42] ;|
+[Info][CommandParser][124][04/21/15 10:28:45] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:28:45] message:Aktualna godzina:;[21-04-2015 10:28:42] ;
+[Info][CommandParser][101][04/21/15 10:51:02] 00002|Weather|
+[Info][CommandParser][108][04/21/15 10:51:02] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/21/15 10:51:05] 00003|Aktualna godzina:;[21-04-2015 10:51:02] ;|
+[Info][CommandParser][124][04/21/15 10:51:05] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:51:05] message:Aktualna godzina:;[21-04-2015 10:51:02] ;
+[Info][CommandParser][101][04/21/15 10:51:08] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 10:51:08] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:51:08] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 10:51:11] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 10:51:11] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:51:11] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 10:51:14] 00003|Aktualna godzina:;[21-04-2015 10:51:12] ;|
+[Info][CommandParser][124][04/21/15 10:51:14] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:51:14] message:Aktualna godzina:;[21-04-2015 10:51:12] ;
+[Info][CommandParser][101][04/21/15 10:51:20] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 10:51:20] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 10:51:20] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 11:28:45] 00002|Weather|
+[Info][CommandParser][108][04/21/15 11:28:45] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/21/15 11:28:48] 00003|Aktualna godzina:;[21-04-2015 11:28:45] ;|
+[Info][CommandParser][124][04/21/15 11:28:48] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 11:28:48] message:Aktualna godzina:;[21-04-2015 11:28:45] ;
+[Info][CommandParser][101][04/21/15 11:28:51] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 11:28:51] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 11:28:51] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 11:28:54] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 11:28:54] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 11:28:54] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 11:28:57] 00003|Aktualna godzina:;[21-04-2015 11:28:52] ;|
+[Info][CommandParser][124][04/21/15 11:28:57] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 11:28:57] message:Aktualna godzina:;[21-04-2015 11:28:52] ;
+[Info][CommandParser][101][04/21/15 11:29:03] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 11:29:03] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 11:29:03] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 11:29:07] 00003|Aktualna godzina:;[21-04-2015 11:29:02] ;|
+[Info][CommandParser][124][04/21/15 11:29:07] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 11:29:07] message:Aktualna godzina:;[21-04-2015 11:29:02] ;
+[Info][CommandParser][101][04/21/15 11:29:13] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 11:29:13] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 11:29:13] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 11:29:16] 00003|Aktualna godzina:;[21-04-2015 11:29:12] ;|
+[Info][CommandParser][124][04/21/15 11:29:16] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 11:29:16] message:Aktualna godzina:;[21-04-2015 11:29:12] ;
+[Info][CommandParser][101][04/21/15 12:28:19] 00002|Weather|
+[Info][CommandParser][108][04/21/15 12:28:19] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/21/15 12:28:22] 00003|Aktualna godzina:;[21-04-2015 12:28:19] ;|
+[Info][CommandParser][124][04/21/15 12:28:22] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:28:22] message:Aktualna godzina:;[21-04-2015 12:28:19] ;
+[Info][CommandParser][101][04/21/15 12:28:22] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 12:28:22] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:28:22] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 12:28:25] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 12:28:25] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:28:25] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 12:28:28] 00003|Aktualna godzina:;[21-04-2015 12:28:22] ;|
+[Info][CommandParser][124][04/21/15 12:28:28] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:28:28] message:Aktualna godzina:;[21-04-2015 12:28:22] ;
+[Info][CommandParser][101][04/21/15 12:29:34] 00002|Weather|
+[Info][CommandParser][108][04/21/15 12:29:34] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/21/15 12:29:37] 00003|Aktualna godzina:;[21-04-2015 12:29:34] ;|
+[Info][CommandParser][124][04/21/15 12:29:37] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:29:37] message:Aktualna godzina:;[21-04-2015 12:29:34] ;
+[Info][CommandParser][101][04/21/15 12:29:40] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 12:29:40] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:29:40] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 12:29:43] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 12:29:43] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:29:43] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 12:29:47] 00003|Aktualna godzina:;[21-04-2015 12:29:42] ;|
+[Info][CommandParser][124][04/21/15 12:29:47] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:29:47] message:Aktualna godzina:;[21-04-2015 12:29:42] ;
+[Info][CommandParser][101][04/21/15 12:29:53] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 12:29:53] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:29:53] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 12:29:56] 00003|Aktualna godzina:;[21-04-2015 12:29:52] ;|
+[Info][CommandParser][124][04/21/15 12:29:56] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:29:56] message:Aktualna godzina:;[21-04-2015 12:29:52] ;
+[Info][CommandParser][101][04/21/15 12:30:02] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 12:30:02] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:30:02] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 12:30:05] 00003|Aktualna godzina:;[21-04-2015 12:30:02] ;|
+[Info][CommandParser][124][04/21/15 12:30:05] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:30:05] message:Aktualna godzina:;[21-04-2015 12:30:02] ;
+[Info][CommandParser][101][04/21/15 12:30:11] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 12:30:11] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:30:11] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 12:30:14] 00003|Aktualna godzina:;[21-04-2015 12:30:12] ;|
+[Info][CommandParser][124][04/21/15 12:30:14] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:30:14] message:Aktualna godzina:;[21-04-2015 12:30:12] ;
+[Info][CommandParser][101][04/21/15 12:30:20] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 12:30:20] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:30:20] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 12:30:23] 00003|Aktualna godzina:;[21-04-2015 12:30:22] ;|
+[Info][CommandParser][124][04/21/15 12:30:23] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:30:23] message:Aktualna godzina:;[21-04-2015 12:30:22] ;
+[Info][CommandParser][101][04/21/15 12:31:44] 00002|Weather|
+[Info][CommandParser][108][04/21/15 12:31:44] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/21/15 12:31:47] 00003|Aktualna godzina:;[21-04-2015 12:31:44] ;|
+[Info][CommandParser][124][04/21/15 12:31:47] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:31:47] message:Aktualna godzina:;[21-04-2015 12:31:44] ;
+[Info][CommandParser][101][04/21/15 12:31:50] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 12:31:50] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:31:50] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 12:31:53] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 12:31:53] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:31:53] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 12:31:56] 00003|Aktualna godzina:;[21-04-2015 12:31:52] ;|
+[Info][CommandParser][124][04/21/15 12:31:56] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:31:56] message:Aktualna godzina:;[21-04-2015 12:31:52] ;
+[Info][CommandParser][101][04/21/15 12:32:02] 00003|Alert pogodowy dla Lublina;test;|
+[Info][CommandParser][124][04/21/15 12:32:02] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:32:02] message:Alert pogodowy dla Lublina;test;
+[Info][CommandParser][101][04/21/15 12:38:23] 00002|Weather|
+[Info][CommandParser][108][04/21/15 12:38:23] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/21/15 12:38:26] 00003|Aktualna godzina:;[21-04-2015 12:38:23] ;|
+[Info][CommandParser][124][04/21/15 12:38:26] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:38:26] message:Aktualna godzina:;[21-04-2015 12:38:23] ;
+[Info][CommandParser][101][04/21/15 12:38:29] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:38:29] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:38:29] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:38:32] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:38:32] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:38:32] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:38:35] 00003|Aktualna godzina:;[21-04-2015 12:38:32] ;|
+[Info][CommandParser][124][04/21/15 12:38:35] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:38:35] message:Aktualna godzina:;[21-04-2015 12:38:32] ;
+[Info][CommandParser][101][04/21/15 12:38:41] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:38:41] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:38:41] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:38:44] 00003|Aktualna godzina:;[21-04-2015 12:38:42] ;|
+[Info][CommandParser][124][04/21/15 12:38:44] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:38:44] message:Aktualna godzina:;[21-04-2015 12:38:42] ;
+[Info][CommandParser][101][04/21/15 12:38:50] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:38:50] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:38:50] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:38:54] 00003|Aktualna godzina:;[21-04-2015 12:38:52] ;|
+[Info][CommandParser][124][04/21/15 12:38:54] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:38:54] message:Aktualna godzina:;[21-04-2015 12:38:52] ;
+[Info][CommandParser][101][04/21/15 12:39:03] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:39:03] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:39:03] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:39:06] 00003|Aktualna godzina:;[21-04-2015 12:39:02] ;|
+[Info][CommandParser][124][04/21/15 12:39:06] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:39:06] message:Aktualna godzina:;[21-04-2015 12:39:02] ;
+[Info][CommandParser][101][04/21/15 12:39:12] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:39:12] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:39:12] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:39:15] 00003|Aktualna godzina:;[21-04-2015 12:39:12] ;|
+[Info][CommandParser][124][04/21/15 12:39:15] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:39:15] message:Aktualna godzina:;[21-04-2015 12:39:12] ;
+[Info][CommandParser][101][04/21/15 12:39:21] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:39:21] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:39:21] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:39:24] 00003|Aktualna godzina:;[21-04-2015 12:39:22] ;|
+[Info][CommandParser][124][04/21/15 12:39:24] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:39:24] message:Aktualna godzina:;[21-04-2015 12:39:22] ;
+[Info][CommandParser][101][04/21/15 12:39:33] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:39:33] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:39:33] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:39:36] 00003|Aktualna godzina:;[21-04-2015 12:39:32] ;|
+[Info][CommandParser][124][04/21/15 12:39:36] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:39:36] message:Aktualna godzina:;[21-04-2015 12:39:32] ;
+[Info][CommandParser][101][04/21/15 12:39:43] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:39:43] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:39:43] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:39:46] 00003|Aktualna godzina:;[21-04-2015 12:39:42] ;|
+[Info][CommandParser][124][04/21/15 12:39:46] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:39:46] message:Aktualna godzina:;[21-04-2015 12:39:42] ;
+[Info][CommandParser][101][04/21/15 12:39:52] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:39:52] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:39:52] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:39:55] 00003|Aktualna godzina:;[21-04-2015 12:39:52] ;|
+[Info][CommandParser][124][04/21/15 12:39:55] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:39:55] message:Aktualna godzina:;[21-04-2015 12:39:52] ;
+[Info][CommandParser][101][04/21/15 12:40:01] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:40:01] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:40:01] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:40:04] 00003|Aktualna godzina:;[21-04-2015 12:40:02] ;|
+[Info][CommandParser][124][04/21/15 12:40:04] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:40:04] message:Aktualna godzina:;[21-04-2015 12:40:02] ;
+[Info][CommandParser][101][04/21/15 12:40:10] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:40:10] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:40:10] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:40:13] 00003|Aktualna godzina:;[21-04-2015 12:40:12] ;|
+[Info][CommandParser][124][04/21/15 12:40:13] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:40:13] message:Aktualna godzina:;[21-04-2015 12:40:12] ;
+[Info][CommandParser][101][04/21/15 12:40:22] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:40:22] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:40:22] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:40:25] 00003|Aktualna godzina:;[21-04-2015 12:40:22] ;|
+[Info][CommandParser][124][04/21/15 12:40:25] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:40:25] message:Aktualna godzina:;[21-04-2015 12:40:22] ;
+[Info][CommandParser][101][04/21/15 12:40:32] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:40:32] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:40:32] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:40:35] 00003|Aktualna godzina:;[21-04-2015 12:40:32] ;|
+[Info][CommandParser][124][04/21/15 12:40:35] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:40:35] message:Aktualna godzina:;[21-04-2015 12:40:32] ;
+[Info][CommandParser][101][04/21/15 12:40:41] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:40:41] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:40:41] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:40:44] 00003|Aktualna godzina:;[21-04-2015 12:40:42] ;|
+[Info][CommandParser][124][04/21/15 12:40:44] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:40:44] message:Aktualna godzina:;[21-04-2015 12:40:42] ;
+[Info][CommandParser][101][04/21/15 12:40:50] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:40:50] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:40:50] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:40:53] 00003|Aktualna godzina:;[21-04-2015 12:40:52] ;|
+[Info][CommandParser][124][04/21/15 12:40:53] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:40:53] message:Aktualna godzina:;[21-04-2015 12:40:52] ;
+[Info][CommandParser][101][04/21/15 12:41:02] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:41:02] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:41:02] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:41:05] 00003|Aktualna godzina:;[21-04-2015 12:41:02] ;|
+[Info][CommandParser][124][04/21/15 12:41:05] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:41:05] message:Aktualna godzina:;[21-04-2015 12:41:02] ;
+[Info][CommandParser][101][04/21/15 12:41:11] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:41:11] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:41:11] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:41:14] 00003|Aktualna godzina:;[21-04-2015 12:41:12] ;|
+[Info][CommandParser][124][04/21/15 12:41:14] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:41:14] message:Aktualna godzina:;[21-04-2015 12:41:12] ;
+[Info][CommandParser][101][04/21/15 12:41:21] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 12:41:21] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:41:21] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 12:41:24] 00003|Aktualna godzina:;[21-04-2015 12:41:22] ;|
+[Info][CommandParser][124][04/21/15 12:41:24] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 12:41:24] message:Aktualna godzina:;[21-04-2015 12:41:22] ;
+[Info][CommandParser][101][04/21/15 13:25:33] 00002|Weather|
+[Info][CommandParser][108][04/21/15 13:25:33] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/21/15 13:25:36] 00003|Aktualna godzina:;[21-04-2015 13:25:33] ;|
+[Info][CommandParser][124][04/21/15 13:25:36] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 13:25:36] message:Aktualna godzina:;[21-04-2015 13:25:33] ;
+[Info][CommandParser][101][04/21/15 13:25:39] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 13:25:39] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 13:25:39] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Warning][Load][60][04/21/15 13:27:40] Wczytanie ustawie� nie powiod�o si�.
+[Info][CommandParser][101][04/21/15 13:27:54] 00002|Weather|
+[Info][CommandParser][108][04/21/15 13:27:54] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/21/15 13:27:57] 00003|Aktualna godzina:;[21-04-2015 13:27:54] ;|
+[Info][CommandParser][124][04/21/15 13:27:57] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 13:27:57] message:Aktualna godzina:;[21-04-2015 13:27:54] ;
+[Info][CommandParser][101][04/21/15 13:28:00] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 13:28:00] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 13:28:00] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 13:28:03] 00003|Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;|
+[Info][CommandParser][124][04/21/15 13:28:03] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 13:28:03] message:Alert pogodowy;Alert: Lublin, Brak wyładowań atmosferycznych
+							 w promieniu 50km
+						, Mróz, brak ostrzeżeń, Upał, brak ostrzeżeń, Wiatr, brak ostrzeżeń, Opady, brak ostrzeżeń, Burze, brak ostrzeżeń, Trąby powietrzne, brak ostrzeżeń;
+[Info][CommandParser][101][04/21/15 13:28:06] 00003|Aktualna godzina:;[21-04-2015 13:28:02] ;|
+[Info][CommandParser][124][04/21/15 13:28:06] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/21/15 13:28:06] message:Aktualna godzina:;[21-04-2015 13:28:02] ;
+[Warning][Load][60][04/28/15 15:50:36] Wczytanie ustawie� nie powiod�o si�.
+[Info][CommandParser][101][04/28/15 15:50:37] 00002|Weather|
+[Info][CommandParser][108][04/28/15 15:50:37] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][04/28/15 15:50:40] 00003|Aktualna godzina:;[28-04-2015 15:50:18] ;|
+[Info][CommandParser][124][04/28/15 15:50:40] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/28/15 15:50:40] message:Aktualna godzina:;[28-04-2015 15:50:18] ;
+[Info][CommandParser][101][04/28/15 15:51:19] 00003|Aktualna godzina:;[28-04-2015 15:51:18] ;|
+[Info][CommandParser][124][04/28/15 15:51:19] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/28/15 15:51:19] message:Aktualna godzina:;[28-04-2015 15:51:18] ;
+[Info][CommandParser][101][04/28/15 15:52:20] 00003|Aktualna godzina:;[28-04-2015 15:52:18] ;|
+[Info][CommandParser][124][04/28/15 15:52:20] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/28/15 15:52:20] message:Aktualna godzina:;[28-04-2015 15:52:18] ;
+[Info][CommandParser][101][04/28/15 15:53:21] 00003|Aktualna godzina:;[28-04-2015 15:53:18] ;|
+[Info][CommandParser][124][04/28/15 15:53:21] cmd: CMD_MESSAGE
+[Info][CommandParser][126][04/28/15 15:53:21] message:Aktualna godzina:;[28-04-2015 15:53:18] ;

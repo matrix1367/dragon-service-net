@@ -2,6 +2,7 @@
 #define CTASKSMANAGER_H
 #include "IJob.h"
 #include "job/JobTime.h"
+#include "job/JobAlertWeether.h"
 #include <vector>
 
 class CJobsManager
@@ -16,6 +17,10 @@ class CJobsManager
                 switch (id) {
                     case ID_JOB_TIME : {
                         IJob* job = new CJobTime();
+                        return job;
+                    }
+                    case ID_JOB_ALERT_WATHER : {
+                        IJob* job = new CJobAlertWeether();
                         return job;
                     }
                     default :

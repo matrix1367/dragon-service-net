@@ -9,6 +9,7 @@ CDSettingData::CDSettingData()
     strcpy(nameApplication, "Weather");
     strcpy(ipServer, "127.0.0.1");
     strcpy(portServer, "1101");
+    strcpy(cityName, "Poznañ");
 }
 
 void CDSetting::SetIp(std::string ip){
@@ -17,6 +18,10 @@ void CDSetting::SetIp(std::string ip){
 
 void CDSetting::SetPort(std::string port) {
     strcpy(settingData.portServer, port.c_str());
+}
+
+void CDSetting::SetCityName(std::string name) {
+    strcpy(settingData.cityName, name.c_str());
 }
 
 CDSetting::CDSetting()
@@ -58,7 +63,7 @@ void CDSetting::Load()
     if(serialzer.Read(settingDataLoad)) {
             settingData = settingDataLoad;
     } else {
-         CDLog::Write( __FUNCTION__ , __LINE__, Warning, "Wczytanie ustawieñ nie powiod³o siê." );
+         CDLog::Write( __FUNCTION__ , __LINE__, Warning, "Wczytanie ustawien nie powiodlo sie." );
     }
 }
 

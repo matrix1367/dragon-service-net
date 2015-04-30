@@ -1,4 +1,9 @@
 #include "TasksManager.h"
+#include "JobAlertWeether.h"
+#include "JobTime.h"
+
+
+
 
 CJobsManager::CJobsManager()
 {
@@ -12,15 +17,18 @@ CJobsManager::~CJobsManager()
 
 std::vector<std::string> CJobsManager::GetStrAllNameJob() {
     std::vector<std::string> result;
-    result.push_back("Time");
-
+    result.push_back(CJobTime::name);
+    result.push_back(CJobAlertWeether::name);
     return result;
 }
 
 std::string CJobsManager::GetStrNameJob(int IdJob){
     switch (IdJob) {
         case ID_JOB_TIME : {
-            return "Time";
+            return CJobTime::name;
+        }
+        case ID_JOB_ALERT_WATHER : {
+            return CJobAlertWeether::name;
         }
         default:
         {
@@ -32,6 +40,8 @@ std::string CJobsManager::GetStrNameJob(int IdJob){
 int CJobsManager::GetIdJob(int indexJob) {
     if (indexJob == 0) {
         return ID_JOB_TIME;
+    } else if (indexJob == 1) {
+        return ID_JOB_ALERT_WATHER;
     }
      return ID_JOB_TIME;
 }

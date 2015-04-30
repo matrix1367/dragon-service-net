@@ -1,6 +1,8 @@
 #include "job\JobTime.h"
 #include <time.h>
 
+std::string CJobTime::name = "Aktualny czas";
+
 CJobTime::CJobTime() : IJob(ID_JOB_TIME)
 {
     //ctor
