@@ -75,23 +75,27 @@
 	<string>
 	<sstream>
 
-1430376922 source:f:\projects\dragon-service-net-master\clients\weether\main.cpp
+1430835742 source:f:\projects\dragon-service-net-master\clients\weether\main.cpp
 	<windows.h>
 	<commctrl.h>
 	<gdiplus.h>
 	<stdio.h>
 	<vector>
+	<algorithm>
 	<string>
 	"resource.h"
 	"Models.h"
 	"ScheduleManager.h"
 	"CDSetting.h"
+	"CDLog.h"
 	"TasksManager.h"
 	"EventManager.h"
 	"GUIManager.h"
-	<gdiplus.h>
+	<winuser.h>
+	<mCtrl/chart.h>
+	<mCtrl/dialog.h>
 
-1430295871 f:\projects\dragon-service-net-master\clients\weether\resource.h
+1430741607 f:\projects\dragon-service-net-master\clients\weether\resource.h
 
 1430309062 f:\projects\dragon-service-net-master\clients\weether\include\models.h
 	"Client.h"
@@ -107,11 +111,12 @@
 	<string>
 	<windows.h>
 
-1430296017 source:f:\projects\dragon-service-net-master\clients\weether\resource.rc
+1430742485 source:f:\projects\dragon-service-net-master\clients\weether\resource.rc
 	<windows.h>
 	<commctrl.h>
 	<richedit.h>
 	"resource.h"
+	<mCtrl/chart.h>
 
 1428583236 source:f:\projects\dragon-service-net-master\clients\weether\src\cdlog.cpp
 	"CDLog.h"
@@ -324,7 +329,7 @@
 	"WebTool.h"
 	"GUIManager.h"
 
-1430374544 source:f:\projects\dragon-service-net-master\clients\weether\src\convert.cpp
+1430824181 source:f:\projects\dragon-service-net-master\clients\weether\src\convert.cpp
 	"Convert.h"
 	"CDLog.h"
 	<json/json.h>
@@ -334,7 +339,7 @@
 	<math.h>
 	<math.h>
 
-1430317375 f:\projects\dragon-service-net-master\clients\weether\include\convert.h
+1430823867 f:\projects\dragon-service-net-master\clients\weether\include\convert.h
 	<string>
 	<cstdio>
 	<vector>
@@ -382,14 +387,30 @@
 	<string>
 	<iostream>
 
-1430375283 f:\projects\dragon-service-net-master\clients\weether\include\guimanager.h
+1430816689 f:\projects\dragon-service-net-master\clients\weether\include\guimanager.h
 	<windows.h>
 	<string>
 	"../resource.h"
 
-1430234940 source:f:\projects\dragon-service-net-master\clients\weether\src\guimanager.cpp
+1430809996 source:f:\projects\dragon-service-net-master\clients\weether\src\guimanager.cpp
 	"GUIManager.h"
 	"Convert.h"
 	"Models.h"
 	"CDSetting.h"
+
+1430249705 f:\projects\dragon-service-net-master\lib\mctrl-0.9.8\include\mctrl\chart.h
+	<mCtrl/_defs.h>
+	<mCtrl/_common.h>
+
+1430249705 f:\projects\dragon-service-net-master\lib\mctrl-0.9.8\include\mctrl\_defs.h
+	<windows.h>
+	<oaidl.h>
+
+1430249705 f:\projects\dragon-service-net-master\lib\mctrl-0.9.8\include\mctrl\_common.h
+	<mCtrl/_defs.h>
+
+1430728381 f:\projects\dragon-service-net-master\lib\mctrl-0.9.8\include\mctrl\dialog.h
+	<mCtrl/_defs.h>
+	<mCtrl/_common.h>
+	<winuser.h>
 

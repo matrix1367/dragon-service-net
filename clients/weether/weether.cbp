@@ -11,13 +11,18 @@
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
 				<Compiler>
 					<Add option="-g" />
 					<Add directory="include" />
 					<Add directory="C:/MinGW/curl-7.40.0-devel-mingw32/include" />
 					<Add directory="include/job" />
 					<Add directory="../../lib/jsoncpp-src-0.5.0/include" />
+					<Add directory="../../lib/mCtrl-0.9.8/include" />
 				</Compiler>
+				<ResourceCompiler>
+					<Add directory="../../lib/mCtrl-0.9.8/include" />
+				</ResourceCompiler>
 				<Linker>
 					<Add option="-lWS2_32" />
 					<Add option="-lShlwapi" />
@@ -37,6 +42,7 @@
 					<Add library="C:\MinGW\curl-7.40.0-devel-mingw32\lib\libz.dll.a" />
 					<Add library="C:\MinGW\curl-7.40.0-devel-mingw32\lib\libzdll.a" />
 					<Add library="..\..\lib\jsoncpp-src-0.5.0\bin\Release\libjs.a" />
+					<Add library="..\..\lib\mCtrl-0.9.8\lib\libmCtrl.dll.a" />
 					<Add directory="C:/MinGW/curl-7.40.0-devel-mingw32/lib" />
 				</Linker>
 			</Target>

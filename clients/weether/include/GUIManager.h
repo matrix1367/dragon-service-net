@@ -23,13 +23,8 @@ class CGUIManager
 
         HBITMAP templateChart;
 
-        void CreateTemplateChart(int width, int height) {
-            char * buffer = new char[ width * height * 3];
-            for ( int i = 0 ; i < width*height * 3; i++) buffer[i] = 50;
+        void CreateTemplateChart(int width, int height);
 
-            templateChart = CreateBitmap(width, height, 1 , 24, buffer);
-            //delete buffer;
-        }
 
     protected:
     private:

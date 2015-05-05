@@ -56,6 +56,7 @@ typedef struct TDataWeetherNextHours {
     time_t dateTimeUpdate;
     char nameCity[30];
     std::vector<DataWeetherNextHoursItem> items;
+    
 } DataWeetherNextHours;
 
 class CConvert

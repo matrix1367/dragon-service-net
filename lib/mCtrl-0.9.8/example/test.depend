@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1430729475 source:f:\projects\dragon-service-net-master\lib\mctrl-0.9.8\example\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<windows.h>
+	<commctrl.h>
+	<tchar.h>
+	<stdio.h>
+	<mCtrl/chart.h>
+	<mCtrl/dialog.h>
+	"example-chart.h"
+
+1430729475 f:\projects\dragon-service-net-master\lib\mctrl-0.9.8\example\resource.h
+
+1430249705 f:\projects\dragon-service-net-master\lib\mctrl-0.9.8\include\mctrl\chart.h
+	<mCtrl/_defs.h>
+	<mCtrl/_common.h>
+
+1430249705 f:\projects\dragon-service-net-master\lib\mctrl-0.9.8\include\mctrl\_defs.h
+	<windows.h>
+	<oaidl.h>
+
+1430249705 f:\projects\dragon-service-net-master\lib\mctrl-0.9.8\include\mctrl\_common.h
+	<mCtrl/_defs.h>
+
+1430728381 f:\projects\dragon-service-net-master\lib\mctrl-0.9.8\include\mctrl\dialog.h
+	<mCtrl/_defs.h>
+	<mCtrl/_common.h>
+	<winuser.h>
+
+1430729163 f:\projects\dragon-service-net-master\lib\mctrl-0.9.8\example\example-chart.h
+
+1430729475 source:f:\projects\dragon-service-net-master\lib\mctrl-0.9.8\example\resource.rc
+	<windows.h>
+	<mCtrl/chart.h>
+	"example-chart.h"
+

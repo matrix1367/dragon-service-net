@@ -35,3 +35,13 @@ void CGUIManager::ShowMessage(std::string title, std::string info)
     strcpy(nid.szTip, "Weater");
     Shell_NotifyIcon( NIM_MODIFY, &nid );
 }
+
+void CGUIManager::CreateTemplateChart(int width, int height) {
+            if(!templateChart) DeleteObject(templateChart);
+            unsigned bmp[width*height];
+            const unsigned w=0xFFFFFF, b=0x000000, y=0xFFFF00;
+            for ( int i = 0 ; i < width*height; i++) bmp[i] = w;
+
+            templateChart =  CreateBitmap(width, height, 32, 1, bmp);
+            //delete buffer;
+        }

@@ -47,6 +47,7 @@ public:
 typedef struct TDataWeetherNextHoursItem {
     DataWeetherMain main;
     DataWeetherWind wind;
+    time_t dt;
     std::string dt_text;
     std::string icon;
     std::string description;
@@ -56,6 +57,9 @@ typedef struct TDataWeetherNextHours {
     time_t dateTimeUpdate;
     char nameCity[30];
     std::vector<DataWeetherNextHoursItem> items;
+    double* GetAllTemp();
+    std::vector<int> GetAllTempINT();
+
 } DataWeetherNextHours;
 
 class CConvert

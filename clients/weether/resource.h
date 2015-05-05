@@ -2,6 +2,8 @@
 #define IDC_STATIC (-1)
 #endif
 
+//#define mCTRL
+
 #define DLG_MAIN                                100
 #define IDD_DIALOG_SCHEDULE                     102
 #define IDR_MENU1                               103
@@ -48,5 +50,11 @@
 #define IDI_ICON1   40035
 #define IDD_DIALOG_NEXT_H   40036
 #define ID_MENU_NEXT_HOURS 40037
+
+#ifdef mCTRL
+#define IDC_CHART_LINE 40038
+#else
+#define IDB_CHART 40038
+#endif // mCTRL
 
 

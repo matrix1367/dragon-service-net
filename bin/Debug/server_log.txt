@@ -3806,3 +3806,44 @@ dd {
 [Info][CommandParser][101][04/28/15 15:53:21] 00003|Aktualna godzina:;[28-04-2015 15:53:18] ;|
 [Info][CommandParser][124][04/28/15 15:53:21] cmd: CMD_MESSAGE
 [Info][CommandParser][126][04/28/15 15:53:21] message:Aktualna godzina:;[28-04-2015 15:53:18] ;
+[Warning][Load][60][05/05/15 15:52:01] Wczytanie ustawieñ nie powiod³o siê.
+[Info][CommandParser][101][05/05/15 15:52:02] 00002|Weather|
+[Info][CommandParser][108][05/05/15 15:52:02] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 15:56:02] 00002|Weather|
+[Info][CommandParser][108][05/05/15 15:56:02] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 15:57:55] 00002|Weather|
+[Info][CommandParser][108][05/05/15 15:57:55] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 15:59:28] 00002|Weather|
+[Info][CommandParser][108][05/05/15 15:59:28] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 16:05:11] 00002|Weather|
+[Info][CommandParser][108][05/05/15 16:05:11] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 16:06:05] 00002|Weather|
+[Info][CommandParser][108][05/05/15 16:06:05] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 16:07:38] 00002|Weather|
+[Info][CommandParser][108][05/05/15 16:07:38] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 16:09:21] 00002|Weather|
+[Info][CommandParser][108][05/05/15 16:09:21] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 16:18:21] 00002|Weather|
+[Info][CommandParser][108][05/05/15 16:18:21] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 16:19:06] 00002|Weather|
+[Info][CommandParser][108][05/05/15 16:19:06] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 16:22:26] 00002|Weather|
+[Info][CommandParser][108][05/05/15 16:22:26] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 16:25:08] 00002|Weather|
+[Info][CommandParser][108][05/05/15 16:25:08] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 16:25:35] 00002|Weather|
+[Info][CommandParser][108][05/05/15 16:25:35] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 16:30:18] 00002|Weather|
+[Info][CommandParser][108][05/05/15 16:30:18] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 16:32:54] 00002|Weather|
+[Info][CommandParser][108][05/05/15 16:32:54] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 16:34:23] 00002|Weather|
+[Info][CommandParser][108][05/05/15 16:34:23] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 16:34:40] 00002|Weather|
+[Info][CommandParser][108][05/05/15 16:34:40] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 16:34:55] 00002|Weather|
+[Info][CommandParser][108][05/05/15 16:34:55] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 16:35:09] 00002|Weather|
+[Info][CommandParser][108][05/05/15 16:35:09] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/05/15 16:35:25] 00002|Weather|
+[Info][CommandParser][108][05/05/15 16:35:25] cmd: CMD_SET_NAME_CLIENT

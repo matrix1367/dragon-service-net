@@ -113,6 +113,11 @@ bool CConvert::ParserJSONToDataWeeterList(std::string jsonDataWeether, DataWeeth
                    // printf(">>>>>> dt_text: %s\n" , jsonDt_text.asCString());
                  }
 
+                 const Json::Value jsonDt = (*it)["dt"];
+                 if (jsonDt.isInt()) {
+                    item.dt = jsonDt.asInt();
+                 }
+
                  const Json::Value jsonWeatherMain = (*it)["main"];
                  if (!jsonWeatherMain.isNull())
                  {
@@ -250,4 +255,24 @@ std::string TDataWeether::getPathIcon()
     //TODO:
     std::string pathIcon = "F:\\projects\\dragon-service-net-master\\clients\\weether\\img\\" + icon + ".ico";
     return pathIcon;
+}
+
+double* TDataWeetherNextHours::GetAllTemp()
+{
+    double * temp = new double[items.size()];
+    for (unsigned int i = 0; items.size(); i++)
+    {
+        temp[i] = items[i].main.temp;
+    }
+    return temp;
+}
+
+std::vector<int> TDataWeetherNextHours::GetAllTempINT()
+{
+    std::vector<int> result;
+    for (unsigned int i = 0; items.size(); i++)
+    {
+        result.push_back(items[i].main.temp);
+    }
+    return result;
 }

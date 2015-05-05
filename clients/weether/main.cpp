@@ -4,6 +4,7 @@
 */
 
 
+
 #ifndef _WIN32_IE
 #define  _WIN32_IE 0x600
 #endif // _WIN32_IE
@@ -14,15 +15,24 @@
 
 #include <stdio.h>
 #include <vector>
+#include <algorithm>
+
 #include <string>
 #include "resource.h"
 #include "Models.h"
 #include "ScheduleManager.h"
 #include "CDSetting.h"
+#include "CDLog.h"
 #include "TasksManager.h"
 #include "EventManager.h"
 
 #include "GUIManager.h"
+
+#ifdef mCTRL
+#include <winuser.h>
+#include <mCtrl/chart.h>
+#include <mCtrl/dialog.h>
+#endif // mCTRL
 
 HINSTANCE hInst;
 HBITMAP hBitmap  = NULL;
@@ -486,103 +496,245 @@ void RefreshDlgMain(TypeParmT parm)
 
 
 
+
+
+#ifdef mCTRL
+static void
+SetupCommonChart(HWND hwndChart, DataWeetherNextHours& data)
+{
+   if (data.items.size() < 1) return;
+
+    int * tmpData = new int[data.items.size()];
+    for ( unsigned int i = 0 ; i < data.items.size()-1; i++) {
+        tmpData[i] = data.items[i].main.temp;
+        //printf("  temp :%d\n" ,   tmpData[i] );
+    }
+
+
+    MC_CHDATASET dataSet;
+
+    SetWindowText(hwndChart, "Kolejne godziny");
+
+    SendMessage(hwndChart, MC_CHM_SETAXISLEGEND, 1, (LPARAM) ("Czas"));
+    SendMessage(hwndChart, MC_CHM_SETAXISLEGEND, 2, (LPARAM) ("Temperatura"));
+
+    /* The data are since year 2003 */
+   // SendMessage(hwndChart, MC_CHM_SETAXISOFFSET, 3, 1);
+
+    dataSet.dwCount =  data.items.size()-1;
+    dataSet.piValues = tmpData;
+    SendMessage(hwndChart, MC_CHM_INSERTDATASET, 0, (LPARAM) &dataSet);
+    SendMessage(hwndChart, MC_CHM_SETDATASETLEGEND, 0, (LPARAM) ("Poznañ [C]"));
+
+    delete [] tmpData;
+  /*  dataSet.dwCount = sizeof(denmarkData) / sizeof(denmarkData[0]);
+    dataSet.piValues = (int*) denmarkData;
+    SendMessage(hwndChart, MC_CHM_INSERTDATASET, 1, (LPARAM) &dataSet);
+    SendMessage(hwndChart, MC_CHM_SETDATASETLEGEND, 1, (LPARAM) ("Denmark"));
+
+    dataSet.dwCount = sizeof(greeceData) / sizeof(greeceData[0]);
+    dataSet.piValues = (int*) greeceData;
+    SendMessage(hwndChart, MC_CHM_INSERTDATASET, 2, (LPARAM) &dataSet);
+    SendMessage(hwndChart, MC_CHM_SETDATASETLEGEND, 2, (LPARAM) ("Greece")); */
+}
+#endif // mCTRL
+
+
+
 PAINTSTRUCT ps;
 HDC hdcDestination;
 
 
-#include <gdiplus.h>
 
+std::vector<int> listYi;
+std::vector<int> listYiHeight;
+
+std::vector<std::string> listXi;
+std::vector<std::string> listXiDate;
+std::vector<double> listData;
+
+int ConvertTempToPix(const double & currentTemp, const double& currentHeight) {
+    int i = 0;
+    for ( std::vector<int>::iterator it = listYi.begin(); it != listYi.end(); it++)
+    {
+        if (*it >  currentTemp ) {
+          if (i < listYiHeight.size())  return listYiHeight[i]; else listYiHeight[listYiHeight.size()-1];
+        }
+        i++;
+    }
+    return listYiHeight.back();
+  //  double prop = (listYi.back() - listYi.front()) / currentTemp;
+  //  return currentHeight - (currentHeight / prop);
+}
 
 BOOL CALLBACK DlgNextHours(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 {
+#ifndef mCTRL
+    static HBRUSH testBrush;
 
+#endif // mCTRL
     switch(uMsg)
     {
+#ifndef mCTRL
     case WM_PAINT:
     {
+        PAINTSTRUCT ps_NH;
+        HDC hdc;
 
-        const unsigned int width = 400;
-        const unsigned int height = 400;
+        const unsigned int marginLeft = 60;
+        const unsigned int marginRight = 150;
+        const unsigned int marginTop = 50;
+        const unsigned int marginButton  = 60;
 
-        HDC hDC, MemDCExercising;
-        PAINTSTRUCT Ps;
-        HBITMAP bmpExercising;
+        RECT rcClient;
+        GetClientRect(hwndDlg, &rcClient);
+        //printf("r:%d , l:%d, r-l:%d\n", rcClient.right, rcClient.left, rcClient.right - rcClient.left);
+        int  widthWindow = rcClient.right - rcClient.left;
+        int heightWindow = rcClient.bottom - rcClient.top;
 
-        hDC = BeginPaint(hwndDlg, &Ps);
+      //  if (widthWindow < 100 || heightWindow < 100) return TRUE;
 
-        const unsigned w=0xFFFFFF, b=0, y=0xFFFF00; // colors: white, black, yellow
-        unsigned bmp[width*height] = { }; // example 8x8 face image
+        hdc = BeginPaint(hwndDlg, &ps_NH);
+        HPEN hPenOld;
 
-        for (unsigned int x =0 ; x < 160000 ; x++)
+        // Draw a red line
+        HPEN hLinePen;
+        COLORREF qLineColorBlack =  RGB(0, 0, 0);
+        COLORREF qLineColorGrey = RGB(191, 191, 191);
+
+        hLinePen = CreatePen(PS_SOLID, 2, qLineColorBlack);
+        hPenOld = (HPEN)SelectObject(hdc, hLinePen);
+
+        MoveToEx(hdc, marginLeft, marginTop, NULL);
+        LineTo(hdc, marginLeft, heightWindow-marginButton);
+        LineTo(hdc, widthWindow-marginRight, heightWindow-marginButton);
+
+        HPEN hLinePenGrey = CreatePen(PS_SOLID, 1, qLineColorGrey);
+        HPEN hLinePenGreyOld = (HPEN) SelectObject(hdc, hLinePenGrey);
+
+        const short int scale = 25;
+        listYiHeight.clear();
+
+        unsigned int i;
+        unsigned short int y ;
+        for (  i = 0 , y = heightWindow-marginButton- scale; y > marginTop ; y-= scale, i++ )
         {
+            MoveToEx(hdc, marginLeft, y, NULL);
+            LineTo(hdc, widthWindow-marginRight, y);
+            listYiHeight.push_back(y);
+            RECT rect;
+            rect.left=marginLeft - scale;  rect.top=y-8;
 
-                bmp[x] = w;
+            if (i < listYi.size()) DrawText( hdc, CDLog::ToString(listYi[i]).c_str(), -1, &rect, DT_SINGLELINE | DT_NOCLIP   ) ;
+        }
+
+        unsigned short int x;
+        for (i =0, x = marginLeft + scale; x < widthWindow - marginRight ; x+= scale, i++)
+        {
+            MoveToEx(hdc, x, marginTop, NULL);
+            LineTo(hdc, x, heightWindow-marginButton);
+
+            RECT rect;
+            rect.left=x-scale;
+            rect.top=heightWindow-marginButton+10;
+
+            if (i < listXi.size()) DrawText( hdc, (listXi[i]).c_str(), -1, &rect, DT_SINGLELINE | DT_NOCLIP   ) ;
+
+            rect.top=heightWindow-marginButton+35;
+            if (i < listXi.size() && (i % 5) == 0) DrawText( hdc, (listXiDate[i]).c_str(), -1, &rect, DT_SINGLELINE | DT_NOCLIP   ) ;
 
         }
 
-        bmpExercising =  CreateBitmap(400, 400, 32, 1, bmp);
-
-        MemDCExercising = CreateCompatibleDC(hDC);
-        SelectObject(MemDCExercising, bmpExercising);
-        BitBlt(hDC, 0, 0, 400, 400, MemDCExercising, 0, 0, SRCCOPY);
-        DeleteDC(MemDCExercising);
-        DeleteObject(bmpExercising);
-        EndPaint(hwndDlg, &Ps);
+        //draw data
+        COLORREF qLineColorRed =  RGB(255, 0, 0);
+        HPEN hLinePenRed = CreatePen(PS_SOLID, 2, qLineColorRed);
+        HPEN hPenRedOld  = (HPEN)SelectObject(hdc, hLinePenRed);
 
 
-        /*
+        MoveToEx(hdc, marginLeft, ConvertTempToPix(listData[0], heightWindow - marginButton - marginTop)  , NULL);
+        //printf("[LOG] H:%s, temp:%f , x:%d, y:%d\n",listXi[0].c_str(), listData[0] , marginLeft , ConvertTempToPix(listData[0], heightWindow - marginButton - marginTop));
+        for (i =1, x = marginLeft+scale; x < widthWindow - marginRight ; x+= scale, i++)
+        {
 
-            HDC hdcOkno = GetDC( hwndDlg );
-            HBRUSH PedzelZiel, Pudelko;
-            HPEN OlowekBialy, Piornik;
+            if (i < listData.size()) LineTo(hdc, x, (int)ConvertTempToPix(listData[i],heightWindow - marginButton - marginTop));
+            //printf("[LOG] H:%s, temp:%f , x:%d, y:%d\n", listXi[i].c_str(), listData[i] , x , ConvertTempToPix(listData[i],heightWindow - marginButton - marginTop));
+        }
 
-            POINT stary;
+        Rectangle(hdc,widthWindow - marginRight + 25, marginTop + 25, widthWindow - marginRight + 35, marginTop + 35);
 
+        RECT rect;
+        rect.left= widthWindow - marginRight + 45;
+        rect.top= marginTop + 21;
+        DrawText( hdc, "Poznañ", -1, &rect, DT_SINGLELINE | DT_NOCLIP   ) ;
 
-            PedzelZiel = CreateSolidBrush( 0xFFFFFF );
-            OlowekBialy = CreatePen( PS_SOLID, 1, 0xFFFFFF );
+        SelectObject(hdc, hPenOld);
+        SelectObject(hdc, hLinePenGreyOld);
+        SelectObject(hdc, hPenRedOld);
+        DeleteObject(hLinePen);
+        DeleteObject(hLinePenGrey);
+        DeleteObject(hLinePenRed);
 
-
-
-            Pudelko =( HBRUSH ) SelectObject( hdcOkno, PedzelZiel );
-            Piornik =( HPEN ) SelectObject( hdcOkno, OlowekBialy );
-
-
-            Rectangle( hdcOkno, 0, 0, 800, 500 );
-
-
-
-
-            SelectObject( hdcOkno, Pudelko );
-          //  SelectObject( hdcOkno, Piornik );
-           // SelectObject( hdcOkno, PiornikCzarny );
-
-
-
-
-            DeleteObject( OlowekBialy );
-            DeleteObject( PedzelZiel );
-
-            ReleaseDC( hwndDlg, hdcOkno );
-*/
-
-
+        EndPaint(hwndDlg, &ps_NH);
     }
     return true;
+
+    case WM_CTLCOLORDLG:
+          return (INT_PTR)( testBrush );
+#endif // mCTRL
+
     case WM_INITDIALOG:
     {
-        CGUIManager::getInstance().CreateTemplateChart(300,300);
         DataWeetherNextHours dataWeether;
         CModels::getInstance().GetWeether( std::string(CDSetting::getInstance().getSetting().cityName), dataWeether);
+        listYi.clear();
+        listXi.clear();
         for (unsigned int i = 0 ; i < dataWeether.items.size() ; i++ )
         {
-            printf("data:: %s\n" , dataWeether.items[i].dt_text.c_str());
+            std::vector<int>::iterator it = find (listYi.begin(), listYi.end(), (int) dataWeether.items[i].main.temp);
+            if (it == listYi.end())
+            {
+                listYi.push_back((int)dataWeether.items[i].main.temp);
+            }
+            char godzina[ 80 ];
+            char day[ 80 ];
+            struct tm *data = localtime( & dataWeether.items[i].dt );
+            strftime( godzina, 80, "%H", data );
+            strftime( day, 80, "%m-%d", data );
+            listXi.push_back(godzina);
+            listXiDate.push_back(day);
+
+            listData.push_back(dataWeether.items[i].main.temp);
+
+            printf("data:: %s  temp :%f\n" , godzina , dataWeether.items[i].main.temp);
+        }
+        std::sort(listYi.begin(), listYi.begin() + listYi.size());
+        listYi.push_back( listYi.back() + 1);
+
+        if (listYi.empty()) {
+            for (int i = 1 ; i < 11 ; i++) listYi.push_back(i);
         }
 
+        if (listXi.empty()) {
+            for (int i = 1; i < 21 ; i++) {
+                listXi.push_back(CDLog::ToString(i));
+            }
+        }
 
+        for ( std::vector<int>::iterator it = listYi.begin(); it != listYi.end(); it++) {
+            printf("data:  temp :%d\n" , *it);
+        }
+#ifdef mCTRL
+        SetupCommonChart(GetDlgItem(hwndDlg, IDC_CHART_LINE), dataWeether);
+        #else
+        testBrush = CreateSolidBrush( RGB( 255, 255, 255 ) );
+        //CGUIManager::getInstance().CreateTemplateChart(width,height);
 
+#endif // mCTRL
+        break;
     }
     return TRUE;
+
+
 
     case WM_CLOSE:
     {
@@ -597,6 +749,19 @@ BOOL CALLBACK DlgNextHours(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam
         {
 
         }
+    }
+    return TRUE;
+
+    case WM_SIZE:
+    {
+         //  int nWidth = LOWORD(lParam);
+         //  int nHeight = HIWORD(lParam);
+        //   CGUIManager::getInstance().CreateTemplateChart(nWidth,nHeight);
+        //   width = nWidth;
+        //   height = nHeight;
+       //    printf("w:%d, h:%d\n" , width, height);
+        InvalidateRect(hwndDlg, NULL, true);
+        UpdateWindow(hwndDlg);
     }
     return TRUE;
     }
@@ -685,7 +850,18 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
         {
         case ID_MENU_NEXT_HOURS :
             {
+#ifdef mCTRL
+                if(!mcChart_Initialize()) {
+                    MessageBox(NULL, "The function mcChart_Initialize() has failed. "
+                               "Perhaps GDIPLUS.DLL is not available on your machine?",
+                               "Error", MB_OK | MB_ICONERROR);
+                    return 1;
+                }
+
+                mcDialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_NEXT_H), NULL, DlgNextHours, MC_DF_DEFAULTFONT);
+#else
                 DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_NEXT_H), NULL, (DLGPROC)DlgNextHours);
+#endif // mCTRL
                 break;
             }
         case ID_MENU_SETTING:

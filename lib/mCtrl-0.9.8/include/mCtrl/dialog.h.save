@@ -148,7 +148,7 @@ HWND MCTRL_API mcCreateDialogParamA(HINSTANCE hInstance, LPCSTR lpTemplateName,
  * @return Handle of the created dialog or @c NULL on error.
  */
 HWND MCTRL_API mcCreateDialogIndirectParamW(HINSTANCE hInstance,
-                LPDLGTEMPLATEW lpTemplate, HWND hWndParent,
+                LPCDLGTEMPLATEW lpTemplate, HWND hWndParent,
                 DLGPROC lpDialogFunc, LPARAM lParamInit, DWORD dwFlags);
 
 /**
@@ -162,7 +162,7 @@ HWND MCTRL_API mcCreateDialogIndirectParamW(HINSTANCE hInstance,
  * @return Handle of the created dialog or @c NULL on error.
  */
 HWND MCTRL_API mcCreateDialogIndirectParamA(HINSTANCE hInstance,
-                LPDLGTEMPLATEA lpTemplate, HWND hWndParent,
+                LPCDLGTEMPLATEA lpTemplate, HWND hWndParent,
                 DLGPROC lpDialogFunc, LPARAM lParamInit, DWORD dwFlags);
 
 /**
