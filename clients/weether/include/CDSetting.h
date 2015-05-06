@@ -9,6 +9,7 @@ struct CDSettingData {
         char ipServer[11];
         char portServer[5];
         char cityName[30];
+        unsigned short updateWeather;
 };
 
 class CDSetting

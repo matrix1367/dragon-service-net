@@ -53,7 +53,7 @@ DWORD WINAPI CModels::ThreadUpdateWeether()
             CDLog::Write( __FUNCTION__ , __LINE__, Error, "Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT" );
         }
 
-        Sleep(10000);
+        Sleep(CDSetting.getInstance().getSetting().updateWeather);
     }
     return 0;
 }

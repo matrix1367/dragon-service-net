@@ -2553,3 +2553,12 @@
 [Info][CommandParser][101][04/29/15 09:24:19] 00003|Aktualna godzina:;[29-04-2015 09:24:18] ;|
 [Info][CommandParser][124][04/29/15 09:24:19] cmd: CMD_MESSAGE
 [Info][CommandParser][126][04/29/15 09:24:19] message:Aktualna godzina:;[29-04-2015 09:24:18] ;
+[Warning][Load][60][05/06/15 14:45:03] Wczytanie ustawieñ nie powiod³o siê.
+[Info][CommandParser][101][05/06/15 14:45:03] 00002|Weather|
+[Info][CommandParser][108][05/06/15 14:45:03] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/06/15 15:21:34] 00002|Weather|
+[Info][CommandParser][108][05/06/15 15:21:34] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/06/15 15:22:29] 00002|Weather|
+[Info][CommandParser][108][05/06/15 15:22:29] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/06/15 15:23:17] 00002|Weather|
+[Info][CommandParser][108][05/06/15 15:23:17] cmd: CMD_SET_NAME_CLIENT

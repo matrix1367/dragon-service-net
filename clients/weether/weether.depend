@@ -75,7 +75,7 @@
 	<string>
 	<sstream>
 
-1430835742 source:f:\projects\dragon-service-net-master\clients\weether\main.cpp
+1430918490 source:f:\projects\dragon-service-net-master\clients\weether\main.cpp
 	<windows.h>
 	<commctrl.h>
 	<gdiplus.h>
@@ -111,7 +111,7 @@
 	<string>
 	<windows.h>
 
-1430742485 source:f:\projects\dragon-service-net-master\clients\weether\resource.rc
+1430918544 source:f:\projects\dragon-service-net-master\clients\weether\resource.rc
 	<windows.h>
 	<commctrl.h>
 	<richedit.h>
@@ -128,7 +128,7 @@
 	<string>
 	<sstream>
 
-1429514315 source:f:\projects\dragon-service-net-master\clients\weether\src\client.cpp
+1430915884 source:f:\projects\dragon-service-net-master\clients\weether\src\client.cpp
 	"Client.h"
 	<winsock2.h>
 	<windows.h>
@@ -141,12 +141,13 @@
 	"CDSetting.h"
 	"CDLog.h"
 
-1430315599 source:f:\projects\dragon-service-net-master\clients\weether\src\models.cpp
+1430915466 source:f:\projects\dragon-service-net-master\clients\weether\src\models.cpp
 	"Models.h"
 	"CDLog.h"
 	"WebTool.h"
 	"Convert.h"
 	"EventManager.h"
+	"CDSetting.h"
 	<cstdio>
 
 1430291605 source:f:\projects\dragon-service-net-master\clients\weether\src\schedulemanager.cpp
@@ -196,10 +197,10 @@
 	<queue>
 	<windows.h>
 
-1429864969 f:\projects\dragon-service-net-master\clients\weether\include\cdsetting.h
+1430915274 f:\projects\dragon-service-net-master\clients\weether\include\cdsetting.h
 	<string>
 
-1429865305 source:f:\projects\dragon-service-net-master\clients\weether\src\cdsetting.cpp
+1430915417 source:f:\projects\dragon-service-net-master\clients\weether\src\cdsetting.cpp
 	"CDSetting.h"
 	"CDSerialize.h"
 	"CDLog.h"
@@ -329,7 +330,7 @@
 	"WebTool.h"
 	"GUIManager.h"
 
-1430824181 source:f:\projects\dragon-service-net-master\clients\weether\src\convert.cpp
+1430915083 source:f:\projects\dragon-service-net-master\clients\weether\src\convert.cpp
 	"Convert.h"
 	"CDLog.h"
 	<json/json.h>
@@ -339,7 +340,7 @@
 	<math.h>
 	<math.h>
 
-1430823867 f:\projects\dragon-service-net-master\clients\weether\include\convert.h
+1430895653 f:\projects\dragon-service-net-master\clients\weether\include\convert.h
 	<string>
 	<cstdio>
 	<vector>

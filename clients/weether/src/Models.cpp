@@ -3,6 +3,7 @@
 #include "WebTool.h"
 #include "Convert.h"
 #include "EventManager.h"
+#include "CDSetting.h"
 #include <cstdio>
 
 CModels::CModels()
@@ -39,7 +40,7 @@ DWORD WINAPI CModels::ThreadUpdateWeether()
             m_data.Print();
             CEventManager::getInstance().Send(EVENT_UPDATE_WEETHER);
         } else {
-            printf("Page not CONVERT : %s\n" , page.c_str());
+            //printf("Page not CONVERT : %s\n" , page.c_str());
             CDLog::Write( __FUNCTION__ , __LINE__, Error, "Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT" );
         }
 
@@ -49,11 +50,11 @@ DWORD WINAPI CModels::ThreadUpdateWeether()
          {
             CEventManager::getInstance().Send(EVENT_UPDATE_WEATHER_NEXT_HOURS);
          } else {
-            printf("Page not CONVERT : %s\n" , pageNextHours.c_str());
+            //printf("Page not CONVERT : %s\n" , pageNextHours.c_str());
             CDLog::Write( __FUNCTION__ , __LINE__, Error, "Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT" );
         }
 
-        Sleep(10000);
+        Sleep(CDSetting::getInstance().getSetting().updateWeather);
     }
     return 0;
 }

@@ -47,6 +47,7 @@ public:
 typedef struct TDataWeetherNextHoursItem {
     DataWeetherMain main;
     DataWeetherWind wind;
+    double rain;
     time_t dt;
     std::string dt_text;
     std::string icon;

@@ -96,7 +96,7 @@ bool CConvert::ParserJSONToDataWeeterList(std::string jsonDataWeether, DataWeeth
         if (!jsonName.isNull())
         {
             strcpy(data.nameCity, jsonName.asCString());
-            printf(" city -> name:%s\n" , data.nameCity);
+            //printf(" city -> name:%s\n" , data.nameCity);
         }
 
         const Json::Value jsonList = root["list"];
@@ -147,6 +147,16 @@ bool CConvert::ParserJSONToDataWeeterList(std::string jsonDataWeether, DataWeeth
                          item.main.humidity = jsonWeatherMain_humidity.asDouble();
                     }
                  } else printf(">>>>>>> jsonWeatherMain is NULL\n");
+
+                 const Json::Value jsonRain = (*it)["rain"];
+                 if (!jsonRain.isNull())
+                 {
+                     const Json::Value jsonRainH = jsonRain["3h"];
+                     if (!jsonRainH.isNull() && jsonRainH.isDouble() )
+                     {
+                         item.rain = jsonRainH.asDouble();
+                     } else item.rain = 0;
+                 } else printf(">>>>>>> jsonRain is NBULL");
 
                  const Json::Value jsonWeatherWind = (*it)["wind"];
                  if (!jsonWeatherWind.isNull())

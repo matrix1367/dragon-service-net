@@ -121,17 +121,30 @@ time_t ConvertStringToTime_T(std::string date, std::string time)
     return result;
 }
 
-int selectIndex = -1;
+
 BOOL CALLBACK DlgTask(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 {
     switch(uMsg)
     {
     case WM_INITDIALOG:
     {
-        if (selectIndex > -1)
+          printf("WM_INITDIALOG DlgTask: select item : %d\n", lParam);
+        if (lParam > 0)
         {
             // CTask taskEdit
-
+            CTask task =  CScheduleManager::getInstance().GetTask(lParam-1);
+            
+            HWND hName = GetDlgItem(hwndDlg,IDD_DIALOG_TASK_NAME);
+            HWND hDataS = GetDlgItem(hwndDlg,IDD_DIALOG_TASK_DATE_ST);
+            HWND hTimeS = GetDlgItem(hwndDlg,IDD_DIALOG_TASK_TIME_ST);
+            HWND hDataE = GetDlgItem(hwndDlg,IDD_DIALOG_TASK_DATE_END);
+            HWND htimeE = GetDlgItem(hwndDlg,IDD_DIALOG_TASK_TIME_END);
+            HWND hInterval = GetDlgItem(hwndDlg,IDD_DIALOG_TASK_INTERVAL);
+            HWND hSetting = GetDlgItem(hwndDlg,IDD_DIALOG_TASK_SETTING);
+        
+            SetWindowText( hEditIP, CDSetting::getInstance().getSetting().ipServer );
+            SetWindowText( hEditPort, CDSetting::getInstance().getSetting().portServer );
+            SetWindowText( hEditCity, CDSetting::getInstance().getSetting().cityName );
         }
         else
         {
@@ -360,14 +373,21 @@ BOOL CALLBACK DlgSchedule(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
         }
         case IDR_MENU_SCHEDUL_EDIT_EDIT:
         {
-            printf("IDR_MENU_SCHEDUL_EDIT_EDIT:\n");
-            int res =  DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_TASK), NULL, (DLGPROC)DlgTask);
-            if (res == IDOK)
-            {
-                CEventManager::getInstance().Send(EVENT_ADD_SCHEDULE);
-                //HWND listView = GetDlgItem(hwndDlg, DLG_SCHEDULE_LISTVIE);
-                // RefreshListViewSchedule(listView);
-            }
+
+            HWND listView = GetDlgItem(hwndDlg, DLG_SCHEDULE_LISTVIE);
+            int iPos = ListView_GetNextItem(listView, -1, LVNI_SELECTED);
+            //printf("IDR_MENU_SCHEDUL_EDIT_EDIT: select item : %d\n", iPos);
+
+
+            HWND hwndEdit;
+            //int res =  DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_TASK), hwndEdit, (DLGPROC)DlgTask);
+            hwndEdit = CreateDialogParam(hInst, MAKEINTRESOURCE(IDD_DIALOG_TASK), hwndDlg, (DLGPROC)DlgTask, iPos+1);
+         //   if (res == IDOK)
+          //  {
+         //       CEventManager::getInstance().Send(EVENT_ADD_SCHEDULE);
+         //       //HWND listView = GetDlgItem(hwndDlg, DLG_SCHEDULE_LISTVIE);
+         //       // RefreshListViewSchedule(listView);
+        //    }
             break;
         }
         case IDR_MENU_SCHEDUL_EDIT_DELETE:
@@ -448,8 +468,6 @@ BOOL CALLBACK DlgSetting(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     return FALSE;
 }
 
-
-
 void RefreshDlgMain(TypeParmT parm)
 {
     HWND hwndDlg = parm.handle;
@@ -491,16 +509,13 @@ void RefreshDlgMain(TypeParmT parm)
     InvalidateRect(hwndDlg, NULL, true);
     UpdateWindow(hwndDlg);
     UpdateTrayIcon(hwndDlg, ID_TRAY1, WM_APP, 0 ,pathIcon);
-    CGUIManager::getInstance().ShowMessage("Aktualizacja danych", "Dane zosta≥y pomyúlnie zaktualizowane");
+    //CGUIManager::getInstance().ShowMessage("Aktualizacja danych", "Dane zosta≈Çy pomy≈õlnie zaktualizowane");
 }
 
 
 
-
-
 #ifdef mCTRL
-static void
-SetupCommonChart(HWND hwndChart, DataWeetherNextHours& data)
+static void SetupCommonChart(HWND hwndChart, DataWeetherNextHours& data)
 {
    if (data.items.size() < 1) return;
 
@@ -524,7 +539,7 @@ SetupCommonChart(HWND hwndChart, DataWeetherNextHours& data)
     dataSet.dwCount =  data.items.size()-1;
     dataSet.piValues = tmpData;
     SendMessage(hwndChart, MC_CHM_INSERTDATASET, 0, (LPARAM) &dataSet);
-    SendMessage(hwndChart, MC_CHM_SETDATASETLEGEND, 0, (LPARAM) ("PoznaÒ [C]"));
+    SendMessage(hwndChart, MC_CHM_SETDATASETLEGEND, 0, (LPARAM) ("Pozna√± [C]"));
 
     delete [] tmpData;
   /*  dataSet.dwCount = sizeof(denmarkData) / sizeof(denmarkData[0]);
@@ -544,17 +559,60 @@ SetupCommonChart(HWND hwndChart, DataWeetherNextHours& data)
 PAINTSTRUCT ps;
 HDC hdcDestination;
 
-
-
 std::vector<int> listYi;
 std::vector<int> listYiHeight;
+int mediumYiHeight = 200;
 
 std::vector<std::string> listXi;
 std::vector<std::string> listXiDate;
 std::vector<double> listData;
 
+std::vector<double> listDataRain;
+std::vector<double> listP;
+
+void RefreshCheat(TypeParmT parm)
+{
+    DataWeetherNextHours dataWeether;
+    CModels::getInstance().GetWeether( std::string(CDSetting::getInstance().getSetting().cityName), dataWeether);
+    if (dataWeether.items.size() == 0) return;
+    listYi.clear();
+    listXi.clear();
+    listData.clear();
+    listDataRain.clear();
+    listP.clear();
+    for (unsigned int i = 0 ; i < dataWeether.items.size() ; i++ )
+    {
+        std::vector<int>::iterator it = find (listYi.begin(), listYi.end(), (int) dataWeether.items[i].main.temp);
+        if (it == listYi.end())
+        {
+            listYi.push_back((int)dataWeether.items[i].main.temp);
+        }
+        char godzina[ 80 ];
+        char day[ 80 ];
+        struct tm *data = localtime( & dataWeether.items[i].dt );
+        strftime( godzina, 80, "%H", data );
+        strftime( day, 80, "%m-%d", data );
+        listXi.push_back(godzina);
+        listXiDate.push_back(day);
+
+        listData.push_back(dataWeether.items[i].main.temp);
+
+        listDataRain.push_back(dataWeether.items[i].rain);
+
+        listP.push_back(1014 - dataWeether.items[i].main.pressure);
+
+        //printf("data:: %s  temp :%f, rain:%f , p:%f\n" , godzina , dataWeether.items[i].main.temp, dataWeether.items[i].rain, 1014 - dataWeether.items[i].main.pressure);
+
+    }
+    std::sort(listYi.begin(), listYi.begin() + listYi.size());
+    listYi.push_back( listYi.back() + 1);
+
+    InvalidateRect(parm.handle, NULL, true);
+    UpdateWindow(parm.handle);
+}
+
 int ConvertTempToPix(const double & currentTemp, const double& currentHeight) {
-    int i = 0;
+    unsigned int i = 0;
     for ( std::vector<int>::iterator it = listYi.begin(); it != listYi.end(); it++)
     {
         if (*it >  currentTemp ) {
@@ -588,11 +646,10 @@ BOOL CALLBACK DlgNextHours(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam
 
         RECT rcClient;
         GetClientRect(hwndDlg, &rcClient);
-        //printf("r:%d , l:%d, r-l:%d\n", rcClient.right, rcClient.left, rcClient.right - rcClient.left);
+
         int  widthWindow = rcClient.right - rcClient.left;
         int heightWindow = rcClient.bottom - rcClient.top;
 
-      //  if (widthWindow < 100 || heightWindow < 100) return TRUE;
 
         hdc = BeginPaint(hwndDlg, &ps_NH);
         HPEN hPenOld;
@@ -601,13 +658,8 @@ BOOL CALLBACK DlgNextHours(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam
         HPEN hLinePen;
         COLORREF qLineColorBlack =  RGB(0, 0, 0);
         COLORREF qLineColorGrey = RGB(191, 191, 191);
-
         hLinePen = CreatePen(PS_SOLID, 2, qLineColorBlack);
-        hPenOld = (HPEN)SelectObject(hdc, hLinePen);
 
-        MoveToEx(hdc, marginLeft, marginTop, NULL);
-        LineTo(hdc, marginLeft, heightWindow-marginButton);
-        LineTo(hdc, widthWindow-marginRight, heightWindow-marginButton);
 
         HPEN hLinePenGrey = CreatePen(PS_SOLID, 1, qLineColorGrey);
         HPEN hLinePenGreyOld = (HPEN) SelectObject(hdc, hLinePenGrey);
@@ -622,15 +674,30 @@ BOOL CALLBACK DlgNextHours(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam
             MoveToEx(hdc, marginLeft, y, NULL);
             LineTo(hdc, widthWindow-marginRight, y);
             listYiHeight.push_back(y);
+
             RECT rect;
             rect.left=marginLeft - scale;  rect.top=y-8;
 
             if (i < listYi.size()) DrawText( hdc, CDLog::ToString(listYi[i]).c_str(), -1, &rect, DT_SINGLELINE | DT_NOCLIP   ) ;
         }
 
+        int index = ((listYiHeight.size()/2)-1);
+        if ( index > -1) {
+             mediumYiHeight = listYiHeight[index];
+        } else {
+            mediumYiHeight = heightWindow/2;
+        }
+
+       // COLORREF qLineColorGreen =  RGB(0, 255, 0);
+        // HPEN hLinePenGreen = CreatePen(PS_SOLID, 1, qLineColorGreen);
+      //  HPEN hPenGreenOld  = (HPEN)
+
+      SelectObject( hdc, GetStockObject( GRAY_BRUSH ) );
+
         unsigned short int x;
         for (i =0, x = marginLeft + scale; x < widthWindow - marginRight ; x+= scale, i++)
         {
+            //SelectObject(hdc, hLinePenGrey);
             MoveToEx(hdc, x, marginTop, NULL);
             LineTo(hdc, x, heightWindow-marginButton);
 
@@ -643,8 +710,13 @@ BOOL CALLBACK DlgNextHours(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam
             rect.top=heightWindow-marginButton+35;
             if (i < listXi.size() && (i % 5) == 0) DrawText( hdc, (listXiDate[i]).c_str(), -1, &rect, DT_SINGLELINE | DT_NOCLIP   ) ;
 
-        }
+            //SelectObject(hdc, hLinePenGreen);
 
+            if (i < listDataRain.size()) Rectangle(hdc, x - 5, (heightWindow-marginButton -  1) - listDataRain[i]*12.5  , x + 5, heightWindow-marginButton - 1);
+
+            if (i < listP.size()) Rectangle(hdc, x - 5, mediumYiHeight  + listP[i] * 12.5  , x + 5, mediumYiHeight);
+        }
+        SelectObject( hdc, GetStockObject( NULL_BRUSH ) );
         //draw data
         COLORREF qLineColorRed =  RGB(255, 0, 0);
         HPEN hLinePenRed = CreatePen(PS_SOLID, 2, qLineColorRed);
@@ -656,16 +728,33 @@ BOOL CALLBACK DlgNextHours(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam
         for (i =1, x = marginLeft+scale; x < widthWindow - marginRight ; x+= scale, i++)
         {
 
-            if (i < listData.size()) LineTo(hdc, x, (int)ConvertTempToPix(listData[i],heightWindow - marginButton - marginTop));
+            if (i < listData.size()) LineTo(hdc, x, ConvertTempToPix(listData[i],heightWindow - marginButton - marginTop));
             //printf("[LOG] H:%s, temp:%f , x:%d, y:%d\n", listXi[i].c_str(), listData[i] , x , ConvertTempToPix(listData[i],heightWindow - marginButton - marginTop));
         }
+
+
+
 
         Rectangle(hdc,widthWindow - marginRight + 25, marginTop + 25, widthWindow - marginRight + 35, marginTop + 35);
 
         RECT rect;
         rect.left= widthWindow - marginRight + 45;
-        rect.top= marginTop + 15;
-        DrawText( hdc, "PoznaÒ", -1, &rect, DT_SINGLELINE | DT_NOCLIP   ) ;
+        rect.top= marginTop + 21;
+        DrawText( hdc, "Poznan", -1, &rect, DT_SINGLELINE | DT_NOCLIP   ) ;
+
+        rect.left= widthWindow - marginRight + 15;
+        rect.top= mediumYiHeight-8;
+        DrawText( hdc, "1014 hPa", -1, &rect, DT_SINGLELINE | DT_NOCLIP   ) ;
+
+        hPenOld = (HPEN)SelectObject(hdc, hLinePen);
+
+        MoveToEx(hdc, marginLeft, marginTop, NULL);
+        LineTo(hdc, marginLeft, heightWindow-marginButton);
+        LineTo(hdc, widthWindow-marginRight, heightWindow-marginButton);
+
+        MoveToEx(hdc, marginLeft, mediumYiHeight, NULL);
+        LineTo(hdc, widthWindow-marginRight, mediumYiHeight);
+
 
         SelectObject(hdc, hPenOld);
         SelectObject(hdc, hLinePenGreyOld);
@@ -684,50 +773,21 @@ BOOL CALLBACK DlgNextHours(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam
 
     case WM_INITDIALOG:
     {
-        DataWeetherNextHours dataWeether;
-        CModels::getInstance().GetWeether( std::string(CDSetting::getInstance().getSetting().cityName), dataWeether);
-        listYi.clear();
-        listXi.clear();
-        for (unsigned int i = 0 ; i < dataWeether.items.size() ; i++ )
-        {
-            std::vector<int>::iterator it = find (listYi.begin(), listYi.end(), (int) dataWeether.items[i].main.temp);
-            if (it == listYi.end())
-            {
-                listYi.push_back((int)dataWeether.items[i].main.temp);
-            }
-            char godzina[ 80 ];
-            char day[ 80 ];
-            struct tm *data = localtime( & dataWeether.items[i].dt );
-            strftime( godzina, 80, "%H", data );
-            strftime( day, 80, "%m-%d", data );
-            listXi.push_back(godzina);
-            listXiDate.push_back(day);
 
-            listData.push_back(dataWeether.items[i].main.temp);
-
-            printf("data:: %s  temp :%f\n" , godzina , dataWeether.items[i].main.temp);
-        }
-        std::sort(listYi.begin(), listYi.begin() + listYi.size());
-        listYi.push_back( listYi.back() + 1);
-
-        if (listYi.empty()) {
-            for (int i = 1 ; i < 11 ; i++) listYi.push_back(i);
-        }
-
-        if (listXi.empty()) {
-            for (int i = 1; i < 21 ; i++) {
-                listXi.push_back(CDLog::ToString(i));
-            }
-        }
-
-        for ( std::vector<int>::iterator it = listYi.begin(); it != listYi.end(); it++) {
-            printf("data:  temp :%d\n" , *it);
-        }
 #ifdef mCTRL
         SetupCommonChart(GetDlgItem(hwndDlg, IDC_CHART_LINE), dataWeether);
         #else
         testBrush = CreateSolidBrush( RGB( 255, 255, 255 ) );
-        //CGUIManager::getInstance().CreateTemplateChart(width,height);
+
+        TypeParmT parm;
+        parm.handle = hwndDlg;
+        RefreshCheat(parm);
+
+        Event event;
+        event.paem1.handle = hwndDlg;
+        event.typeEvent = EVENT_UPDATE_WEATHER_NEXT_HOURS;
+        event.handleFunction = &RefreshCheat;
+        CEventManager::getInstance().Subscribe(event);
 
 #endif // mCTRL
         break;
@@ -752,10 +812,20 @@ BOOL CALLBACK DlgNextHours(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam
     }
     return TRUE;
 
+    case WM_GETMINMAXINFO:
+    {
+        MINMAXINFO* mmi = (MINMAXINFO*)lParam;
+        mmi->ptMinTrackSize.x = 400;
+        mmi->ptMinTrackSize.y = 300;
+       // mmi->ptMaxTrackSize.x = 1200;
+       // mmi->ptMaxTrackSize.y = 1000;
+        return 0;
+    }
+
     case WM_SIZE:
     {
-         //  int nWidth = LOWORD(lParam);
-         //  int nHeight = HIWORD(lParam);
+        //int nWidth = LOWORD(lParam);
+        //int nHeight = HIWORD(lParam);
         //   CGUIManager::getInstance().CreateTemplateChart(nWidth,nHeight);
         //   width = nWidth;
         //   height = nHeight;
@@ -820,7 +890,7 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     {
         CScheduleManager::getInstance().Save();
         CDSetting::getInstance().Save();
-        RemoveTrayIcon (hwndDlg, 1);
+        RemoveTrayIcon (hwndDlg, ID_TRAY1);
         EndDialog(hwndDlg, 0);
     }
     return TRUE;

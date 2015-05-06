@@ -9,7 +9,8 @@ CDSettingData::CDSettingData()
     strcpy(nameApplication, "Weather");
     strcpy(ipServer, "127.0.0.1");
     strcpy(portServer, "1101");
-    strcpy(cityName, "Poznañ");
+    strcpy(cityName, "Poznan");
+    updateWeather = 300000; //5 minut.
 }
 
 void CDSetting::SetIp(std::string ip){

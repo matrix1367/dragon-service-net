@@ -13856,3 +13856,2289 @@
 [Info][ThreadSendMessages][38][05/05/15 16:35:25] 
 [Info][ThreadSendMessages][43][05/05/15 16:35:25] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
 [Info][Save][40][05/05/15 16:35:33] 
+[Info][WaitingForServer][70][05/06/15 09:43:41] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 09:43:41] 
+[Info][Start][122][05/06/15 09:43:41] 
+[Info][ThreadStart][128][05/06/15 09:43:41] 
+[Info][ThreadStart][147][05/06/15 09:43:41] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 09:43:42] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/06/15 09:43:42] 
+[Info][ThreadStart][147][05/06/15 09:43:42] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/06/15 09:43:42] 
+[Info][WaitingForServer][70][05/06/15 09:46:55] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 09:46:55] 
+[Info][Start][122][05/06/15 09:46:55] 
+[Info][ThreadStart][128][05/06/15 09:46:55] 
+[Info][ThreadStart][147][05/06/15 09:46:55] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 09:46:55] 
+[Info][ThreadSendMessages][38][05/06/15 09:46:55] 
+[Info][ThreadStart][147][05/06/15 09:46:55] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 09:46:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:47:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:47:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 09:47:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 09:47:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:47:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:47:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:47:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 09:47:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 09:47:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:47:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:47:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:47:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 09:47:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 09:47:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:47:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:47:48] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 09:47:50] 
+[Info][WaitingForServer][70][05/06/15 09:49:05] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 09:49:05] 
+[Info][Start][122][05/06/15 09:49:05] 
+[Info][ThreadStart][128][05/06/15 09:49:05] 
+[Info][ThreadStart][147][05/06/15 09:49:05] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 09:49:06] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/06/15 09:49:07] 
+[Info][ThreadSendMessages][38][05/06/15 09:49:07] 
+[Info][ThreadStart][147][05/06/15 09:49:08] Task: Pogoda dla Poznania zostal wykonany.
+[Info][WaitingForServer][70][05/06/15 09:52:35] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 09:52:35] 
+[Info][Start][122][05/06/15 09:52:35] 
+[Info][ThreadStart][128][05/06/15 09:52:35] 
+[Info][ThreadStart][147][05/06/15 09:52:35] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 09:52:35] 
+[Info][ThreadSendMessages][38][05/06/15 09:52:35] 
+[Info][ThreadStart][147][05/06/15 09:52:35] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 09:52:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 09:52:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 09:52:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:52:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:52:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:52:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 09:52:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 09:52:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:53:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:53:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 09:53:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 09:53:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:53:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:53:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:53:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 09:53:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 09:53:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:53:37] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 09:53:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][Save][40][05/06/15 09:53:41] 
+[Info][WaitingForServer][70][05/06/15 09:58:59] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 09:58:59] 
+[Info][Start][122][05/06/15 09:58:59] 
+[Info][ThreadStart][128][05/06/15 09:58:59] 
+[Info][ThreadStart][147][05/06/15 09:58:59] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 09:59:00] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/06/15 09:59:01] 
+[Info][ThreadSendMessages][38][05/06/15 09:59:01] 
+[Info][ThreadStart][147][05/06/15 09:59:01] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 09:59:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 09:59:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 09:59:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:59:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:59:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 09:59:20] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 09:59:20] 
+[Info][WaitingForServer][70][05/06/15 09:59:59] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 09:59:59] 
+[Info][Start][122][05/06/15 09:59:59] 
+[Info][ThreadStart][128][05/06/15 09:59:59] 
+[Info][ThreadStart][147][05/06/15 09:59:59] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 09:59:59] 
+[Info][ThreadSendMessages][38][05/06/15 09:59:59] 
+[Info][ThreadWaitingForServer][80][05/06/15 10:00:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:00:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:00:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:00:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:00:12] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 10:00:16] 
+[Info][WaitingForServer][70][05/06/15 10:00:48] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 10:00:48] 
+[Info][Start][122][05/06/15 10:00:48] 
+[Info][ThreadStart][128][05/06/15 10:00:48] 
+[Info][ThreadStart][147][05/06/15 10:00:48] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 10:00:48] 
+[Info][ThreadStart][147][05/06/15 10:00:48] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/06/15 10:00:48] 
+[Info][ThreadWaitingForServer][80][05/06/15 10:00:49] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:00:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:00:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:00:57] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 10:00:59] 
+[Info][WaitingForServer][70][05/06/15 10:02:43] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 10:02:43] 
+[Info][Start][122][05/06/15 10:02:43] 
+[Info][ThreadStart][128][05/06/15 10:02:43] 
+[Info][ThreadStart][147][05/06/15 10:02:43] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 10:02:43] 
+[Info][ThreadSendMessages][38][05/06/15 10:02:43] 
+[Info][ThreadWaitingForServer][80][05/06/15 10:02:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:02:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:02:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:02:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:02:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:03:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:03:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:03:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:03:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:03:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:03:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:03:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:03:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:03:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:03:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:03:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:03:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:03:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:03:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:03:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:03:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:03:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:03:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:03:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:04:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:04:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:04:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:04:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:04:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:04:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:04:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:04:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:04:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:04:28] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 10:04:29] 
+[Info][WaitingForServer][70][05/06/15 10:08:52] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 10:08:52] 
+[Info][Start][122][05/06/15 10:08:52] 
+[Info][ThreadStart][128][05/06/15 10:08:52] 
+[Info][ThreadStart][147][05/06/15 10:08:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 10:08:52] 
+[Info][ThreadStart][147][05/06/15 10:08:52] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/06/15 10:08:52] 
+[Info][ThreadWaitingForServer][80][05/06/15 10:08:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:08:57] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 10:08:57] 
+[Info][WaitingForServer][70][05/06/15 10:09:32] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 10:09:32] 
+[Info][Start][122][05/06/15 10:09:32] 
+[Info][ThreadStart][128][05/06/15 10:09:32] 
+[Info][ThreadStart][147][05/06/15 10:09:32] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 10:09:33] 
+[Info][ThreadSendMessages][38][05/06/15 10:09:33] 
+[Info][ThreadWaitingForServer][80][05/06/15 10:09:33] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:09:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:09:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:09:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:09:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:09:49] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 10:09:51] 
+[Info][WaitingForServer][70][05/06/15 10:16:19] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 10:16:19] 
+[Info][Start][122][05/06/15 10:16:19] 
+[Info][ThreadStart][128][05/06/15 10:16:19] 
+[Info][ThreadStart][147][05/06/15 10:16:19] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:16:20] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/06/15 10:16:20] 
+[Info][ThreadStart][147][05/06/15 10:16:20] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/06/15 10:16:20] 
+[Info][ThreadStart][147][05/06/15 10:16:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:16:24] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 10:16:28] 
+[Info][WaitingForServer][70][05/06/15 10:19:34] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 10:19:34] 
+[Info][Start][122][05/06/15 10:19:34] 
+[Info][ThreadStart][128][05/06/15 10:19:34] 
+[Info][ThreadStart][147][05/06/15 10:19:34] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 10:19:34] 
+[Info][ThreadSendMessages][38][05/06/15 10:19:34] 
+[Info][ThreadWaitingForServer][80][05/06/15 10:19:35] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:19:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:19:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:19:43] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 10:19:44] 
+[Info][WaitingForServer][70][05/06/15 10:20:30] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 10:20:30] 
+[Info][Start][122][05/06/15 10:20:30] 
+[Info][ThreadStart][128][05/06/15 10:20:30] 
+[Info][ThreadStart][147][05/06/15 10:20:30] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 10:20:30] 
+[Info][ThreadSendMessages][38][05/06/15 10:20:30] 
+[Info][ThreadWaitingForServer][80][05/06/15 10:20:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:20:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:20:35] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:20:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:20:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:20:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:20:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:20:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:20:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][Save][40][05/06/15 10:20:55] 
+[Info][WaitingForServer][70][05/06/15 10:23:09] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 10:23:09] 
+[Info][Start][122][05/06/15 10:23:09] 
+[Info][ThreadStart][128][05/06/15 10:23:09] 
+[Info][ThreadStart][147][05/06/15 10:23:09] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 10:23:09] 
+[Info][ThreadSendMessages][38][05/06/15 10:23:09] 
+[Info][ThreadWaitingForServer][80][05/06/15 10:23:10] >>>[ping serwera]<<<
+[Info][WaitingForServer][70][05/06/15 10:24:13] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 10:24:13] 
+[Info][Start][122][05/06/15 10:24:13] 
+[Info][ThreadStart][128][05/06/15 10:24:13] 
+[Info][ThreadStart][147][05/06/15 10:24:13] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 10:24:13] 
+[Info][ThreadSendMessages][38][05/06/15 10:24:13] 
+[Info][ThreadWaitingForServer][80][05/06/15 10:24:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:24:18] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:24:22] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:24:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:24:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:24:30] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 10:24:33] 
+[Info][WaitingForServer][70][05/06/15 10:25:10] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 10:25:10] 
+[Info][Start][122][05/06/15 10:25:10] 
+[Info][ThreadStart][128][05/06/15 10:25:10] 
+[Info][ThreadStart][147][05/06/15 10:25:10] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 10:25:10] 
+[Info][ThreadSendMessages][38][05/06/15 10:25:10] 
+[Info][ThreadWaitingForServer][80][05/06/15 10:25:11] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][43][05/06/15 10:25:11] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Error][ThreadUpdateWeether][53][05/06/15 10:25:12] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 10:25:15] >>>[ping serwera]<<<
+[Info][WaitingForServer][70][05/06/15 10:26:14] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 10:26:14] 
+[Info][Start][122][05/06/15 10:26:14] 
+[Info][ThreadStart][128][05/06/15 10:26:14] 
+[Info][ThreadStart][147][05/06/15 10:26:14] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 10:26:14] 
+[Info][ThreadSendMessages][38][05/06/15 10:26:14] 
+[Info][ThreadStart][147][05/06/15 10:26:14] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:26:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:26:19] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:26:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:26:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:26:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:26:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:26:35] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:26:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:26:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:26:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:26:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:26:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:26:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:26:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:26:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:27:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:27:07] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:27:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:27:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:27:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:27:19] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:27:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:27:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:27:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:27:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:27:35] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:27:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:27:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:27:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:27:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:27:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:27:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:27:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:27:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:28:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:28:07] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:28:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:28:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:28:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:28:19] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:28:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:28:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:28:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:28:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:28:35] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:28:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:28:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:28:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:28:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:28:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:28:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:28:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:28:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:29:03] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 10:29:07] 
+[Info][WaitingForServer][70][05/06/15 10:32:54] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 10:32:54] 
+[Info][Start][122][05/06/15 10:32:54] 
+[Info][ThreadStart][128][05/06/15 10:32:54] 
+[Info][ThreadStart][147][05/06/15 10:32:54] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:32:55] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/06/15 10:32:57] 
+[Info][ThreadStart][147][05/06/15 10:32:57] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/06/15 10:32:57] 
+[Info][ThreadWaitingForServer][80][05/06/15 10:32:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:33:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:33:07] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:33:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:33:11] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 10:33:12] 
+[Info][WaitingForServer][70][05/06/15 10:33:24] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 10:33:24] 
+[Info][Start][122][05/06/15 10:33:24] 
+[Info][ThreadStart][128][05/06/15 10:33:24] 
+[Info][ThreadStart][147][05/06/15 10:33:24] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 10:33:24] 
+[Info][ThreadSendMessages][38][05/06/15 10:33:24] 
+[Info][ThreadWaitingForServer][80][05/06/15 10:33:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:33:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:33:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:33:37] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:33:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:33:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:33:45] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 10:33:45] 
+[Info][WaitingForServer][70][05/06/15 10:34:03] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 10:34:03] 
+[Info][Start][122][05/06/15 10:34:03] 
+[Info][ThreadStart][128][05/06/15 10:34:03] 
+[Info][ThreadStart][147][05/06/15 10:34:03] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 10:34:03] 
+[Info][ThreadSendMessages][38][05/06/15 10:34:03] 
+[Info][ThreadWaitingForServer][80][05/06/15 10:34:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:34:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:34:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:34:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:34:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:34:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:34:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:34:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:34:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:34:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:34:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:34:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:34:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:34:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:34:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:34:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:34:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:34:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:35:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:35:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:35:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:35:08] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][43][05/06/15 10:35:08] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Error][ThreadUpdateWeether][53][05/06/15 10:35:09] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 10:35:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:35:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:35:20] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][43][05/06/15 10:35:20] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Error][ThreadUpdateWeether][53][05/06/15 10:35:21] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadStart][147][05/06/15 10:35:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:35:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:35:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:35:32] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:35:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:35:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:35:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:35:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:35:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:35:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:35:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:35:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:35:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:36:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:36:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:36:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:36:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:36:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:36:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:36:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:36:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:36:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:36:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:36:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:36:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:36:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:36:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:36:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:36:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:36:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:36:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:36:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:37:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:37:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:37:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:37:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:37:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:37:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:37:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:37:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:37:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:37:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:37:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:37:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:37:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:37:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:37:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:37:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:37:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:37:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:37:56] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 10:37:59] 
+[Info][WaitingForServer][70][05/06/15 10:41:25] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 10:41:25] 
+[Info][Start][122][05/06/15 10:41:25] 
+[Info][ThreadStart][128][05/06/15 10:41:25] 
+[Info][ThreadStart][147][05/06/15 10:41:25] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:41:26] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/06/15 10:41:26] 
+[Info][ThreadSendMessages][38][05/06/15 10:41:26] 
+[Info][ThreadStart][147][05/06/15 10:41:26] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:41:30] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:41:34] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:41:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:41:38] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:41:42] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 10:41:42] 
+[Info][WaitingForServer][70][05/06/15 10:42:01] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 10:42:01] 
+[Info][Start][122][05/06/15 10:42:01] 
+[Info][ThreadStart][128][05/06/15 10:42:01] 
+[Info][ThreadStart][147][05/06/15 10:42:01] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 10:42:01] 
+[Info][ThreadSendMessages][38][05/06/15 10:42:01] 
+[Info][ThreadWaitingForServer][80][05/06/15 10:42:02] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 10:42:06] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:42:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][Save][40][05/06/15 10:42:10] 
+[Info][WaitingForServer][70][05/06/15 10:43:49] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 10:43:49] 
+[Info][Start][122][05/06/15 10:43:49] 
+[Info][ThreadStart][128][05/06/15 10:43:49] 
+[Info][ThreadStart][147][05/06/15 10:43:49] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 10:43:49] 
+[Info][ThreadSendMessages][38][05/06/15 10:43:49] 
+[Info][ThreadWaitingForServer][80][05/06/15 10:43:50] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 10:43:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 10:43:54] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 10:43:57] 
+[Info][WaitingForServer][70][05/06/15 11:05:43] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 11:05:43] 
+[Info][Start][122][05/06/15 11:05:43] 
+[Info][ThreadStart][128][05/06/15 11:05:43] 
+[Info][ThreadStart][147][05/06/15 11:05:43] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:05:44] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/06/15 11:05:44] 
+[Info][ThreadSendMessages][38][05/06/15 11:05:44] 
+[Info][ThreadStart][147][05/06/15 11:05:44] Task: aler pogodowy dla warszawy zostal wykonany.
+[Error][ThreadUpdateWeether][43][05/06/15 11:05:45] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Error][ThreadUpdateWeether][53][05/06/15 11:05:47] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:05:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:05:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:05:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:05:56] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][43][05/06/15 11:05:58] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Error][ThreadUpdateWeether][53][05/06/15 11:05:59] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:06:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:06:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:06:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:06:08] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][43][05/06/15 11:06:12] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:06:12] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][53][05/06/15 11:06:13] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][Save][40][05/06/15 11:06:14] 
+[Info][WaitingForServer][70][05/06/15 11:06:53] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 11:06:53] 
+[Info][Start][122][05/06/15 11:06:53] 
+[Info][ThreadStart][128][05/06/15 11:06:53] 
+[Info][ThreadStart][147][05/06/15 11:06:53] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 11:06:53] 
+[Info][ThreadSendMessages][38][05/06/15 11:06:53] 
+[Info][ThreadWaitingForServer][80][05/06/15 11:06:54] >>>[ping serwera]<<<
+[Info][WaitingForServer][70][05/06/15 11:07:01] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 11:07:01] 
+[Info][Start][122][05/06/15 11:07:01] 
+[Info][ThreadStart][128][05/06/15 11:07:01] 
+[Info][ThreadStart][147][05/06/15 11:07:01] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 11:07:02] 
+[Info][ThreadSendMessages][38][05/06/15 11:07:02] 
+[Info][ThreadWaitingForServer][80][05/06/15 11:07:02] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:07:06] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:07:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:07:10] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:07:14] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][53][05/06/15 11:07:16] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:07:18] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:07:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:07:22] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:07:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:07:30] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:07:34] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:07:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:07:38] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:07:42] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:07:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:07:50] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:07:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:07:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:07:58] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:08:02] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:08:06] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:08:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:08:10] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:08:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:08:18] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:08:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:08:22] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 11:08:25] 
+[Info][WaitingForServer][70][05/06/15 11:08:32] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 11:08:32] 
+[Info][Start][122][05/06/15 11:08:32] 
+[Info][ThreadStart][128][05/06/15 11:08:32] 
+[Info][ThreadWaitingForServer][80][05/06/15 11:08:33] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:08:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:08:37] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/06/15 11:08:37] 
+[Info][ThreadSendMessages][38][05/06/15 11:08:37] 
+[Info][ThreadWaitingForServer][80][05/06/15 11:08:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:08:50] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:08:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:08:54] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 11:08:58] 
+[Info][WaitingForServer][70][05/06/15 11:09:23] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 11:09:23] 
+[Info][Start][122][05/06/15 11:09:23] 
+[Info][ThreadStart][128][05/06/15 11:09:23] 
+[Info][ThreadStart][147][05/06/15 11:09:23] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 11:09:23] 
+[Info][ThreadSendMessages][38][05/06/15 11:09:23] 
+[Info][ThreadWaitingForServer][80][05/06/15 11:09:24] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:09:43] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:09:43] >>>[ping serwera]<<<
+[Info][WaitingForServer][70][05/06/15 11:09:54] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 11:09:54] 
+[Info][Start][122][05/06/15 11:09:54] 
+[Info][ThreadStart][128][05/06/15 11:09:54] 
+[Info][ThreadStart][147][05/06/15 11:09:54] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 11:09:54] 
+[Info][ThreadSendMessages][38][05/06/15 11:09:54] 
+[Info][ThreadWaitingForServer][80][05/06/15 11:09:55] >>>[ping serwera]<<<
+[Info][WaitingForServer][70][05/06/15 11:12:20] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 11:12:20] 
+[Info][Start][122][05/06/15 11:12:20] 
+[Info][ThreadStart][128][05/06/15 11:12:20] 
+[Info][ThreadStart][147][05/06/15 11:12:20] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 11:12:21] 
+[Info][ThreadSendMessages][38][05/06/15 11:12:21] 
+[Info][ThreadStart][147][05/06/15 11:12:21] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:12:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:12:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:12:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:12:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:12:33] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:12:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:12:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:12:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:12:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:12:49] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:12:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:12:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:12:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:13:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:13:05] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:13:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:13:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:13:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:13:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:13:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:13:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:13:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:13:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:13:33] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:13:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:13:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:13:41] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 11:13:44] 
+[Info][WaitingForServer][70][05/06/15 11:15:06] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 11:15:06] 
+[Info][Start][122][05/06/15 11:15:06] 
+[Info][ThreadStart][128][05/06/15 11:15:06] 
+[Info][ThreadStart][147][05/06/15 11:15:06] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 11:15:06] 
+[Info][ThreadSendMessages][38][05/06/15 11:15:06] 
+[Info][ThreadWaitingForServer][80][05/06/15 11:15:07] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:15:07] Task: Pogoda dla Poznania zostal wykonany.
+[Error][ThreadUpdateWeether][43][05/06/15 11:15:07] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:15:11] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][53][05/06/15 11:15:13] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:15:15] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 11:15:15] 
+[Info][WaitingForServer][70][05/06/15 11:15:32] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 11:15:32] 
+[Info][Start][122][05/06/15 11:15:32] 
+[Info][ThreadStart][128][05/06/15 11:15:32] 
+[Info][ThreadStart][147][05/06/15 11:15:32] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 11:15:32] 
+[Info][ThreadSendMessages][38][05/06/15 11:15:32] 
+[Info][ThreadWaitingForServer][80][05/06/15 11:15:33] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:15:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Error][ThreadUpdateWeether][43][05/06/15 11:15:34] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:15:37] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:15:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:15:41] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][53][05/06/15 11:15:42] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:15:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:15:49] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:15:52] Task: Pogoda dla Poznania zostal wykonany.
+[Error][ThreadUpdateWeether][43][05/06/15 11:15:53] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:15:53] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][53][05/06/15 11:15:54] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:15:57] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 11:15:58] 
+[Info][WaitingForServer][70][05/06/15 11:28:30] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 11:28:30] 
+[Info][Start][122][05/06/15 11:28:30] 
+[Info][ThreadStart][128][05/06/15 11:28:30] 
+[Info][ThreadStart][147][05/06/15 11:28:30] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 11:28:31] 
+[Info][ThreadStart][147][05/06/15 11:28:31] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/06/15 11:28:31] 
+[Info][ThreadWaitingForServer][80][05/06/15 11:28:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:28:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:28:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:28:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:28:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:28:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:28:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:28:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:28:56] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 11:28:58] 
+[Info][WaitingForServer][70][05/06/15 11:30:47] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 11:30:47] 
+[Info][Start][122][05/06/15 11:30:47] 
+[Info][ThreadStart][128][05/06/15 11:30:47] 
+[Info][ThreadStart][147][05/06/15 11:30:47] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:30:48] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/06/15 11:30:48] 
+[Info][ThreadStart][147][05/06/15 11:30:48] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/06/15 11:30:48] 
+[Info][ThreadStart][147][05/06/15 11:30:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:30:52] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:30:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:31:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:31:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:31:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:31:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:31:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:31:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:31:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:31:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:31:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:31:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:31:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:31:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:31:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:31:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:31:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:31:48] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:31:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:31:52] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:31:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:32:00] >>>[ping serwera]<<<
+[Info][WaitingForServer][70][05/06/15 11:35:56] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 11:35:56] 
+[Info][Start][122][05/06/15 11:35:56] 
+[Info][ThreadStart][128][05/06/15 11:35:56] 
+[Info][ThreadStart][147][05/06/15 11:35:56] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:35:57] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/06/15 11:35:57] 
+[Info][ThreadStart][147][05/06/15 11:35:57] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/06/15 11:35:57] 
+[Error][ThreadUpdateWeether][43][05/06/15 11:35:57] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Error][ThreadUpdateWeether][53][05/06/15 11:35:59] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:36:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:36:05] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:36:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:36:09] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][43][05/06/15 11:36:10] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Error][ThreadUpdateWeether][53][05/06/15 11:36:11] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:36:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:36:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:36:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:36:22] Task: Pogoda dla Poznania zostal wykonany.
+[Error][ThreadUpdateWeether][43][05/06/15 11:36:23] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Error][ThreadUpdateWeether][53][05/06/15 11:36:24] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:36:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:36:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:36:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:36:37] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:36:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:36:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:36:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:36:49] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:36:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:36:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:36:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:37:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:37:05] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:37:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:37:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:37:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:37:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:37:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:37:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:37:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:37:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:37:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:37:37] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:37:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:37:41] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 11:37:43] 
+[Info][WaitingForServer][70][05/06/15 11:37:49] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 11:37:49] 
+[Info][Start][122][05/06/15 11:37:49] 
+[Info][ThreadStart][128][05/06/15 11:37:49] 
+[Info][ThreadWaitingForServer][80][05/06/15 11:37:50] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:37:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 11:37:52] 
+[Info][ThreadSendMessages][38][05/06/15 11:37:52] 
+[Info][ThreadWaitingForServer][80][05/06/15 11:37:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:37:58] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:38:02] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:38:06] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:38:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:38:10] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:38:14] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 11:38:18] 
+[Info][WaitingForServer][70][05/06/15 11:38:37] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 11:38:37] 
+[Info][Start][122][05/06/15 11:38:37] 
+[Info][ThreadStart][128][05/06/15 11:38:37] 
+[Info][ThreadStart][147][05/06/15 11:38:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 11:38:37] 
+[Info][ThreadSendMessages][38][05/06/15 11:38:37] 
+[Info][ThreadWaitingForServer][80][05/06/15 11:38:38] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:38:42] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:38:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:38:50] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:38:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:38:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:38:58] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:39:02] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][43][05/06/15 11:39:03] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:39:06] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:39:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][Save][40][05/06/15 11:39:09] 
+[Info][WaitingForServer][70][05/06/15 11:39:38] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 11:39:38] 
+[Info][Start][122][05/06/15 11:39:38] 
+[Info][ThreadStart][128][05/06/15 11:39:38] 
+[Info][ThreadStart][147][05/06/15 11:39:38] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 11:39:39] 
+[Info][ThreadSendMessages][38][05/06/15 11:39:39] 
+[Info][ThreadWaitingForServer][80][05/06/15 11:39:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:39:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:39:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:39:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:39:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:39:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:39:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:40:03] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:40:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:40:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:40:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:40:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:40:19] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:40:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:40:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:40:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:40:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:40:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:40:35] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:40:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:40:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:40:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:40:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:40:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:40:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:40:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:41:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:41:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:41:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:41:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:41:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:41:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:41:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:41:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:41:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:41:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:41:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:41:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:41:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:41:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:41:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:41:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:41:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:41:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:41:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:42:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:42:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:42:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:42:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:42:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:42:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:42:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:42:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:42:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:42:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:42:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:42:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:42:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:42:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:42:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:42:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:42:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:42:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:42:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:43:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:43:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:43:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:43:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:43:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:43:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:43:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:43:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:43:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:43:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:43:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:43:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:43:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:43:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:43:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:43:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:43:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:43:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:43:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:44:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:44:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:44:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:44:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:44:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:44:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:44:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:44:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:44:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:44:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:44:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:44:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:44:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:44:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:44:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:44:48] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:44:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:44:52] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:44:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:45:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:45:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:45:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:45:08] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][43][05/06/15 11:45:08] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Error][ThreadUpdateWeether][53][05/06/15 11:45:09] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:45:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:45:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:45:20] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][43][05/06/15 11:45:20] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Info][ThreadStart][147][05/06/15 11:45:22] Task: Pogoda dla Poznania zostal wykonany.
+[Error][ThreadUpdateWeether][53][05/06/15 11:45:22] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:45:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:45:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:45:32] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:45:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Error][ThreadUpdateWeether][43][05/06/15 11:45:33] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Error][ThreadUpdateWeether][53][05/06/15 11:45:35] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:45:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:45:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:45:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:45:44] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][43][05/06/15 11:45:47] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:45:48] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][53][05/06/15 11:45:48] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:45:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:45:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:45:56] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][43][05/06/15 11:45:59] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:46:00] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][53][05/06/15 11:46:01] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 11:46:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:46:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:46:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:46:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:46:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:46:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:46:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:46:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:46:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:46:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:46:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:46:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:46:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:46:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:46:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:46:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:46:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:46:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:47:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:47:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:47:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:47:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:47:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:47:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:47:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:47:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:47:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:47:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:47:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:47:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:47:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:47:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:47:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:47:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:47:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:47:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:47:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:48:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:48:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:48:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:48:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:48:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:48:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:48:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:48:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:48:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:48:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:48:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:48:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:48:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:48:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:48:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:48:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:48:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:48:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:48:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:49:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:49:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:49:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:49:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:49:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:49:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:49:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:49:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:49:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:49:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:49:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:49:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:49:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:49:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:49:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:49:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:49:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:49:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:49:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:50:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:50:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:50:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:50:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:50:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:50:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:50:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:50:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:50:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:50:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:50:32] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:50:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:50:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:50:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:50:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:50:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:50:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:50:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:50:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:50:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:51:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:51:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:51:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:51:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:51:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:51:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:51:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:51:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:51:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:51:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:51:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:51:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:51:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:51:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:51:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:51:48] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:51:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:51:52] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:51:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:52:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:52:04] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][53][05/06/15 11:52:05] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadStart][147][05/06/15 11:52:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:52:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:52:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:52:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:52:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:52:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:52:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:52:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:52:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 11:52:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 11:52:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 11:52:40] >>>[ping serwera]<<<
+[Info][WaitingForServer][70][05/06/15 12:27:45] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 12:27:45] 
+[Info][Start][122][05/06/15 12:27:45] 
+[Info][ThreadStart][128][05/06/15 12:27:45] 
+[Info][ThreadStart][147][05/06/15 12:27:45] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:27:47] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/06/15 12:27:47] 
+[Info][ThreadStart][147][05/06/15 12:27:47] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/06/15 12:27:47] 
+[Info][ThreadWaitingForServer][80][05/06/15 12:27:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:27:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:27:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:27:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:28:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:28:07] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:28:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:28:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:28:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:28:19] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][53][05/06/15 12:28:21] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadStart][147][05/06/15 12:28:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:28:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:28:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:28:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:28:35] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:28:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:28:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:28:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:28:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:28:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:28:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:28:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:28:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:29:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:29:07] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:29:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][Save][40][05/06/15 12:29:07] 
+[Info][WaitingForServer][70][05/06/15 12:37:43] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 12:37:43] 
+[Info][Start][122][05/06/15 12:37:43] 
+[Info][ThreadStart][128][05/06/15 12:37:43] 
+[Info][ThreadStart][147][05/06/15 12:37:43] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 12:37:43] 
+[Info][ThreadStart][147][05/06/15 12:37:43] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/06/15 12:37:43] 
+[Info][ThreadWaitingForServer][80][05/06/15 12:37:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:37:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:37:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:37:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:37:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:38:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:38:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:38:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:38:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:38:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:38:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:38:20] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 12:38:22] 
+[Info][WaitingForServer][70][05/06/15 12:40:12] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 12:40:12] 
+[Info][Start][122][05/06/15 12:40:12] 
+[Info][ThreadStart][128][05/06/15 12:40:12] 
+[Info][ThreadStart][147][05/06/15 12:40:12] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 12:40:13] 
+[Info][ThreadSendMessages][38][05/06/15 12:40:13] 
+[Info][ThreadWaitingForServer][80][05/06/15 12:40:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:40:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:40:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:40:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:40:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:40:29] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:40:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:40:33] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:40:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:40:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:40:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:40:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:40:49] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:40:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:40:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:40:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:41:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:41:05] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:41:07] Task: Pogoda dla Poznania zostal wykonany.
+[Error][ThreadUpdateWeether][43][05/06/15 12:41:09] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 12:41:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:41:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:41:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:41:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:41:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:41:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:41:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:41:33] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:41:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:41:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:41:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:41:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:41:49] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:41:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:41:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:41:58] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:42:02] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:42:06] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:42:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:42:10] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:42:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:42:18] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 12:42:19] 
+[Info][WaitingForServer][70][05/06/15 12:42:25] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 12:42:25] 
+[Info][Start][122][05/06/15 12:42:25] 
+[Info][ThreadStart][128][05/06/15 12:42:25] 
+[Info][ThreadStart][147][05/06/15 12:42:25] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 12:42:25] 
+[Info][ThreadSendMessages][38][05/06/15 12:42:25] 
+[Info][ThreadWaitingForServer][80][05/06/15 12:42:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:42:30] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:42:34] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:43:14] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:42:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadStart][147][05/06/15 12:43:15] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:43:18] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:43:22] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:43:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][WaitingForServer][70][05/06/15 12:43:42] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 12:43:42] 
+[Info][Start][122][05/06/15 12:43:42] 
+[Info][ThreadStart][128][05/06/15 12:43:42] 
+[Info][ThreadStart][147][05/06/15 12:43:42] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 12:43:42] 
+[Info][ThreadSendMessages][38][05/06/15 12:43:42] 
+[Info][ThreadWaitingForServer][80][05/06/15 12:43:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:43:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:43:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:43:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:43:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:43:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:44:03] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 12:44:04] 
+[Info][WaitingForServer][70][05/06/15 12:44:34] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 12:44:34] 
+[Info][Start][122][05/06/15 12:44:34] 
+[Info][ThreadStart][128][05/06/15 12:44:34] 
+[Info][ThreadStart][147][05/06/15 12:44:34] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 12:44:35] 
+[Info][ThreadSendMessages][38][05/06/15 12:44:35] 
+[Info][ThreadWaitingForServer][80][05/06/15 12:44:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:44:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:44:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:44:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:44:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:44:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:44:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:44:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:45:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:45:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:45:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:45:08] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][43][05/06/15 12:45:10] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Error][ThreadUpdateWeether][53][05/06/15 12:45:11] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 12:45:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:45:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:45:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:45:22] Task: Pogoda dla Poznania zostal wykonany.
+[Error][ThreadUpdateWeether][43][05/06/15 12:45:22] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 12:45:24] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][53][05/06/15 12:45:24] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 12:45:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:45:32] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:45:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Error][ThreadUpdateWeether][43][05/06/15 12:45:35] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 12:45:36] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][53][05/06/15 12:45:37] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadStart][147][05/06/15 12:45:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:45:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:45:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:45:48] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][43][05/06/15 12:45:48] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Error][ThreadUpdateWeether][53][05/06/15 12:45:49] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 12:45:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:45:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:45:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:46:00] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][43][05/06/15 12:46:01] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Error][ThreadUpdateWeether][53][05/06/15 12:46:02] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 12:46:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:46:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:46:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:46:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:46:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:46:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:46:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:46:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:46:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:46:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:46:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:46:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:46:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:46:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:46:48] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 12:46:49] 
+[Info][WaitingForServer][70][05/06/15 12:46:59] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 12:46:59] 
+[Info][Start][122][05/06/15 12:46:59] 
+[Info][ThreadStart][128][05/06/15 12:46:59] 
+[Info][ThreadStart][147][05/06/15 12:46:59] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 12:46:59] 
+[Info][ThreadSendMessages][38][05/06/15 12:46:59] 
+[Info][ThreadWaitingForServer][80][05/06/15 12:47:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:47:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:47:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:47:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:47:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:47:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:47:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:47:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][Save][40][05/06/15 12:47:22] 
+[Info][WaitingForServer][70][05/06/15 12:48:12] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 12:48:12] 
+[Info][Start][122][05/06/15 12:48:12] 
+[Info][ThreadStart][128][05/06/15 12:48:12] 
+[Info][ThreadStart][147][05/06/15 12:48:12] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 12:48:12] 
+[Info][ThreadSendMessages][38][05/06/15 12:48:12] 
+[Info][ThreadWaitingForServer][80][05/06/15 12:48:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:48:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:48:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:48:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:48:25] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 12:48:26] 
+[Info][WaitingForServer][70][05/06/15 12:48:39] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 12:48:39] 
+[Info][Start][122][05/06/15 12:48:39] 
+[Info][ThreadStart][128][05/06/15 12:48:39] 
+[Info][ThreadStart][147][05/06/15 12:48:39] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 12:48:39] 
+[Info][ThreadSendMessages][38][05/06/15 12:48:39] 
+[Info][ThreadWaitingForServer][80][05/06/15 12:48:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:48:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:48:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:48:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:48:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:48:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:49:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:49:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:49:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:49:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:49:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:49:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:49:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:49:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:49:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:49:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:49:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:49:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:49:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:49:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:49:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:49:48] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:49:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:49:52] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:49:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:50:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:50:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:50:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:50:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:50:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:50:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:50:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:50:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][WaitingForServer][70][05/06/15 12:50:46] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 12:50:46] 
+[Info][Start][122][05/06/15 12:50:46] 
+[Info][ThreadStart][128][05/06/15 12:50:46] 
+[Info][ThreadStart][147][05/06/15 12:50:46] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 12:50:46] 
+[Info][ThreadStart][147][05/06/15 12:50:46] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/06/15 12:50:46] 
+[Info][ThreadWaitingForServer][80][05/06/15 12:50:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:50:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:50:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:50:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:50:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:51:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:51:07] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:51:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:51:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:51:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:51:19] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:51:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:51:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:51:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:51:46] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:51:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:51:50] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:51:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:51:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:51:58] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:52:02] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 12:52:04] 
+[Info][WaitingForServer][70][05/06/15 12:52:11] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 12:52:11] 
+[Info][Start][122][05/06/15 12:52:11] 
+[Info][ThreadStart][128][05/06/15 12:52:11] 
+[Info][ThreadStart][147][05/06/15 12:52:11] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 12:52:12] 
+[Info][ThreadSendMessages][38][05/06/15 12:52:12] 
+[Info][ThreadWaitingForServer][80][05/06/15 12:52:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:52:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:52:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:52:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:52:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:52:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:52:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:52:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:52:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:52:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:52:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:52:49] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:52:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:52:52] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:52:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:53:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:53:05] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:53:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:53:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:53:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:53:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:53:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:53:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:53:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:53:29] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 12:53:30] 
+[Info][WaitingForServer][70][05/06/15 12:53:42] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 12:53:42] 
+[Info][Start][122][05/06/15 12:53:42] 
+[Info][ThreadStart][128][05/06/15 12:53:42] 
+[Info][ThreadStart][147][05/06/15 12:53:42] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 12:53:42] 
+[Info][ThreadSendMessages][38][05/06/15 12:53:42] 
+[Info][ThreadWaitingForServer][80][05/06/15 12:53:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:53:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:53:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:53:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:53:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:53:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:54:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:54:07] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:54:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:54:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:54:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:54:19] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:54:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:54:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:54:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:54:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:54:35] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:54:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:54:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:54:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:54:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:54:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:54:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:54:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:54:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:55:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:55:07] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:55:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:55:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:55:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:55:19] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:55:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:55:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:55:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:55:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:55:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:55:35] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:55:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:55:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:55:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:55:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:55:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:55:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:55:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:55:59] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 12:55:59] 
+[Info][WaitingForServer][70][05/06/15 12:57:12] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 12:57:12] 
+[Info][Start][122][05/06/15 12:57:12] 
+[Info][ThreadStart][128][05/06/15 12:57:12] 
+[Info][ThreadStart][147][05/06/15 12:57:12] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 12:57:12] 
+[Info][ThreadSendMessages][38][05/06/15 12:57:12] 
+[Info][ThreadWaitingForServer][80][05/06/15 12:57:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:57:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:57:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:57:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:57:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:57:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:57:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:57:37] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:57:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:57:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:57:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:57:49] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:57:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:57:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:57:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:58:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:58:05] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:58:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:58:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:58:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:58:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:58:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:58:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:58:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:58:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:58:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:58:37] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:58:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:58:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:58:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:58:49] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:58:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:58:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:58:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:59:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:59:05] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 12:59:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 12:59:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 12:59:13] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 12:59:14] 
+[Info][WaitingForServer][70][05/06/15 13:15:11] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 13:15:11] 
+[Info][Start][122][05/06/15 13:15:11] 
+[Info][ThreadStart][128][05/06/15 13:15:11] 
+[Info][ThreadStart][147][05/06/15 13:15:11] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 13:15:11] 
+[Info][ThreadStart][147][05/06/15 13:15:11] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/06/15 13:15:11] 
+[Info][ThreadWaitingForServer][80][05/06/15 13:15:12] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][43][05/06/15 13:15:13] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Error][ThreadUpdateWeether][53][05/06/15 13:15:14] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 13:15:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:15:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:15:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:15:24] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][43][05/06/15 13:15:25] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Error][ThreadUpdateWeether][53][05/06/15 13:15:26] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 13:15:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:15:32] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:15:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:15:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:15:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:15:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:15:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:15:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:15:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:15:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:15:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:16:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:16:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:16:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:16:08] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 13:16:11] 
+[Info][ThreadWaitingForServer][80][05/06/15 13:16:12] >>>[ping serwera]<<<
+[Info][WaitingForServer][70][05/06/15 13:19:08] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 13:19:08] 
+[Info][Start][122][05/06/15 13:19:08] 
+[Info][ThreadStart][128][05/06/15 13:19:08] 
+[Info][ThreadStart][147][05/06/15 13:19:08] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:19:09] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/06/15 13:19:09] 
+[Info][ThreadSendMessages][38][05/06/15 13:19:09] 
+[Info][ThreadWaitingForServer][80][05/06/15 13:19:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:19:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:19:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:19:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][Save][40][05/06/15 13:19:24] 
+[Info][WaitingForServer][70][05/06/15 13:20:58] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 13:20:58] 
+[Info][Start][122][05/06/15 13:20:58] 
+[Info][ThreadStart][128][05/06/15 13:20:58] 
+[Info][ThreadStart][147][05/06/15 13:20:58] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 13:20:58] 
+[Info][ThreadSendMessages][38][05/06/15 13:20:58] 
+[Info][ThreadStart][147][05/06/15 13:20:58] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:20:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:21:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:21:07] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:21:07] Task: Pogoda dla Poznania zostal wykonany.
+[Error][ThreadUpdateWeether][43][05/06/15 13:21:10] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 13:21:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:21:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:21:19] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:21:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:21:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:21:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:21:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:21:35] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 13:21:36] 
+[Info][WaitingForServer][70][05/06/15 13:22:59] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 13:22:59] 
+[Info][Start][122][05/06/15 13:22:59] 
+[Info][ThreadStart][128][05/06/15 13:22:59] 
+[Info][ThreadStart][147][05/06/15 13:22:59] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 13:22:59] 
+[Info][ThreadSendMessages][38][05/06/15 13:22:59] 
+[Info][ThreadWaitingForServer][80][05/06/15 13:23:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:23:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:23:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:23:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:23:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:23:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:23:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:23:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:23:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:23:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:23:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:23:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:23:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:23:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:23:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:23:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:23:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:23:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:23:56] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 13:23:58] 
+[Info][WaitingForServer][70][05/06/15 13:24:38] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 13:24:38] 
+[Info][Start][122][05/06/15 13:24:38] 
+[Info][ThreadStart][128][05/06/15 13:24:38] 
+[Info][ThreadStart][147][05/06/15 13:24:38] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:24:39] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/06/15 13:24:39] 
+[Info][ThreadSendMessages][38][05/06/15 13:24:39] 
+[Info][ThreadWaitingForServer][80][05/06/15 13:24:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:24:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:24:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:24:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:24:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:24:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:25:03] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 13:25:06] 
+[Info][WaitingForServer][70][05/06/15 13:26:03] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 13:26:03] 
+[Info][Start][122][05/06/15 13:26:03] 
+[Info][ThreadStart][128][05/06/15 13:26:03] 
+[Info][ThreadStart][147][05/06/15 13:26:03] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 13:26:03] 
+[Info][ThreadSendMessages][38][05/06/15 13:26:03] 
+[Info][ThreadStart][147][05/06/15 13:26:03] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:26:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:26:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:26:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:26:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:26:16] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 13:26:17] 
+[Info][WaitingForServer][70][05/06/15 13:26:39] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 13:26:39] 
+[Info][Start][122][05/06/15 13:26:39] 
+[Info][ThreadStart][128][05/06/15 13:26:39] 
+[Info][ThreadStart][147][05/06/15 13:26:39] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 13:26:39] 
+[Info][ThreadSendMessages][38][05/06/15 13:26:39] 
+[Info][ThreadWaitingForServer][80][05/06/15 13:26:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:26:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:26:48] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 13:26:50] 
+[Info][WaitingForServer][70][05/06/15 13:27:06] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 13:27:06] 
+[Info][Start][122][05/06/15 13:27:06] 
+[Info][ThreadStart][128][05/06/15 13:27:06] 
+[Info][ThreadStart][147][05/06/15 13:27:06] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 13:27:06] 
+[Info][ThreadSendMessages][38][05/06/15 13:27:06] 
+[Info][ThreadWaitingForServer][80][05/06/15 13:27:07] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:27:07] Task: Pogoda dla Poznania zostal wykonany.
+[Error][ThreadUpdateWeether][53][05/06/15 13:27:07] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 13:27:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:27:15] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 13:27:15] 
+[Info][WaitingForServer][70][05/06/15 13:27:24] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 13:27:24] 
+[Info][Start][122][05/06/15 13:27:24] 
+[Info][ThreadStart][128][05/06/15 13:27:24] 
+[Info][ThreadStart][147][05/06/15 13:27:24] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 13:27:24] 
+[Info][ThreadSendMessages][38][05/06/15 13:27:24] 
+[Info][ThreadWaitingForServer][80][05/06/15 13:27:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:27:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:27:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:27:37] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:27:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:27:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:27:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:27:49] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:27:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:27:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:27:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:28:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:28:05] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:28:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:28:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:28:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:28:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:28:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:28:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:28:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:28:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:28:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:28:37] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:28:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:28:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:28:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:28:49] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:28:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:28:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:28:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:29:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:29:05] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:29:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:29:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:29:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:29:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:29:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:29:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:29:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:29:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:29:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:29:37] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:29:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:29:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:29:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:29:49] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:29:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:29:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:29:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:30:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:30:05] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:30:07] Task: Pogoda dla Poznania zostal wykonany.
+[Error][ThreadUpdateWeether][43][05/06/15 13:30:09] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][80][05/06/15 13:30:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:30:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:30:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:30:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:30:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:30:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:30:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:30:33] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:30:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:30:37] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:30:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:30:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:30:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:30:49] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:30:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:30:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:30:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:31:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:31:05] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:31:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:31:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:31:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:31:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:31:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:31:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:31:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:31:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:31:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:31:37] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:31:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:31:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:31:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:31:49] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:31:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:31:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:31:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:32:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:32:05] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:32:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:32:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:32:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:32:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][80][05/06/15 13:32:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 13:32:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 13:32:25] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 13:32:26] 
+[Info][WaitingForServer][70][05/06/15 14:24:46] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 14:24:46] 
+[Info][Start][122][05/06/15 14:24:46] 
+[Info][ThreadStart][128][05/06/15 14:24:46] 
+[Info][ThreadStart][147][05/06/15 14:24:46] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 14:24:47] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/06/15 14:24:47] 
+[Info][ThreadSendMessages][38][05/06/15 14:24:47] 
+[Info][ThreadStart][147][05/06/15 14:24:47] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][80][05/06/15 14:24:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 14:24:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][Save][40][05/06/15 14:24:55] 
+[Info][WaitingForServer][71][05/06/15 14:31:09] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 14:31:09] 
+[Info][Start][122][05/06/15 14:31:09] 
+[Info][ThreadStart][128][05/06/15 14:31:09] 
+[Info][ThreadStart][147][05/06/15 14:31:09] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/06/15 14:31:10] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/06/15 14:31:11] 
+[Info][ThreadStart][147][05/06/15 14:31:11] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/06/15 14:31:11] 
+[Info][ThreadWaitingForServer][81][05/06/15 14:31:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:31:18] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 14:31:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/06/15 14:31:22] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:31:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:31:30] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:31:34] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 14:31:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/06/15 14:31:38] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:31:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:31:47] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 14:31:48] 
+[Info][WaitingForServer][71][05/06/15 14:32:32] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 14:32:32] 
+[Info][Start][122][05/06/15 14:32:32] 
+[Info][ThreadStart][128][05/06/15 14:32:32] 
+[Info][ThreadStart][147][05/06/15 14:32:32] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 14:32:32] 
+[Info][ThreadSendMessages][38][05/06/15 14:32:32] 
+[Info][ThreadWaitingForServer][81][05/06/15 14:32:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:32:37] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 14:32:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][Save][40][05/06/15 14:32:40] 
+[Info][WaitingForServer][71][05/06/15 14:38:07] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 14:38:07] 
+[Info][Start][122][05/06/15 14:38:07] 
+[Info][ThreadStart][128][05/06/15 14:38:07] 
+[Info][ThreadStart][147][05/06/15 14:38:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 14:38:07] 
+[Info][ThreadStart][147][05/06/15 14:38:07] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/06/15 14:38:07] 
+[Info][ThreadWaitingForServer][81][05/06/15 14:38:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:38:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:38:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:38:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 14:38:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][Save][40][05/06/15 14:38:22] 
+[Info][WaitingForServer][71][05/06/15 14:38:27] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 14:38:27] 
+[Info][Start][122][05/06/15 14:38:27] 
+[Info][ThreadStart][128][05/06/15 14:38:27] 
+[Info][ThreadWaitingForServer][81][05/06/15 14:38:28] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 14:38:31] 
+[Info][WaitingForServer][71][05/06/15 14:42:22] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 14:42:22] 
+[Info][Start][122][05/06/15 14:42:22] 
+[Info][ThreadStart][128][05/06/15 14:42:22] 
+[Info][ThreadStart][147][05/06/15 14:42:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/06/15 14:42:23] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/06/15 14:42:23] 
+[Info][ThreadStart][147][05/06/15 14:42:23] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/06/15 14:42:23] 
+[Info][ThreadWaitingForServer][81][05/06/15 14:42:27] >>>[ping serwera]<<<
+[Info][Save][40][05/06/15 14:42:29] 
+[Info][WaitingForServer][71][05/06/15 14:42:35] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 14:42:35] 
+[Info][Start][122][05/06/15 14:42:35] 
+[Info][ThreadStart][128][05/06/15 14:42:35] 
+[Info][ThreadWaitingForServer][81][05/06/15 14:42:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 14:42:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 14:42:37] 
+[Info][ThreadSendMessages][38][05/06/15 14:42:37] 
+[Info][ThreadWaitingForServer][81][05/06/15 14:42:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:42:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:42:48] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 14:42:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/06/15 14:42:52] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:42:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:43:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:43:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 14:43:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/06/15 14:43:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:43:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:43:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:43:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 14:43:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/06/15 14:43:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:43:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:43:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:43:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 14:43:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/06/15 14:43:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:43:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:43:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:43:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 14:43:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/06/15 14:43:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:44:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:44:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 14:44:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/06/15 14:44:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:44:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:44:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:44:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 14:44:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/06/15 14:44:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:44:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:44:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:44:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 14:44:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/06/15 14:44:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:44:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:44:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:44:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/06/15 14:44:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/06/15 14:44:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/06/15 14:45:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][84][05/06/15 14:45:03] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][61][05/06/15 14:45:03] CClient: 00001||
+[Info][ThreadSendMessages][43][05/06/15 14:45:04] Kolejka wiedomosci zawiera 10 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:45:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:45:07] Kolejka wiedomosci zawiera 5 niewyslanych wiadomosci, wysy³anie...
+[Error][ThreadUpdateWeether][44][05/06/15 14:45:08] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Error][ThreadUpdateWeether][54][05/06/15 14:45:09] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadSendMessages][43][05/06/15 14:45:11] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][05/06/15 14:45:14] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:45:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:45:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:45:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:45:35] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:45:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:45:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:45:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:45:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:46:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:46:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:46:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:46:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:46:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:46:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:46:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:46:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:47:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:47:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:47:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:47:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:47:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:47:39] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:47:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:47:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:48:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:48:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:48:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:48:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:48:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:48:39] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:48:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:48:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:49:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:49:10] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:49:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:49:25] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:49:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:49:40] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:49:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:49:55] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:50:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:50:10] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:50:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:50:25] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:50:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:50:34] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:50:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:50:40] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:50:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:50:55] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:51:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:51:07] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:51:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:51:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:51:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:51:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:51:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:51:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:52:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:52:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:52:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:52:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 14:52:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 14:52:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][40][05/06/15 14:52:46] 
+[Info][Save][40][05/06/15 14:52:48] 
+[Info][WaitingForServer][71][05/06/15 15:21:34] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 15:21:34] 
+[Info][Start][122][05/06/15 15:21:34] 
+[Info][ThreadStart][128][05/06/15 15:21:34] 
+[Info][ThreadStart][147][05/06/15 15:21:34] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][84][05/06/15 15:21:34] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][61][05/06/15 15:21:34] CClient: 00001||
+[Info][SendMessages][32][05/06/15 15:21:35] 
+[Info][ThreadStart][147][05/06/15 15:21:35] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/06/15 15:21:35] 
+[Info][ThreadSendMessages][43][05/06/15 15:21:35] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:21:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:21:38] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][05/06/15 15:21:42] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][40][05/06/15 15:21:50] 
+[Info][Save][40][05/06/15 15:21:51] 
+[Info][WaitingForServer][71][05/06/15 15:22:29] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 15:22:29] 
+[Info][Start][122][05/06/15 15:22:29] 
+[Info][ThreadStart][128][05/06/15 15:22:29] 
+[Info][ThreadStart][147][05/06/15 15:22:29] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][84][05/06/15 15:22:29] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][61][05/06/15 15:22:29] CClient: 00001||
+[Info][SendMessages][32][05/06/15 15:22:29] 
+[Info][ThreadSendMessages][38][05/06/15 15:22:29] 
+[Info][ThreadSendMessages][43][05/06/15 15:22:29] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:22:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:22:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:22:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:22:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][40][05/06/15 15:23:06] 
+[Info][ThreadStart][147][05/06/15 15:23:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][Save][40][05/06/15 15:23:08] 
+[Info][WaitingForServer][71][05/06/15 15:23:17] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/06/15 15:23:17] 
+[Info][Start][122][05/06/15 15:23:17] 
+[Info][ThreadStart][128][05/06/15 15:23:17] 
+[Info][ThreadWaitingForServer][84][05/06/15 15:23:17] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][61][05/06/15 15:23:17] CClient: 00001||
+[Info][ThreadStart][147][05/06/15 15:23:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/06/15 15:23:22] 
+[Info][ThreadSendMessages][38][05/06/15 15:23:22] 
+[Info][ThreadSendMessages][43][05/06/15 15:23:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:23:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:23:37] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:23:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:23:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:24:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:24:07] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:24:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:24:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:24:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:24:37] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:24:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:24:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:25:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:25:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:25:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:25:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:25:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:25:35] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:25:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:25:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:25:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:25:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:26:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:26:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:26:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:26:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:26:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:26:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:26:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:26:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:27:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:27:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:27:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:27:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:27:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:27:39] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:27:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:27:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:28:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:28:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:28:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:28:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:28:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:28:39] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:28:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:28:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:29:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:29:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:29:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:29:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:29:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:29:39] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:29:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:29:55] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:30:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:30:10] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:30:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:30:25] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:30:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:30:34] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:30:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:30:40] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:30:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:30:55] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:31:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:31:10] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:31:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:31:25] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:31:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:31:37] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:31:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:31:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:32:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:32:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:32:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:32:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:32:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:32:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:32:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:32:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:33:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:33:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:33:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:33:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:33:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:33:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:33:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:33:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:34:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:34:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:34:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:34:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:34:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:34:39] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:34:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:34:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:35:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:35:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:35:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:35:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:35:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:35:36] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:35:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:35:39] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:35:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:35:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:36:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:36:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:36:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:36:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:36:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:36:40] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:36:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:36:55] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:37:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:37:07] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:37:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:37:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:37:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:37:37] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:37:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:37:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:38:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:38:07] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:38:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:38:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:38:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:38:37] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:38:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:38:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:39:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:39:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:39:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:39:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:39:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:39:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:39:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:39:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:40:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:40:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:40:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:40:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:40:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:40:35] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:40:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:40:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:40:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:40:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:41:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:41:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:41:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:41:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:41:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:41:39] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:41:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:41:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:42:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:42:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:42:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:42:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:42:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:42:39] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:42:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:42:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:43:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:43:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:43:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:43:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:43:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:43:40] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:43:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:43:55] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:44:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:44:10] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:44:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:44:25] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:44:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:44:37] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:44:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:44:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:45:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:45:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:45:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:45:25] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:45:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:45:34] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:45:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:45:37] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:45:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:45:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:46:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:46:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:46:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:46:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:46:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:46:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:46:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:46:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:47:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:47:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:47:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:47:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:47:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:47:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:47:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:47:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:48:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:48:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:48:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:48:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:48:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:48:39] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:48:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:48:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:49:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:49:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:49:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:49:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:49:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:49:39] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:49:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:49:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:50:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:50:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:50:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:50:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:50:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:50:33] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:50:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:50:40] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:50:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:50:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:51:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:51:07] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:51:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:51:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:51:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:51:37] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:51:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:51:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:52:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:52:07] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:52:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:52:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:52:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:52:37] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:52:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:52:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:53:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:53:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:53:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:53:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:53:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:53:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:53:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:53:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:54:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:54:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:54:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:54:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:54:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:54:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:54:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:54:53] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:55:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:55:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:55:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:55:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:55:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:55:36] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:55:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:55:39] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:55:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:55:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:56:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:56:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:56:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:56:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:56:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:56:39] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:56:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:56:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:57:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:57:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:57:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:57:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:57:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:57:40] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:57:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:57:55] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:58:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:58:10] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:58:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:58:25] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:58:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:58:40] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:58:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:58:55] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][147][05/06/15 15:59:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadSendMessages][43][05/06/15 15:59:10] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][40][05/06/15 15:59:19] 
+[Info][Save][40][05/06/15 15:59:20] 

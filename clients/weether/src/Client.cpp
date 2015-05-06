@@ -171,7 +171,7 @@ bool CClient::Init() {
     my_addr.sin_addr.s_addr = inet_addr(m_ipAddres);
 
     if( connect( m_hsock, (struct sockaddr*)&my_addr, sizeof(my_addr)) == SOCKET_ERROR ){
-        fprintf(stderr, "Error connecting socket %d\n", WSAGetLastError());
+        //fprintf(stderr, "Error connecting socket %d\n", WSAGetLastError());
         return false;
     }
 
