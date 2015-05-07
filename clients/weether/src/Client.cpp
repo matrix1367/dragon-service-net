@@ -15,7 +15,6 @@ CClient::CClient()
     m_ipAddres = (char*) malloc(sizeof(char) * 12);
     strcpy(m_ipAddres, CDSetting::getInstance().getSetting().ipServer);
     m_port = atoi(CDSetting::getInstance().getSetting().portServer);
-    printf("Connect to server ip: [%s] , port: [%d]\n" , m_ipAddres, m_port);
 }
 
 CClient::~CClient()
@@ -32,7 +31,7 @@ bool CClient::Send(std::string msg)
          m_isConnect = false;
         return false;
     }
-    printf("Sent cmd %s bytes %d\n", msg.c_str(), bytecount);
+    //printf("Sent cmd %s bytes %d\n", msg.c_str(), bytecount);
     return true;
 }
 
@@ -63,29 +62,15 @@ void CClient::CommandParser(std::string command) {
         std::string cmd = command.substr(0, 5);
 
         if (cmd == "00001") {
-            printf("[%s][%d] command CMD_GET_NAME_CLIENT:%s\n" , __FUNCTION__, __LINE__, cmd.c_str() );
+            //printf("[%s][%d] command CMD_GET_NAME_CLIENT:%s\n" , __FUNCTION__, __LINE__, cmd.c_str() );
              Send(CommandCreate(CMD_SET_NAME_CLIENT, CDSetting::getInstance().getSetting().nameApplication));
         } else {
             printf("[%s][%d] command nieznana:%s\n" , __FUNCTION__, __LINE__, cmd.c_str() );
-
+            CDLog::Write( __FUNCTION__ , __LINE__, Warning, "CClient: command undefined" + command );
         }
-        /*
-        CDLog::Write( __FUNCTION__ , __LINE__, Info, "cmd:" + cmd );
-        int intCmd = atoi(cmd.c_str());
-        switch (intCmd) {
-            case CMD_GET_NAME_CLIENT : {
-                //CDLog::Write( __FUNCTION__ , __LINE__, Info,  "cmd: CMD_GET_NAME_CLIENT", intCmd );
-                printf("[%s][%d] command CMD_GET_NAME_CLIENT:%d" , __FUNCTION__, __LINE__, intCmd );
-               // this->Send(this->CommandCreate(CMD_SET_NAME_CLIENT, CDSetting::getInstance().getSetting().nameApplication));
-                break;
-            }
 
-            default : {
-                break;
-            }
-        } */
     } else {
-         printf("[%s][%d] command error: %s\n" , __FUNCTION__, __LINE__, command.c_str() );
+         CDLog::Write( __FUNCTION__ , __LINE__, Error, "CClient: command error" + command );
     }
 }
 

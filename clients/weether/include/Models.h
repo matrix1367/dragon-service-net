@@ -27,6 +27,7 @@ class CModels
         bool IsConnect() { return client.IsConnect(); }
         bool GetWeether(const std::string& nameCity, DataWeether & data);
         bool GetWeether(const std::string& nameCity, DataWeetherNextHours& data);
+        std::string GetTopicalWeather(const std::string& nameCity);
     protected:
     private:
         CModels();

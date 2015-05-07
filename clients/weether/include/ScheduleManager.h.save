@@ -9,18 +9,27 @@
 
 class CTask {
 private:
+    long long m_ID;
     char m_name[30];
     time_t m_dateStart;
     time_t m_dateEnd;
     int m_interval;
     int m_id_job;
-    char m_setting[30]
+    char m_setting[30];
 
 public:
-    CTask() {};
+    CTask() {
+         m_ID = GenerateID();
+    };
     CTask(std::string _name, time_t _dateStart, time_t _dateEnd, int _interval) : m_dateStart(_dateStart), m_dateEnd(_dateEnd), m_interval(_interval)  {
         strcpy(m_name, _name.c_str());
         m_id_job = 0;
+        m_ID = GenerateID();
+    }
+    long long GenerateID() {
+        time_t id;
+        time(& id);
+        return id;
     }
     void Run();
 
@@ -28,6 +37,7 @@ public:
     std::string GetStrDateStart();
     std::string GetStrDateEnd();
     std::string GetStrInterval();
+    std::string GetStrString();
 
     void GetNextTask(CTask* task);
 
@@ -36,10 +46,13 @@ public:
     void SetDataEnd(time_t dataEnd);
     void SetInterval(int interval);
     void SetIdJob(int id_job);
+    void SetSetting(const std::string& setting);
 
     std::string GetName();
     time_t GetDateStart();
     time_t GetDateEnd();
+    SYSTEMTIME GetDataStart();
+    SYSTEMTIME GetDataEnd();
     int GetInterval();
     int GetIdJob();
 
@@ -54,8 +67,9 @@ class CScheduleManager
         }
         void Save();
         void Load();
-        void AddTask(std::string name, time_t st, time_t  en, int interval, int IDJob);
+        void AddTask(std::string name, time_t st, time_t  en, int interval, int IDJob,  std::string setting);
         void AddTask(const CTask& task);
+        void EditTask(int ID, std::string name, time_t st, time_t  en, int interval, int IDJob,  std::string setting);
         void RemoveTask(unsigned int index);
         void Start();
         void Print();

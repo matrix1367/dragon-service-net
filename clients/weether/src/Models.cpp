@@ -37,7 +37,7 @@ DWORD WINAPI CModels::ThreadUpdateWeether()
         if (CConvert::ParserJSONToDataWeeter(page, m_data))
         {
             //printf("Page: %s\n" , page.c_str());
-            m_data.Print();
+            //m_data.Print();
             CEventManager::getInstance().Send(EVENT_UPDATE_WEETHER);
         } else {
             //printf("Page not CONVERT : %s\n" , page.c_str());
@@ -98,4 +98,9 @@ bool CModels::GetWeether(const std::string& nameCity, DataWeetherNextHours& data
 {
     data = m_dataList;
     return true;
+}
+
+std::string CModels::GetTopicalWeather(const std::string& nameCity)
+{
+    return m_data.main.getStr_temp() + " C, " + m_data.main.getStr_pressure() +" hPa, " + m_data.description;
 }

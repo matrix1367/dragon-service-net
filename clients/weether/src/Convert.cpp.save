@@ -30,7 +30,7 @@ bool CConvert::ParserJSONToDataWeeter(std::string jsonDataWeether, DataWeether& 
 
         const Json::Value jsonName = root["name"];
         if (jsonName.isNull()) {  return false;  }
-        strcpy(data.nameCity, jsonName.asCString());
+        if(jsonName.isString()) strcpy(data.nameCity, jsonName.asCString());
 
         const Json::Value jsonMain = root["main"];
         if (jsonMain.isNull()) { return false;   }
@@ -42,8 +42,8 @@ bool CConvert::ParserJSONToDataWeeter(std::string jsonDataWeether, DataWeether& 
         const Json::Value jsongrnd_level = jsonMain["grnd_level"];
         const Json::Value jsonhumidity = jsonMain["humidity"];
 
-        if (jsonPressure.isNull() || !jsonPressure.isDouble()) { return false; };
-        data.main.pressure =  jsonPressure.asDouble();
+        if (!jsonPressure.isNull() && jsonPressure.isDouble())  data.main.pressure =  jsonPressure.asDouble();
+
 
         if (jsontemp.isDouble()) data.main.temp = jsontemp.asDouble();
         if (jsontemp_min.isDouble()) data.main.temp_min = jsontemp_min.asDouble();
@@ -263,7 +263,7 @@ std::string TDataWeetherWind::getStr_deg()
 std::string TDataWeether::getPathIcon()
 {
     //TODO:
-    std::string pathIcon = "F:\\projects\\dragon-service-net-master\\clients\\weether\\img\\" + icon + ".ico";
+    std::string pathIcon = "\\img\\" + icon + ".ico";
     return pathIcon;
 }
 

@@ -16142,3 +16142,1695 @@
 [Info][ThreadSendMessages][43][05/06/15 15:59:10] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
 [Info][Save][40][05/06/15 15:59:19] 
 [Info][Save][40][05/06/15 15:59:20] 
+[Info][WaitingForServer][71][05/07/15 08:49:52] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 08:49:52] 
+[Info][Start][122][05/07/15 08:49:52] 
+[Info][ThreadStart][128][05/07/15 08:49:52] 
+[Info][ThreadStart][147][05/07/15 08:49:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 08:49:53] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/07/15 08:49:54] 
+[Info][ThreadSendMessages][38][05/07/15 08:49:54] 
+[Info][ThreadStart][147][05/07/15 08:49:54] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 08:49:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 08:50:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 08:50:05] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 08:50:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 08:50:09] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 08:50:10] 
+[Info][Save][40][05/07/15 08:50:12] 
+[Info][WaitingForServer][71][05/07/15 09:07:12] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 09:07:12] 
+[Info][Start][122][05/07/15 09:07:12] 
+[Info][ThreadStart][128][05/07/15 09:07:12] 
+[Info][ThreadStart][147][05/07/15 09:07:12] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:07:13] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/07/15 09:07:13] 
+[Info][ThreadSendMessages][38][05/07/15 09:07:13] 
+[Info][ThreadStart][147][05/07/15 09:07:13] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:07:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:07:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:07:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:07:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:07:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:07:33] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 09:07:34] 
+[Info][Save][40][05/07/15 09:07:36] 
+[Info][WaitingForServer][71][05/07/15 09:08:23] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 09:08:23] 
+[Info][Start][122][05/07/15 09:08:23] 
+[Info][ThreadStart][128][05/07/15 09:08:23] 
+[Info][ThreadStart][147][05/07/15 09:08:23] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:08:24] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/07/15 09:08:28] 
+[Info][ThreadSendMessages][38][05/07/15 09:08:28] 
+[Info][ThreadWaitingForServer][81][05/07/15 09:08:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:08:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:08:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:08:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:08:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:08:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:08:48] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:08:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:08:52] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 09:08:56] 
+[Info][ThreadWaitingForServer][81][05/07/15 09:08:56] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 09:08:58] 
+[Info][WaitingForServer][71][05/07/15 09:23:49] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 09:23:49] 
+[Info][Start][122][05/07/15 09:23:49] 
+[Info][ThreadStart][128][05/07/15 09:23:49] 
+[Info][ThreadStart][147][05/07/15 09:23:49] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/07/15 09:23:49] 
+[Info][ThreadStart][147][05/07/15 09:23:49] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 09:23:49] 
+[Info][WaitingForServer][71][05/07/15 09:24:06] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 09:24:06] 
+[Info][Start][122][05/07/15 09:24:06] 
+[Info][ThreadStart][128][05/07/15 09:24:06] 
+[Info][ThreadStart][147][05/07/15 09:24:06] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/07/15 09:24:06] 
+[Info][ThreadStart][147][05/07/15 09:24:06] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 09:24:06] 
+[Info][ThreadWaitingForServer][81][05/07/15 09:24:07] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:24:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:24:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:24:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:24:19] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:24:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:24:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:24:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:24:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:24:35] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:24:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:24:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:24:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:24:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:24:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:24:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:24:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:24:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:25:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:25:07] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:25:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:25:11] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 09:25:13] 
+[Info][Save][40][05/07/15 09:25:14] 
+[Info][WaitingForServer][71][05/07/15 09:28:20] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 09:28:20] 
+[Info][Start][122][05/07/15 09:28:20] 
+[Info][ThreadStart][128][05/07/15 09:28:20] 
+[Info][ThreadStart][147][05/07/15 09:28:20] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/07/15 09:28:21] 
+[Info][ThreadStart][147][05/07/15 09:28:21] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 09:28:21] 
+[Info][ThreadWaitingForServer][81][05/07/15 09:28:21] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:28:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:28:25] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 09:28:28] 
+[Info][Save][40][05/07/15 09:28:28] 
+[Info][WaitingForServer][71][05/07/15 09:31:37] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 09:31:37] 
+[Info][Start][122][05/07/15 09:31:37] 
+[Info][ThreadStart][128][05/07/15 09:31:37] 
+[Info][ThreadStart][147][05/07/15 09:31:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:31:38] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/07/15 09:31:38] 
+[Info][ThreadStart][147][05/07/15 09:31:38] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 09:31:38] 
+[Info][ThreadWaitingForServer][81][05/07/15 09:31:42] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:31:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:31:50] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 09:31:51] 
+[Info][Save][40][05/07/15 09:31:52] 
+[Info][WaitingForServer][71][05/07/15 09:34:41] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 09:34:41] 
+[Info][Start][122][05/07/15 09:34:41] 
+[Info][ThreadStart][128][05/07/15 09:34:41] 
+[Info][ThreadStart][147][05/07/15 09:34:41] Task: Pogoda dla Poznania zostal wykonany.
+[Info][SendMessages][32][05/07/15 09:34:41] 
+[Info][ThreadSendMessages][38][05/07/15 09:34:41] 
+[Info][ThreadWaitingForServer][81][05/07/15 09:34:42] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:34:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:34:50] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:34:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:34:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:34:58] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:35:02] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:35:06] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:35:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:35:10] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:35:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:35:18] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:35:22] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:35:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:35:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:35:30] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:35:33] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:35:34] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:35:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:35:38] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:35:42] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:35:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:35:50] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:35:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:35:54] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 09:35:56] 
+[Info][Save][40][05/07/15 09:35:57] 
+[Info][WaitingForServer][71][05/07/15 09:47:15] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 09:47:15] 
+[Info][Start][122][05/07/15 09:47:15] 
+[Info][ThreadStart][128][05/07/15 09:47:15] 
+[Info][ThreadStart][147][05/07/15 09:47:15] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:47:16] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/07/15 09:47:16] 
+[Info][ThreadSendMessages][38][05/07/15 09:47:16] 
+[Info][ThreadStart][147][05/07/15 09:47:16] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:47:20] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:47:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:47:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:47:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:47:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:47:36] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:47:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:47:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:47:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:47:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:47:52] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 09:47:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 09:47:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 09:48:00] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 09:48:01] 
+[Info][Save][40][05/07/15 09:48:03] 
+[Info][WaitingForServer][71][05/07/15 10:27:42] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 10:27:42] 
+[Info][Start][122][05/07/15 10:27:42] 
+[Info][ThreadStart][128][05/07/15 10:27:42] 
+[Info][ThreadStart][147][05/07/15 10:27:42] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 10:27:43] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/07/15 10:27:43] 
+[Info][ThreadSendMessages][38][05/07/15 10:27:43] 
+[Info][ThreadStart][147][05/07/15 10:27:43] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 10:27:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 10:27:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 10:27:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 10:27:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 10:27:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 10:28:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 10:28:07] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 10:28:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 10:28:11] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 10:28:13] 
+[Info][Save][40][05/07/15 10:28:14] 
+[Info][WaitingForServer][71][05/07/15 10:42:17] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 10:42:17] 
+[Info][Start][122][05/07/15 10:42:17] 
+[Info][ThreadStart][128][05/07/15 10:42:17] 
+[Info][ThreadStart][147][05/07/15 10:42:17] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 10:42:18] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/07/15 10:42:18] 
+[Info][ThreadSendMessages][38][05/07/15 10:42:18] 
+[Info][ThreadStart][147][05/07/15 10:42:18] Task: aler pogodowy dla warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 10:42:22] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 10:42:22] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 10:42:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 10:42:30] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 10:42:34] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 10:42:37] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 10:42:38] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 10:42:42] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 10:42:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 10:42:50] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 10:42:52] Task: Pogoda dla Poznania zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 10:42:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 10:42:58] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 10:43:02] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 10:43:06] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 10:43:07] Task: Pogoda dla Poznania zostal wykonany.
+[Info][Save][40][05/07/15 10:43:07] 
+[Info][Save][40][05/07/15 10:43:09] 
+[Info][WaitingForServer][71][05/07/15 12:23:06] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 12:23:06] 
+[Info][Start][122][05/07/15 12:23:06] 
+[Info][ThreadStart][128][05/07/15 12:23:06] 
+[Info][ThreadWaitingForServer][81][05/07/15 12:23:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:23:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:23:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:23:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:23:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:23:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:23:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:23:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:23:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:23:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:23:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:23:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:23:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:23:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:24:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:24:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:24:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:24:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:24:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:24:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:24:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:24:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:24:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:24:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:24:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:24:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:24:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:24:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:24:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:25:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:25:07] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][44][05/07/15 12:25:08] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][81][05/07/15 12:25:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:25:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:25:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:25:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:25:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:25:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:25:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:25:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:25:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:25:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:25:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:25:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:25:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:26:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:26:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:26:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:26:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:26:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:26:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:26:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:26:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:26:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:26:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:26:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:26:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:26:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:26:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:26:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:27:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:27:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:27:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:27:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:27:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:27:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:27:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:27:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:27:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:27:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:27:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:27:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:27:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:27:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:27:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:28:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:28:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:28:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:28:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:28:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:28:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:28:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:28:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:28:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:28:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:28:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:28:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:28:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:28:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:28:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:29:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:29:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:29:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:29:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:29:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:29:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:29:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:29:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:29:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:29:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:29:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:29:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:29:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:29:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:29:59] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 12:30:01] 
+[Info][ThreadWaitingForServer][81][05/07/15 12:30:03] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 12:30:03] 
+[Info][WaitingForServer][71][05/07/15 12:30:24] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 12:30:24] 
+[Info][Start][122][05/07/15 12:30:24] 
+[Info][ThreadStart][128][05/07/15 12:30:24] 
+[Info][ThreadWaitingForServer][81][05/07/15 12:30:25] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 12:30:28] 
+[Info][ThreadWaitingForServer][81][05/07/15 12:30:29] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 12:30:30] 
+[Info][WaitingForServer][71][05/07/15 12:31:03] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 12:31:03] 
+[Info][Start][122][05/07/15 12:31:03] 
+[Info][ThreadStart][128][05/07/15 12:31:03] 
+[Info][ThreadStart][169][05/07/15 12:31:03] Task: la Poznania zostal wykonany.
+[Info][SendMessages][32][05/07/15 12:31:03] 
+[Info][ThreadSendMessages][38][05/07/15 12:31:03] 
+[Info][ThreadWaitingForServer][81][05/07/15 12:31:04] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:31:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:31:12] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 12:31:14] 
+[Info][Save][40][05/07/15 12:31:15] 
+[Info][WaitingForServer][71][05/07/15 12:31:29] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 12:31:29] 
+[Info][Start][122][05/07/15 12:31:29] 
+[Info][ThreadStart][128][05/07/15 12:31:29] 
+[Info][ThreadWaitingForServer][81][05/07/15 12:31:30] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:31:34] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:31:38] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:31:42] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:31:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:31:50] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:31:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:31:58] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:32:00] Task: Alert pogodowy dla p zostal wykonany.
+[Info][SendMessages][32][05/07/15 12:32:02] 
+[Info][ThreadSendMessages][38][05/07/15 12:32:02] 
+[Info][ThreadWaitingForServer][81][05/07/15 12:32:02] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:32:03] Task: Alert pogodowy dla p zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:32:06] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:32:10] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:32:14] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:32:18] Task: Alert pogodowy dla p zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:32:18] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:32:22] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:32:22] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:32:26] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:32:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:32:30] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:32:33] Task: Alert pogodowy dla p zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:32:34] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:32:38] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:32:42] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 12:32:43] 
+[Info][Save][40][05/07/15 12:32:44] 
+[Info][WaitingForServer][71][05/07/15 12:34:02] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 12:34:02] 
+[Info][Start][122][05/07/15 12:34:02] 
+[Info][ThreadStart][128][05/07/15 12:34:02] 
+[Info][ThreadStart][147][05/07/15 12:34:02] Task: Alert pogodowy dla p zostal wykonany.
+[Info][SendMessages][32][05/07/15 12:34:02] 
+[Info][ThreadSendMessages][38][05/07/15 12:34:02] 
+[Info][ThreadStart][147][05/07/15 12:34:02] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:34:03] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:34:03] Task: Alert pogodowy dla p zostal wykonany.
+[Error][ThreadUpdateWeether][44][05/07/15 12:34:04] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Info][ThreadStart][147][05/07/15 12:34:06] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:34:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:34:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:34:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:34:18] Task: Alert pogodowy dla p zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:34:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:34:23] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 12:34:26] 
+[Info][ThreadWaitingForServer][81][05/07/15 12:34:27] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 12:34:29] 
+[Info][WaitingForServer][71][05/07/15 12:37:04] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 12:37:04] 
+[Info][Start][122][05/07/15 12:37:04] 
+[Info][ThreadStart][128][05/07/15 12:37:04] 
+[Info][ThreadStart][147][05/07/15 12:37:04] Task: Alert pogodowy dla p zostal wykonany.
+[Info][SendMessages][32][05/07/15 12:37:05] 
+[Info][ThreadStart][147][05/07/15 12:37:05] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 12:37:05] 
+[Info][ThreadWaitingForServer][81][05/07/15 12:37:05] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:37:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:37:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:37:17] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:37:18] Task: Alert pogodowy dla p zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:37:21] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 12:37:22] 
+[Info][Save][40][05/07/15 12:37:23] 
+[Info][WaitingForServer][71][05/07/15 12:38:22] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 12:38:22] 
+[Info][Start][122][05/07/15 12:38:22] 
+[Info][ThreadStart][128][05/07/15 12:38:22] 
+[Info][ThreadStart][147][05/07/15 12:38:22] Task: Alert pogodowy dla p zostal wykonany.
+[Info][SendMessages][32][05/07/15 12:38:22] 
+[Info][ThreadStart][147][05/07/15 12:38:22] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 12:38:22] 
+[Info][ThreadWaitingForServer][81][05/07/15 12:38:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:38:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:38:31] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 12:38:32] 
+[Info][Save][40][05/07/15 12:38:33] 
+[Info][WaitingForServer][71][05/07/15 12:38:51] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 12:38:51] 
+[Info][Start][122][05/07/15 12:38:51] 
+[Info][ThreadStart][128][05/07/15 12:38:51] 
+[Info][ThreadStart][147][05/07/15 12:38:51] Task: Alert pogodowy dla p zostal wykonany.
+[Info][SendMessages][32][05/07/15 12:38:51] 
+[Info][ThreadStart][147][05/07/15 12:38:51] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 12:38:51] 
+[Info][ThreadWaitingForServer][81][05/07/15 12:38:52] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:38:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:39:00] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:39:03] Task: Alert pogodowy dla p zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:39:04] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:39:06] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][Save][40][05/07/15 12:39:07] 
+[Info][Save][40][05/07/15 12:39:08] 
+[Info][WaitingForServer][71][05/07/15 12:42:36] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 12:42:36] 
+[Info][Start][122][05/07/15 12:42:36] 
+[Info][ThreadStart][128][05/07/15 12:42:36] 
+[Info][ThreadStart][147][05/07/15 12:42:36] Task: Alert pogodowy dla p zostal wykonany.
+[Info][SendMessages][32][05/07/15 12:42:36] 
+[Info][ThreadStart][147][05/07/15 12:42:36] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 12:42:36] 
+[Info][ThreadWaitingForServer][81][05/07/15 12:42:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:42:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:42:45] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:42:48] Task: Alert pogodowy dla p zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:42:49] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:42:51] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:42:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:42:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:43:01] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:43:03] Task: Alert pogodowy dla p zostal wykonany.
+[Info][ThreadStart][147][05/07/15 12:43:04] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:43:05] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:43:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:43:13] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:43:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 12:43:16] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:43:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:43:21] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:43:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:43:29] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:43:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:43:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:43:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:43:41] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:43:41] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:43:45] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:43:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:43:49] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:43:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:43:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:44:01] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:44:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:44:05] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:44:06] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:44:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:44:13] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:44:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:44:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:44:21] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:44:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:44:29] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:44:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 12:44:31] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:44:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:44:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:44:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:44:45] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:44:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:44:49] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:44:53] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:44:56] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:44:57] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 12:44:59] 
+[Info][ThreadStart][147][05/07/15 12:45:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:45:01] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 12:45:02] 
+[Info][ThreadWaitingForServer][81][05/07/15 12:45:05] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:45:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:45:13] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:45:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:45:17] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 12:45:18] 
+[Info][Save][40][05/07/15 12:45:20] 
+[Info][Save][40][05/07/15 12:45:21] 
+[Info][ThreadStart][147][05/07/15 12:45:21] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:45:21] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:45:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:45:29] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:45:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:45:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:45:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:45:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:45:45] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:45:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 12:45:46] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:45:49] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 12:45:49] 
+[Info][WaitingForServer][71][05/07/15 12:46:39] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 12:46:39] 
+[Info][Start][122][05/07/15 12:46:39] 
+[Info][ThreadStart][128][05/07/15 12:46:39] 
+[Info][ThreadStart][147][05/07/15 12:46:39] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][SendMessages][32][05/07/15 12:46:39] 
+[Info][ThreadSendMessages][38][05/07/15 12:46:39] 
+[Info][ThreadStart][147][05/07/15 12:46:39] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:46:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:46:44] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:46:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:46:48] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 12:46:50] 
+[Info][WaitingForServer][71][05/07/15 12:46:56] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 12:46:56] 
+[Info][Start][122][05/07/15 12:46:56] 
+[Info][ThreadStart][128][05/07/15 12:46:56] 
+[Info][ThreadWaitingForServer][81][05/07/15 12:46:57] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:47:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:47:01] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/07/15 12:47:01] 
+[Info][ThreadStart][147][05/07/15 12:47:01] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 12:47:01] 
+[Info][ThreadWaitingForServer][81][05/07/15 12:47:05] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:47:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:47:13] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:47:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:47:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:47:21] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:47:25] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:47:26] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:47:29] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 12:47:31] 
+[Info][ThreadStart][147][05/07/15 12:47:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:47:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:47:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:47:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:47:45] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:47:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:47:49] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:47:51] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:47:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:47:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:48:01] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:48:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:48:05] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:48:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:48:13] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:48:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 12:48:16] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:48:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:48:21] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:48:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:48:29] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:48:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:48:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:48:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 12:48:41] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:48:41] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:48:45] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 12:48:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 12:48:49] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 12:48:52] 
+[Info][WaitingForServer][71][05/07/15 13:04:46] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 13:04:46] 
+[Info][Start][122][05/07/15 13:04:46] 
+[Info][ThreadStart][128][05/07/15 13:04:46] 
+[Info][ThreadStart][147][05/07/15 13:04:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 13:04:47] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/07/15 13:04:47] 
+[Info][ThreadStart][147][05/07/15 13:04:47] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 13:04:47] 
+[Info][ThreadWaitingForServer][81][05/07/15 13:04:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 13:04:55] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 13:04:56] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 13:04:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 13:05:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 13:05:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 13:05:07] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 13:05:09] 
+[Info][WaitingForServer][71][05/07/15 13:05:28] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 13:05:28] 
+[Info][Start][122][05/07/15 13:05:28] 
+[Info][ThreadStart][128][05/07/15 13:05:28] 
+[Info][ThreadStart][147][05/07/15 13:05:28] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][SendMessages][32][05/07/15 13:05:28] 
+[Info][ThreadSendMessages][38][05/07/15 13:05:28] 
+[Info][ThreadStart][147][05/07/15 13:05:28] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 13:05:29] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 13:05:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 13:05:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 13:05:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 13:05:41] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 13:05:41] 
+[Info][WaitingForServer][71][05/07/15 13:12:40] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 13:12:40] 
+[Info][Start][122][05/07/15 13:12:40] 
+[Info][ThreadStart][128][05/07/15 13:12:40] 
+[Info][ThreadStart][147][05/07/15 13:12:40] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][SendMessages][32][05/07/15 13:12:40] 
+[Info][ThreadStart][147][05/07/15 13:12:40] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 13:12:40] 
+[Info][ThreadWaitingForServer][81][05/07/15 13:12:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 13:12:45] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 13:12:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 13:12:49] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 13:12:50] 
+[Info][WaitingForServer][71][05/07/15 13:44:03] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 13:44:03] 
+[Info][Start][122][05/07/15 13:44:03] 
+[Info][ThreadStart][128][05/07/15 13:44:03] 
+[Info][ThreadStart][147][05/07/15 13:44:03] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 13:44:04] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/07/15 13:44:04] 
+[Info][ThreadStart][147][05/07/15 13:44:04] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 13:44:04] 
+[Info][ThreadStart][147][05/07/15 13:44:28] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 13:44:28] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][WaitingForServer][71][05/07/15 13:47:52] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 13:47:52] 
+[Info][Start][122][05/07/15 13:47:52] 
+[Info][ThreadStart][128][05/07/15 13:47:52] 
+[Info][ThreadStart][147][05/07/15 13:47:52] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 13:47:53] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/07/15 13:47:53] 
+[Info][ThreadStart][147][05/07/15 13:47:53] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 13:47:53] 
+[Info][ThreadWaitingForServer][81][05/07/15 13:47:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 13:48:01] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 13:48:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 13:48:05] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 13:48:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 13:48:13] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 13:48:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 13:48:16] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 13:48:17] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 13:48:20] 
+[Info][WaitingForServer][71][05/07/15 14:03:02] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 14:03:02] 
+[Info][Start][122][05/07/15 14:03:02] 
+[Info][ThreadStart][128][05/07/15 14:03:02] 
+[Info][ThreadStart][147][05/07/15 14:03:02] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][SendMessages][32][05/07/15 14:03:02] 
+[Info][ThreadStart][147][05/07/15 14:03:02] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 14:03:02] 
+[Info][ThreadWaitingForServer][81][05/07/15 14:03:03] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 14:03:04] 
+[Info][WaitingForServer][71][05/07/15 14:05:35] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 14:05:35] 
+[Info][Start][122][05/07/15 14:05:35] 
+[Info][ThreadStart][128][05/07/15 14:05:35] 
+[Info][ThreadStart][147][05/07/15 14:05:35] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][SendMessages][32][05/07/15 14:05:35] 
+[Info][ThreadStart][147][05/07/15 14:05:35] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 14:05:35] 
+[Info][ThreadWaitingForServer][81][05/07/15 14:05:36] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:05:40] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 14:05:42] 
+[Info][WaitingForServer][71][05/07/15 14:19:26] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 14:19:26] 
+[Info][Start][122][05/07/15 14:19:26] 
+[Info][ThreadStart][128][05/07/15 14:19:26] 
+[Info][ThreadStart][147][05/07/15 14:19:26] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:19:27] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/07/15 14:19:27] 
+[Info][ThreadStart][147][05/07/15 14:19:27] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 14:19:27] 
+[Info][ThreadWaitingForServer][81][05/07/15 14:19:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:19:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:19:31] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][Save][40][05/07/15 14:19:32] 
+[Info][WaitingForServer][71][05/07/15 14:19:44] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 14:19:44] 
+[Info][Start][122][05/07/15 14:19:44] 
+[Info][ThreadStart][128][05/07/15 14:19:44] 
+[Info][ThreadWaitingForServer][81][05/07/15 14:19:45] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:19:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][SendMessages][32][05/07/15 14:19:46] 
+[Info][ThreadSendMessages][38][05/07/15 14:19:46] 
+[Info][ThreadWaitingForServer][81][05/07/15 14:19:49] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:19:53] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:19:56] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:19:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:20:01] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:20:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:20:05] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:20:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:20:13] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:20:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:20:17] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:20:21] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:20:21] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:20:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:20:29] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:20:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:20:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:20:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:20:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:20:45] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:20:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:20:46] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:20:49] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:20:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:20:57] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:21:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:21:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:21:05] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:21:09] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:21:11] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:21:13] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:21:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:21:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:21:21] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:21:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:21:29] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:21:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:21:33] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:21:36] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:21:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:21:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:21:45] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:21:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][Save][40][05/07/15 14:21:49] 
+[Info][WaitingForServer][71][05/07/15 14:22:09] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 14:22:09] 
+[Info][Start][122][05/07/15 14:22:09] 
+[Info][ThreadStart][128][05/07/15 14:22:09] 
+[Info][ThreadStart][147][05/07/15 14:22:09] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][SendMessages][32][05/07/15 14:22:10] 
+[Info][ThreadStart][147][05/07/15 14:22:10] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 14:22:10] 
+[Info][ThreadWaitingForServer][81][05/07/15 14:22:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:22:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:22:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:22:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:22:23] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:22:26] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:22:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:22:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:22:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:22:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:22:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:22:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:22:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:22:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:22:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:22:51] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:22:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:22:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:23:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:23:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:23:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:23:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:23:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:23:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:23:16] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:23:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:23:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:23:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:23:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:23:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:23:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:23:39] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:23:41] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:23:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:23:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:23:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:23:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:23:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:23:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:24:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:24:03] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:24:06] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:24:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:24:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:24:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:24:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:24:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:24:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:24:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:24:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:24:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:24:31] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:24:34] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:24:38] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:24:42] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:24:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:24:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:24:50] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:24:54] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:24:56] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:24:58] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:25:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:25:02] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:25:06] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:25:10] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:25:14] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:25:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:25:18] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:25:21] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:25:22] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:25:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:25:30] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:25:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:25:34] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:25:38] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:25:42] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:25:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:25:46] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:25:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:25:50] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:25:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:25:58] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:26:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:26:02] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:26:06] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:26:10] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:26:11] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:26:14] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:26:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:26:18] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:26:22] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:26:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:26:30] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:26:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:26:34] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:26:36] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:26:38] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:26:42] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:26:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:26:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:26:50] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:26:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:26:58] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:27:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:27:01] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:27:02] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:27:06] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:27:10] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:27:14] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:27:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:27:18] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:27:22] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:27:26] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:27:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:27:30] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:27:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:27:34] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:27:38] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:27:42] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:27:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:27:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:27:50] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:27:51] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:27:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:27:58] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:28:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:28:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:28:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:28:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:28:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:28:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:28:16] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:28:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:28:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:28:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:28:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:28:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:28:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:28:39] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:28:41] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:28:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:28:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:28:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:28:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:28:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:28:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:29:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:29:03] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:29:06] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:29:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:29:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:29:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:29:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:29:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:29:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:29:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:29:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:29:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:29:31] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:29:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:29:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:29:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:29:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:29:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:29:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:29:55] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:29:56] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:29:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:30:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:30:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:30:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:30:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:30:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:30:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:30:19] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:30:21] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:30:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:30:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:30:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:30:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:30:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:30:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:30:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:30:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:30:46] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:30:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:30:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:30:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:30:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:31:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:31:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:31:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:31:11] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:31:11] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:31:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:31:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:31:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:31:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:31:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:31:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:31:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:31:35] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:31:36] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:31:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:31:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:31:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:31:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:31:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:31:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:31:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:32:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:32:01] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:32:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:32:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:32:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:32:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:32:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:32:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:32:23] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:32:26] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:32:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:32:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:32:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:32:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:32:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:32:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:32:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:32:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:32:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:32:51] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:32:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:32:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:33:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:33:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:33:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:33:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:33:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:33:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:33:16] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:33:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:33:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:33:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:33:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:33:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:33:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:33:39] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:33:41] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:33:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:33:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:33:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:33:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:33:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:33:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:34:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:34:03] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:34:06] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:34:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:34:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:34:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:34:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:34:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:34:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:34:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:34:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:34:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:34:31] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:34:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:34:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:34:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:34:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:34:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:34:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:34:55] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:34:56] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:34:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:35:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:35:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:35:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:35:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:35:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:35:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:35:19] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:35:21] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:35:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:35:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:35:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:35:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:35:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:35:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:35:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:35:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:35:46] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:35:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:35:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:35:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:35:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:36:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:36:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:36:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:36:11] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:36:11] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:36:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:36:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:36:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:36:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:36:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:36:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:36:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:36:35] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:36:36] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:36:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:36:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:36:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:36:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:36:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:36:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:36:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:37:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:37:01] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:37:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:37:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:37:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:37:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:37:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:37:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:37:23] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:37:26] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:37:27] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:37:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:37:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:37:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:37:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:37:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:37:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:37:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:37:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:37:51] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:37:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:37:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:38:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:38:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:38:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:38:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:38:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:38:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:38:16] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:38:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:38:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:38:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:38:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:38:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:38:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:38:39] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:38:41] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:38:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:38:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:38:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:38:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:38:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:38:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:39:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:39:03] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:39:06] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:39:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:39:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:39:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:39:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:39:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:39:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:39:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:39:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:39:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:39:31] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:39:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:39:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:39:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:39:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:39:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:39:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:39:55] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:39:56] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:39:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:40:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:40:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:40:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:40:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:40:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:40:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:40:19] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:40:21] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:40:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:40:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:40:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:40:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:40:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:40:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:40:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:40:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:40:46] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:40:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:40:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:40:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:40:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:41:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:41:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:41:07] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][44][05/07/15 14:41:08] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Error][ThreadUpdateWeether][54][05/07/15 14:41:10] Page [http://api.openweathermap.org/data/2.5/forecast?q=Poznan,pl] not CONVERT
+[Info][ThreadWaitingForServer][81][05/07/15 14:41:11] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:41:11] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:41:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:41:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:41:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:41:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:41:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:41:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:41:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:41:35] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:41:36] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:41:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:41:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:41:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:41:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:41:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:41:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:41:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:42:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:42:01] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:42:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:42:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:42:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:42:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:42:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:42:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:42:23] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:42:26] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:42:27] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:42:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:42:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:42:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:42:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:42:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:42:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:42:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:42:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:42:51] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:42:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:42:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:43:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:43:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:43:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:43:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:43:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:43:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:43:16] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:43:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:43:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:43:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:43:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:43:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:43:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:43:39] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:43:41] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:43:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:43:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:43:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:43:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:43:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:43:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:44:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:44:03] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:44:06] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:44:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:44:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:44:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:44:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:44:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:44:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:44:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:44:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:44:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:44:31] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:44:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:44:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:44:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:44:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:44:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:44:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:44:55] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:44:56] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:44:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:45:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:45:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:45:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:45:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:45:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:45:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:45:19] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:45:21] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:45:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:45:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:45:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:45:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:45:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:45:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:45:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:45:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:45:46] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:45:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:45:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:45:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:45:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:46:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:46:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:46:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:46:11] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:46:11] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:46:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:46:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:46:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:46:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:46:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:46:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:46:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:46:35] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:46:36] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:46:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:46:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:46:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:46:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:46:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:46:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:46:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:47:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:47:01] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:47:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:47:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:47:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:47:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:47:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:47:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:47:23] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:47:26] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:47:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:47:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:47:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:47:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:47:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:47:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:47:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:47:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:47:51] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:47:51] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:47:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:47:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:48:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:48:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:48:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:48:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:48:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:48:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:48:16] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:48:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:48:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:48:27] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:48:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:48:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:48:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:48:39] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:48:41] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:48:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:48:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:48:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:48:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:48:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:48:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:49:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:49:03] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:49:06] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:49:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:49:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:49:15] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:49:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:49:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:49:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:49:27] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:49:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:49:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:49:32] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:49:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:49:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:49:43] >>>[ping serwera]<<<
+[Info][Save][40][05/07/15 14:49:45] 
+[Info][WaitingForServer][71][05/07/15 14:50:26] Thread: Oczekiwanie na serwer....
+[Info][Load][54][05/07/15 14:50:26] 
+[Info][Start][122][05/07/15 14:50:26] 
+[Info][ThreadStart][128][05/07/15 14:50:26] 
+[Info][ThreadStart][147][05/07/15 14:50:26] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][SendMessages][32][05/07/15 14:50:26] 
+[Info][ThreadStart][147][05/07/15 14:50:26] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 14:50:26] 
+[Info][ThreadWaitingForServer][81][05/07/15 14:50:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:50:31] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:50:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:50:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:50:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:50:43] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:50:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][147][05/07/15 14:50:46] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 14:50:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:50:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:50:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:50:59] >>>[ping serwera]<<<
+[Info][ThreadStart][147][05/07/15 14:51:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][Save][40][05/07/15 14:51:02] 
+[Info][WaitingForServer][71][05/07/15 14:53:18] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 14:53:18] LOAD Schedule
+[Info][Start][99][05/07/15 14:53:18] 
+[Info][ThreadStart][105][05/07/15 14:53:18] 
+[Info][ThreadStart][124][05/07/15 14:53:18] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][SendMessages][32][05/07/15 14:53:18] 
+[Info][ThreadStart][124][05/07/15 14:53:18] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 14:53:18] 
+[Info][ThreadWaitingForServer][81][05/07/15 14:53:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:53:23] >>>[ping serwera]<<<
+[Info][Save][31][05/07/15 14:53:24] SAVE Schedule
+[Info][WaitingForServer][71][05/07/15 14:55:34] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 14:55:34] LOAD Schedule
+[Info][Start][99][05/07/15 14:55:34] 
+[Info][ThreadStart][105][05/07/15 14:55:34] 
+[Info][ThreadStart][124][05/07/15 14:55:34] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][SendMessages][32][05/07/15 14:55:34] 
+[Info][ThreadStart][124][05/07/15 14:55:34] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 14:55:34] 
+[Info][ThreadWaitingForServer][81][05/07/15 14:55:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:55:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:55:43] >>>[ping serwera]<<<
+[Info][WaitingForServer][71][05/07/15 14:56:36] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 14:56:36] LOAD Schedule
+[Info][Start][99][05/07/15 14:56:36] 
+[Info][ThreadStart][105][05/07/15 14:56:36] 
+[Info][ThreadStart][124][05/07/15 14:56:36] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][SendMessages][32][05/07/15 14:56:36] 
+[Info][ThreadStart][124][05/07/15 14:56:36] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 14:56:36] 
+[Info][ThreadWaitingForServer][81][05/07/15 14:56:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:56:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 14:56:45] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/07/15 14:56:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][84][05/07/15 14:56:48] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 14:56:48] CClient: 00001||
+[Info][ThreadSendMessages][43][05/07/15 14:56:48] Kolejka wiedomosci zawiera 3 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][05/07/15 14:56:51] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 14:57:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][124][05/07/15 14:57:01] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 14:57:03] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][05/07/15 14:57:06] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 14:57:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 14:57:19] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 14:57:26] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 14:57:28] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 14:57:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 14:57:34] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 14:57:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 14:57:49] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 14:57:51] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 14:57:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 14:58:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 14:58:04] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 14:58:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][124][05/07/15 14:58:16] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 14:58:19] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][05/07/15 14:58:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 14:58:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 14:58:34] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 14:58:41] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 14:58:43] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 14:58:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 14:58:47] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 14:59:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 14:59:02] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 14:59:06] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 14:59:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 14:59:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 14:59:17] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 14:59:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][124][05/07/15 14:59:31] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 14:59:32] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][05/07/15 14:59:35] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 14:59:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 14:59:47] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 14:59:56] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 14:59:59] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 15:00:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 15:00:02] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 15:00:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 15:00:17] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 15:00:21] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 15:00:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][31][05/07/15 15:00:28] SAVE Schedule
+[Info][WaitingForServer][71][05/07/15 15:01:14] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:01:14] LOAD Schedule
+[Info][Start][99][05/07/15 15:01:14] 
+[Info][ThreadStart][105][05/07/15 15:01:14] 
+[Info][ThreadStart][124][05/07/15 15:01:14] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadWaitingForServer][84][05/07/15 15:01:14] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:01:14] CClient: 00001||
+[Info][SendMessages][32][05/07/15 15:01:14] 
+[Info][ThreadStart][124][05/07/15 15:01:14] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 15:01:14] 
+[Info][ThreadSendMessages][43][05/07/15 15:01:14] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 15:01:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 15:01:17] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][05/07/15 15:01:20] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 15:01:31] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 15:01:32] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 15:01:36] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 15:01:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 15:01:46] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 15:01:47] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 15:02:01] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadStart][124][05/07/15 15:02:01] Task: Alert pogodowy do Warszawy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 15:02:02] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 15:02:04] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 15:02:05] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][05/07/15 15:02:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 15:02:10] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 15:02:12] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 15:02:16] Task: Alert pogodowy dla Poznañ zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 15:02:18] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 15:02:21] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 15:02:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 15:02:35] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 15:02:36] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 15:02:55] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 15:02:57] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 15:03:07] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][ThreadStart][124][05/07/15 15:03:08] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 15:03:09] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][05/07/15 15:03:12] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][31][05/07/15 15:03:58] SAVE Schedule
+[Info][Save][31][05/07/15 15:04:03] SAVE Schedule
+[Warning][Load][67][05/07/15 15:06:45] Wczytanie ustawien nie powiodlo sie.
+[Info][WaitingForServer][71][05/07/15 15:06:45] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:06:45] LOAD Schedule
+[Info][Start][99][05/07/15 15:06:45] 
+[Info][ThreadStart][105][05/07/15 15:06:45] 
+[Info][ThreadWaitingForServer][84][05/07/15 15:06:45] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:06:45] CClient: 00001||
+[Info][ThreadStart][124][05/07/15 15:07:26] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][SendMessages][32][05/07/15 15:07:26] 
+[Info][ThreadSendMessages][38][05/07/15 15:07:26] 
+[Info][ThreadSendMessages][43][05/07/15 15:07:26] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/07/15 15:08:02] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][43][05/07/15 15:08:02] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][31][05/07/15 15:08:05] SAVE Schedule
+[Info][Save][31][05/07/15 15:08:07] SAVE Schedule
+[Info][WaitingForServer][71][05/07/15 15:08:26] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:08:26] LOAD Schedule
+[Info][Start][99][05/07/15 15:08:26] 
+[Info][ThreadStart][105][05/07/15 15:08:26] 
+[Info][ThreadWaitingForServer][84][05/07/15 15:08:26] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:08:26] CClient: 00001||
+[Info][Save][31][05/07/15 15:08:36] SAVE Schedule
+[Info][Save][31][05/07/15 15:08:36] SAVE Schedule
+[Info][WaitingForServer][71][05/07/15 15:08:46] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:08:46] LOAD Schedule
+[Info][Start][99][05/07/15 15:08:46] 
+[Info][ThreadStart][105][05/07/15 15:08:46] 
+[Info][ThreadWaitingForServer][84][05/07/15 15:08:46] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:08:46] CClient: 00001||
+[Info][Save][31][05/07/15 15:08:51] SAVE Schedule
+[Info][Save][31][05/07/15 15:08:52] SAVE Schedule
+[Info][WaitingForServer][71][05/07/15 15:09:01] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:09:01] LOAD Schedule
+[Info][Start][99][05/07/15 15:09:01] 
+[Info][ThreadStart][105][05/07/15 15:09:01] 
+[Info][ThreadWaitingForServer][84][05/07/15 15:09:01] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:09:01] CClient: 00001||
+[Info][Save][31][05/07/15 15:09:10] SAVE Schedule
+[Info][Save][31][05/07/15 15:09:40] SAVE Schedule
+[Info][WaitingForServer][71][05/07/15 15:20:19] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:20:19] LOAD Schedule
+[Info][Start][99][05/07/15 15:20:19] 
+[Info][ThreadStart][105][05/07/15 15:20:19] 
+[Info][ThreadStart][124][05/07/15 15:20:19] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][84][05/07/15 15:20:19] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:20:19] CClient: 00001||
+[Info][SendMessages][32][05/07/15 15:20:20] 
+[Info][ThreadStart][124][05/07/15 15:20:20] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 15:20:20] 
+[Info][ThreadSendMessages][43][05/07/15 15:20:20] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][05/07/15 15:20:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][WaitingForServer][71][05/07/15 15:20:42] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:20:42] LOAD Schedule
+[Info][Start][99][05/07/15 15:20:42] 
+[Info][ThreadStart][105][05/07/15 15:20:42] 
+[Info][ThreadStart][124][05/07/15 15:20:42] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][84][05/07/15 15:20:42] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:20:42] CClient: 00001||
+[Info][SendMessages][32][05/07/15 15:20:42] 
+[Info][ThreadStart][124][05/07/15 15:20:42] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 15:20:42] 
+[Info][ThreadSendMessages][43][05/07/15 15:20:42] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][05/07/15 15:20:45] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][31][05/07/15 15:20:54] SAVE Schedule
+[Info][WaitingForServer][71][05/07/15 15:22:05] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:22:05] LOAD Schedule
+[Info][Start][99][05/07/15 15:22:05] 
+[Info][ThreadStart][105][05/07/15 15:22:05] 
+[Info][ThreadWaitingForServer][84][05/07/15 15:22:05] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:22:05] CClient: 00001||
+[Info][ThreadStart][124][05/07/15 15:22:26] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][SendMessages][32][05/07/15 15:22:26] 
+[Info][ThreadSendMessages][38][05/07/15 15:22:26] 
+[Info][ThreadSendMessages][43][05/07/15 15:22:26] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][31][05/07/15 15:22:31] SAVE Schedule
+[Info][WaitingForServer][71][05/07/15 15:47:03] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:47:03] LOAD Schedule
+[Info][Start][99][05/07/15 15:47:03] 
+[Info][ThreadStart][105][05/07/15 15:47:03] 
+[Info][ThreadStart][124][05/07/15 15:47:03] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 15:47:04] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/07/15 15:47:04] 
+[Info][ThreadStart][124][05/07/15 15:47:04] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][38][05/07/15 15:47:04] 
+[Info][ThreadWaitingForServer][81][05/07/15 15:47:08] >>>[ping serwera]<<<
+[Info][Save][31][05/07/15 15:47:09] SAVE Schedule
+[Info][WaitingForServer][71][05/07/15 15:47:37] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:47:37] LOAD Schedule
+[Info][Start][99][05/07/15 15:47:37] 
+[Info][ThreadStart][105][05/07/15 15:47:37] 
+[Info][ThreadStart][124][05/07/15 15:47:37] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][SendMessages][32][05/07/15 15:47:37] 
+[Info][ThreadSendMessages][38][05/07/15 15:47:37] 
+[Info][ThreadWaitingForServer][81][05/07/15 15:47:38] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:47:42] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:47:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:47:50] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][84][05/07/15 15:47:53] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:47:53] CClient: 00001||
+[Info][ThreadSendMessages][43][05/07/15 15:47:55] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][WaitingForServer][71][05/07/15 15:48:02] Thread: Oczekiwanie na serwer....
+[Info][ThreadWaitingForServer][81][05/07/15 15:48:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][84][05/07/15 15:48:06] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:48:06] CClient: 00001||
+[Info][WaitingForServer][71][05/07/15 15:48:11] Thread: Oczekiwanie na serwer....
+[Info][ThreadWaitingForServer][81][05/07/15 15:48:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:48:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:48:20] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:48:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:48:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:48:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:48:36] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:48:40] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/07/15 15:48:42] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][84][05/07/15 15:48:43] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:48:43] CClient: 00001||
+[Info][ThreadSendMessages][43][05/07/15 15:48:44] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][WaitingForServer][71][05/07/15 15:48:47] Thread: Oczekiwanie na serwer....
+[Info][ThreadWaitingForServer][81][05/07/15 15:48:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][84][05/07/15 15:48:51] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:48:51] CClient: 00001||
+[Info][WaitingForServer][71][05/07/15 15:50:02] Thread: Oczekiwanie na serwer....
+[Info][ThreadWaitingForServer][81][05/07/15 15:50:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:50:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:50:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:50:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:50:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][84][05/07/15 15:50:22] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:50:22] CClient: 00001||
+[Info][WaitingForServer][71][05/07/15 15:50:29] Thread: Oczekiwanie na serwer....
+[Info][ThreadWaitingForServer][81][05/07/15 15:50:30] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:50:34] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:50:38] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:50:42] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:50:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:50:50] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:50:54] >>>[ping serwera]<<<
+[Info][Save][31][05/07/15 15:50:56] SAVE Schedule
+[Info][WaitingForServer][71][05/07/15 15:52:43] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:52:43] LOAD Schedule
+[Info][Start][99][05/07/15 15:52:43] 
+[Info][ThreadStart][105][05/07/15 15:52:43] 
+[Info][ThreadStart][124][05/07/15 15:52:43] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][84][05/07/15 15:52:43] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:52:43] CClient: 00001||
+[Info][SendMessages][32][05/07/15 15:52:43] 
+[Info][ThreadSendMessages][38][05/07/15 15:52:43] 
+[Info][ThreadSendMessages][43][05/07/15 15:52:43] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][WaitingForServer][71][05/07/15 15:52:55] Thread: Oczekiwanie na serwer....
+[Info][ThreadWaitingForServer][81][05/07/15 15:52:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][84][05/07/15 15:52:59] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:52:59] CClient: 00001||
+[Info][WaitingForServer][71][05/07/15 15:53:01] Thread: Oczekiwanie na serwer....
+[Info][ThreadWaitingForServer][81][05/07/15 15:53:02] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:53:06] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][84][05/07/15 15:53:09] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:53:09] CClient: 00001||
+[Info][WaitingForServer][71][05/07/15 15:53:10] Thread: Oczekiwanie na serwer....
+[Info][ThreadWaitingForServer][81][05/07/15 15:53:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][84][05/07/15 15:53:14] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:53:14] CClient: 00001||
+[Info][WaitingForServer][71][05/07/15 15:53:16] Thread: Oczekiwanie na serwer....
+[Info][ThreadWaitingForServer][81][05/07/15 15:53:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:53:21] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:53:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:53:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:53:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:53:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:53:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:53:45] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/07/15 15:53:47] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 15:53:49] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/07/15 15:53:53] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/07/15 15:53:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:53:57] >>>[ping serwera]<<<
+[Info][Save][31][05/07/15 15:53:59] SAVE Schedule
+[Info][Save][31][05/07/15 15:54:00] SAVE Schedule

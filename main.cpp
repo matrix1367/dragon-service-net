@@ -277,6 +277,7 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
     case WM_CLOSE:
     {
+        CDSetting::getInstance().Save();
         EndDialog(hwndDlg, 0);
     }
     return TRUE;
@@ -296,6 +297,7 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
                 }
             case ID_MENU_EXIT:
                 {
+                    CDSetting::getInstance().Save();
                     EndDialog(hwndDlg, 0);
                     break;
                 }

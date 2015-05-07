@@ -9,6 +9,9 @@
 #define IDR_MENU1                               103
 #define IDR_MENU_SCHEDUL_EDIT                   105
 #define IDD_DIALOG_SETTING                      107
+#define IDSAVE                                  108
+#define IDD_ID_TASK                             109
+#define IDR_MENU_POP                            110
 #define DLG_SCHEDULE_LISTVIE                    40000
 #define IDD_DIALOG_SETTING_PORT                 41000
 #define IDD_DIALOG_SETTING_IP                   41001
@@ -50,6 +53,7 @@
 #define IDI_ICON1   40035
 #define IDD_DIALOG_NEXT_H   40036
 #define ID_MENU_NEXT_HOURS 40037
+
 
 #ifdef mCTRL
 #define IDC_CHART_LINE 40038

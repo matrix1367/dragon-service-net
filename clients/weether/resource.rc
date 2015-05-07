@@ -12,12 +12,12 @@
 #endif // mCTRL
 
 LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
-IDI_ICON1          ICON           "F:\\projects\\dragon-service-net-master\\clients\\weether\\img\\weather-icon.ico"
+IDI_ICON1          ICON           "\\img\\weather-icon.ico"
 
 LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
-IDB_BITMAP2        BITMAP         "F:\\projects\\dragon-service-net-master\\clients\\weether\\img\\up.bmp"
-IDB_BITMAP3        BITMAP         "F:\\projects\\dragon-service-net-master\\clients\\weether\\img\\down.bmp"
-IDB_BITMAP1        BITMAP         "F:\\projects\\dragon-service-net-master\\clients\\weether\\img\\01d.bmp"
+IDB_BITMAP2        BITMAP         "img\\up.bmp"
+IDB_BITMAP3        BITMAP         "img\\down.bmp"
+IDB_BITMAP1        BITMAP         "img\\01d.bmp"
 
 //
 // Menu resources
@@ -63,8 +63,15 @@ IDR_MENU_SCHEDUL_EDIT_ACTIVE MENU
     }
 }
 
-
-
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+IDR_MENU_POP MENU
+{
+    POPUP ""
+    {
+        MENUITEM "Next hours", ID_MENU_NEXT_HOURS
+        MENUITEM "Exit", ID_MENU_EXIT
+    }
+}
 
 
 
@@ -140,12 +147,14 @@ FONT 8, "Ms Shell Dlg"
 {
     COMBOBOX        IDD_DIALOG_TASK_JOB, 64, 98, 137, 30, CBS_DROPDOWN | CBS_HASSTRINGS, WS_EX_LEFT
     LTEXT           "Job", 0, 15, 100, 12, 9, SS_LEFT, WS_EX_LEFT
+    LTEXT           "0", IDD_ID_TASK, 138, 146, 66, 9, SS_LEFT, WS_EX_LEFT
     AUTOCHECKBOX    "Interval", IDD_DIALOG_TASK_CHECK_INTERVAL, 15, 78, 39, 8, 0, WS_EX_LEFT
     CONTROL         "", IDD_DIALOG_TASK_DATE_ST, DATETIMEPICK_CLASS, WS_TABSTOP | DTS_RIGHTALIGN, 64, 32, 79, 15, WS_EX_LEFT
     CONTROL         "", IDD_DIALOG_TASK_TIME_ST, DATETIMEPICK_CLASS, WS_TABSTOP | DTS_TIMEFORMAT | DTS_UPDOWN | DTS_RIGHTALIGN, 152, 32, 50, 15, WS_EX_LEFT
     LTEXT           "Start", 0, 15, 33, 16, 9, SS_LEFT, WS_EX_LEFT
     PUSHBUTTON      "Cancel", IDCANCEL, 74, 144, 50, 14, 0, WS_EX_LEFT
-    DEFPUSHBUTTON   "OK", IDOK, 12, 144, 50, 14, 0, WS_EX_LEFT
+    DEFPUSHBUTTON   "Add", IDOK, 12, 144, 50, 14, 0, WS_EX_LEFT
+    DEFPUSHBUTTON   "Save", IDSAVE, 12, 144, 50, 14, NOT WS_VISIBLE, WS_EX_LEFT
     EDITTEXT        IDD_DIALOG_TASK_NAME, 64, 10, 139, 15, ES_AUTOHSCROLL, WS_EX_LEFT
     LTEXT           "Name", 0, 15, 11, 20, 9, SS_LEFT, WS_EX_LEFT
     EDITTEXT        IDD_DIALOG_TASK_INTERVAL, 64, 76, 137, 15, WS_DISABLED | ES_AUTOHSCROLL, WS_EX_LEFT

@@ -51,7 +51,7 @@ void UpdateTrayIcon(HWND hWnd, UINT uID, UINT uCallbackMsg, UINT uIcon, std::str
                       nid.dwInfoFlags = NIIF_WARNING;
 
       ExtractIconEx( icon.c_str(), 0, NULL, &(nid.hIcon), 1 );
-      strcpy       (nid.szTip, "Weater");
+      strcpy(nid.szTip, CModels::getInstance().GetTopicalWeather("NULL").c_str());
 
       //SEND MESSAGE TO SYSTEM TRAY TO ADD ICON.--------------------------------------------
       Shell_NotifyIcon( NIM_MODIFY, &nid );
@@ -68,8 +68,8 @@ void AddTrayIcon( HWND hWnd, UINT uID, UINT uCallbackMsg, UINT uIcon )
                       nid.uID              = uID;
                       nid.uFlags           = NIF_ICON | NIF_MESSAGE | NIF_TIP;
                       nid.uCallbackMessage = uCallbackMsg;
-      ExtractIconEx( "F:\\projects\\dragon-service-net-master\\clients\\weether\\img\\01d.ico", 0, NULL, &(nid.hIcon), 1 );
-      strcpy       (nid.szTip, "Weater");
+      ExtractIconEx( "img\\01d.ico", 0, NULL, &(nid.hIcon), 1 );
+      strcpy(nid.szTip, "Weater");
 
       //SEND MESSAGE TO SYSTEM TRAY TO ADD ICON.--------------------------------------------
       Shell_NotifyIcon( NIM_ADD, &nid );
@@ -128,7 +128,16 @@ BOOL CALLBACK DlgTask(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     {
     case WM_INITDIALOG:
     {
-          printf("WM_INITDIALOG DlgTask: select item : %d\n", lParam);
+       // printf("WM_INITDIALOG DlgTask: select item : %d\n", lParam);
+            std::vector<std::string> strJob = CJobsManager::getInstance().GetStrAllNameJob();
+            HWND hWndComboBox = GetDlgItem(hwndDlg, IDD_DIALOG_TASK_JOB);
+
+            for (std::vector<std::string>::iterator it = strJob.begin(); it != strJob.end() ; it++)
+            {
+                SendMessage(hWndComboBox,(UINT) CB_ADDSTRING,(WPARAM) 0,(LPARAM) (*it).c_str());
+            }
+
+
         if (lParam > 0)
         {
             // CTask taskEdit
@@ -141,25 +150,42 @@ BOOL CALLBACK DlgTask(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
             HWND hTimeE = GetDlgItem(hwndDlg,IDD_DIALOG_TASK_TIME_END);
             HWND hInterval = GetDlgItem(hwndDlg,IDD_DIALOG_TASK_INTERVAL);
             HWND hSetting = GetDlgItem(hwndDlg,IDD_DIALOG_TASK_SETTING);
+            HWND hButtonOK = GetDlgItem(hwndDlg,IDOK);
+            HWND hButtonSave = GetDlgItem(hwndDlg,IDSAVE);
+            HWND hLabelID = GetDlgItem(hwndDlg, IDD_ID_TASK);
 
-           // SetWindowText( hName, task->GetStrName());
-            /*SetWindowText( hEditIP, task. );
-            SetWindowText( hEditIP, task. );
-            SetWindowText( hEditIP, task. );
-            SetWindowText( hEditIP, task. );
-            SetWindowText( hEditIP, task. );
-            SetWindowText( hEditIP, task. );
-            */
+           // HWND hCheckBoxInterval = GetDlgItem(hwndDlg,IDD_DIALOG_TASK_CHECK_INTERVAL);
+           // HWND hCheckBoxDataEnd = GetDlgItem(hwndDlg,IDD_DIALOG_TASK_CHECK_STOP);
+
+            SetWindowText( hLabelID, task->GetStrID().c_str());
+            SetWindowText( hName, task->GetStrName().c_str());
+            SetWindowText( hInterval, task->GetStrInterval().c_str() );
+            SetWindowText( hSetting, task->GetStrString().c_str() );
+            SYSTEMTIME dataStart = task->GetDataStart();
+            SYSTEMTIME dataEnd = task->GetDataEnd();
+            SendMessage( hDataS, DTM_SETSYSTEMTIME, 0,( LPARAM ) &dataStart );
+            SendMessage( hTimeS, DTM_SETSYSTEMTIME, 0,( LPARAM ) &dataStart );
+            SendMessage( hDataE, DTM_SETSYSTEMTIME, 0,( LPARAM ) &dataEnd );
+            SendMessage( hTimeE, DTM_SETSYSTEMTIME, 0,( LPARAM ) &dataEnd );
+
+            if (task->GetInterval() > 0)
+            {
+                    CheckDlgButton(hwndDlg, IDD_DIALOG_TASK_CHECK_INTERVAL, BST_CHECKED);
+                    EnableWindow(hInterval, true);
+            }
+            if (task->GetDateEnd() > 0) {
+                CheckDlgButton(hwndDlg, IDD_DIALOG_TASK_CHECK_STOP, BST_CHECKED);
+                EnableWindow(hDataE, true); EnableWindow(hTimeE, true);
+            }
+
+            SendMessage((HWND) hWndComboBox, (UINT) CB_SETCURSEL,(WPARAM) CJobsManager::getInstance().GetIndexJob(task->GetIdJob()), (LPARAM) 0);
+
+            ShowWindow(hButtonOK,SW_HIDE);
+            ShowWindow(hButtonSave,SW_SHOW);
         }
         else
         {
-            std::vector<std::string> strJob = CJobsManager::getInstance().GetStrAllNameJob();
-            HWND hWndComboBox = GetDlgItem(hwndDlg, IDD_DIALOG_TASK_JOB);
 
-            for (std::vector<std::string>::iterator it = strJob.begin(); it != strJob.end() ; it++)
-            {
-                SendMessage(hWndComboBox,(UINT) CB_ADDSTRING,(WPARAM) 0,(LPARAM) (*it).c_str());
-            }
             SendMessage((HWND) hWndComboBox, (UINT) CB_SETCURSEL,(WPARAM) 0, (LPARAM) 0);
         }
     }
@@ -227,6 +253,36 @@ BOOL CALLBACK DlgTask(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
             EndDialog(hwndDlg, IDOK);
             break;
         }
+        case IDSAVE:
+            {
+                //edycja
+                std::string IdTask = GetWindowText(hwndDlg,IDD_ID_TASK);
+                std::string name = GetWindowText(hwndDlg,IDD_DIALOG_TASK_NAME);
+                std::string dateSt = GetWindowText(hwndDlg,IDD_DIALOG_TASK_DATE_ST);
+                std::string timeSt = GetWindowText(hwndDlg,IDD_DIALOG_TASK_TIME_ST);
+                std::string dateEnd = GetWindowText(hwndDlg,IDD_DIALOG_TASK_DATE_END);
+                std::string timeEnd = GetWindowText(hwndDlg,IDD_DIALOG_TASK_TIME_END);
+                std::string interval = GetWindowText(hwndDlg,IDD_DIALOG_TASK_INTERVAL);
+                std::string settingJob = GetWindowText(hwndDlg,IDD_DIALOG_TASK_SETTING);
+                int intInterval = 0;
+                time_t tDateSt = ConvertStringToTime_T(dateSt, timeSt);
+                time_t tDateEnd = 0;
+                if (SendDlgItemMessage(hwndDlg,IDD_DIALOG_TASK_CHECK_STOP ,BM_GETCHECK,0,0)==BST_CHECKED)
+                {
+                    tDateEnd = ConvertStringToTime_T(dateEnd, timeEnd);
+                }
+
+                if (SendDlgItemMessage(hwndDlg,IDD_DIALOG_TASK_CHECK_INTERVAL ,BM_GETCHECK,0,0)==BST_CHECKED)
+                {
+                    intInterval = atoi(interval.c_str());
+                }
+                HWND hWndComboBox = GetDlgItem(hwndDlg, IDD_DIALOG_TASK_JOB);
+                int index = SendMessage((HWND) hWndComboBox, (UINT) CB_GETCURSEL,(WPARAM) 0, (LPARAM) 0);
+                long long idTask = atoll(IdTask.c_str());
+                CScheduleManager::getInstance().EditTask(idTask ,name, tDateSt, tDateEnd , intInterval, CJobsManager::getInstance().GetIdJob(index),settingJob);
+                EndDialog(hwndDlg, IDOK);
+                break;
+            }
         case IDCANCEL:
         {
             EndDialog(hwndDlg, IDCANCEL);
@@ -290,7 +346,7 @@ BOOL CALLBACK DlgSchedule(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
         ListView_InsertColumn( listView, 0, & lvc );
 
         lvc.iSubItem = 0;
-        lvc.cx = 120;
+        lvc.cx = 150;
         lvc.pszText = name;
         ListView_InsertColumn( listView, 1, & lvc );
 
@@ -384,9 +440,9 @@ BOOL CALLBACK DlgSchedule(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
             //printf("IDR_MENU_SCHEDUL_EDIT_EDIT: select item : %d\n", iPos);
 
 
-            HWND hwndEdit;
+
             //int res =  DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_TASK), hwndEdit, (DLGPROC)DlgTask);
-            hwndEdit = CreateDialogParam(hInst, MAKEINTRESOURCE(IDD_DIALOG_TASK), hwndDlg, (DLGPROC)DlgTask, iPos+1);
+            CreateDialogParam(hInst, MAKEINTRESOURCE(IDD_DIALOG_TASK), hwndDlg, (DLGPROC)DlgTask, iPos+1);
          //   if (res == IDOK)
           //  {
          //       CEventManager::getInstance().Send(EVENT_ADD_SCHEDULE);
@@ -507,8 +563,8 @@ void RefreshDlgMain(TypeParmT parm)
     SetWindowText(hNameHumidtly, (dataWeether.main.getStr_humidity() + " %").c_str());
     SetWindowText(hTime, godzina);
 
-    std::string pathImg = "F:\\projects\\dragon-service-net-master\\clients\\weether\\img\\" + dataWeether.icon + ".bmp";
-    std::string pathIcon = "F:\\projects\\dragon-service-net-master\\clients\\weether\\img\\" + dataWeether.icon + ".ico";
+    std::string pathImg = "img\\" + dataWeether.icon + ".bmp";
+    std::string pathIcon = "img\\" + dataWeether.icon + ".ico";
 
     hBitmap  = (HBITMAP)LoadImage(hInst, pathImg.c_str(), IMAGE_BITMAP, 0, 0, LR_LOADFROMFILE);
     InvalidateRect(hwndDlg, NULL, true);
@@ -745,7 +801,7 @@ BOOL CALLBACK DlgNextHours(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam
         RECT rect;
         rect.left= widthWindow - marginRight + 45;
         rect.top= marginTop + 21;
-        DrawText( hdc, "Poznan", -1, &rect, DT_SINGLELINE | DT_NOCLIP   ) ;
+        DrawText( hdc, "Poznan C", -1, &rect, DT_SINGLELINE | DT_NOCLIP   ) ;
 
         rect.left= widthWindow - marginRight + 15;
         rect.top= mediumYiHeight-8;
@@ -849,7 +905,6 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     {
     case WM_PAINT:
     {
-
         PAINTSTRUCT 	ps;
     	HDC 			hdc;
     	BITMAP 			bitmap;
@@ -886,7 +941,7 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
         event.handleFunction = &RefreshDlgMain;
         CEventManager::getInstance().Subscribe(event);
 
-         hBitmap  = (HBITMAP)LoadImage(hInst, "F:\\projects\\dragon-service-net-master\\clients\\weether\\img\\01d.bmp", IMAGE_BITMAP, 0, 0, LR_LOADFROMFILE);
+         hBitmap  = (HBITMAP)LoadImage(hInst, "img\\01d.bmp", IMAGE_BITMAP, 0, 0, LR_LOADFROMFILE);
          AddTrayIcon( hwndDlg, ID_TRAY1, WM_APP, 0 );
     }
     return TRUE;
@@ -902,10 +957,17 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
     case WM_APP:
     {
-        if( wParam == ID_TRAY1 )
-        if( lParam == WM_LBUTTONDOWN )
-             ShowWindow( hwndDlg, SW_RESTORE );
-
+        if( wParam == ID_TRAY1 ) {
+            if( lParam == WM_LBUTTONDOWN )
+                ShowWindow( hwndDlg, SW_RESTORE );
+            if ( lParam == WM_RBUTTONDOWN) {
+                HMENU popMenu = LoadMenu(hInst,  MAKEINTRESOURCE(IDR_MENU_POP));
+                popMenu =  GetSubMenu(popMenu, 0);
+                POINT pp;
+                GetCursorPos(&pp);
+                TrackPopupMenu(popMenu, TPM_LEFTALIGN | TPM_LEFTBUTTON,	pp.x,pp.y, 0, hwndDlg, NULL);
+            }
+        }
     }
     break;
 
@@ -953,6 +1015,7 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
         {
             CScheduleManager::getInstance().Save();
             CDSetting::getInstance().Save();
+            RemoveTrayIcon (hwndDlg, ID_TRAY1);
             EndDialog(hwndDlg, 0);
             break;
         }

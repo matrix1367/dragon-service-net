@@ -26,7 +26,8 @@ class CModels
         void UpdateWeether();
         bool IsConnect() { return client.IsConnect(); }
         bool GetWeether(const std::string& nameCity, DataWeether & data);
-        bool GetWeatherList(const std::string& nameCity, DataWeetherNextHours& data);        
+        bool GetWeether(const std::string& nameCity, DataWeetherNextHours& data);
+        std::string GetAc
     protected:
     private:
         CModels();

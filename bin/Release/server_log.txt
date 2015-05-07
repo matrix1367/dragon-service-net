@@ -1,0 +1,24 @@
+[Warning][Load][60][05/07/15 15:37:04] Wczytanie ustawieñ nie powiod³o siê.
+[Info][CommandParser][101][05/07/15 15:37:18] 00002|Weather|
+[Info][CommandParser][108][05/07/15 15:37:18] cmd: CMD_SET_NAME_CLIENT
+[Warning][Load][60][05/07/15 15:37:56] Wczytanie ustawieñ nie powiod³o siê.
+[Info][CommandParser][101][05/07/15 15:37:57] 00002|Weather|
+[Info][CommandParser][108][05/07/15 15:37:57] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/07/15 15:38:01] 00002|Weather|
+[Info][CommandParser][108][05/07/15 15:38:01] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/07/15 15:38:03] 00002|Weather|
+[Info][CommandParser][108][05/07/15 15:38:03] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/07/15 15:38:04] 00002|Weather|
+[Info][CommandParser][108][05/07/15 15:38:04] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/07/15 15:38:05] 00002|Weather|
+[Info][CommandParser][108][05/07/15 15:38:05] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/07/15 15:38:54] 00002|Weather|
+[Info][CommandParser][108][05/07/15 15:38:54] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/07/15 15:38:55] 00002|Weather|
+[Info][CommandParser][108][05/07/15 15:38:55] cmd: CMD_SET_NAME_CLIENT
+[Warning][Load][60][05/07/15 15:39:11] Wczytanie ustawieñ nie powiod³o siê.
+[Info][CommandParser][101][05/07/15 15:39:11] 00002|Weather|
+[Info][CommandParser][108][05/07/15 15:39:11] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/07/15 15:39:13] 00002|Weather|
+[Info][CommandParser][108][05/07/15 15:39:13] cmd: CMD_SET_NAME_CLIENT
+[Warning][Load][60][05/07/15 15:39:20] Wczytanie ustawieñ nie powiod³o siê.

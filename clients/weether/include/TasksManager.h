@@ -34,7 +34,7 @@ class CJobsManager
         std::vector<std::string> GetStrAllNameJob();
         std::string GetStrNameJob(int IdJob);
         int GetIdJob(int indexJob);
-
+        int GetIndexJob(int IdJob);
     protected:
     private:
         CJobsManager();

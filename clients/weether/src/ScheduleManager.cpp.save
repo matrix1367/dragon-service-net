@@ -10,19 +10,10 @@
 CScheduleManager::CScheduleManager()
 {
     isStopSchedule = false;
- //   time_t now;
-  //  time( & now );
-
-    //AddTask("taskkk",now + 39 , 0, 12);
-     //AddTask("tasasdadasdkkk",now + 38 , 0, 12);
-      //AddTask("tas23423423kkk",now + 37 , 0, 12);
-
-   // AddTask("tassooo", now+21, now+28, 0);
 }
 
 CScheduleManager::~CScheduleManager()
 {
-    //dtor
 }
 
 void CScheduleManager::AddTask(std::string name, time_t st, time_t  en, int interval, int IDJob,    std::string setting)
@@ -37,9 +28,8 @@ void CScheduleManager::AddTask(std::string name, time_t st, time_t  en, int inte
 
 void CScheduleManager::Save()
 {
-    CDLog::Write( __FUNCTION__ , __LINE__, Info, "" );
-    printf("SAVE Schedule\n");
-    ofstream out_file("task.txt", ios::out | ios::binary | ios::trunc);
+    CDLog::Write( __FUNCTION__ , __LINE__, Info, "SAVE Schedule" );
+    ofstream out_file("task.dat", ios::out | ios::binary | ios::trunc);
     if (!out_file) return;
     for (std::list<CTask>::iterator itVCTask = schedules.begin(); itVCTask != schedules.end(); ++itVCTask++ )
     {
@@ -51,9 +41,8 @@ void CScheduleManager::Save()
 
 void CScheduleManager::Load()
 {
-    CDLog::Write( __FUNCTION__ , __LINE__, Info, "" );
-    printf("LOAD Schedule\n");
-    ifstream in_file("task.txt", ios::in | ios::binary);
+    CDLog::Write( __FUNCTION__ , __LINE__, Info, "LOAD Schedule" );
+    ifstream in_file("task.dat", ios::in | ios::binary);
     if (!in_file) return ;
 
     in_file.seekg (0, in_file.end);
@@ -82,27 +71,16 @@ void CTask::GetNextTask(CTask* task) {
 
 void CScheduleManager::RemoveTask(unsigned index)
 {
-//    CDLog::Write( __FUNCTION__ , __LINE__, Info, "_begin" );
-unsigned int i = 0;
-for (std::list<CTask>::iterator itVCTask = schedules.begin(); itVCTask != schedules.end(); ++itVCTask , i++)
-{
 
-    if(i == index) {
-        schedules.erase(itVCTask);
-        break;
+    unsigned int i = 0;
+    for (std::list<CTask>::iterator itVCTask = schedules.begin(); itVCTask != schedules.end(); ++itVCTask , i++)
+    {
+
+        if(i == index) {
+            schedules.erase(itVCTask);
+            break;
+        }
     }
-}
-/*
-    if (schedules.size() > index) {
-        CDLog::Write( __FUNCTION__ , __LINE__, Info, "Usuniety schedul o id: " + CDLog::ToString(index) );
-        std::list<CTask>::iterator it = schedules.begin();
-        advance(it, index);
-        schedules.erase(it);
-    } else {
-        CDLog::Write( __FUNCTION__ , __LINE__, Info, "Nieprawidlowe id " + CDLog::ToString(index) );
-    }
-*/
- //   CDLog::Write( __FUNCTION__ , __LINE__, Info, "_end" );
 }
 
 CTask* CScheduleManager::GetTask(int index)
@@ -263,6 +241,29 @@ std::string CTask::GetStrInterval()
     return CDLog::ToString(m_interval);
 }
 
+std::string CTask::GetStrID()
+{
+     return CDLog::ToString(m_ID);
+}
+
+
+bool CScheduleManager::EditTask(long long ID, std::string name, time_t st, time_t en, int interval, int IDJob, std::string setting)
+{
+    for ( std::list<CTask>::iterator it = schedules.begin(); it != schedules.end(); it++){
+        if (ID == it->GetID())
+        {
+            it->SetName(name);
+            it->SetDateStart(st);
+            it->SetDataEnd(en);
+            it->SetInterval(interval);
+            it->SetIdJob(IDJob);
+            it->SetSetting(setting);
+            printf("Update Task ID:%d", it->GetID());
+        }
+    }
+}
+
+
 
 void CTask::SetName(std::string name)
 {
@@ -317,6 +318,41 @@ int CTask::GetIdJob()
 void CTask::SetSetting(const std::string &setting)
 {
     strcpy(m_setting, setting.c_str());
+}
+
+std::string CTask::GetStrString()
+{
+    return m_setting;
+}
+
+SYSTEMTIME CTask::GetDataStart()
+{
+    SYSTEMTIME result;
+    struct tm * data;
+    data = localtime( & m_dateStart );
+
+    result.wDay = data->tm_mday;
+    result.wHour = data->tm_hour;
+    result.wMinute = data->tm_min;
+    result.wMonth = data->tm_mon;
+    result.wSecond =data->tm_sec;
+    result.wYear = data->tm_year;
+    return result;
+}
+
+SYSTEMTIME CTask::GetDataEnd()
+{
+    SYSTEMTIME result;
+    struct tm * data;
+    data = localtime( & m_dateEnd );
+
+    result.wDay = data->tm_mday;
+    result.wHour = data->tm_hour;
+    result.wMinute = data->tm_min;
+    result.wMonth = data->tm_mon;
+    result.wSecond =data->tm_sec;
+    result.wYear = data->tm_year;
+    return result;
 }
 
 
