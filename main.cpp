@@ -79,7 +79,7 @@ BOOL CALLBACK IddQueue(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
         char lp[] = {"lp"};
         char nameClient[] = {"Klient"};
-        char title[] = {"TytuÂ³"};
+        char title[] = {"Tytu³"};
         char description[] = {"Opis"};
 
         LVCOLUMN lvc;

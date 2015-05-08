@@ -1,0 +1,17 @@
+#ifndef CDATABASE_H
+#define CDATABASE_H
+#include <st
+
+class CDataBase
+{
+    public:
+        CDataBase();
+        virtual ~CDataBase();
+        bool Connect();
+        bool Disconnect();
+        void Exec(std::string sql);
+    protected:
+    private:
+};
+
+#endif // CDATABASE_H
