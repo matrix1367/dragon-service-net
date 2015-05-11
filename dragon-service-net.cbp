@@ -14,10 +14,12 @@
 				<Compiler>
 					<Add option="-g" />
 					<Add directory="include" />
+					<Add directory="lib/EngineDataBase/include" />
 				</Compiler>
 				<Linker>
 					<Add option="-lWS2_32" />
 					<Add option="-lShlwapi" />
+					<Add library="lib\EngineDataBase\bin\Debug\libEngineDataBase.a" />
 				</Linker>
 			</Target>
 			<Target title="Release">
@@ -49,6 +51,7 @@
 		<Unit filename="include/CDSerialize.h" />
 		<Unit filename="include/CDSetting.h" />
 		<Unit filename="include/EventManager.h" />
+		<Unit filename="include/ManagerDataBase.h" />
 		<Unit filename="include/Message.h" />
 		<Unit filename="include/MessageManager.h" />
 		<Unit filename="include/Models.h" />
@@ -64,6 +67,7 @@
 		<Unit filename="src/CDLog.cpp" />
 		<Unit filename="src/CDSetting.cpp" />
 		<Unit filename="src/EventManager.cpp" />
+		<Unit filename="src/ManagerDataBase.cpp" />
 		<Unit filename="src/Message.cpp" />
 		<Unit filename="src/MessageManager.cpp" />
 		<Unit filename="src/Models.cpp" />

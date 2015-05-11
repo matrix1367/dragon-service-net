@@ -1,7 +1,7 @@
 //#define UNICODE
 
 #ifndef _WIN32_IE
-  #define  _WIN32_IE 0x0400
+#define  _WIN32_IE 0x0400
 #endif // _WIN32_IE
 
 #include <windows.h>
@@ -16,7 +16,8 @@
 
 HINSTANCE hInst;
 
-std::string GetWindowText(HWND hwndDlg, int id) {
+std::string GetWindowText(HWND hwndDlg, int id)
+{
     TCHAR buffDataOd[1024];
     HWND hwndComponnent =       GetDlgItem(hwndDlg, id);
     GetWindowText(hwndComponnent, buffDataOd, 1024);
@@ -31,9 +32,10 @@ void RefreshListViewMessage(TypeParmT parm)
     int i = 0;
     ListView_DeleteAllItems(parm.handle);
     std::list<CMessage> message = CMessageManager::GetInstance().GetMessages();
-    for (std::list<CMessage>::reverse_iterator it= message.rbegin(); it != message.rend(); it++) {
+    for (std::list<CMessage>::reverse_iterator it= message.rbegin(); it != message.rend(); it++)
+    {
         char buffer[5];
-        itoa(message.size()-1,buffer,10);
+        itoa(message.size()-i,buffer,10);
 
         lvi.pszText = const_cast<char * >(std::string(buffer).c_str());
         lvi.iItem = i;
@@ -56,7 +58,8 @@ void AddLastItemListViewMessage(TypeParmT parm)
     std::list<CMessage> message = CMessageManager::GetInstance().GetMessages();
     int i = 0;
     char buffer[5];
-    itoa(message.size()-1,buffer,10);
+
+    itoa(ListView_GetItemCount(listView)+1,buffer,10);
 
     lvi.pszText = const_cast<char * >(std::string(buffer).c_str());
     lvi.iItem = i;
@@ -129,6 +132,17 @@ BOOL CALLBACK IddQueue(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     {
         switch(LOWORD(wParam))
         {
+        case IDR_MENU_POP1_DELETE:
+        {
+            // int iSelected = -1;
+            // iSelected = SendMessage(GetDlgItem(hwndDlg,IDD_QUEUE_LISTVIEW), LVM_GETNEXTITEM, -1,LVNI_SELECTED);
+            HWND hListView= GetDlgItem(hwndDlg,IDD_QUEUE_LISTVIEW);
+            for (int itemInt = -1; (itemInt = SendMessage(hListView, LVM_GETNEXTITEM, itemInt , LVNI_SELECTED)) != -1; )
+            {
+                CModels::getInstance().RmoveMessage(itemInt);
+                ListView_DeleteItem(hListView,itemInt);
+            }
+        }
         }
     }
     return TRUE;
@@ -140,19 +154,33 @@ BOOL CALLBACK IddQueue(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     }
     return true;
 
+    case WM_CONTEXTMENU:
+    {
+        int iSelected = -1;
+        iSelected = SendMessage(GetDlgItem(hwndDlg,IDD_QUEUE_LISTVIEW), LVM_GETNEXTITEM, -1,LVNI_SELECTED);
+
+        POINT cursor;
+        GetCursorPos(&cursor);
+        if (iSelected != -1)
+        {
+            TrackPopupMenu((HMENU) GetSubMenu(LoadMenu(hInst, MAKEINTRESOURCE(IDR_MENU_POP1)), 0), TPM_LEFTALIGN, cursor.x, cursor.y, 0, hwndDlg, NULL);
+        }
+    }
     }
     return FALSE;
 }
 
 
-void RefreshListViewClients(TypeParmT parm) {
+void RefreshListViewClients(TypeParmT parm)
+{
     HWND listView = parm.handle;
     LVITEM lvi;
     lvi.mask = LVIF_TEXT;
     int i = 0;
     ListView_DeleteAllItems(parm.handle);
     std::list<SClient> clients = CModels::getInstance().GetClients();
-    for (std::list<SClient>::iterator it= clients.begin(); it != clients.end(); it++) {
+    for (std::list<SClient>::iterator it= clients.begin(); it != clients.end(); it++)
+    {
         char buffer[5];
         itoa(i+1,buffer,10);
 
@@ -169,7 +197,8 @@ void RefreshListViewClients(TypeParmT parm) {
     }
 }
 
-void InitComponents(HWND hwnd) {
+void InitComponents(HWND hwnd)
+{
     HWND listView = GetDlgItem(hwnd,DLG_MAIN_LISTVIEW);
 
     char lp[] = {"lp"};
@@ -242,18 +271,20 @@ BOOL CALLBACK IddSetting(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     {
         switch(LOWORD(wParam))
         {
-            case IDOK: {
-                std::string ip = GetWindowText(hwndDlg,IDD_DIALOG_SETTING_IP);
-                std::string port = GetWindowText(hwndDlg,IDD_DIALOG_SETTING_PORT);
-                CDSetting::getInstance().SetIp(ip);
-                CDSetting::getInstance().SetPort(port);
-                EndDialog(hwndDlg, 0);
-                break;
-            }
-            case IDCANCEL: {
-                EndDialog(hwndDlg, 0);
-                break;
-            }
+        case IDOK:
+        {
+            std::string ip = GetWindowText(hwndDlg,IDD_DIALOG_SETTING_IP);
+            std::string port = GetWindowText(hwndDlg,IDD_DIALOG_SETTING_PORT);
+            CDSetting::getInstance().SetIp(ip);
+            CDSetting::getInstance().SetPort(port);
+            EndDialog(hwndDlg, 0);
+            break;
+        }
+        case IDCANCEL:
+        {
+            EndDialog(hwndDlg, 0);
+            break;
+        }
         }
 
     }
@@ -286,21 +317,22 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     {
         switch(LOWORD(wParam))
         {
-            case ID_QUEUE: {
-                DialogBox(hInst, MAKEINTRESOURCE(IDD_QUEUE), NULL, (DLGPROC)IddQueue);
-                break;
-            }
-            case ID_MENU_SETTING:
-                {
-                    DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_SETTING), NULL, (DLGPROC)IddSetting);
-                    break;
-                }
-            case ID_MENU_EXIT:
-                {
-                    CDSetting::getInstance().Save();
-                    EndDialog(hwndDlg, 0);
-                    break;
-                }
+        case ID_QUEUE:
+        {
+            DialogBox(hInst, MAKEINTRESOURCE(IDD_QUEUE), NULL, (DLGPROC)IddQueue);
+            break;
+        }
+        case ID_MENU_SETTING:
+        {
+            DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_SETTING), NULL, (DLGPROC)IddSetting);
+            break;
+        }
+        case ID_MENU_EXIT:
+        {
+            CDSetting::getInstance().Save();
+            EndDialog(hwndDlg, 0);
+            break;
+        }
         }
     }
     return TRUE;
@@ -321,6 +353,7 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLi
 {
     CDSetting::getInstance().Load();
     CModels::getInstance().Init();
+
     hInst=hInstance;
     InitCommonControls();
     return DialogBox(hInst, MAKEINTRESOURCE(DLG_MAIN), NULL, (DLGPROC)DlgMain);

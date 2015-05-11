@@ -81,17 +81,21 @@
 	<unicode/ubrk.h>
 	<unicode/utf16.h>
 
-1431093285 source:f:\projects\dragon-service-net-master\lib\enginedatabase\src\database.cpp
+1431333950 source:f:\projects\dragon-service-net-master\lib\enginedatabase\src\database.cpp
 	"DataBase.h"
 
-1431093825 f:\projects\dragon-service-net-master\lib\enginedatabase\include\database.h
+1431341103 f:\projects\dragon-service-net-master\lib\enginedatabase\include\database.h
 	<string>
+	<vector>
 
-1431093892 source:f:\projects\dragon-service-net-master\lib\enginedatabase\src\databasesqlite.cpp
+1431341103 source:f:\projects\dragon-service-net-master\lib\enginedatabase\src\databasesqlite.cpp
 	"DataBaseSQLITE.h"
+	<cstdio>
 
-1431093975 f:\projects\dragon-service-net-master\lib\enginedatabase\include\databasesqlite.h
+1431342659 f:\projects\dragon-service-net-master\lib\enginedatabase\include\databasesqlite.h
 	"DataBase.h"
+	"sqlite3.h"
+	<vector>
 
 1431010760 source:f:\projects\dragon-service-net-master\lib\enginedatabase\src\shell.c
 	"msvc.h"
@@ -172,4 +176,11 @@
 	<unicode/ucol.h>
 	<unicode/ubrk.h>
 	<unicode/utf16.h>
+
+1431337966 source:f:\projects\dragon-service-net-master\lib\enginedatabase\src\api_enginedatabase.cpp
+	"API_EngineDataBase.h"
+	"DataBaseSQLITE.h"
+
+1431341086 f:\projects\dragon-service-net-master\lib\enginedatabase\include\api_enginedatabase.h
+	"DataBase.h"
 

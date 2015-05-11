@@ -13,3 +13,5 @@
 #define IDD_DIALOG_SETTING_IP                   41006
 #define ID_MENU_SETTING                         41007
 #define ID_MENU_EXIT                            41008
+#define IDR_MENU_POP1   41009
+#define IDR_MENU_POP1_DELETE    41010

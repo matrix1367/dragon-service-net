@@ -40,12 +40,9 @@
 		<Unit filename="include/DataBase.h" />
 		<Unit filename="include/DataBaseSQLITE.h" />
 		<Unit filename="include/sqlite3.h" />
-		<Unit filename="include/sqlite3ext.h" />
+		<Unit filename="src/API_EngineDataBase.cpp" />
 		<Unit filename="src/DataBase.cpp" />
 		<Unit filename="src/DataBaseSQLITE.cpp" />
-		<Unit filename="src/shell.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Unit filename="src/sqlite3.c">
 			<Option compilerVar="CC" />
 		</Unit>

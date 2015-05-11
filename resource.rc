@@ -27,6 +27,16 @@ IDR_MENU1 MENU
     }
 }
 
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+IDR_MENU_POP1 MENU
+{
+    POPUP ""
+    {
+        MENUITEM "Usuñ", IDR_MENU_POP1_DELETE
+    }
+
+}
+
 
 
 //

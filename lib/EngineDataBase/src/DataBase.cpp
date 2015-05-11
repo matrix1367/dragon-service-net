@@ -1,11 +1,11 @@
 #include "DataBase.h"
 
-CDataBase::CDataBase()
+IDataBase::IDataBase()
 {
     //ctor
 }
 
-CDataBase::~CDataBase()
+IDataBase::~IDataBase()
 {
     //dtor
 }
