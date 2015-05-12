@@ -18055,3 +18055,22 @@
 [Info][ThreadStart][124][05/12/15 10:58:42] Task: godzina zostal wykonany.
 [Info][ThreadSendMessages][43][05/12/15 10:58:44] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
 [Info][Save][31][05/12/15 10:58:47] SAVE Schedule
+[Info][WaitingForServer][71][05/12/15 11:20:59] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/12/15 11:20:59] LOAD Schedule
+[Info][Start][99][05/12/15 11:20:59] 
+[Info][ThreadStart][105][05/12/15 11:20:59] 
+[Info][ThreadStart][124][05/12/15 11:20:59] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][84][05/12/15 11:20:59] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/12/15 11:20:59] CClient: 00001||
+[Info][SendMessages][32][05/12/15 11:20:59] 
+[Info][ThreadStart][124][05/12/15 11:20:59] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][38][05/12/15 11:20:59] 
+[Info][ThreadSendMessages][43][05/12/15 11:20:59] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/12/15 11:20:59] Task: godzina zostal wykonany.
+[Info][ThreadStart][124][05/12/15 11:21:02] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][05/12/15 11:21:02] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][31][05/12/15 11:21:03] SAVE Schedule
+[Info][ThreadSendMessages][43][05/12/15 11:21:05] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/12/15 11:21:12] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][05/12/15 11:21:14] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][31][05/12/15 11:21:20] SAVE Schedule
