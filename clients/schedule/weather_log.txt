@@ -18068,3 +18068,153 @@
 [Info][ThreadWaitingForServer][81][05/12/15 11:13:51] >>>[ping serwera]<<<
 [Info][ThreadStart][124][05/12/15 11:13:52] Task: godzina zostal wykonany.
 [Info][Save][31][05/12/15 11:13:53] SAVE Schedule
+[Info][WaitingForServer][71][05/12/15 11:50:01] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/12/15 11:50:01] LOAD Schedule
+[Info][Start][99][05/12/15 11:50:01] 
+[Info][ThreadStart][105][05/12/15 11:50:01] 
+[Info][ThreadStart][124][05/12/15 11:50:01] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/12/15 11:50:02] >>>[ping serwera]<<<
+[Error][ThreadUpdateWeether][44][05/12/15 11:50:02] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Info][SendMessages][32][05/12/15 11:50:02] 
+[Info][ThreadSendMessages][38][05/12/15 11:50:02] 
+[Info][ThreadStart][124][05/12/15 11:50:02] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadStart][124][05/12/15 11:50:02] Task: godzina zostal wykonany.
+[Info][ThreadStart][124][05/12/15 11:50:03] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/12/15 11:50:06] >>>[ping serwera]<<<
+[Info][Save][31][05/12/15 11:50:06] SAVE Schedule
+[Info][WaitingForServer][71][05/12/15 12:27:04] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/12/15 12:27:04] LOAD Schedule
+[Info][Start][99][05/12/15 12:27:04] 
+[Info][ThreadStart][105][05/12/15 12:27:04] 
+[Info][ThreadStart][124][05/12/15 12:27:04] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/12/15 12:27:05] >>>[ping serwera]<<<
+[Info][SendMessages][32][05/12/15 12:27:05] 
+[Info][ThreadStart][124][05/12/15 12:27:05] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][38][05/12/15 12:27:05] 
+[Info][ThreadStart][124][05/12/15 12:27:05] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/12/15 12:27:09] >>>[ping serwera]<<<
+[Info][Save][31][05/12/15 12:27:09] SAVE Schedule
+[Info][WaitingForServer][30][05/12/15 12:38:08] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/12/15 12:38:08] LOAD Schedule
+[Info][Start][99][05/12/15 12:38:08] 
+[Info][ThreadStart][105][05/12/15 12:38:08] 
+[Info][ThreadStart][124][05/12/15 12:38:08] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][SendMessages][32][05/12/15 12:38:08] 
+[Info][ThreadStart][124][05/12/15 12:38:08] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][38][05/12/15 12:38:08] 
+[Info][ThreadStart][124][05/12/15 12:38:08] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][40][05/12/15 12:38:09] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/12/15 12:38:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][40][05/12/15 12:38:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][40][05/12/15 12:38:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][40][05/12/15 12:38:21] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/12/15 12:38:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][40][05/12/15 12:38:25] >>>[ping serwera]<<<
+[Info][Save][31][05/12/15 12:38:27] SAVE Schedule
+[Info][ThreadWaitingForServer][40][05/12/15 12:38:29] >>>[ping serwera]<<<
+[Info][Save][31][05/12/15 12:38:29] SAVE Schedule
+[Warning][Load][67][05/12/15 14:30:45] Wczytanie ustawien nie powiodlo sie.
+[Info][WaitingForServer][30][05/12/15 14:30:45] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/12/15 14:30:45] LOAD Schedule
+[Info][Start][99][05/12/15 14:30:45] 
+[Info][ThreadStart][105][05/12/15 14:30:45] 
+[Info][ThreadStart][124][05/12/15 14:30:45] Task: godzina zostal wykonany.
+[Info][SendMessages][32][05/12/15 14:30:45] 
+[Info][ThreadSendMessages][38][05/12/15 14:30:45] 
+[Info][ThreadWaitingForServer][43][05/12/15 14:30:45] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/12/15 14:30:45] CClient: 00001||
+[Info][ThreadSendMessages][43][05/12/15 14:30:48] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/12/15 14:30:52] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][05/12/15 14:30:54] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/12/15 14:31:02] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][05/12/15 14:31:03] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/12/15 14:31:12] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][05/12/15 14:31:12] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/12/15 14:31:22] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][05/12/15 14:31:25] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/12/15 14:31:32] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][05/12/15 14:31:34] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/12/15 14:31:42] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][05/12/15 14:31:43] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/12/15 14:31:52] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][05/12/15 14:31:55] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/12/15 14:32:02] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][05/12/15 14:32:04] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/12/15 14:32:12] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][05/12/15 14:32:13] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/12/15 14:32:19] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][05/12/15 14:32:19] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/12/15 14:32:27] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][05/12/15 14:32:28] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][05/12/15 14:32:42] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][05/12/15 14:32:43] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][31][05/12/15 14:32:51] SAVE Schedule
+[Info][Save][31][05/12/15 14:32:52] SAVE Schedule
+[Info][WaitingForServer][30][05/12/15 14:33:52] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/12/15 14:33:52] LOAD Schedule
+[Info][Start][99][05/12/15 14:33:52] 
+[Info][ThreadStart][105][05/12/15 14:33:52] 
+[Info][ThreadStart][124][05/12/15 14:33:52] Task: godzina zostal wykonany.
+[Info][SendMessages][32][05/12/15 14:33:52] 
+[Info][ThreadSendMessages][38][05/12/15 14:33:52] 
+[Info][ThreadWaitingForServer][40][05/12/15 14:33:53] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/12/15 14:33:57] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][40][05/12/15 14:33:57] >>>[ping serwera]<<<
+[Info][Save][31][05/12/15 14:34:00] SAVE Schedule
+[Info][WaitingForServer][30][05/12/15 14:34:34] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/12/15 14:34:34] LOAD Schedule
+[Info][Start][99][05/12/15 14:34:34] 
+[Info][ThreadStart][105][05/12/15 14:34:34] 
+[Info][ThreadStart][124][05/12/15 14:34:34] Task: godzina zostal wykonany.
+[Info][SendMessages][32][05/12/15 14:34:34] 
+[Info][ThreadSendMessages][38][05/12/15 14:34:34] 
+[Info][ThreadWaitingForServer][40][05/12/15 14:34:36] >>>[ping serwera]<<<
+[Info][Save][31][05/12/15 14:34:39] SAVE Schedule
+[Info][WaitingForServer][30][05/12/15 15:40:11] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/12/15 15:40:11] LOAD Schedule
+[Info][Start][99][05/12/15 15:40:11] 
+[Info][ThreadStart][105][05/12/15 15:40:11] 
+[Info][ThreadStart][124][05/12/15 15:40:11] Task: godzina zostal wykonany.
+[Info][SendMessages][32][05/12/15 15:40:11] 
+[Info][ThreadSendMessages][38][05/12/15 15:40:11] 
+[Info][ThreadStart][124][05/12/15 15:40:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][40][05/12/15 15:40:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][40][05/12/15 15:40:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][40][05/12/15 15:40:20] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][40][05/12/15 15:40:24] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/12/15 15:40:27] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][40][05/12/15 15:40:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][40][05/12/15 15:40:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][40][05/12/15 15:40:36] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][40][05/12/15 15:40:40] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/12/15 15:40:42] Task: godzina zostal wykonany.
+[Info][Save][31][05/12/15 15:40:43] SAVE Schedule
+[Info][ThreadWaitingForServer][40][05/12/15 15:40:44] >>>[ping serwera]<<<
+[Info][Save][31][05/12/15 15:40:46] SAVE Schedule
+[Info][WaitingForServer][30][05/12/15 15:47:21] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/12/15 15:47:21] LOAD Schedule
+[Info][Start][99][05/12/15 15:47:21] 
+[Info][ThreadStart][105][05/12/15 15:47:21] 
+[Info][ThreadStart][124][05/12/15 15:47:21] Task: godzina zostal wykonany.
+[Info][SendMessages][32][05/12/15 15:47:21] 
+[Info][ThreadSendMessages][38][05/12/15 15:47:21] 
+[Info][ThreadWaitingForServer][40][05/12/15 15:47:22] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][40][05/12/15 15:47:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][40][05/12/15 15:47:30] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][40][05/12/15 15:47:34] >>>[ping serwera]<<<
+[Info][Save][31][05/12/15 15:47:34] SAVE Schedule
+[Info][WaitingForServer][30][05/12/15 15:58:22] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/12/15 15:58:22] LOAD Schedule
+[Info][Start][99][05/12/15 15:58:22] 
+[Info][ThreadStart][105][05/12/15 15:58:22] 
+[Info][ThreadStart][124][05/12/15 15:58:22] Task: godzina zostal wykonany.
+[Info][SendMessages][32][05/12/15 15:58:22] 
+[Info][ThreadSendMessages][38][05/12/15 15:58:22] 
+[Info][ThreadWaitingForServer][40][05/12/15 15:58:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][40][05/12/15 15:58:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][40][05/12/15 15:58:31] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/12/15 15:58:33] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][40][05/12/15 15:58:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][40][05/12/15 15:58:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][40][05/12/15 15:58:43] >>>[ping serwera]<<<
+[Info][Save][31][05/12/15 15:58:44] SAVE Schedule

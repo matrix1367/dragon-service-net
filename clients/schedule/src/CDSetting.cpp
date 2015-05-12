@@ -10,7 +10,7 @@ CDSettingData::CDSettingData()
     strcpy(ipServer, "127.0.0.1");
     strcpy(portServer, "1101");
     strcpy(cityName, "Poznan");
-    updateWeather = 300000; //5 minut.
+
 }
 
 void CDSetting::SetIp(std::string ip){
@@ -53,14 +53,14 @@ void CDSetting::Init() {
 void CDSetting::Save()
 {
     //CDSettingData settingData(automaticCallMainDlL, automaticShowMainForm);
-    CDSerialize<CDSettingData> serialzer(pathExe + "dragon_setting.dat");
+    CDSerialize<CDSettingData> serialzer(pathExe + "dragonSchedule_setting.dat");
     serialzer.Write(settingData);
 }
 
 void CDSetting::Load()
 {
     CDSettingData settingDataLoad;
-    CDSerialize<CDSettingData> serialzer(pathExe + "dragon_setting.dat");
+    CDSerialize<CDSettingData> serialzer(pathExe + "dragonSchedule_setting.dat");
     if(serialzer.Read(settingDataLoad)) {
             settingData = settingDataLoad;
     } else {

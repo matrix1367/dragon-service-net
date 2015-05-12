@@ -195,6 +195,7 @@ void RefreshListViewClients(TypeParmT parm)
         ListView_SetItemText( listView, i, 4, const_cast<char *>(it->GetStrStatus().c_str()));
         i++;
     }
+     ListView_SetExtendedListViewStyleEx(listView, LVS_EX_FULLROWSELECT, LVS_EX_FULLROWSELECT);
 }
 
 void InitComponents(HWND hwnd)

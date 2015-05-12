@@ -76,7 +76,6 @@
 		<Unit filename="include/ScheduleManager.h" />
 		<Unit filename="include/TasksManager.h" />
 		<Unit filename="include/WebTool.h" />
-		<Unit filename="include/job/JobAlertWeether.h" />
 		<Unit filename="include/job/JobTime.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="manifest.xml" />
@@ -97,7 +96,6 @@
 		<Unit filename="src/ScheduleManager.cpp" />
 		<Unit filename="src/TasksManager.cpp" />
 		<Unit filename="src/WebTool.cpp" />
-		<Unit filename="src/job/JobAlertWeether.cpp" />
 		<Unit filename="src/job/JobTime.cpp" />
 		<Extensions>
 			<code_completion />

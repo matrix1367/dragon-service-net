@@ -1395,3 +1395,15 @@
 [Info][ThreadStart][124][05/11/15 15:18:42] Task: godzina zostal wykonany.
 [Info][ThreadSendMessages][43][05/11/15 15:18:44] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
 [Info][Save][31][05/11/15 15:18:50] SAVE Schedule
+[Info][WaitingForServer][30][05/12/15 13:09:34] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/12/15 13:09:34] LOAD Schedule
+[Info][Start][99][05/12/15 13:09:34] 
+[Info][ThreadStart][105][05/12/15 13:09:34] 
+[Info][ThreadStart][124][05/12/15 13:09:34] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][SendMessages][32][05/12/15 13:09:34] 
+[Info][ThreadStart][124][05/12/15 13:09:34] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][38][05/12/15 13:09:34] 
+[Info][ThreadStart][124][05/12/15 13:09:34] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][40][05/12/15 13:09:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][40][05/12/15 13:09:39] >>>[ping serwera]<<<
+[Info][Save][31][05/12/15 13:09:40] SAVE Schedule

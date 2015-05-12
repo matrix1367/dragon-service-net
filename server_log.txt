@@ -3147,3 +3147,76 @@
 [Info][CommandParser][101][05/12/15 11:21:14] 00003|Aktualna godzina:;[12-05-2015 11:21:12] ;1;|
 [Info][CommandParser][124][05/12/15 11:21:14] cmd: CMD_MESSAGE
 [Info][CommandParser][126][05/12/15 11:21:14] message:Aktualna godzina:;[12-05-2015 11:21:12] ;1;
+[Info][CommandParser][101][05/12/15 14:30:45] 00002|Schedule|
+[Info][CommandParser][108][05/12/15 14:30:45] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/12/15 14:30:48] 00003|Aktualna godzina:;[12-05-2015 14:30:45] ;1;|
+[Info][CommandParser][124][05/12/15 14:30:48] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:30:48] message:Aktualna godzina:;[12-05-2015 14:30:45] ;1;
+[Info][CommandParser][101][05/12/15 14:30:54] 00003|Aktualna godzina:;[12-05-2015 14:30:52] ;1;|
+[Info][CommandParser][124][05/12/15 14:30:54] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:30:54] message:Aktualna godzina:;[12-05-2015 14:30:52] ;1;
+[Info][CommandParser][101][05/12/15 14:31:03] 00003|Aktualna godzina:;[12-05-2015 14:31:02] ;1;|
+[Info][CommandParser][124][05/12/15 14:31:03] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:31:03] message:Aktualna godzina:;[12-05-2015 14:31:02] ;1;
+[Info][CommandParser][101][05/12/15 14:31:12] 00003|Aktualna godzina:;[12-05-2015 14:31:12] ;1;|
+[Info][CommandParser][124][05/12/15 14:31:12] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:31:12] message:Aktualna godzina:;[12-05-2015 14:31:12] ;1;
+[Info][CommandParser][101][05/12/15 14:31:25] 00003|Aktualna godzina:;[12-05-2015 14:31:22] ;1;|
+[Info][CommandParser][124][05/12/15 14:31:25] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:31:25] message:Aktualna godzina:;[12-05-2015 14:31:22] ;1;
+[Info][CommandParser][101][05/12/15 14:31:25] 00002|Weather|
+[Info][CommandParser][108][05/12/15 14:31:25] cmd: CMD_SET_NAME_CLIENT
+[Info][CommandParser][101][05/12/15 14:31:30] 00003|Aktualna godzina:;[12-05-2015 14:31:26] ;1;|
+[Info][CommandParser][124][05/12/15 14:31:30] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:31:30] message:Aktualna godzina:;[12-05-2015 14:31:26] ;1;
+[Info][CommandParser][101][05/12/15 14:31:33] 00003|Aktualna godzina:;[12-05-2015 14:31:32] ;1;|
+[Info][CommandParser][124][05/12/15 14:31:33] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:31:33] message:Aktualna godzina:;[12-05-2015 14:31:32] ;1;
+[Info][CommandParser][101][05/12/15 14:31:34] 00003|Aktualna godzina:;[12-05-2015 14:31:32] ;1;|
+[Info][CommandParser][124][05/12/15 14:31:34] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:31:34] message:Aktualna godzina:;[12-05-2015 14:31:32] ;1;
+[Info][CommandParser][101][05/12/15 14:31:43] 00003|Aktualna godzina:;[12-05-2015 14:31:42] ;1;|
+[Info][CommandParser][124][05/12/15 14:31:43] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:31:43] message:Aktualna godzina:;[12-05-2015 14:31:42] ;1;
+[Info][CommandParser][101][05/12/15 14:31:45] 00003|Aktualna godzina:;[12-05-2015 14:31:42] ;1;|
+[Info][CommandParser][124][05/12/15 14:31:45] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:31:45] message:Aktualna godzina:;[12-05-2015 14:31:42] ;1;
+[Info][CommandParser][101][05/12/15 14:31:54] 00003|Aktualna godzina:;[12-05-2015 14:31:52] ;1;|
+[Info][CommandParser][124][05/12/15 14:31:54] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:31:54] message:Aktualna godzina:;[12-05-2015 14:31:52] ;1;
+[Info][CommandParser][101][05/12/15 14:31:55] 00003|Aktualna godzina:;[12-05-2015 14:31:52] ;1;|
+[Info][CommandParser][124][05/12/15 14:31:55] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:31:55] message:Aktualna godzina:;[12-05-2015 14:31:52] ;1;
+[Info][CommandParser][101][05/12/15 14:32:03] 00003|Aktualna godzina:;[12-05-2015 14:32:02] ;1;|
+[Info][CommandParser][124][05/12/15 14:32:03] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:32:03] message:Aktualna godzina:;[12-05-2015 14:32:02] ;1;
+[Info][CommandParser][101][05/12/15 14:32:04] 00003|Aktualna godzina:;[12-05-2015 14:32:02] ;1;|
+[Info][CommandParser][124][05/12/15 14:32:04] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:32:04] message:Aktualna godzina:;[12-05-2015 14:32:02] ;1;
+[Info][CommandParser][101][05/12/15 14:32:13] 00003|Aktualna godzina:;[12-05-2015 14:32:12] ;1;|
+[Info][CommandParser][124][05/12/15 14:32:13] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:32:13] message:Aktualna godzina:;[12-05-2015 14:32:12] ;1;
+[Info][CommandParser][101][05/12/15 14:32:15] 00003|Aktualna godzina:;[12-05-2015 14:32:12] ;1;|
+[Info][CommandParser][124][05/12/15 14:32:15] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:32:15] message:Aktualna godzina:;[12-05-2015 14:32:12] ;1;
+[Info][CommandParser][101][05/12/15 14:32:19] 00003|Aktualna godzina:;[12-05-2015 14:32:19] ;1;|
+[Info][CommandParser][124][05/12/15 14:32:19] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:32:19] message:Aktualna godzina:;[12-05-2015 14:32:19] ;1;
+[Info][CommandParser][101][05/12/15 14:32:24] 00003|Aktualna godzina:;[12-05-2015 14:32:22] ;1;|
+[Info][CommandParser][124][05/12/15 14:32:24] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:32:24] message:Aktualna godzina:;[12-05-2015 14:32:22] ;1;
+[Info][CommandParser][101][05/12/15 14:32:28] 00003|Aktualna godzina:;[12-05-2015 14:32:27] ;1;|
+[Info][CommandParser][124][05/12/15 14:32:28] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:32:28] message:Aktualna godzina:;[12-05-2015 14:32:27] ;1;
+[Info][CommandParser][101][05/12/15 14:32:33] 00003|Aktualna godzina:;[12-05-2015 14:32:32] ;1;|
+[Info][CommandParser][124][05/12/15 14:32:33] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:32:33] message:Aktualna godzina:;[12-05-2015 14:32:32] ;1;
+[Info][CommandParser][101][05/12/15 14:32:43] 00003|Aktualna godzina:;[12-05-2015 14:32:42] ;1;|
+[Info][CommandParser][124][05/12/15 14:32:43] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:32:43] message:Aktualna godzina:;[12-05-2015 14:32:42] ;1;
+[Info][CommandParser][101][05/12/15 14:32:43] 00003|Aktualna godzina:;[12-05-2015 14:32:42] ;1;|
+[Info][CommandParser][124][05/12/15 14:32:43] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:32:43] message:Aktualna godzina:;[12-05-2015 14:32:42] ;1;
+[Info][CommandParser][101][05/12/15 14:32:52] 00003|Aktualna godzina:;[12-05-2015 14:32:52] ;1;|
+[Info][CommandParser][124][05/12/15 14:32:52] cmd: CMD_MESSAGE
+[Info][CommandParser][126][05/12/15 14:32:52] message:Aktualna godzina:;[12-05-2015 14:32:52] ;1;

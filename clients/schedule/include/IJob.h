@@ -2,7 +2,7 @@
 #define IJOB_H_INCLUDED
 #include "Message.h"
 
-enum ID_JOB { ID_JOB_TIME = 111 , ID_JOB_ALERT_WATHER = 222 };
+enum ID_JOB { ID_JOB_TIME = 111  };
 
 union ParmJob {
     char str[30];

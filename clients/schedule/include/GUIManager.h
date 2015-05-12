@@ -18,12 +18,7 @@ class CGUIManager
          static CGUIManager instance;
          return instance;
       }
-        void ShowMessage(std::string title, std::string info);
-        HWND hWndDialogMain;
 
-        HBITMAP templateChart;
-
-        void CreateTemplateChart(int width, int height);
 
 
     protected:

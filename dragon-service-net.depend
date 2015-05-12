@@ -127,7 +127,7 @@
 	"CDLog.h"
 	<cstdlib>
 
-1431422398 f:\projects\dragon-service-net-master\include\message.h
+1431422746 f:\projects\dragon-service-net-master\include\message.h
 	"CDLog.h"
 	<string>
 
@@ -141,7 +141,7 @@
 	"ManagerDataBase.h"
 	<cstdlib>
 
-1431422398 f:\projects\dragon-service-net-master\include\messagemanager.h
+1431422746 f:\projects\dragon-service-net-master\include\messagemanager.h
 	"Message.h"
 	<string>
 	<list>
