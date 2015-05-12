@@ -3,6 +3,8 @@
 #include "CDLog.h"
 #include <string>
 
+enum TYPE_MESSAGE { TYPE_MESSAGE_NO_SEND, TYPE_MESSAGE_SEND, TYPE_MESSAGE_IMPORTANT_SEND, TYPE_MESSAGE_MORE_IMPORTANT_SEND};
+
 class CMessage
 {
     public:
@@ -20,11 +22,14 @@ class CMessage
         }
         void SetID(unsigned int val) { m_ID = val; }
         static CMessage ConvertStrToObj(std::string parm, unsigned int idClient);
+        void SetTypeTask(TYPE_MESSAGE typeTask);
+        TYPE_MESSAGE GetTypeTask() const;
     protected:
     private:
         std::string m_Name;
         std::string m_Description;
         unsigned int m_ID;
+        TYPE_MESSAGE m_typeTask;
 };
 
 #endif // CMESSAGE_H

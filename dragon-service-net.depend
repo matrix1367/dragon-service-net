@@ -121,12 +121,13 @@
 	<vector>
 	<windows.h>
 
-1428905657 source:f:\projects\dragon-service-net-master\src\message.cpp
+1431420499 source:f:\projects\dragon-service-net-master\src\message.cpp
 	"Message.h"
 	"Tools.h"
 	"CDLog.h"
+	<cstdlib>
 
-1431343398 f:\projects\dragon-service-net-master\include\message.h
+1431420487 f:\projects\dragon-service-net-master\include\message.h
 	"CDLog.h"
 	<string>
 
@@ -135,7 +136,7 @@
 	<cstring>
 	<string>
 
-1431354032 source:f:\projects\dragon-service-net-master\src\messagemanager.cpp
+1431420402 source:f:\projects\dragon-service-net-master\src\messagemanager.cpp
 	"MessageManager.h"
 	"ManagerDataBase.h"
 	<cstdlib>
@@ -169,7 +170,7 @@
 1428670336 source:f:\projects\dragon-service-net-master\src\tools.cpp
 	"Tools.h"
 
-1431352297 source:f:\projects\dragon-service-net-master\main.cpp
+1431420220 source:f:\projects\dragon-service-net-master\main.cpp
 	<windows.h>
 	<CommCtrl.h>
 	<stdio.h>

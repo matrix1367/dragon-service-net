@@ -20,11 +20,14 @@ class CMessage
         }
         void SetID(unsigned int val) { m_ID = val; }
         static CMessage ConvertStrToObj(std::string parm, unsigned int idClient);
+        void SetTypeTask(TYPE_MESSAGE typeTask);
+        TYPE_MESSAGE GetTypeTask();
     protected:
     private:
         std::string m_Name;
         std::string m_Description;
         unsigned int m_ID;
+        TYPE_MESSAGE m_typeTask;
 };
 
 #endif // CMESSAGE_H

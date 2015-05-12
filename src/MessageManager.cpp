@@ -24,7 +24,11 @@ void CMessageManager::AddMessage( std::string name,  std::string description,  i
 
 void CMessageManager::AddMessage(const CMessage& message)
 {
-    CManagerDataBase::getInstance().AddMessage(message);
+    if (message.GetTypeTask() != TYPE_MESSAGE_SEND)
+    {
+        CManagerDataBase::getInstance().AddMessage(message);
+    }
+
     m_messages.push_back(message);
 }
 
