@@ -57,7 +57,7 @@ void CDSetting::Load()
     if(serialzer.Read(settingDataLoad)) {
             settingData = settingDataLoad;
     } else {
-         CDLog::Write( __FUNCTION__ , __LINE__, Warning, "Wczytanie ustawieñ nie powiod³o siê." );
+         CDLog::Write( __FUNCTION__ , __LINE__, Warning, "Wczytanie ustawien nie powiodlo sie." );
     }
 }
 

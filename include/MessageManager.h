@@ -13,10 +13,13 @@ class CMessageManager
             return instance;
         }
 
-        void AddMessage(const std::string name, const std::string description);
+        void AddMessage( std::string name,  std::string description,  int id);
         void AddMessage(const CMessage& message);
 
         std::list<CMessage> GetMessages();
+
+        CMessage GetItemMessage(unsigned int index);
+        void RemoveMessage(unsigned int index);
     protected:
     private:
         CMessageManager();

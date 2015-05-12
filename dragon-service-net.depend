@@ -121,12 +121,13 @@
 	<vector>
 	<windows.h>
 
-1428905657 source:f:\projects\dragon-service-net-master\src\message.cpp
+1431422402 source:f:\projects\dragon-service-net-master\src\message.cpp
 	"Message.h"
 	"Tools.h"
 	"CDLog.h"
+	<cstdlib>
 
-1428905657 f:\projects\dragon-service-net-master\include\message.h
+1431422398 f:\projects\dragon-service-net-master\include\message.h
 	"CDLog.h"
 	<string>
 
@@ -135,19 +136,23 @@
 	<cstring>
 	<string>
 
-1428672680 source:f:\projects\dragon-service-net-master\src\messagemanager.cpp
+1431422402 source:f:\projects\dragon-service-net-master\src\messagemanager.cpp
 	"MessageManager.h"
+	"ManagerDataBase.h"
+	<cstdlib>
 
-1428672422 f:\projects\dragon-service-net-master\include\messagemanager.h
+1431422398 f:\projects\dragon-service-net-master\include\messagemanager.h
 	"Message.h"
 	<string>
 	<list>
 
-1428485306 source:f:\projects\dragon-service-net-master\src\models.cpp
+1431422402 source:f:\projects\dragon-service-net-master\src\models.cpp
 	"Models.h"
 	"NetworkManager.h"
+	"ManagerDataBase.h"
+	"MessageManager.h"
 
-1428485935 f:\projects\dragon-service-net-master\include\models.h
+1431422398 f:\projects\dragon-service-net-master\include\models.h
 	<list>
 	"Server.h"
 
@@ -165,7 +170,7 @@
 1428670336 source:f:\projects\dragon-service-net-master\src\tools.cpp
 	"Tools.h"
 
-1429514315 source:f:\projects\dragon-service-net-master\main.cpp
+1431422402 source:f:\projects\dragon-service-net-master\main.cpp
 	<windows.h>
 	<CommCtrl.h>
 	<stdio.h>
@@ -175,12 +180,12 @@
 	"MessageManager.h"
 	"CDSetting.h"
 
-1429514315 f:\projects\dragon-service-net-master\resource.h
+1431422402 f:\projects\dragon-service-net-master\resource.h
 
 1429514315 f:\projects\dragon-service-net-master\include\cdsetting.h
 	<string>
 
-1429514315 source:f:\projects\dragon-service-net-master\resource.rc
+1431422402 source:f:\projects\dragon-service-net-master\resource.rc
 	<windows.h>
 	<commctrl.h>
 	<richedit.h>
@@ -197,7 +202,7 @@
 	<string>
 	"CDSetting.h"
 
-1429515383 source:f:\projects\dragon-service-net-master\src\cdsetting.cpp
+1431422402 source:f:\projects\dragon-service-net-master\src\cdsetting.cpp
 	"CDSetting.h"
 	"CDSerialize.h"
 	"CDLog.h"
@@ -209,4 +214,20 @@
 	<iostream>
 	<fstream>
 	<sstream>
+
+1431422402 source:f:\projects\dragon-service-net-master\src\managerdatabase.cpp
+	"ManagerDataBase.h"
+	<API_EngineDataBase.h>
+	<string>
+
+1431422398 f:\projects\dragon-service-net-master\include\managerdatabase.h
+	<DataBase.h>
+	"Message.h"
+
+1431422398 f:\projects\dragon-service-net-master\lib\enginedatabase\include\database.h
+	<string>
+	<vector>
+
+1431422398 f:\projects\dragon-service-net-master\lib\enginedatabase\include\api_enginedatabase.h
+	"DataBase.h"
 

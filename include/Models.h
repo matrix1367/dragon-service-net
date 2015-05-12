@@ -13,6 +13,7 @@ class CModels
 
         void Init(void);
         std::list<SClient> GetClients();
+        void RmoveMessage(unsigned int index);
     protected:
     private:
         CModels() {}

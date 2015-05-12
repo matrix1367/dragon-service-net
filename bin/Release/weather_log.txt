@@ -1,0 +1,90 @@
+[Warning][Load][67][05/07/15 15:30:27] Wczytanie ustawien nie powiodlo sie.
+[Info][WaitingForServer][71][05/07/15 15:30:27] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:30:27] LOAD Schedule
+[Info][Start][99][05/07/15 15:30:27] 
+[Info][ThreadStart][105][05/07/15 15:30:27] 
+[Info][ThreadWaitingForServer][84][05/07/15 15:30:27] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:30:27] CClient: 00001||
+[Info][Save][31][05/07/15 15:30:35] SAVE Schedule
+[Info][WaitingForServer][71][05/07/15 15:30:53] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:30:53] LOAD Schedule
+[Info][Start][99][05/07/15 15:30:53] 
+[Info][ThreadStart][105][05/07/15 15:30:53] 
+[Info][ThreadWaitingForServer][84][05/07/15 15:30:53] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:30:53] CClient: 00001||
+[Info][WaitingForServer][71][05/07/15 15:37:18] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:37:18] LOAD Schedule
+[Info][Start][99][05/07/15 15:37:18] 
+[Info][ThreadStart][105][05/07/15 15:37:18] 
+[Info][ThreadWaitingForServer][84][05/07/15 15:37:18] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:37:18] CClient: 00001||
+[Info][Save][31][05/07/15 15:37:40] SAVE Schedule
+[Info][Save][31][05/07/15 15:37:43] SAVE Schedule
+[Info][WaitingForServer][71][05/07/15 15:37:53] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:37:53] LOAD Schedule
+[Info][Start][99][05/07/15 15:37:53] 
+[Info][ThreadStart][105][05/07/15 15:37:53] 
+[Info][ThreadWaitingForServer][81][05/07/15 15:37:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][84][05/07/15 15:37:57] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:37:57] CClient: 00001||
+[Info][WaitingForServer][71][05/07/15 15:38:01] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:38:01] LOAD Schedule
+[Info][Start][99][05/07/15 15:38:01] 
+[Info][ThreadStart][105][05/07/15 15:38:01] 
+[Info][ThreadWaitingForServer][84][05/07/15 15:38:01] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:38:01] CClient: 00001||
+[Error][ThreadUpdateWeether][44][05/07/15 15:38:03] Page [http://api.openweathermap.org/data/2.5/weather?q=Poznan,pl] not CONVERT
+[Info][WaitingForServer][71][05/07/15 15:38:03] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:38:03] LOAD Schedule
+[Info][Start][99][05/07/15 15:38:03] 
+[Info][ThreadStart][105][05/07/15 15:38:03] 
+[Info][ThreadWaitingForServer][84][05/07/15 15:38:03] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:38:03] CClient: 00001||
+[Info][WaitingForServer][71][05/07/15 15:38:04] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:38:04] LOAD Schedule
+[Info][Start][99][05/07/15 15:38:04] 
+[Info][ThreadStart][105][05/07/15 15:38:04] 
+[Info][ThreadWaitingForServer][84][05/07/15 15:38:04] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:38:04] CClient: 00001||
+[Info][WaitingForServer][71][05/07/15 15:38:05] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:38:05] LOAD Schedule
+[Info][Start][99][05/07/15 15:38:05] 
+[Info][ThreadStart][105][05/07/15 15:38:05] 
+[Info][ThreadWaitingForServer][84][05/07/15 15:38:05] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:38:05] CClient: 00001||
+[Info][Save][31][05/07/15 15:38:28] SAVE Schedule
+[Info][Save][31][05/07/15 15:38:29] SAVE Schedule
+[Info][Save][31][05/07/15 15:38:31] SAVE Schedule
+[Info][Save][31][05/07/15 15:38:32] SAVE Schedule
+[Info][Save][31][05/07/15 15:38:34] SAVE Schedule
+[Info][WaitingForServer][71][05/07/15 15:38:54] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:38:54] LOAD Schedule
+[Info][Start][99][05/07/15 15:38:54] 
+[Info][ThreadStart][105][05/07/15 15:38:54] 
+[Info][ThreadWaitingForServer][84][05/07/15 15:38:54] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:38:54] CClient: 00001||
+[Info][WaitingForServer][71][05/07/15 15:38:55] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:38:55] LOAD Schedule
+[Info][Start][99][05/07/15 15:38:55] 
+[Info][ThreadStart][105][05/07/15 15:38:55] 
+[Info][ThreadWaitingForServer][84][05/07/15 15:38:55] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:38:55] CClient: 00001||
+[Info][Save][31][05/07/15 15:39:00] SAVE Schedule
+[Info][Save][31][05/07/15 15:39:01] SAVE Schedule
+[Info][WaitingForServer][71][05/07/15 15:39:05] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:39:05] LOAD Schedule
+[Info][Start][99][05/07/15 15:39:05] 
+[Info][ThreadStart][105][05/07/15 15:39:05] 
+[Info][ThreadWaitingForServer][81][05/07/15 15:39:06] >>>[ping serwera]<<<
+[Info][WaitingForServer][71][05/07/15 15:39:06] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/07/15 15:39:06] LOAD Schedule
+[Info][Start][99][05/07/15 15:39:06] 
+[Info][ThreadStart][105][05/07/15 15:39:06] 
+[Info][ThreadWaitingForServer][81][05/07/15 15:39:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/07/15 15:39:10] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][84][05/07/15 15:39:11] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:39:11] CClient: 00001||
+[Info][ThreadWaitingForServer][84][05/07/15 15:39:13] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][05/07/15 15:39:13] CClient: 00001||
+[Info][Save][31][05/07/15 15:39:59] SAVE Schedule
+[Info][Save][31][05/07/15 15:40:00] SAVE Schedule

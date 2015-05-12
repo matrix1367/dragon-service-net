@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+<<<<<<< HEAD
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4210" topLine="135" />
+		</Cursor>
+	</File>
+	<File name="include\Models.h" open="1" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="232" topLine="0" />
+=======
+	<File name="src\CDSetting.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="820" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="src\Tools.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="340" topLine="0" />
+>>>>>>> client-wather
+		</Cursor>
+	</File>
+	<File name="src\CDLog.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="80" topLine="0" />
+		</Cursor>
+	</File>
+<<<<<<< HEAD
+	<File name="include\MessageManager.h" open="1" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="368" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Message.cpp" open="1" top="1" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="566" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\MessageManager.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="366" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Server.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1556" topLine="37" />
+		</Cursor>
+	</File>
+	<File name="src\Models.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="328" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\NetworkManager.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="175" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Server.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1575" topLine="41" />
+		</Cursor>
+	</File>
+	<File name="src\Tools.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="340" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\ManagerDataBase.h" open="1" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\ManagerDataBase.cpp" open="1" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="resource.rc" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="905" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="resource.h" open="1" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\EventManager.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="449" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="src\CDSetting.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1199" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="include\Message.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="589" topLine="0" />
+=======
+	<File name="resource.rc" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1359" topLine="25" />
+		</Cursor>
+	</File>
+	<File name="src\Server.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3824" topLine="95" />
+		</Cursor>
+	</File>
+	<File name="resource.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="697" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\NetworkManager.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="175" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Models.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="586" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4424" topLine="116" />
+		</Cursor>
+	</File>
+	<File name="include\Server.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1556" topLine="37" />
+		</Cursor>
+	</File>
+	<File name="include\Models.h" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="281" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\MessageManager.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="502" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Message.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1166" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\MessageManager.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="722" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\ManagerDataBase.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1206" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="src\Message.cpp" open="1" top="1" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="798" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\ManagerDataBase.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="373" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\EventManager.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="449" topLine="9" />
+>>>>>>> client-wather
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
