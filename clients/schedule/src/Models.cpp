@@ -1,6 +1,5 @@
 #include "Models.h"
 #include "CDLog.h"
-#include "WebTool.h"
 #include "Convert.h"
 #include "EventManager.h"
 #include "CDSetting.h"

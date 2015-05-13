@@ -36,12 +36,13 @@
 #define IDD_DIALOG_TASK_SETTING                 40017
 #define IDD_DIALOG_SETTING_CITY                 40018
 
-#define IDR_MENU_CLIENT_SCHEDUL_EDIT 500
-#define IDR_MENU_CLIENT_SCHEDUL_EDIT_ACTIVE 501
-
 #define ID_TRAY1    40033
 #define DLG_MAIN_TIME   40034
 #define IDI_ICON1   40035
+
+
+#define 500
+
 
 
 

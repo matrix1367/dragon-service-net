@@ -31,7 +31,7 @@ void CScheduleManager::Save()
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "SAVE Schedule" );
     ofstream out_file("task.dat", ios::out | ios::binary | ios::trunc);
     if (!out_file) return;
-    for (std::list<CTask>::iterator itVCTask = schedules.begin(); itVCTask != schedules.end(); ++itVCTask++ )
+    for (std::list<CTask>::iterator itVCTask = schedules.begin(); itVCTask != schedules.end(); itVCTask++ )
     {
         out_file.write((char*) &(*itVCTask), sizeof(CTask));
     }

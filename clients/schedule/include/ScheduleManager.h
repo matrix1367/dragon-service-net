@@ -74,7 +74,7 @@ class CScheduleManager
         void RemoveTask(unsigned int index);
         void Start();
         void Print();
-        DWORD ThreadStart();
+
         static DWORD WINAPI StaticThreadStart(void* Param) {
             CScheduleManager * This = (CScheduleManager*) Param;
             return This->ThreadStart();
@@ -83,6 +83,7 @@ class CScheduleManager
         CTask* GetTask(int index);
     protected:
     private:
+         DWORD ThreadStart();
         CScheduleManager();
         virtual ~CScheduleManager();
         void operator= (CScheduleManager const&);

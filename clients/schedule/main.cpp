@@ -14,6 +14,8 @@
 #include "resource.h"
 #include "Models.h"
 #include "ScheduleManager.h"
+#include "ClientManagerSchedule.h"
+
 #include "CDSetting.h"
 #include "CDLog.h"
 #include "TasksManager.h"
@@ -821,13 +823,13 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
                 break;
             }
             case IDR_MENU_SCHEDUL_EDIT_ADD:
-            {/*
+            {
                 printf("IDR_MENU_SCHEDUL_EDIT_ADD:\n");
-                int res = DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_TASK), NULL, (DLGPROC)DlgTask);
+                int res = DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_TERM), NULL, (DLGPROC)DlgClientTerm);
                 if (res == IDOK)
                 {
                     CEventManager::getInstance().Send(EVENT_ADD_SCHEDULE);
-                }*/
+                }
                 break;
             }
             case IDR_MENU_SCHEDUL_EDIT_EDIT:
@@ -889,8 +891,13 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLi
 
     CDSetting::getInstance().Load();
     CModels::getInstance().Init();
+
+    CClientManagerSchedule::getInstance().Load();
+    CClientManagerSchedule::getInstance().Start();
+
     CScheduleManager::getInstance().Load();
     CScheduleManager::getInstance().Start();
+
     hInst=hInstance;
     InitCommonControls();
     return DialogBox(hInst, MAKEINTRESOURCE(DLG_MAIN), NULL, (DLGPROC)DlgMain);

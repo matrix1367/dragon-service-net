@@ -41,6 +41,9 @@
 #define IDI_ICON1   40035
 
 
+#define IDD_DIALOG_TERM 500
+
+
 
 
 

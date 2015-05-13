@@ -1,0 +1,264 @@
+# depslib dependency file v1.0
+1431504629 source:f:\projects\dragon-service-net-master\clients\schedule\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<gdiplus.h>
+	<stdio.h>
+	<vector>
+	<algorithm>
+	<string>
+	"resource.h"
+	"Models.h"
+	"ScheduleManager.h"
+	"ClientManagerSchedule.h"
+	"CDSetting.h"
+	"CDLog.h"
+	"TasksManager.h"
+	"EventManager.h"
+	"GUIManager.h"
+
+1431502365 f:\projects\dragon-service-net-master\clients\schedule\resource.h
+
+1431426870 f:\projects\dragon-service-net-master\clients\schedule\include\models.h
+	"Client.h"
+	"Convert.h"
+
+1431422746 f:\projects\dragon-service-net-master\clients\schedule\include\client.h
+	<windows.h>
+	<string>
+
+1431431862 f:\projects\dragon-service-net-master\clients\schedule\include\convert.h
+	<string>
+	<cstdio>
+	<vector>
+
+1431499365 f:\projects\dragon-service-net-master\clients\schedule\include\schedulemanager.h
+	<list>
+	<time.h>
+	<string>
+	<windows.h>
+
+1431428352 f:\projects\dragon-service-net-master\clients\schedule\include\cdsetting.h
+	<string>
+
+1431422746 f:\projects\dragon-service-net-master\clients\schedule\include\cdlog.h
+	<string>
+	<sstream>
+
+1431427372 f:\projects\dragon-service-net-master\clients\schedule\include\tasksmanager.h
+	"IJob.h"
+	"job/JobTime.h"
+	<vector>
+
+1431427390 f:\projects\dragon-service-net-master\clients\schedule\include\ijob.h
+	"Message.h"
+
+1431422746 f:\projects\dragon-service-net-master\clients\schedule\include\message.h
+	<string>
+
+1431422746 f:\projects\dragon-service-net-master\clients\schedule\include\job\jobtime.h
+	"IJob.h"
+	"Message.h"
+
+1431426870 f:\projects\dragon-service-net-master\clients\schedule\include\eventmanager.h
+	<vector>
+	<windows.h>
+
+1431437422 f:\projects\dragon-service-net-master\clients\schedule\include\guimanager.h
+	<windows.h>
+	<string>
+	"../resource.h"
+
+1431504428 source:f:\projects\dragon-service-net-master\clients\schedule\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1431500502 source:f:\projects\dragon-service-net-master\clients\schedule\src\cdlog.cpp
+	"CDLog.h"
+	<iostream>
+	<fstream>
+	<time.h>
+
+1431431862 source:f:\projects\dragon-service-net-master\clients\schedule\src\cdsetting.cpp
+	"CDSetting.h"
+	"CDSerialize.h"
+	"CDLog.h"
+	<windows.h>
+	"Shlwapi.h"
+
+1431422746 f:\projects\dragon-service-net-master\clients\schedule\include\cdserialize.h
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\schedule\src\client.cpp
+	"Client.h"
+	<winsock2.h>
+	<windows.h>
+	<fcntl.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<stdio.h>
+	<conio.h>
+	"CDSetting.h"
+	"CDLog.h"
+
+1431500227 source:f:\projects\dragon-service-net-master\clients\schedule\src\convert.cpp
+	"Convert.h"
+	"CDLog.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
+1431422748 f:\projects\dragon-service-net-master\lib\jsoncpp-src-0.5.0\include\json\json.h
+	"autolink.h"
+	"value.h"
+	"reader.h"
+	"writer.h"
+	"features.h"
+
+1431422748 f:\projects\dragon-service-net-master\lib\jsoncpp-src-0.5.0\include\json\autolink.h
+	"config.h"
+	<cpptl/cpptl_autolink.h>
+	"autolink.h"
+
+1431422748 f:\projects\dragon-service-net-master\lib\jsoncpp-src-0.5.0\include\json\config.h
+	<cpptl/config.h>
+
+1431422748 f:\projects\dragon-service-net-master\lib\jsoncpp-src-0.5.0\include\json\value.h
+	"forwards.h"
+	<string>
+	<vector>
+	<map>
+	<cpptl/smallmap.h>
+	<cpptl/forwards.h>
+
+1431422748 f:\projects\dragon-service-net-master\lib\jsoncpp-src-0.5.0\include\json\forwards.h
+	"config.h"
+
+1431422748 f:\projects\dragon-service-net-master\lib\jsoncpp-src-0.5.0\include\json\reader.h
+	"features.h"
+	"value.h"
+	<deque>
+	<stack>
+	<string>
+	<iostream>
+
+1431422748 f:\projects\dragon-service-net-master\lib\jsoncpp-src-0.5.0\include\json\features.h
+	"forwards.h"
+
+1431422748 f:\projects\dragon-service-net-master\lib\jsoncpp-src-0.5.0\include\json\writer.h
+	"value.h"
+	<vector>
+	<string>
+	<iostream>
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\schedule\src\eventmanager.cpp
+	"EventManager.h"
+
+1431437422 source:f:\projects\dragon-service-net-master\clients\schedule\src\guimanager.cpp
+	"GUIManager.h"
+	"Convert.h"
+	"Models.h"
+	"CDSetting.h"
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\schedule\src\ijob.cpp
+	"IJob.h"
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\schedule\src\job\jobtime.cpp
+	"job\JobTime.h"
+	<time.h>
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\schedule\src\message.cpp
+	"Message.h"
+	<cstdlib>
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\schedule\src\messagemanager.cpp
+	"MessageManager.h"
+	"Models.h"
+	"CDLog.h"
+
+1431422746 f:\projects\dragon-service-net-master\clients\schedule\include\messagemanager.h
+	<Message.h>
+	<queue>
+	<windows.h>
+
+1431500531 source:f:\projects\dragon-service-net-master\clients\schedule\src\models.cpp
+	"Models.h"
+	"CDLog.h"
+	"Convert.h"
+	"EventManager.h"
+	"CDSetting.h"
+	<cstdio>
+
+1431422746 f:\projects\dragon-service-net-master\clients\schedule\include\webtool.h
+	<curl/curl.h>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1431422747 f:\projects\dragon-service-net-master\lib\curl-7.40.0-devel-mingw32\include\curl\curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1431422747 f:\projects\dragon-service-net-master\lib\curl-7.40.0-devel-mingw32\include\curl\curlver.h
+
+1431422747 f:\projects\dragon-service-net-master\lib\curl-7.40.0-devel-mingw32\include\curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1431422747 f:\projects\dragon-service-net-master\lib\curl-7.40.0-devel-mingw32\include\curl\curlrules.h
+
+1431422747 f:\projects\dragon-service-net-master\lib\curl-7.40.0-devel-mingw32\include\curl\easy.h
+
+1431422747 f:\projects\dragon-service-net-master\lib\curl-7.40.0-devel-mingw32\include\curl\multi.h
+	"curl.h"
+
+1431422747 f:\projects\dragon-service-net-master\lib\curl-7.40.0-devel-mingw32\include\curl\typecheck-gcc.h
+
+1431499972 source:f:\projects\dragon-service-net-master\clients\schedule\src\schedulemanager.cpp
+	"ScheduleManager.h"
+	"MessageManager.h"
+	"CDSerialize.h"
+	<cstdio>
+	"CDLog.h"
+	"TasksManager.h"
+	"EventManager.h"
+
+1431427367 source:f:\projects\dragon-service-net-master\clients\schedule\src\tasksmanager.cpp
+	"TasksManager.h"
+	"JobTime.h"
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\schedule\src\webtool.cpp
+	"WebTool.h"
+
+1431504295 source:f:\projects\dragon-service-net-master\clients\schedule\src\clientmanagerschedule.cpp
+	"ClientManagerSchedule.h"
+	"CDLog.h"
+	<fstream>
+
+1431502257 f:\projects\dragon-service-net-master\clients\schedule\include\clientmanagerschedule.h
+	<windows.h>
+	<time.h>
+	<list>
+
