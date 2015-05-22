@@ -26,7 +26,7 @@
 				<Linker>
 					<Add option="-lWS2_32" />
 					<Add option="-lShlwapi" />
-					<Add library="C:\MinGW\curl-7.40.0-devel-mingw32\lib\libcurldll.a" />
+					<Add library="..\..\lib\curl-7.40.0-devel-mingw32\lib\libcurldll.a" />
 					<Add library="..\..\lib\jsoncpp-src-0.5.0\bin\Release\libjs.a" />
 					<Add library="..\..\lib\mCtrl-0.9.8\lib\libmCtrl.dll.a" />
 					<Add directory="C:/MinGW/curl-7.40.0-devel-mingw32/lib" />
