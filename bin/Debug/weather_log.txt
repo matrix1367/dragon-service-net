@@ -1407,3 +1407,31 @@
 [Info][ThreadWaitingForServer][40][05/12/15 13:09:35] >>>[ping serwera]<<<
 [Info][ThreadWaitingForServer][40][05/12/15 13:09:39] >>>[ping serwera]<<<
 [Info][Save][31][05/12/15 13:09:40] SAVE Schedule
+[Info][WaitingForServer][71][05/23/15 23:27:45] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/23/15 23:27:45] LOAD Schedule
+[Info][Start][99][05/23/15 23:27:46] 
+[Info][ThreadStart][105][05/23/15 23:27:46] 
+[Info][ThreadStart][124][05/23/15 23:27:46] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][SendMessages][32][05/23/15 23:27:46] 
+[Info][ThreadSendMessages][38][05/23/15 23:27:46] 
+rszawy - alert pogodowy zostal wykonany.
+[Info][ThreadStart][124][05/23/15 23:27:46] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:27:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:27:51] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:27:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:27:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:27:59] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:28:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:28:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:28:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:28:11] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:28:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:28:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:28:19] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:28:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:28:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:28:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:28:31] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:28:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:28:35] >>>[ping serwera]<<<
+[Info][Save][31][05/23/15 23:28:36] SAVE Schedule

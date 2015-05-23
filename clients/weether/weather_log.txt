@@ -18110,3 +18110,621 @@
 [Info][WaitingForServer][71][05/12/15 14:32:58] Thread: Oczekiwanie na serwer....
 [Info][ThreadWaitingForServer][81][05/12/15 14:32:59] >>>[ping serwera]<<<
 [Info][Save][31][05/12/15 14:32:59] SAVE Schedule
+[Info][WaitingForServer][71][05/23/15 23:35:05] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/23/15 23:35:05] LOAD Schedule
+[Info][Start][99][05/23/15 23:35:05] 
+[Info][ThreadStart][105][05/23/15 23:35:05] 
+[Info][ThreadStart][124][05/23/15 23:35:05] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][SendMessages][32][05/23/15 23:35:05] 
+[Info][ThreadSendMessages][38][05/23/15 23:35:05] 
+[Info][ThreadStart][124][05/23/15 23:35:05] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadStart][124][05/23/15 23:35:05] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:35:06] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:35:10] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:35:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:35:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:35:18] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:35:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:35:22] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:35:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:35:30] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:35:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:35:34] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:35:38] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:35:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:35:42] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:35:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:35:51] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:35:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:35:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:35:59] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:36:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:36:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:36:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:36:11] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:36:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:36:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:36:19] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:36:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:36:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:36:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:36:31] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:36:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:36:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:36:39] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:36:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:36:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:36:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:36:51] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:36:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:36:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:36:59] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:37:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:37:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:37:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:37:11] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:37:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:37:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:37:19] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:37:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:37:24] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:37:26] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:37:28] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:37:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:37:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:37:36] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:37:40] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:37:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:37:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:37:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:37:52] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:37:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:37:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:38:00] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:38:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:38:04] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:38:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:38:12] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:38:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:38:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:38:20] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:38:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:38:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:38:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:38:32] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:38:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:38:36] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:38:40] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:38:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:38:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:38:48] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:38:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:38:52] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:38:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:39:00] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:39:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:39:04] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:39:07] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:39:08] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:39:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:39:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:39:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:39:20] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:39:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:39:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:39:29] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:39:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:39:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:39:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:39:41] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:39:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:39:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:39:49] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:39:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:39:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:39:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:40:01] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:40:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:40:05] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:40:09] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:40:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:40:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:40:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:40:21] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:40:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:40:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:40:29] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:40:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:40:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:40:38] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:40:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:40:42] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:40:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:40:50] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:40:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:40:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:40:58] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:41:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:41:02] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:41:06] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:41:10] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:41:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:41:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:41:18] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:41:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:41:22] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:41:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:41:30] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:41:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:41:34] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:41:38] >>>[ping serwera]<<<
+[Info][Save][31][05/23/15 23:41:39] SAVE Schedule
+[Info][WaitingForServer][71][05/23/15 23:46:30] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/23/15 23:46:30] LOAD Schedule
+[Info][Start][99][05/23/15 23:46:30] 
+[Info][ThreadStart][105][05/23/15 23:46:30] 
+[Info][ThreadStart][124][05/23/15 23:46:30] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][SendMessages][32][05/23/15 23:46:30] 
+[Info][ThreadStart][124][05/23/15 23:46:30] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][38][05/23/15 23:46:30] 
+[Info][ThreadStart][124][05/23/15 23:46:30] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:46:31] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:46:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:46:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:46:39] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:46:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:46:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:46:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:46:51] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:46:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:46:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:46:59] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:47:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:47:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:47:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:47:11] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:47:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:47:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:47:19] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:47:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:47:23] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:47:26] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:47:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:47:32] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:47:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:47:36] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:47:40] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:47:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:47:44] >>>[ping serwera]<<<
+[Info][WaitingForServer][71][05/23/15 23:48:59] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/23/15 23:48:59] LOAD Schedule
+[Info][Start][99][05/23/15 23:48:59] 
+[Info][ThreadStart][105][05/23/15 23:48:59] 
+[Info][ThreadStart][124][05/23/15 23:48:59] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][SendMessages][32][05/23/15 23:48:59] 
+[Info][ThreadStart][124][05/23/15 23:48:59] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][38][05/23/15 23:48:59] 
+[Info][ThreadStart][124][05/23/15 23:48:59] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:49:00] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/23/15 23:49:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/23/15 23:49:04] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/23/15 23:49:08] >>>[ping serwera]<<<
+[Info][Save][31][05/23/15 23:49:11] SAVE Schedule
+[Info][WaitingForServer][71][05/24/15 00:04:58] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/24/15 00:04:58] LOAD Schedule
+[Info][Start][99][05/24/15 00:04:58] 
+[Info][ThreadStart][105][05/24/15 00:04:58] 
+[Info][ThreadStart][124][05/24/15 00:04:58] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][SendMessages][32][05/24/15 00:04:58] 
+[Info][ThreadStart][124][05/24/15 00:04:58] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][38][05/24/15 00:04:58] 
+[Info][ThreadStart][124][05/24/15 00:04:58] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:04:59] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:05:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:05:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:05:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:05:11] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:05:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:05:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:05:19] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:05:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:05:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:05:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:05:31] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:05:32] Task: godzina zostal wykonany.
+[Info][Save][31][05/24/15 00:05:34] SAVE Schedule
+[Info][WaitingForServer][71][05/24/15 00:05:37] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/24/15 00:05:37] LOAD Schedule
+[Info][Start][99][05/24/15 00:05:37] 
+[Info][ThreadStart][105][05/24/15 00:05:37] 
+[Info][ThreadWaitingForServer][81][05/24/15 00:05:38] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:05:42] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:05:42] Task: godzina zostal wykonany.
+[Info][SendMessages][32][05/24/15 00:05:42] 
+[Info][ThreadSendMessages][38][05/24/15 00:05:42] 
+[Info][ThreadWaitingForServer][81][05/24/15 00:05:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:05:50] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:05:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:05:58] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:06:02] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:06:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:06:06] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:06:10] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:06:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:06:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:06:18] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:06:22] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:06:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:06:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:06:30] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:06:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:06:34] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:06:38] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:06:42] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:06:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:06:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:06:50] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:06:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:06:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:06:58] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:07:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:07:02] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:07:06] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:07:10] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:07:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:07:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:07:19] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:07:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:07:23] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:07:26] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:07:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:07:31] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:07:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:07:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:07:39] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:07:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:07:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:07:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:07:51] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:07:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:07:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:07:59] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:08:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:08:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:08:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:08:11] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:08:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:08:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:08:19] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:08:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:08:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:08:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:08:31] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:08:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:08:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:08:39] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:08:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:08:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:08:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:08:51] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:08:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:08:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:08:59] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:09:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:09:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:09:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:09:12] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:09:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:09:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:09:20] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:09:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:09:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:09:28] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:09:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:09:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:09:36] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:09:37] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:09:40] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:09:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:09:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:09:48] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:09:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:09:52] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:09:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:10:00] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:10:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:10:04] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:10:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:10:12] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:10:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:10:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:10:20] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:10:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:10:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:10:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:10:32] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:10:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:10:36] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:10:40] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:10:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:10:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:10:49] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:10:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:10:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:10:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:11:01] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:11:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:11:05] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:11:09] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:11:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:11:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:11:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:11:21] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:11:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:11:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:11:29] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:11:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:11:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:11:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:11:41] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:11:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:11:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:11:49] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:11:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:11:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:11:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:12:01] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:12:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:12:06] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:12:10] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:12:13] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:12:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:12:18] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:12:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:12:22] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:12:26] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:12:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:12:30] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:12:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:12:34] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:12:38] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:12:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:12:42] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:12:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:12:50] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:12:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:12:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:12:58] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:13:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:13:02] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:13:06] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:13:10] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:13:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:13:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:13:18] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:13:22] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:13:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:13:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:13:30] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:13:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:13:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:13:39] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:13:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:13:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:13:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:13:51] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:13:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:13:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:13:59] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:14:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:14:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:14:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:14:17] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:14:17] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:14:21] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:14:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:14:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:14:29] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:14:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:14:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:14:38] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:14:42] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:14:42] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][ThreadStart][124][05/24/15 00:14:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:14:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:14:50] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:14:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:14:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:14:58] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:15:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:15:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:15:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:15:11] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:15:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:15:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:15:19] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:15:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:15:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:15:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:15:31] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:15:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:15:36] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:15:40] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:15:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:15:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:15:48] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:15:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:15:52] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:15:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:16:00] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:16:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:16:04] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:16:08] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:16:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:16:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:16:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:16:21] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:16:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:16:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:16:29] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:16:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:16:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:16:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:16:41] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:16:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:16:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:16:49] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:16:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:16:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:16:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:17:01] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:17:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:17:05] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:17:09] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:17:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:17:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:17:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:17:21] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:17:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:17:25] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:17:26] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:17:29] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:17:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:17:33] >>>[ping serwera]<<<
+[Info][Save][31][05/24/15 00:17:37] SAVE Schedule
+[Info][ThreadWaitingForServer][81][05/24/15 00:17:37] >>>[ping serwera]<<<
+[Info][WaitingForServer][71][05/24/15 00:26:17] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/24/15 00:26:17] LOAD Schedule
+[Info][Start][99][05/24/15 00:26:17] 
+[Info][ThreadStart][105][05/24/15 00:26:17] 
+[Info][ThreadStart][124][05/24/15 00:26:17] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][SendMessages][32][05/24/15 00:26:17] 
+[Info][ThreadStart][124][05/24/15 00:26:17] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadSendMessages][38][05/24/15 00:26:17] 
+[Info][ThreadStart][124][05/24/15 00:26:17] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:26:18] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:26:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:26:22] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:26:26] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:26:30] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:26:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:26:34] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:26:38] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:26:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:26:42] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:26:46] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:26:50] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:26:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:26:54] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:26:58] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:27:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:27:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:27:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:27:11] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:27:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:27:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:27:19] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:27:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:27:23] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:27:26] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:27:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:27:31] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:27:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:27:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:27:39] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:27:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:27:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:27:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:27:51] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:27:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:27:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:27:59] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:28:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:28:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:28:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:28:11] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:28:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:28:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:28:19] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:28:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:28:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:28:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:28:31] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:28:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:28:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:28:39] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:28:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:28:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:28:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:28:52] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:28:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:28:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:29:00] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:29:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:29:04] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:29:08] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:29:12] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:29:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:29:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:29:20] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:29:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:29:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:29:28] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:29:32] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:29:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:29:36] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:29:40] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:29:42] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:29:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:29:48] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:29:52] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:29:52] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:29:56] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:29:57] Task: Poznañ - alert pogodowy zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:30:00] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:30:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:30:04] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:30:08] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:30:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:30:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:30:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:30:20] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:30:22] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:30:24] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:30:28] >>>[ping serwera]<<<
+[Info][Save][31][05/24/15 00:30:31] SAVE Schedule
+[Info][WaitingForServer][71][05/24/15 00:32:57] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/24/15 00:32:57] LOAD Schedule
+[Info][Start][99][05/24/15 00:32:57] 
+[Info][ThreadStart][105][05/24/15 00:32:57] 
+[Info][ThreadStart][124][05/24/15 00:32:57] Task: Warszawy - alert pogodowy zostal wykonany.
+[Info][SendMessages][32][05/24/15 00:32:57] 
+[Info][ThreadStart][124][05/24/15 00:32:57] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][38][05/24/15 00:32:57] 
+[Info][ThreadWaitingForServer][81][05/24/15 00:32:58] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:33:02] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:33:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:33:06] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:33:10] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:33:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:33:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:33:18] >>>[ping serwera]<<<
+[Info][Save][31][05/24/15 00:33:21] SAVE Schedule
+[Info][WaitingForServer][71][05/24/15 00:33:56] Thread: Oczekiwanie na serwer....
+[Info][Load][44][05/24/15 00:33:56] LOAD Schedule
+[Info][Start][99][05/24/15 00:33:56] 
+[Info][ThreadStart][105][05/24/15 00:33:56] 
+[Info][ThreadStart][124][05/24/15 00:33:56] Task: godzina zostal wykonany.
+[Info][SendMessages][32][05/24/15 00:33:56] 
+[Info][ThreadSendMessages][38][05/24/15 00:33:56] 
+[Info][ThreadWaitingForServer][81][05/24/15 00:33:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:34:01] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:34:02] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:34:05] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:34:09] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:34:12] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][81][05/24/15 00:34:14] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:34:18] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][81][05/24/15 00:34:22] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/24/15 00:34:22] Task: godzina zostal wykonany.
+[Info][Save][31][05/24/15 00:34:23] SAVE Schedule

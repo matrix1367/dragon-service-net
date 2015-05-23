@@ -479,17 +479,7 @@ BOOL CALLBACK DlgClientTerm(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lPara
     {
     case WM_INITDIALOG:
     {
-        // printf("WM_INITDIALOG DlgTask: select item : %d\n", lParam);
-        std::vector<std::string> strJob = CJobsManager::getInstance().GetStrAllNameJob();
-        HWND hWndComboBox = GetDlgItem(hwndDlg, IDD_DIALOG_TASK_JOB);
-
-        for (std::vector<std::string>::iterator it = strJob.begin(); it != strJob.end() ; it++)
-        {
-            SendMessage(hWndComboBox,(UINT) CB_ADDSTRING,(WPARAM) 0,(LPARAM) (*it).c_str());
-        }
-
-
-        if (lParam > 0)
+      if (lParam > 0)
         {
             // CTask taskEdit
             CTask* task =  CScheduleManager::getInstance().GetTask(lParam-1);
@@ -531,7 +521,6 @@ BOOL CALLBACK DlgClientTerm(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lPara
                 EnableWindow(hTimeE, true);
             }
 
-            SendMessage((HWND) hWndComboBox, (UINT) CB_SETCURSEL,(WPARAM) CJobsManager::getInstance().GetIndexJob(task->GetIdJob()), (LPARAM) 0);
 
             ShowWindow(hButtonOK,SW_HIDE);
             ShowWindow(hButtonSave,SW_SHOW);
@@ -539,7 +528,7 @@ BOOL CALLBACK DlgClientTerm(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lPara
         else
         {
 
-            SendMessage((HWND) hWndComboBox, (UINT) CB_SETCURSEL,(WPARAM) 0, (LPARAM) 0);
+
         }
     }
     return TRUE;
@@ -555,15 +544,6 @@ BOOL CALLBACK DlgClientTerm(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lPara
     {
         if ( HIWORD( wParam ) == BN_CLICKED )
         {
-            if ( LOWORD( wParam ) == IDD_DIALOG_TASK_CHECK_STOP )
-            {
-                HWND dataP = GetDlgItem(hwndDlg, IDD_DIALOG_TASK_DATE_END);
-                HWND timeP = GetDlgItem(hwndDlg, IDD_DIALOG_TASK_TIME_END);
-                bool checkboxActive = (SendDlgItemMessage(hwndDlg,IDD_DIALOG_TASK_CHECK_STOP ,BM_GETCHECK,0,0)==BST_CHECKED);
-                EnableWindow(dataP,checkboxActive);
-                EnableWindow(timeP,checkboxActive);
-            }
-
             if ( LOWORD( wParam ) == IDD_DIALOG_TASK_CHECK_INTERVAL )
             {
                 bool checkboxActive = (SendDlgItemMessage(hwndDlg,IDD_DIALOG_TASK_CHECK_INTERVAL ,BM_GETCHECK,0,0)==BST_CHECKED);
@@ -582,18 +562,14 @@ BOOL CALLBACK DlgClientTerm(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lPara
             std::string dateEnd = GetWindowText(hwndDlg,IDD_DIALOG_TASK_DATE_END);
             std::string timeEnd = GetWindowText(hwndDlg,IDD_DIALOG_TASK_TIME_END);
             std::string interval = GetWindowText(hwndDlg,IDD_DIALOG_TASK_INTERVAL);
-            std::string settingJob = GetWindowText(hwndDlg,IDD_DIALOG_TASK_SETTING);
 
             //printf("name %s, data %s, time %s, date %s, time %s, interval %s", name.c_str(), dateSt.c_str(), timeSt.c_str(), dateEnd.c_str(), timeEnd.c_str(), interval.c_str());
 
             //indexJob = GetWindowText(hwndDlg,IDD_DIALOG_TASK_NAME);
             int intInterval = 0;
             time_t tDateSt = ConvertStringToTime_T(dateSt, timeSt);
-            time_t tDateEnd = 0;
-            if (SendDlgItemMessage(hwndDlg,IDD_DIALOG_TASK_CHECK_STOP ,BM_GETCHECK,0,0)==BST_CHECKED)
-            {
-                tDateEnd = ConvertStringToTime_T(dateEnd, timeEnd);
-            }
+            time_t tDateEnd = ConvertStringToTime_T(dateEnd, timeEnd);
+
 
             if (SendDlgItemMessage(hwndDlg,IDD_DIALOG_TASK_CHECK_INTERVAL ,BM_GETCHECK,0,0)==BST_CHECKED)
             {
@@ -602,8 +578,7 @@ BOOL CALLBACK DlgClientTerm(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lPara
             HWND hWndComboBox = GetDlgItem(hwndDlg, IDD_DIALOG_TASK_JOB);
             int index = SendMessage((HWND) hWndComboBox, (UINT) CB_GETCURSEL,(WPARAM) 0, (LPARAM) 0);
 
-            CScheduleManager::getInstance().AddTask(name, tDateSt, tDateEnd , intInterval, CJobsManager::getInstance().GetIdJob(index),settingJob );
-            EndDialog(hwndDlg, IDOK);
+             EndDialog(hwndDlg, IDOK);
             break;
         }
         case IDSAVE:

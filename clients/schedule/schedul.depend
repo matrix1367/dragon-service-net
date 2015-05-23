@@ -262,3 +262,180 @@
 	<time.h>
 	<list>
 
+1432244076 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\cdlog.cpp
+	"CDLog.h"
+	<iostream>
+	<fstream>
+	<time.h>
+
+1432244076 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\cdlog.h
+	<string>
+	<sstream>
+
+1432244076 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\cdsetting.cpp
+	"CDSetting.h"
+	"CDSerialize.h"
+	"CDLog.h"
+	<windows.h>
+	"Shlwapi.h"
+
+1432244076 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\cdsetting.h
+	<string>
+
+1432244076 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\cdserialize.h
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1432244077 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\client.cpp
+	"Client.h"
+	<winsock2.h>
+	<windows.h>
+	<fcntl.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<stdio.h>
+	<conio.h>
+	"CDSetting.h"
+	"CDLog.h"
+
+1432244076 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\client.h
+	<windows.h>
+	<string>
+
+1432244077 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\convert.cpp
+	"Convert.h"
+	"CDLog.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
+1432244076 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\convert.h
+	<string>
+	<cstdio>
+	<vector>
+
+1432244077 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\eventmanager.cpp
+	"EventManager.h"
+
+1432244076 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\eventmanager.h
+	<vector>
+	<windows.h>
+
+1432244077 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\guimanager.cpp
+	"GUIManager.h"
+	"Convert.h"
+	"Models.h"
+	"CDSetting.h"
+
+1432244076 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\guimanager.h
+	<windows.h>
+	<string>
+	"../resource.h"
+
+1432428319 c:\users\asus\documents\github\dragon-service-net\clients\schedule\resource.h
+
+1432244076 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\models.h
+	"Client.h"
+	"Convert.h"
+
+1432244077 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\ijob.cpp
+	"IJob.h"
+
+1432244076 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\ijob.h
+	"Message.h"
+
+1432244076 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\message.h
+	<string>
+
+1432244077 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\job\jobtime.cpp
+	"job\JobTime.h"
+	<time.h>
+
+1432244076 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\job\jobtime.h
+	"IJob.h"
+	"Message.h"
+
+1432244077 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\message.cpp
+	"Message.h"
+	<cstdlib>
+
+1432244077 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\messagemanager.cpp
+	"MessageManager.h"
+	"Models.h"
+	"CDLog.h"
+
+1432244076 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\messagemanager.h
+	<Message.h>
+	<queue>
+	<windows.h>
+
+1432244077 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\models.cpp
+	"Models.h"
+	"CDLog.h"
+	"Convert.h"
+	"EventManager.h"
+	"CDSetting.h"
+	<cstdio>
+
+1432244077 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\schedulemanager.cpp
+	"ScheduleManager.h"
+	"MessageManager.h"
+	"CDSerialize.h"
+	<cstdio>
+	"CDLog.h"
+	"TasksManager.h"
+	"EventManager.h"
+
+1432244076 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\schedulemanager.h
+	<list>
+	<time.h>
+	<string>
+	<windows.h>
+
+1432244076 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\tasksmanager.h
+	"IJob.h"
+	"job/JobTime.h"
+	<vector>
+
+1432244077 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\tasksmanager.cpp
+	"TasksManager.h"
+	"JobTime.h"
+
+1432340102 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<gdiplus.h>
+	<stdio.h>
+	<vector>
+	<algorithm>
+	<string>
+	"resource.h"
+	"Models.h"
+	"ScheduleManager.h"
+	"ClientManagerSchedule.h"
+	"CDSetting.h"
+	"CDLog.h"
+	"TasksManager.h"
+	"EventManager.h"
+	"GUIManager.h"
+
+1432340102 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\clientmanagerschedule.h
+	<windows.h>
+	<time.h>
+	<list>
+
+1432340103 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\clientmanagerschedule.cpp
+	"ClientManagerSchedule.h"
+	"CDLog.h"
+	<fstream>
+
+1432427942 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+

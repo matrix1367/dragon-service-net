@@ -114,6 +114,7 @@ bool CConvert::ParserJSONToDataWeeterList(std::string jsonDataWeether, DataWeeth
                  }
 
                  const Json::Value jsonDt = (*it)["dt"];
+                 //printf(">>>>>> dt_text: %d\n" , jsonDt.asInt());
                  if (jsonDt.isInt()) {
                     item.dt = jsonDt.asInt();
                  }

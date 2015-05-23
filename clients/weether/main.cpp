@@ -662,7 +662,7 @@ void RefreshCheat(TypeParmT parm)
 
         listP.push_back(1014 - dataWeether.items[i].main.pressure);
 
-        //printf("data:: %s  temp :%f, rain:%f , p:%f\n" , godzina , dataWeether.items[i].main.temp, dataWeether.items[i].rain, 1014 - dataWeether.items[i].main.pressure);
+        printf("data:: %s  temp :%f, rain:%f , p:%f\n" , godzina , dataWeether.items[i].main.temp, dataWeether.items[i].rain, 1014 - dataWeether.items[i].main.pressure);
 
     }
     std::sort(listYi.begin(), listYi.begin() + listYi.size());
@@ -756,14 +756,14 @@ BOOL CALLBACK DlgNextHours(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam
       SelectObject( hdc, GetStockObject( GRAY_BRUSH ) );
 
         unsigned short int x;
-        for (i =0, x = marginLeft + scale; x < widthWindow - marginRight ; x+= scale, i++)
+        for (i =0, x = marginLeft ; x < widthWindow - marginRight ; x+= scale, i++)
         {
             //SelectObject(hdc, hLinePenGrey);
             MoveToEx(hdc, x, marginTop, NULL);
             LineTo(hdc, x, heightWindow-marginButton);
 
             RECT rect;
-            rect.left=x-scale;
+            rect.left=x-5;
             rect.top=heightWindow-marginButton+10;
 
             if (i < listXi.size()) DrawText( hdc, (listXi[i]).c_str(), -1, &rect, DT_SINGLELINE | DT_NOCLIP   ) ;
