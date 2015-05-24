@@ -83,3 +83,37 @@ void CClientManagerSchedule::RemoveTerm(unsigned int term)
 
 }
 
+std::list<CTerm> CClientManagerSchedule::GetSchedule()
+{
+    return schedules;
+}
+
+std::string CTerm::GetStrInterval()
+{
+    return CDLog::ToString(m_interval);
+}
+
+std::string CTerm::GetStrName()
+{
+    return m_name;
+}
+
+std::string CTerm::GetStrDateStart()
+{
+    struct tm * data;
+    char godzina[ 80 ];
+    data = localtime( & m_dateStart );
+    strftime( godzina, 80, "%d-%m-%Y %X", data );
+    return std::string(godzina);
+}
+
+std::string CTerm::GetStrDateEnd()
+{
+    if (m_dateEnd == 0 ) return "brak";
+    struct tm * data;
+    char godzina[ 80 ];
+    data = localtime( & m_dateEnd );
+    strftime( godzina, 80, "%d-%m-%Y %X", data );
+    return std::string(godzina);
+}
+

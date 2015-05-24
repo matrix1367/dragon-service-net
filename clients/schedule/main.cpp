@@ -675,7 +675,29 @@ BOOL CALLBACK DlgSetting(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
 void RefreshDlgMain(TypeParmT parm)
 {
+    HWND listView = parm.handle;
+    LVITEM lvi;
+    lvi.mask = LVIF_TEXT;
+    int i = 0;
+    ListView_DeleteAllItems(listView);
+    std::list<CTerm> schedules = CClientManagerSchedule::getInstance().GetSchedule();
+    for (std::list<CTerm>::iterator it= schedules.begin(); it != schedules.end(); it++)
+    {
+        char buffer[5];
+        itoa(i+1,buffer,10);
 
+        lvi.pszText = const_cast<char * >(std::string(buffer).c_str());
+        lvi.iItem = i;
+        lvi.iSubItem = 0;
+
+        ListView_InsertItem( listView, & lvi );
+        ListView_SetItemText( listView, i, 1, const_cast<char *>(it->GetStrName().c_str()));
+        ListView_SetItemText( listView, i, 2, const_cast<char *>(it->GetStrDateStart().c_str()));
+        ListView_SetItemText( listView, i, 3, const_cast<char *>(it->GetStrDateEnd().c_str()));
+        ListView_SetItemText( listView, i, 4, const_cast<char *>(it->GetStrInterval().c_str()));
+        //ListView_SetItemText( listView, i, 5, const_cast<char *>( CJobsManager::getInstance().GetStrNameJob(it->GetIdJob()).c_str() ));
+        i++;
+    }
 }
 
 BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
@@ -689,7 +711,8 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
             HWND listView = GetDlgItem(hwndDlg,DLG_MAIN_LISTVIE);
 
-            char lp[] = {"Czas"};
+            //char lp[] = {"lp"};
+            char time[] = {"Czas"};
             char name[] = {"Nazwa"};
             char id[] = {"Data poczatkowa"};
             char adressIP[] = {"Data koncowa"};
@@ -701,7 +724,7 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
             lvc.iSubItem = 0;
             lvc.cx = 150;
-            lvc.pszText = lp;
+            lvc.pszText = time;
             ListView_InsertColumn( listView, 0, & lvc );
 
             lvc.iSubItem = 0;
@@ -726,6 +749,18 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
 
             ListView_SetExtendedListViewStyleEx(listView, LVS_EX_FULLROWSELECT, LVS_EX_FULLROWSELECT);
+
+            TypeParmT parm;
+            parm.handle = listView;
+            RefreshDlgMain(parm);
+
+            Event event;
+            event.paem1.handle = listView;
+            event.typeEvent = EVENT_ADD_TERM;
+            event.handleFunction = &RefreshDlgMain;
+            CEventManager::getInstance().Subscribe(event);
+            event.typeEvent = EVENT_DELETE_TERM;
+            CEventManager::getInstance().Subscribe(event);
         }
         return TRUE;
 

@@ -33,6 +33,12 @@ public:
         time(& id);
         return id;
     }
+
+    std::string GetStrDateEnd();
+    std::string GetStrDateStart();
+    std::string GetStrName();
+    std::string GetStrInterval();
+
 };
 
 class CClientManagerSchedule
@@ -49,6 +55,9 @@ public:
     void AddTerm(const CTerm& term);
     void AddTerm(const std::string& name, const time_t& dateStart, const time_t& dateEnd, const int& interval);
     void RemoveTerm(unsigned int term);
+     std::list<CTerm> GetSchedule();
+
+
     static DWORD WINAPI StaticThreadStart(void* Param)
     {
         CClientManagerSchedule * This = (CClientManagerSchedule*) Param;
