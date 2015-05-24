@@ -70,3 +70,16 @@ void CClientManagerSchedule::AddTerm(const CTerm& term)
 {
     schedules.push_back(term);
 }
+
+void CClientManagerSchedule::AddTerm(const std::string& name, const time_t& dateStart, const time_t& dateEnd, const int& interval)
+{
+    CTerm term(name, dateStart, dateEnd, interval);
+    schedules.push_back(term);
+}
+
+
+void CClientManagerSchedule::RemoveTerm(unsigned int term)
+{
+
+}
+

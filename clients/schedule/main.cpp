@@ -565,7 +565,6 @@ BOOL CALLBACK DlgClientTerm(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lPara
 
             //printf("name %s, data %s, time %s, date %s, time %s, interval %s", name.c_str(), dateSt.c_str(), timeSt.c_str(), dateEnd.c_str(), timeEnd.c_str(), interval.c_str());
 
-            //indexJob = GetWindowText(hwndDlg,IDD_DIALOG_TASK_NAME);
             int intInterval = 0;
             time_t tDateSt = ConvertStringToTime_T(dateSt, timeSt);
             time_t tDateEnd = ConvertStringToTime_T(dateEnd, timeEnd);
@@ -575,10 +574,10 @@ BOOL CALLBACK DlgClientTerm(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lPara
             {
                 intInterval = atoi(interval.c_str());
             }
-            HWND hWndComboBox = GetDlgItem(hwndDlg, IDD_DIALOG_TASK_JOB);
-            int index = SendMessage((HWND) hWndComboBox, (UINT) CB_GETCURSEL,(WPARAM) 0, (LPARAM) 0);
 
-             EndDialog(hwndDlg, IDOK);
+            CClientManagerSchedule::getInstance().AddTerm(name, tDateSt, tDateEnd, intInterval);
+
+            EndDialog(hwndDlg, IDOK);
             break;
         }
         case IDSAVE:
@@ -803,7 +802,7 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
                 int res = DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_TERM), NULL, (DLGPROC)DlgClientTerm);
                 if (res == IDOK)
                 {
-                    CEventManager::getInstance().Send(EVENT_ADD_SCHEDULE);
+                    CEventManager::getInstance().Send(EVENT_ADD_TERM);
                 }
                 break;
             }

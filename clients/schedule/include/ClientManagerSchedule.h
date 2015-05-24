@@ -3,13 +3,36 @@
 #include <windows.h>
 #include <time.h>
 #include <list>
+#include <string>
 
 class CTerm
 {
+
+
     long long m_ID;
     char m_name[30];
     time_t m_dateStart;
     time_t m_dateEnd;
+    int m_interval;
+
+public:
+    CTerm(const std::string& name, const time_t& dateStart, const time_t& dateEnd, const int& interval) : m_dateStart(dateStart), m_dateEnd(dateEnd), m_interval(interval)
+    {
+        m_ID = GenerateID();
+        strcpy(m_name, name.c_str());
+    }
+
+    CTerm()
+    {
+
+    }
+
+    long long GenerateID()
+    {
+        time_t id;
+        time(& id);
+        return id;
+    }
 };
 
 class CClientManagerSchedule
@@ -24,6 +47,7 @@ public:
     void Load();
     void Start();
     void AddTerm(const CTerm& term);
+    void AddTerm(const std::string& name, const time_t& dateStart, const time_t& dateEnd, const int& interval);
     void RemoveTerm(unsigned int term);
     static DWORD WINAPI StaticThreadStart(void* Param)
     {

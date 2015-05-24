@@ -45,3 +45,5 @@ Temporary Items
 *.o
 *.res
 *.exe
+*.exe
+*.txt

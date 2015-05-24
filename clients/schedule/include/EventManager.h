@@ -13,7 +13,9 @@ typedef void ( * OnEventT ) (TypeParmT) ;
 
 enum TYPE_EVENT {
     EVENT_ADD_SCHEDULE,
-    EVENT_DELETE_SCHEDULE
+    EVENT_DELETE_SCHEDULE,
+    EVENT_ADD_TERM,
+    EVENT_DELETE_TERM
 };
 
 
