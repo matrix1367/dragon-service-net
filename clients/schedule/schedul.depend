@@ -321,7 +321,7 @@
 1432244077 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\eventmanager.cpp
 	"EventManager.h"
 
-1432244076 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\eventmanager.h
+1433093754 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\eventmanager.h
 	<vector>
 	<windows.h>
 
@@ -405,7 +405,7 @@
 	"TasksManager.h"
 	"JobTime.h"
 
-1432340102 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\main.cpp
+1433094305 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\main.cpp
 	<windows.h>
 	<commctrl.h>
 	<gdiplus.h>
@@ -423,12 +423,13 @@
 	"EventManager.h"
 	"GUIManager.h"
 
-1432340102 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\clientmanagerschedule.h
+1433093754 c:\users\asus\documents\github\dragon-service-net\clients\schedule\include\clientmanagerschedule.h
 	<windows.h>
 	<time.h>
 	<list>
+	<string>
 
-1432340103 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\clientmanagerschedule.cpp
+1433094044 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\clientmanagerschedule.cpp
 	"ClientManagerSchedule.h"
 	"CDLog.h"
 	<fstream>

@@ -691,10 +691,11 @@ void RefreshDlgMain(TypeParmT parm)
         lvi.iSubItem = 0;
 
         ListView_InsertItem( listView, & lvi );
-        ListView_SetItemText( listView, i, 1, const_cast<char *>(it->GetStrName().c_str()));
-        ListView_SetItemText( listView, i, 2, const_cast<char *>(it->GetStrDateStart().c_str()));
-        ListView_SetItemText( listView, i, 3, const_cast<char *>(it->GetStrDateEnd().c_str()));
-        ListView_SetItemText( listView, i, 4, const_cast<char *>(it->GetStrInterval().c_str()));
+        ListView_SetItemText( listView, i, 1, "0");
+        ListView_SetItemText( listView, i, 2, const_cast<char *>(it->GetStrName().c_str()));
+        ListView_SetItemText( listView, i, 4, const_cast<char *>(it->GetStrDateStart().c_str()));
+        ListView_SetItemText( listView, i, 5, const_cast<char *>(it->GetStrDateEnd().c_str()));
+        ListView_SetItemText( listView, i, 6, const_cast<char *>(it->GetStrInterval().c_str()));
         //ListView_SetItemText( listView, i, 5, const_cast<char *>( CJobsManager::getInstance().GetStrNameJob(it->GetIdJob()).c_str() ));
         i++;
     }
@@ -711,7 +712,7 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
             HWND listView = GetDlgItem(hwndDlg,DLG_MAIN_LISTVIE);
 
-            //char lp[] = {"lp"};
+            char lp[] = {"lp"};
             char time[] = {"Czas"};
             char name[] = {"Nazwa"};
             char id[] = {"Data poczatkowa"};
@@ -723,29 +724,35 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
             lvc.mask = LVCF_WIDTH | LVCF_TEXT | LVCF_SUBITEM;
 
             lvc.iSubItem = 0;
+            lvc.cx = 25;
+            lvc.pszText = lp;
+            ListView_InsertColumn( listView, 0, & lvc );
+
+
+            lvc.iSubItem = 0;
             lvc.cx = 150;
             lvc.pszText = time;
-            ListView_InsertColumn( listView, 0, & lvc );
+            ListView_InsertColumn( listView, 1, & lvc );
 
             lvc.iSubItem = 0;
             lvc.cx = 150;
             lvc.pszText = name;
-            ListView_InsertColumn( listView, 1, & lvc );
-
-            lvc.iSubItem = 0;
-            lvc.cx = 120;
-            lvc.pszText = id;
             ListView_InsertColumn( listView, 2, & lvc );
 
             lvc.iSubItem = 0;
             lvc.cx = 120;
-            lvc.pszText = adressIP;
+            lvc.pszText = id;
             ListView_InsertColumn( listView, 3, & lvc );
 
             lvc.iSubItem = 0;
             lvc.cx = 120;
-            lvc.pszText = status;
+            lvc.pszText = adressIP;
             ListView_InsertColumn( listView, 4, & lvc );
+
+            lvc.iSubItem = 0;
+            lvc.cx = 120;
+            lvc.pszText = status;
+            ListView_InsertColumn( listView, 5, & lvc );
 
 
             ListView_SetExtendedListViewStyleEx(listView, LVS_EX_FULLROWSELECT, LVS_EX_FULLROWSELECT);
@@ -766,6 +773,7 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
         case WM_CLOSE:
         {
+            CClientManagerSchedule::getInstance().Save();
             CScheduleManager::getInstance().Save();
             CDSetting::getInstance().Save();
             RemoveTrayIcon (hwndDlg, ID_TRAY1);

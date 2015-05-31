@@ -21,7 +21,7 @@ void CClientManagerSchedule::Start()
 void CClientManagerSchedule::Save()
 {
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "SAVE Client Schedule" );
-    std::ofstream out_file("Schedule.dat", std::ios::out | std::ios::binary | std::ios::trunc);
+    std::ofstream out_file("ClientSchedule.dat", std::ios::out | std::ios::binary | std::ios::trunc);
     if (!out_file) return;
     for (std::list<CTerm>::iterator itVCTerm= schedules.begin(); itVCTerm != schedules.end(); ++itVCTerm )
     {
@@ -34,7 +34,7 @@ void CClientManagerSchedule::Save()
 void CClientManagerSchedule::Load()
 {
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "LOAD Client Schedule" );
-    std::ifstream in_file("Schedule.dat", std::ios::in | std::ios::binary);
+    std::ifstream in_file("ClientSchedule.dat", std::ios::in | std::ios::binary);
     if (!in_file) return ;
 
     in_file.seekg (0, in_file.end);

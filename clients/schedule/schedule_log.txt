@@ -258,3 +258,86 @@
 [Info][ThreadStart][124][05/25/15 00:08:58] Task: godzina zostal wykonany.
 [Info][ThreadWaitingForServer][39][05/25/15 00:09:00] >>>[ping serwera]<<<
 [Info][Save][31][05/25/15 00:09:02] SAVE Schedule
+[Info][WaitingForServer][29][05/31/15 18:39:28] Thread: Oczekiwanie na serwer....
+[Info][Load][36][05/31/15 18:39:28] LOAD Client Schedule
+[Info][Start][17][05/31/15 18:39:28] 
+[Info][Load][44][05/31/15 18:39:28] LOAD Schedule
+[Info][ThreadStart][56][05/31/15 18:39:28] 
+[Info][Start][99][05/31/15 18:39:28] 
+[Info][ThreadStart][105][05/31/15 18:39:28] 
+[Info][ThreadStart][124][05/31/15 18:39:28] Task: godzina zostal wykonany.
+[Info][SendMessages][32][05/31/15 18:39:28] 
+[Info][ThreadSendMessages][38][05/31/15 18:39:28] 
+[Info][ThreadWaitingForServer][39][05/31/15 18:39:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][05/31/15 18:39:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][05/31/15 18:39:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][05/31/15 18:39:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][05/31/15 18:39:45] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/31/15 18:39:48] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][39][05/31/15 18:39:49] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][05/31/15 18:39:53] >>>[ping serwera]<<<
+[Info][Save][31][05/31/15 18:39:53] SAVE Schedule
+[Info][WaitingForServer][29][05/31/15 18:39:56] Thread: Oczekiwanie na serwer....
+[Info][Load][36][05/31/15 18:39:56] LOAD Client Schedule
+[Info][Start][17][05/31/15 18:39:56] 
+[Info][Load][44][05/31/15 18:39:56] LOAD Schedule
+[Info][ThreadStart][56][05/31/15 18:39:56] 
+[Info][Start][99][05/31/15 18:39:56] 
+[Info][ThreadStart][105][05/31/15 18:39:56] 
+[Info][ThreadWaitingForServer][39][05/31/15 18:39:57] >>>[ping serwera]<<<
+[Info][Save][31][05/31/15 18:39:59] SAVE Schedule
+[Info][WaitingForServer][29][05/31/15 18:46:11] Thread: Oczekiwanie na serwer....
+[Info][Load][36][05/31/15 18:46:11] LOAD Client Schedule
+[Info][Start][17][05/31/15 18:46:11] 
+[Info][Load][44][05/31/15 18:46:11] LOAD Schedule
+[Info][ThreadStart][56][05/31/15 18:46:11] 
+[Info][Start][99][05/31/15 18:46:11] 
+[Info][ThreadStart][105][05/31/15 18:46:12] 
+[Info][ThreadStart][124][05/31/15 18:46:12] Task: godzina zostal wykonany.
+[Info][SendMessages][32][05/31/15 18:46:12] 
+[Info][ThreadSendMessages][38][05/31/15 18:46:12] 
+[Info][ThreadWaitingForServer][39][05/31/15 18:46:12] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][05/31/15 18:46:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][05/31/15 18:46:20] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][05/31/15 18:46:25] >>>[ping serwera]<<<
+[Info][Save][23][05/31/15 18:46:27] SAVE Client Schedule
+[Info][Save][31][05/31/15 18:46:28] SAVE Schedule
+[Info][WaitingForServer][29][05/31/15 18:46:30] Thread: Oczekiwanie na serwer....
+[Info][Load][36][05/31/15 18:46:30] LOAD Client Schedule
+[Info][Start][17][05/31/15 18:46:30] 
+[Info][Load][44][05/31/15 18:46:30] LOAD Schedule
+[Info][ThreadStart][56][05/31/15 18:46:30] 
+[Info][Start][99][05/31/15 18:46:30] 
+[Info][ThreadStart][105][05/31/15 18:46:30] 
+[Info][ThreadStart][124][05/31/15 18:46:31] Task: godzina zostal wykonany.
+[Info][SendMessages][32][05/31/15 18:46:31] 
+[Info][ThreadSendMessages][38][05/31/15 18:46:31] 
+[Info][ThreadWaitingForServer][39][05/31/15 18:46:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][05/31/15 18:46:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][05/31/15 18:46:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][05/31/15 18:46:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][05/31/15 18:46:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][05/31/15 18:46:52] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/31/15 18:46:53] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][39][05/31/15 18:46:56] >>>[ping serwera]<<<
+[Info][ThreadStart][124][05/31/15 18:46:58] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][39][05/31/15 18:47:00] >>>[ping serwera]<<<
+[Info][Save][31][05/31/15 18:47:00] SAVE Schedule
+[Info][ThreadWaitingForServer][39][05/31/15 18:47:04] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][05/31/15 18:47:08] >>>[ping serwera]<<<
+[Info][Save][23][05/31/15 18:47:09] SAVE Client Schedule
+[Info][Save][31][05/31/15 18:47:10] SAVE Schedule
+[Info][WaitingForServer][29][05/31/15 21:21:57] Thread: Oczekiwanie na serwer....
+[Info][Load][36][05/31/15 21:21:57] LOAD Client Schedule
+[Info][Start][17][05/31/15 21:21:57] 
+[Info][Load][44][05/31/15 21:21:57] LOAD Schedule
+[Info][ThreadStart][56][05/31/15 21:21:57] 
+[Info][Start][99][05/31/15 21:21:58] 
+[Info][ThreadStart][105][05/31/15 21:21:58] 
+[Info][ThreadStart][124][05/31/15 21:21:58] Task: godzina zostal wykonany.
+[Info][SendMessages][32][05/31/15 21:21:58] 
+[Info][ThreadSendMessages][38][05/31/15 21:21:58] 
+[Info][ThreadWaitingForServer][39][05/31/15 21:21:58] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][05/31/15 21:22:02] >>>[ping serwera]<<<
+[Info][Save][23][05/31/15 21:22:04] SAVE Client Schedule
+[Info][Save][31][05/31/15 21:22:05] SAVE Schedule
