@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1431504629 source:f:\projects\dragon-service-net-master\clients\schedule\main.cpp
+1433336281 source:f:\projects\dragon-service-net-master\clients\schedule\main.cpp
 	<windows.h>
 	<commctrl.h>
 	<gdiplus.h>
@@ -41,7 +41,7 @@
 1431428352 f:\projects\dragon-service-net-master\clients\schedule\include\cdsetting.h
 	<string>
 
-1431422746 f:\projects\dragon-service-net-master\clients\schedule\include\cdlog.h
+1433334618 f:\projects\dragon-service-net-master\clients\schedule\include\cdlog.h
 	<string>
 	<sstream>
 
@@ -50,7 +50,7 @@
 	"job/JobTime.h"
 	<vector>
 
-1431427390 f:\projects\dragon-service-net-master\clients\schedule\include\ijob.h
+1433337858 f:\projects\dragon-service-net-master\clients\schedule\include\ijob.h
 	"Message.h"
 
 1431422746 f:\projects\dragon-service-net-master\clients\schedule\include\message.h
@@ -60,7 +60,7 @@
 	"IJob.h"
 	"Message.h"
 
-1431426870 f:\projects\dragon-service-net-master\clients\schedule\include\eventmanager.h
+1432906916 f:\projects\dragon-service-net-master\clients\schedule\include\eventmanager.h
 	<vector>
 	<windows.h>
 
@@ -69,7 +69,7 @@
 	<string>
 	"../resource.h"
 
-1431504428 source:f:\projects\dragon-service-net-master\clients\schedule\resource.rc
+1432906916 source:f:\projects\dragon-service-net-master\clients\schedule\resource.rc
 	<windows.h>
 	<commctrl.h>
 	<richedit.h>
@@ -178,7 +178,7 @@
 	"Message.h"
 	<cstdlib>
 
-1431422746 source:f:\projects\dragon-service-net-master\clients\schedule\src\messagemanager.cpp
+1433341201 source:f:\projects\dragon-service-net-master\clients\schedule\src\messagemanager.cpp
 	"MessageManager.h"
 	"Models.h"
 	"CDLog.h"
@@ -236,7 +236,7 @@
 
 1431422747 f:\projects\dragon-service-net-master\lib\curl-7.40.0-devel-mingw32\include\curl\typecheck-gcc.h
 
-1431499972 source:f:\projects\dragon-service-net-master\clients\schedule\src\schedulemanager.cpp
+1433341669 source:f:\projects\dragon-service-net-master\clients\schedule\src\schedulemanager.cpp
 	"ScheduleManager.h"
 	"MessageManager.h"
 	"CDSerialize.h"
@@ -245,22 +245,24 @@
 	"TasksManager.h"
 	"EventManager.h"
 
-1431427367 source:f:\projects\dragon-service-net-master\clients\schedule\src\tasksmanager.cpp
+1433338129 source:f:\projects\dragon-service-net-master\clients\schedule\src\tasksmanager.cpp
 	"TasksManager.h"
 	"JobTime.h"
+	"CJobNotificatiopnTerm.h"
 
 1431422746 source:f:\projects\dragon-service-net-master\clients\schedule\src\webtool.cpp
 	"WebTool.h"
 
-1431504295 source:f:\projects\dragon-service-net-master\clients\schedule\src\clientmanagerschedule.cpp
+1433333876 source:f:\projects\dragon-service-net-master\clients\schedule\src\clientmanagerschedule.cpp
 	"ClientManagerSchedule.h"
 	"CDLog.h"
 	<fstream>
 
-1431502257 f:\projects\dragon-service-net-master\clients\schedule\include\clientmanagerschedule.h
+1433333746 f:\projects\dragon-service-net-master\clients\schedule\include\clientmanagerschedule.h
 	<windows.h>
 	<time.h>
 	<list>
+	<string>
 
 1432244076 source:c:\users\asus\documents\github\dragon-service-net\clients\schedule\src\cdlog.cpp
 	"CDLog.h"
@@ -617,4 +619,11 @@
 	"TasksManager.h"
 	"EventManager.h"
 	"GUIManager.h"
+
+1433339272 source:f:\projects\dragon-service-net-master\clients\schedule\src\job\cjobnotificatiopnterm.cpp
+	"CJobNotificatiopnTerm.h"
+
+1433337158 f:\projects\dragon-service-net-master\clients\schedule\include\job\cjobnotificatiopnterm.h
+	"IJob.h"
+	"Message.h"
 

@@ -341,3 +341,1032 @@
 [Info][ThreadWaitingForServer][39][05/31/15 21:22:02] >>>[ping serwera]<<<
 [Info][Save][23][05/31/15 21:22:04] SAVE Client Schedule
 [Info][Save][31][05/31/15 21:22:05] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 10:36:02] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 10:36:02] LOAD Client Schedule
+[Info][Start][17][06/03/15 10:36:02] 
+[Info][Load][44][06/03/15 10:36:02] LOAD Schedule
+[Info][ThreadStart][56][06/03/15 10:36:02] 
+[Info][Start][99][06/03/15 10:36:02] 
+[Info][ThreadStart][105][06/03/15 10:36:02] 
+[Info][ThreadStart][124][06/03/15 10:36:02] Task: godzina zostal wykonany.
+[Info][SendMessages][32][06/03/15 10:36:02] 
+[Info][ThreadSendMessages][38][06/03/15 10:36:02] 
+[Info][ThreadWaitingForServer][39][06/03/15 10:36:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 10:36:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 10:36:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 10:36:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 10:36:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 10:36:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 10:36:27] >>>[ping serwera]<<<
+[Info][Save][23][06/03/15 10:36:28] SAVE Client Schedule
+[Info][Save][31][06/03/15 10:36:28] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 14:18:27] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 14:18:27] LOAD Client Schedule
+[Info][Start][17][06/03/15 14:18:27] 
+[Info][Load][44][06/03/15 14:18:27] LOAD Schedule
+[Info][Start][99][06/03/15 14:18:27] 
+[Info][ThreadStart][105][06/03/15 14:18:27] 
+[Info][ThreadStart][56][06/03/15 14:18:27] 
+[Info][ThreadStart][124][06/03/15 14:18:27] Task: godzina zostal wykonany.
+[Info][SendMessages][32][06/03/15 14:18:27] 
+[Info][ThreadSendMessages][38][06/03/15 14:18:27] 
+[Info][ThreadStart][729][06/03/15 14:18:28] 
+[Info][ThreadWaitingForServer][39][06/03/15 14:18:28] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:18:32] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:18:36] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:18:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:18:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:18:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:18:52] >>>[ping serwera]<<<
+[Info][Save][23][06/03/15 14:18:53] SAVE Client Schedule
+[Info][Save][31][06/03/15 14:18:53] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 14:18:56] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 14:18:56] LOAD Client Schedule
+[Info][Start][17][06/03/15 14:18:56] 
+[Info][ThreadStart][56][06/03/15 14:18:56] 
+[Info][Load][44][06/03/15 14:18:56] LOAD Schedule
+[Info][Start][99][06/03/15 14:18:56] 
+[Info][ThreadStart][105][06/03/15 14:18:56] 
+[Info][ThreadStart][729][06/03/15 14:18:56] 
+[Info][ThreadWaitingForServer][39][06/03/15 14:18:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:19:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:19:05] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:19:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:19:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:19:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:19:21] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:19:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:19:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:19:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:19:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:19:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:19:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:19:49] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:19:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:19:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:20:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:20:05] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:20:09] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:20:13] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:20:17] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:20:21] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:20:25] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:20:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:20:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:20:37] >>>[ping serwera]<<<
+[Info][Save][23][06/03/15 14:20:38] SAVE Client Schedule
+[Info][Save][31][06/03/15 14:20:38] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 14:21:29] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 14:21:29] LOAD Client Schedule
+[Info][Start][17][06/03/15 14:21:29] 
+[Info][Load][44][06/03/15 14:21:29] LOAD Schedule
+[Info][Start][99][06/03/15 14:21:29] 
+[Info][ThreadStart][56][06/03/15 14:21:29] 
+[Info][ThreadStart][105][06/03/15 14:21:29] 
+[Info][ThreadStart][124][06/03/15 14:21:29] Task: godzina zostal wykonany.
+[Info][SendMessages][32][06/03/15 14:21:29] 
+[Info][ThreadSendMessages][38][06/03/15 14:21:29] 
+[Info][ThreadStart][729][06/03/15 14:21:29] 
+[Info][ThreadWaitingForServer][39][06/03/15 14:21:30] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:21:34] >>>[ping serwera]<<<
+[Info][Save][23][06/03/15 14:21:34] SAVE Client Schedule
+[Info][Save][31][06/03/15 14:21:34] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 14:21:56] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 14:21:56] LOAD Client Schedule
+[Info][Start][17][06/03/15 14:21:56] 
+[Info][ThreadStart][56][06/03/15 14:21:56] 
+[Info][Load][44][06/03/15 14:21:56] LOAD Schedule
+[Info][Start][99][06/03/15 14:21:56] 
+[Info][ThreadStart][105][06/03/15 14:21:56] 
+[Info][ThreadStart][729][06/03/15 14:21:56] 
+[Info][ThreadWaitingForServer][39][06/03/15 14:21:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:22:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:22:05] >>>[ping serwera]<<<
+[Info][Save][23][06/03/15 14:22:07] SAVE Client Schedule
+[Info][Save][31][06/03/15 14:22:07] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 14:24:58] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 14:24:58] LOAD Client Schedule
+[Info][Start][17][06/03/15 14:24:58] 
+[Info][Load][44][06/03/15 14:24:58] LOAD Schedule
+[Info][ThreadStart][56][06/03/15 14:24:58] 
+[Info][Start][99][06/03/15 14:24:58] 
+[Info][ThreadStart][105][06/03/15 14:24:58] 
+[Info][ThreadStart][723][06/03/15 14:24:58] 
+[Info][ThreadWaitingForServer][39][06/03/15 14:24:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:25:03] >>>[ping serwera]<<<
+[Info][Save][23][06/03/15 14:25:06] SAVE Client Schedule
+[Info][Save][31][06/03/15 14:25:06] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 14:28:34] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 14:28:34] LOAD Client Schedule
+[Info][Start][17][06/03/15 14:28:34] 
+[Info][Load][44][06/03/15 14:28:34] LOAD Schedule
+[Info][ThreadStart][56][06/03/15 14:28:34] 
+[Info][Start][99][06/03/15 14:28:34] 
+[Info][ThreadStart][105][06/03/15 14:28:34] 
+[Info][ThreadStart][124][06/03/15 14:28:34] Task: godzina zostal wykonany.
+[Info][SendMessages][32][06/03/15 14:28:34] 
+[Info][ThreadSendMessages][38][06/03/15 14:28:34] 
+[Info][ThreadStart][723][06/03/15 14:28:34] 
+[Info][ThreadWaitingForServer][39][06/03/15 14:28:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:28:39] >>>[ping serwera]<<<
+[Info][Save][23][06/03/15 14:28:41] SAVE Client Schedule
+[Info][Save][31][06/03/15 14:28:41] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 14:30:35] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 14:30:35] LOAD Client Schedule
+[Info][Start][17][06/03/15 14:30:35] 
+[Info][Load][44][06/03/15 14:30:35] LOAD Schedule
+[Info][ThreadStart][56][06/03/15 14:30:35] 
+[Info][Start][99][06/03/15 14:30:35] 
+[Info][ThreadStart][105][06/03/15 14:30:35] 
+[Info][ThreadStart][124][06/03/15 14:30:35] Task: godzina zostal wykonany.
+[Info][SendMessages][32][06/03/15 14:30:35] 
+[Info][ThreadSendMessages][38][06/03/15 14:30:35] 
+[Info][ThreadStart][725][06/03/15 14:30:35] 
+[Info][ThreadWaitingForServer][39][06/03/15 14:30:36] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:30:40] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:30:44] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:30:48] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:30:52] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:30:56] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:31:00] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:31:04] >>>[ping serwera]<<<
+[Info][Save][31][06/03/15 14:31:05] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 14:31:28] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 14:31:28] LOAD Client Schedule
+[Info][Start][17][06/03/15 14:31:28] 
+[Info][ThreadStart][56][06/03/15 14:31:28] 
+[Info][Load][44][06/03/15 14:31:28] LOAD Schedule
+[Info][Start][99][06/03/15 14:31:28] 
+[Info][ThreadStart][105][06/03/15 14:31:28] 
+[Info][ThreadStart][725][06/03/15 14:31:28] 
+[Info][ThreadWaitingForServer][39][06/03/15 14:31:29] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:31:33] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:31:37] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:31:41] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:31:45] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:31:49] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:31:53] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:31:57] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:32:01] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:32:05] >>>[ping serwera]<<<
+[Info][Save][23][06/03/15 14:32:07] SAVE Client Schedule
+[Info][Save][31][06/03/15 14:32:07] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 14:33:15] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 14:33:15] LOAD Client Schedule
+[Info][Start][17][06/03/15 14:33:15] 
+[Info][Load][44][06/03/15 14:33:15] LOAD Schedule
+[Info][Start][99][06/03/15 14:33:15] 
+[Info][ThreadStart][56][06/03/15 14:33:15] 
+[Info][ThreadStart][105][06/03/15 14:33:15] 
+[Info][ThreadStart][726][06/03/15 14:33:15] 
+[Info][ThreadWaitingForServer][39][06/03/15 14:33:16] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:33:20] >>>[ping serwera]<<<
+[Info][Save][23][06/03/15 14:33:21] SAVE Client Schedule
+[Info][Save][31][06/03/15 14:33:21] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 14:47:38] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 14:47:38] LOAD Client Schedule
+[Info][Start][17][06/03/15 14:47:38] 
+[Info][Load][44][06/03/15 14:47:38] LOAD Schedule
+[Info][ThreadStart][56][06/03/15 14:47:38] 
+[Info][Start][99][06/03/15 14:47:38] 
+[Info][ThreadStart][105][06/03/15 14:47:38] 
+[Info][ThreadStart][124][06/03/15 14:47:38] Task: godzina zostal wykonany.
+[Info][SendMessages][32][06/03/15 14:47:38] 
+[Info][ThreadSendMessages][38][06/03/15 14:47:38] 
+[Info][ThreadStart][726][06/03/15 14:47:38] 
+[Info][ThreadWaitingForServer][39][06/03/15 14:47:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:47:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:47:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:47:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:47:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:47:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:48:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:48:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:48:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:48:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:48:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:48:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:48:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:48:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:48:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:48:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:48:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:48:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:48:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:48:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:48:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:49:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:49:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:49:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:49:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:49:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:49:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:49:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:49:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:49:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:49:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:49:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:49:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:49:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:49:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:49:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:50:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:50:07] >>>[ping serwera]<<<
+[Info][ThreadStart][124][06/03/15 14:50:10] Task: godzina zostal wykonany.
+[Info][ThreadWaitingForServer][39][06/03/15 14:50:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:50:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:50:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:50:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:50:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:50:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:50:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:50:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:50:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:50:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:50:51] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:50:55] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:50:59] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:51:03] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:51:07] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:51:11] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:51:15] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:51:19] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:51:23] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:51:27] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:51:31] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:51:35] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:51:39] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:51:43] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][39][06/03/15 14:51:47] >>>[ping serwera]<<<
+[Info][ThreadWaitingForServer][42][06/03/15 14:51:50] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][06/03/15 14:51:50] CClient: 00001||
+[Info][ThreadSendMessages][43][06/03/15 14:51:53] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][06/03/15 14:51:56] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 14:54:20] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 14:54:20] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][31][06/03/15 14:55:02] SAVE Schedule
+[Info][Save][31][06/03/15 14:55:18] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 14:55:38] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 14:55:38] LOAD Client Schedule
+[Info][Start][17][06/03/15 14:55:38] 
+[Info][ThreadStart][56][06/03/15 14:55:38] 
+[Info][Load][44][06/03/15 14:55:38] LOAD Schedule
+[Info][Start][99][06/03/15 14:55:38] 
+[Info][ThreadStart][105][06/03/15 14:55:38] 
+[Info][ThreadWaitingForServer][42][06/03/15 14:55:38] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][06/03/15 14:55:38] CClient: 00001||
+[Info][ThreadStart][726][06/03/15 14:55:38] 
+[Info][Save][31][06/03/15 14:55:59] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 14:58:06] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 14:58:06] LOAD Client Schedule
+[Info][Start][17][06/03/15 14:58:06] 
+[Info][Load][44][06/03/15 14:58:06] LOAD Schedule
+[Info][ThreadStart][56][06/03/15 14:58:06] 
+[Info][Start][99][06/03/15 14:58:06] 
+[Info][ThreadStart][105][06/03/15 14:58:06] 
+[Info][ThreadWaitingForServer][42][06/03/15 14:58:06] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][06/03/15 14:58:06] CClient: 00001||
+[Info][ThreadStart][726][06/03/15 14:58:06] 
+[Info][ThreadStart][124][06/03/15 14:58:30] Task: godzina zostal wykonany.
+[Info][SendMessages][32][06/03/15 14:58:30] 
+[Info][ThreadSendMessages][38][06/03/15 14:58:30] 
+[Info][ThreadSendMessages][43][06/03/15 14:58:30] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][23][06/03/15 14:58:31] SAVE Client Schedule
+[Info][Save][31][06/03/15 14:58:31] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 14:58:33] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 14:58:33] LOAD Client Schedule
+[Info][Start][17][06/03/15 14:58:33] 
+[Info][Load][44][06/03/15 14:58:33] LOAD Schedule
+[Info][ThreadStart][56][06/03/15 14:58:33] 
+[Info][Start][99][06/03/15 14:58:33] 
+[Info][ThreadStart][105][06/03/15 14:58:33] 
+[Info][ThreadWaitingForServer][42][06/03/15 14:58:33] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][06/03/15 14:58:33] CClient: 00001||
+[Info][ThreadStart][726][06/03/15 14:58:33] 
+[Info][Save][23][06/03/15 14:59:44] SAVE Client Schedule
+[Info][Save][31][06/03/15 14:59:44] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 15:05:17] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 15:05:17] LOAD Client Schedule
+[Info][Start][17][06/03/15 15:05:17] 
+[Info][Load][44][06/03/15 15:05:17] LOAD Schedule
+[Info][ThreadStart][56][06/03/15 15:05:17] 
+[Info][Start][99][06/03/15 15:05:17] 
+[Info][ThreadStart][105][06/03/15 15:05:17] 
+[Info][ThreadStart][124][06/03/15 15:05:17] Task: godzina zostal wykonany.
+[Info][SendMessages][32][06/03/15 15:05:17] 
+[Info][ThreadSendMessages][38][06/03/15 15:05:17] 
+[Info][ThreadWaitingForServer][42][06/03/15 15:05:17] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][06/03/15 15:05:17] CClient: 00001||
+[Info][ThreadStart][726][06/03/15 15:05:17] 
+[Info][ThreadSendMessages][43][06/03/15 15:05:20] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][31][06/03/15 15:05:35] SAVE Schedule
+[Info][Save][23][06/03/15 15:05:36] SAVE Client Schedule
+[Info][Save][31][06/03/15 15:05:36] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 15:29:00] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 15:29:00] LOAD Client Schedule
+[Info][Start][17][06/03/15 15:29:00] 
+[Info][ThreadStart][56][06/03/15 15:29:00] 
+[Info][Load][44][06/03/15 15:29:00] LOAD Schedule
+[Info][Start][99][06/03/15 15:29:00] 
+[Info][ThreadStart][105][06/03/15 15:29:00] 
+[Info][ThreadStart][124][06/03/15 15:29:00] Task: godzina zostal wykonany.
+[Info][SendMessages][32][06/03/15 15:29:00] 
+[Info][ThreadSendMessages][38][06/03/15 15:29:00] 
+[Info][ThreadWaitingForServer][42][06/03/15 15:29:00] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][06/03/15 15:29:00] CClient: 00001||
+[Info][ThreadStart][726][06/03/15 15:29:00] 
+[Info][ThreadSendMessages][43][06/03/15 15:29:03] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:29:39] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:29:39] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:30:21] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:30:21] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:31:21] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:31:21] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:31:50] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:31:51] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:32:21] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:32:21] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:33:21] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:33:21] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][31][06/03/15 15:33:49] SAVE Schedule
+[Info][ThreadStart][124][06/03/15 15:34:21] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:34:21] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:35:21] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:35:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:36:00] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:36:01] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:36:21] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:36:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:37:21] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:37:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:38:21] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:38:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:39:21] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:39:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:40:10] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:40:10] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:40:21] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:40:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:41:21] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:41:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:42:21] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:42:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:43:21] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:43:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:44:20] Task: godzina zostal wykonany.
+[Info][ThreadStart][124][06/03/15 15:44:21] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:44:23] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][06/03/15 15:44:26] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:45:21] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:45:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:46:21] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:46:23] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][23][06/03/15 15:46:52] SAVE Client Schedule
+[Info][Save][31][06/03/15 15:46:52] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 15:47:02] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 15:47:02] LOAD Client Schedule
+[Info][Start][17][06/03/15 15:47:02] 
+[Info][Load][44][06/03/15 15:47:02] LOAD Schedule
+[Info][ThreadStart][56][06/03/15 15:47:02] 
+[Info][Start][99][06/03/15 15:47:02] 
+[Info][ThreadStart][105][06/03/15 15:47:02] 
+[Info][ThreadWaitingForServer][42][06/03/15 15:47:02] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][06/03/15 15:47:02] CClient: 00001||
+[Info][ThreadStart][726][06/03/15 15:47:02] 
+[Info][ThreadStart][124][06/03/15 15:47:21] Task: notfikacje zostal wykonany.
+[Info][SendMessages][32][06/03/15 15:47:21] 
+[Info][ThreadSendMessages][38][06/03/15 15:47:21] 
+[Info][ThreadSendMessages][43][06/03/15 15:47:21] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:47:22] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:47:24] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:47:27] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:47:27] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][31][06/03/15 15:47:34] SAVE Schedule
+[Info][Save][23][06/03/15 15:47:35] SAVE Client Schedule
+[Info][Save][31][06/03/15 15:47:35] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 15:47:55] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 15:47:55] LOAD Client Schedule
+[Info][Start][17][06/03/15 15:47:55] 
+[Info][Load][44][06/03/15 15:47:55] LOAD Schedule
+[Info][Start][99][06/03/15 15:47:55] 
+[Info][ThreadStart][56][06/03/15 15:47:55] 
+[Info][ThreadStart][105][06/03/15 15:47:55] 
+[Info][ThreadStart][124][06/03/15 15:47:55] Task: notfikacje zostal wykonany.
+[Info][SendMessages][32][06/03/15 15:47:55] 
+[Info][ThreadSendMessages][38][06/03/15 15:47:55] 
+[Info][ThreadWaitingForServer][42][06/03/15 15:47:55] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][06/03/15 15:47:55] CClient: 00001||
+[Info][ThreadStart][726][06/03/15 15:47:55] 
+[Info][ThreadStart][124][06/03/15 15:47:57] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:47:58] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadSendMessages][43][06/03/15 15:48:01] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:48:07] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:48:07] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:48:17] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:48:19] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][31][06/03/15 15:48:23] SAVE Schedule
+[Info][ThreadStart][124][06/03/15 15:48:27] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:48:28] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][ThreadStart][124][06/03/15 15:48:30] Task: godzina zostal wykonany.
+[Info][ThreadSendMessages][43][06/03/15 15:48:32] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysy³anie...
+[Info][Save][23][06/03/15 15:48:32] SAVE Client Schedule
+[Info][Save][31][06/03/15 15:48:32] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 16:18:43] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 16:18:43] LOAD Client Schedule
+[Info][Start][17][06/03/15 16:18:43] 
+[Info][Load][44][06/03/15 16:18:43] LOAD Schedule
+[Info][Start][99][06/03/15 16:18:43] 
+[Info][ThreadStart][56][06/03/15 16:18:43] 
+[Info][ThreadStart][105][06/03/15 16:18:43] 
+[Info][ThreadWaitingForServer][42][06/03/15 16:18:43] Klient nawiazan polaczenie z serwerem.
+[Info][ThreadStart][124][06/03/15 16:18:43] Task: godzina zostal wykonany.
+[Info][SendMessages][33][06/03/15 16:18:43] 
+[Info][ThreadStart][124][06/03/15 16:18:43] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][39][06/03/15 16:18:43] 
+[Info][ThreadSendMessages][44][06/03/15 16:18:43] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][726][06/03/15 16:18:44] 
+[Info][CommandParser][60][06/03/15 16:18:44] CClient: 00001||
+[Info][ThreadSendMessages][44][06/03/15 16:18:47] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][124][06/03/15 16:18:47] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][44][06/03/15 16:18:50] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][124][06/03/15 16:18:57] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][44][06/03/15 16:18:59] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][124][06/03/15 16:19:07] Task: notfikacje zostal wykonany.
+[Info][ThreadSendMessages][44][06/03/15 16:19:08] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][Save][31][06/03/15 16:19:16] SAVE Schedule
+[Info][ThreadStart][124][06/03/15 16:19:17] Task: notfikacje zostal wykonany.
+[Info][Save][23][06/03/15 16:19:18] SAVE Client Schedule
+[Info][Save][31][06/03/15 16:19:18] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 16:20:05] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 16:20:05] LOAD Client Schedule
+[Info][Start][17][06/03/15 16:20:05] 
+[Info][Load][44][06/03/15 16:20:05] LOAD Schedule
+[Info][ThreadStart][56][06/03/15 16:20:05] 
+[Info][Start][99][06/03/15 16:20:05] 
+[Info][ThreadStart][105][06/03/15 16:20:05] 
+[Info][ThreadStart][124][06/03/15 16:20:05] Task: notfikacje zostal wykonany.
+[Info][SendMessages][34][06/03/15 16:20:05] 
+[Info][AddMessage][21][06/03/15 16:20:05] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][40][06/03/15 16:20:05] 
+[Info][ThreadWaitingForServer][42][06/03/15 16:20:06] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][06/03/15 16:20:06] CClient: 00001||
+[Info][ThreadStart][726][06/03/15 16:20:06] 
+[Info][ThreadStart][124][06/03/15 16:20:07] Task: notfikacje zostal wykonany.
+[Info][AddMessage][21][06/03/15 16:20:07] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][45][06/03/15 16:20:08] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadSendMessages][45][06/03/15 16:20:12] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][124][06/03/15 16:20:18] Task: notfikacje zostal wykonany.
+[Info][AddMessage][21][06/03/15 16:20:18] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][45][06/03/15 16:20:18] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][124][06/03/15 16:20:27] Task: notfikacje zostal wykonany.
+[Info][AddMessage][21][06/03/15 16:20:27] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][45][06/03/15 16:20:27] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][124][06/03/15 16:20:37] Task: notfikacje zostal wykonany.
+[Info][AddMessage][21][06/03/15 16:20:37] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][45][06/03/15 16:20:39] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][124][06/03/15 16:20:47] Task: notfikacje zostal wykonany.
+[Info][AddMessage][21][06/03/15 16:20:47] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][45][06/03/15 16:20:48] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][Save][23][06/03/15 16:20:49] SAVE Client Schedule
+[Info][Save][31][06/03/15 16:20:49] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 16:22:34] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 16:22:34] LOAD Client Schedule
+[Info][Start][17][06/03/15 16:22:34] 
+[Info][Load][44][06/03/15 16:22:34] LOAD Schedule
+[Info][Start][99][06/03/15 16:22:34] 
+[Info][ThreadStart][56][06/03/15 16:22:34] 
+[Info][ThreadStart][105][06/03/15 16:22:34] 
+[Info][ThreadStart][124][06/03/15 16:22:34] Task: godzina zostal wykonany.
+[Info][SendMessages][34][06/03/15 16:22:34] 
+[Info][AddMessage][21][06/03/15 16:22:34] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][40][06/03/15 16:22:34] 
+[Info][ThreadStart][124][06/03/15 16:22:34] Task: notfikacje zostal wykonany.
+[Info][AddMessage][21][06/03/15 16:22:34] AddMessage:Aktualna godzina:
+[Info][ThreadWaitingForServer][42][06/03/15 16:22:34] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][06/03/15 16:22:34] CClient: 00001||
+[Info][ThreadStart][726][06/03/15 16:22:34] 
+[Info][ThreadSendMessages][45][06/03/15 16:22:37] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][124][06/03/15 16:22:37] Task: notfikacje zostal wykonany.
+[Info][AddMessage][21][06/03/15 16:22:37] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][45][06/03/15 16:22:40] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][124][06/03/15 16:22:47] Task: notfikacje zostal wykonany.
+[Info][AddMessage][21][06/03/15 16:22:47] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][45][06/03/15 16:22:49] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][124][06/03/15 16:22:57] Task: notfikacje zostal wykonany.
+[Info][AddMessage][21][06/03/15 16:22:57] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][45][06/03/15 16:22:58] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][124][06/03/15 16:23:07] Task: notfikacje zostal wykonany.
+[Info][AddMessage][21][06/03/15 16:23:07] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][45][06/03/15 16:23:07] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][124][06/03/15 16:23:17] Task: notfikacje zostal wykonany.
+[Info][AddMessage][21][06/03/15 16:23:17] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][45][06/03/15 16:23:19] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][Save][31][06/03/15 16:23:22] SAVE Schedule
+[Info][Save][23][06/03/15 16:23:25] SAVE Client Schedule
+[Info][Save][31][06/03/15 16:23:25] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 16:25:22] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 16:25:22] LOAD Client Schedule
+[Info][Start][17][06/03/15 16:25:22] 
+[Info][Load][44][06/03/15 16:25:22] LOAD Schedule
+[Info][Start][99][06/03/15 16:25:22] 
+[Info][ThreadStart][56][06/03/15 16:25:22] 
+[Info][ThreadStart][105][06/03/15 16:25:22] 
+[Info][ThreadStart][118][06/03/15 16:25:22] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:22] for Task tick: notfikacje
+[Info][ThreadWaitingForServer][42][06/03/15 16:25:22] Klient nawiazan polaczenie z serwerem.
+[Info][ThreadStart][124][06/03/15 16:25:22] Task: notfikacje zostal wykonany.
+[Info][CommandParser][60][06/03/15 16:25:22] CClient: 00001||
+[Info][SendMessages][34][06/03/15 16:25:22] 
+[Info][AddMessage][21][06/03/15 16:25:22] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][40][06/03/15 16:25:22] 
+[Info][ThreadSendMessages][45][06/03/15 16:25:22] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][726][06/03/15 16:25:22] 
+[Info][ThreadStart][118][06/03/15 16:25:23] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:23] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:24] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:24] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:25] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:25] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:26] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:26] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:27] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:27] for Task tick: notfikacje
+[Info][ThreadStart][124][06/03/15 16:25:27] Task: notfikacje zostal wykonany.
+[Info][AddMessage][21][06/03/15 16:25:27] AddMessage:Aktualna godzina:
+[Info][ThreadStart][118][06/03/15 16:25:28] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:28] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:25:28] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][118][06/03/15 16:25:29] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:29] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:30] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:30] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:31] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:31] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:32] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:32] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:33] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:33] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:34] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:34] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:35] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:35] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:36] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:36] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:37] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:37] for Task tick: notfikacje
+[Info][ThreadStart][124][06/03/15 16:25:37] Task: notfikacje zostal wykonany.
+[Info][AddMessage][21][06/03/15 16:25:37] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][45][06/03/15 16:25:37] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][118][06/03/15 16:25:38] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:38] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:39] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:39] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:40] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:40] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:41] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:41] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:42] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:42] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:43] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:43] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:44] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:44] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:45] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:45] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:46] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:46] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:47] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:47] for Task tick: notfikacje
+[Info][ThreadStart][124][06/03/15 16:25:47] Task: notfikacje zostal wykonany.
+[Info][AddMessage][21][06/03/15 16:25:47] AddMessage:Aktualna godzina:
+[Info][Save][31][06/03/15 16:25:48] SAVE Schedule
+[Info][ThreadStart][118][06/03/15 16:25:48] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:48] for Task tick: notfikacje
+[Info][ThreadStart][118][06/03/15 16:25:49] for Task tick: godzina
+[Info][ThreadStart][118][06/03/15 16:25:49] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:25:49] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][Save][23][06/03/15 16:25:50] SAVE Client Schedule
+[Info][Save][31][06/03/15 16:25:50] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 16:26:14] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 16:26:14] LOAD Client Schedule
+[Info][Start][17][06/03/15 16:26:14] 
+[Info][Load][44][06/03/15 16:26:14] LOAD Schedule
+[Info][ThreadStart][56][06/03/15 16:26:14] 
+[Info][Start][99][06/03/15 16:26:14] 
+[Info][ThreadStart][105][06/03/15 16:26:14] 
+[Info][ThreadStart][123][06/03/15 16:26:14] for Task tick: godzina
+[Info][ThreadStart][126][06/03/15 16:26:14] Task: godzina zostal wykonany.
+[Info][SendMessages][34][06/03/15 16:26:14] 
+[Info][ThreadSendMessages][40][06/03/15 16:26:14] 
+[Info][ThreadWaitingForServer][42][06/03/15 16:26:14] Klient nawiazan polaczenie z serwerem.
+[Info][AddMessage][21][06/03/15 16:26:14] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:26:14] for Task tick: notfikacje
+[Info][CommandParser][60][06/03/15 16:26:14] CClient: 00001||
+[Info][ThreadStart][126][06/03/15 16:26:14] Task: notfikacje zostal wykonany.
+[Info][AddMessage][21][06/03/15 16:26:14] AddMessage:Aktualna godzina:
+[Info][ThreadStart][726][06/03/15 16:26:14] 
+[Info][ThreadStart][123][06/03/15 16:26:15] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:26:15] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:26:16] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:26:16] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:26:17] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:26:17] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:26:17] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:26:17] Task: notfikacje zostal wykonany.
+[Info][AddMessage][21][06/03/15 16:26:17] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:26:18] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:26:18] for Task tick: notfikacje
+[Info][Save][23][06/03/15 16:26:18] SAVE Client Schedule
+[Info][Save][31][06/03/15 16:26:18] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 16:27:52] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 16:27:52] LOAD Client Schedule
+[Info][Start][17][06/03/15 16:27:52] 
+[Info][ThreadStart][56][06/03/15 16:27:52] 
+[Info][Load][44][06/03/15 16:27:52] LOAD Schedule
+[Info][Start][99][06/03/15 16:27:52] 
+[Info][ThreadStart][105][06/03/15 16:27:52] 
+[Info][ThreadStart][123][06/03/15 16:27:52] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:27:52] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:27:52] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][SendMessages][34][06/03/15 16:27:52] 
+[Info][AddMessage][21][06/03/15 16:27:52] AddMessage:Aktualna godzina:
+[Info][ThreadWaitingForServer][42][06/03/15 16:27:52] Klient nawiazan polaczenie z serwerem.
+[Info][ThreadSendMessages][40][06/03/15 16:27:52] 
+[Info][ThreadSendMessages][45][06/03/15 16:27:52] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][CommandParser][60][06/03/15 16:27:52] CClient: 00001||
+[Info][ThreadStart][726][06/03/15 16:27:52] 
+[Info][ThreadStart][123][06/03/15 16:27:53] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:27:53] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:27:54] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:27:54] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:27:55] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:27:55] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:27:56] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:27:56] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:27:57] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:27:57] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:27:57] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:27:57] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:27:58] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:27:58] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:27:58] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:27:59] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:27:59] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:00] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:00] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:01] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:01] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:02] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:02] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:03] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:03] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:04] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:04] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:05] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:05] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:06] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:06] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:07] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:07] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:28:07] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:28:07] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][45][06/03/15 16:28:07] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:28:08] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:08] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:09] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:09] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:10] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:10] for Task tick: notfikacje
+[Info][Save][23][06/03/15 16:28:10] SAVE Client Schedule
+[Info][Save][31][06/03/15 16:28:10] SAVE Schedule
+[Info][WaitingForServer][29][06/03/15 16:28:14] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 16:28:14] LOAD Client Schedule
+[Info][Start][17][06/03/15 16:28:14] 
+[Info][Load][44][06/03/15 16:28:14] LOAD Schedule
+[Info][ThreadStart][56][06/03/15 16:28:14] 
+[Info][Start][99][06/03/15 16:28:14] 
+[Info][ThreadStart][105][06/03/15 16:28:14] 
+[Info][ThreadStart][123][06/03/15 16:28:14] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:14] for Task tick: notfikacje
+[Info][ThreadWaitingForServer][42][06/03/15 16:28:14] Klient nawiazan polaczenie z serwerem.
+[Info][CommandParser][60][06/03/15 16:28:14] CClient: 00001||
+[Info][ThreadStart][726][06/03/15 16:28:14] 
+[Info][ThreadStart][123][06/03/15 16:28:15] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:15] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:16] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:16] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:17] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:17] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:28:17] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][SendMessages][34][06/03/15 16:28:17] 
+[Info][AddMessage][21][06/03/15 16:28:17] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][40][06/03/15 16:28:17] 
+[Info][ThreadSendMessages][45][06/03/15 16:28:17] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:28:18] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:18] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:19] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:19] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:20] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:20] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:21] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:21] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:22] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:22] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:23] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:23] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:24] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:24] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:25] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:25] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:26] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:26] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:27] for Task tick: godzina
+[Info][ThreadStart][126][06/03/15 16:28:27] Task: godzina zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:28:27] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:28:27] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:28:27] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:28:27] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:28:28] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:28] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:29] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:29] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:28:29] Kolejka wiedomosci zawiera 2 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:28:30] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:30] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:31] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:31] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:32] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:32] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:28:32] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:28:33] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:33] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:34] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:34] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:35] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:35] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:36] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:36] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:37] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:37] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:28:37] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:28:37] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:28:38] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:38] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:28:38] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:28:39] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:39] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:40] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:40] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:41] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:41] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:42] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:42] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:43] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:43] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:44] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:44] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:45] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:45] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:46] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:46] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:47] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:47] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:28:47] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:28:47] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][45][06/03/15 16:28:47] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:28:48] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:48] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:49] for Task tick: godzina
+[Info][ThreadStart][123][06/03/15 16:28:49] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:50] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:51] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:52] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:53] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:54] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:55] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:56] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:57] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:28:57] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:28:57] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:28:58] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:28:59] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:28:59] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:29:00] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:01] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:02] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:03] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:04] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:05] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:06] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:07] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:29:07] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:29:07] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:29:08] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:29:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:29:09] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:10] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:11] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:12] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:13] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:14] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:15] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:16] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:17] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:29:17] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:29:17] AddMessage:Aktualna godzina:
+[Info][Save][31][06/03/15 16:29:17] SAVE Schedule
+[Info][ThreadSendMessages][45][06/03/15 16:29:18] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:29:18] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:19] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:20] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:21] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:22] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:23] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:24] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:25] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:26] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:27] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:29:27] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:29:27] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:29:28] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:29] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:29:30] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:29:30] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:31] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:32] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:33] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:34] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:35] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:36] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:37] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:29:37] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:29:37] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:29:38] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:29:39] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:29:39] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:40] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:41] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:42] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:43] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:44] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:45] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:46] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:47] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:29:47] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:29:47] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][45][06/03/15 16:29:48] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:29:48] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:49] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:50] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:51] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:52] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:53] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:54] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:55] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:56] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:57] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:29:57] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:29:57] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:29:58] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:29:59] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:30:00] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:30:00] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:30:01] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:30:02] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:30:03] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:30:04] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:30:05] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:30:06] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:30:07] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:30:07] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:30:07] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:30:08] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:30:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:30:09] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:30:10] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:30:11] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:30:12] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:30:13] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:30:14] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:30:15] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:30:16] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:30:17] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:30:17] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:30:17] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:30:18] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:30:18] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][WaitingForServer][29][06/03/15 16:31:57] Thread: Oczekiwanie na serwer....
+[Info][Load][36][06/03/15 16:31:57] LOAD Client Schedule
+[Info][Start][17][06/03/15 16:31:57] 
+[Info][Load][44][06/03/15 16:31:57] LOAD Schedule
+[Info][Start][99][06/03/15 16:31:57] 
+[Info][ThreadStart][56][06/03/15 16:31:57] 
+[Info][ThreadStart][105][06/03/15 16:31:57] 
+[Info][ThreadStart][123][06/03/15 16:31:57] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:31:57] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][SendMessages][34][06/03/15 16:31:57] 
+[Info][ThreadSendMessages][40][06/03/15 16:31:57] 
+[Info][AddMessage][21][06/03/15 16:31:57] AddMessage:Aktualna godzina:
+[Info][ThreadWaitingForServer][42][06/03/15 16:31:57] Klient nawiazan polaczenie z serwerem.
+[Info][ThreadStart][726][06/03/15 16:31:57] 
+[Info][CommandParser][60][06/03/15 16:31:57] CClient: 00001||
+[Info][ThreadStart][123][06/03/15 16:31:58] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:31:59] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:32:00] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:32:00] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:01] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:02] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:03] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:04] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:05] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:06] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:07] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:32:07] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:32:07] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:32:08] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:09] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:32:09] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:32:10] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:11] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:12] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:13] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:14] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:15] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:16] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:17] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:32:17] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:32:17] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:32:18] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:32:18] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:32:19] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:20] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:21] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:22] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:23] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:24] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:25] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:26] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:27] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:32:27] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:32:27] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][45][06/03/15 16:32:27] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:32:28] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:29] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:30] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:31] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:32] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:33] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:34] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:35] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:36] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:37] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:32:37] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:32:37] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:32:38] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:39] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:32:40] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:32:40] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:41] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:32:41] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:32:41] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:32:42] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:32:43] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:32:43] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:44] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:45] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:46] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:47] for Task tick: notfikacje
+[Info][ThreadStart][126][06/03/15 16:32:47] Task: notfikacje zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:32:47] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:32:48] for Task tick: notfikacje
+[Info][ThreadSendMessages][45][06/03/15 16:32:49] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:32:49] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:32:50] for Task tick: notfikacje
+[Info][ThreadStart][123][06/03/15 16:33:09] for Task tick: test
+[Info][ThreadStart][126][06/03/15 16:33:09] Task: test zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:33:09] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][45][06/03/15 16:33:10] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:33:10] for Task tick: test
+[Info][ThreadStart][123][06/03/15 16:33:11] for Task tick: test
+[Info][ThreadStart][123][06/03/15 16:33:12] for Task tick: test
+[Info][ThreadStart][123][06/03/15 16:33:13] for Task tick: test
+[Info][ThreadStart][123][06/03/15 16:33:14] for Task tick: test
+[Info][ThreadStart][123][06/03/15 16:33:15] for Task tick: test
+[Info][ThreadStart][126][06/03/15 16:33:15] Task: test zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:33:15] AddMessage:Aktualna godzina:
+[Info][ThreadSendMessages][45][06/03/15 16:33:16] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:33:16] for Task tick: test
+[Info][ThreadStart][123][06/03/15 16:33:17] for Task tick: test
+[Info][ThreadStart][123][06/03/15 16:33:18] for Task tick: test
+[Info][ThreadStart][123][06/03/15 16:33:19] for Task tick: test
+[Info][ThreadStart][123][06/03/15 16:33:20] for Task tick: test
+[Info][Save][31][06/03/15 16:33:23] SAVE Schedule
+[Info][ThreadStart][123][06/03/15 16:33:32] for Task tick: sss
+[Info][ThreadStart][126][06/03/15 16:33:32] Task: sss zostal wykonany, task nie zawiera daty koncowej.
+[Info][AddMessage][21][06/03/15 16:33:32] AddMessage:Aktualna godzina:
+[Info][ThreadStart][123][06/03/15 16:33:33] for Task tick: sss
+[Info][ThreadSendMessages][45][06/03/15 16:33:34] Kolejka wiedomosci zawiera 1 niewyslanych wiadomosci, wysylanie...
+[Info][ThreadStart][123][06/03/15 16:33:34] for Task tick: sss
+[Info][Save][31][06/03/15 16:33:36] SAVE Schedule
+[Info][Save][23][06/03/15 16:33:37] SAVE Client Schedule
+[Info][Save][31][06/03/15 16:33:37] SAVE Schedule

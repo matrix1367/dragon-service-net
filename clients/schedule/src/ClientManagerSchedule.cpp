@@ -117,3 +117,10 @@ std::string CTerm::GetStrDateEnd()
     return std::string(godzina);
 }
 
+time_t CTerm::GetDateStart() {
+    return m_dateStart;
+}
+
+time_t CTerm::GetDateEnd() {
+    return m_dateEnd;
+}

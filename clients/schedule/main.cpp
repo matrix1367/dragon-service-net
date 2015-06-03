@@ -113,6 +113,18 @@ time_t ConvertStringToTime_T(std::string date, std::string time)
     return result;
 }
 
+std::string ConvertTimeToString(time_t m_dateStart)
+{
+    /*struct tm * data;
+    char godzina[ 80 ];
+    data = localtime( & m_dateStart );
+    strftime( godzina, 80, "%X %d-%m-%Y", data );
+    return std::string(godzina);
+    */
+    if (m_dateStart <= 0 ) return "0";
+    return CDLog::ToStringLL((long long)m_dateStart);
+}
+
 
 BOOL CALLBACK DlgTask(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 {
@@ -679,6 +691,9 @@ void RefreshDlgMain(TypeParmT parm)
     LVITEM lvi;
     lvi.mask = LVIF_TEXT;
     int i = 0;
+    time_t now;
+    time(&now);
+
     ListView_DeleteAllItems(listView);
     std::list<CTerm> schedules = CClientManagerSchedule::getInstance().GetSchedule();
     for (std::list<CTerm>::iterator it= schedules.begin(); it != schedules.end(); it++)
@@ -690,16 +705,43 @@ void RefreshDlgMain(TypeParmT parm)
         lvi.iItem = i;
         lvi.iSubItem = 0;
 
+
+
         ListView_InsertItem( listView, & lvi );
-        ListView_SetItemText( listView, i, 1, "0");
+        ListView_SetItemText( listView, i, 1, const_cast<char *>(ConvertTimeToString( it->GetDateStart() - now ).c_str() ));
         ListView_SetItemText( listView, i, 2, const_cast<char *>(it->GetStrName().c_str()));
-        ListView_SetItemText( listView, i, 4, const_cast<char *>(it->GetStrDateStart().c_str()));
-        ListView_SetItemText( listView, i, 5, const_cast<char *>(it->GetStrDateEnd().c_str()));
-        ListView_SetItemText( listView, i, 6, const_cast<char *>(it->GetStrInterval().c_str()));
+        ListView_SetItemText( listView, i, 3, const_cast<char *>(it->GetStrDateStart().c_str()));
+        ListView_SetItemText( listView, i, 4, const_cast<char *>(it->GetStrDateEnd().c_str()));
+        ListView_SetItemText( listView, i, 5, const_cast<char *>(it->GetStrInterval().c_str()));
         //ListView_SetItemText( listView, i, 5, const_cast<char *>( CJobsManager::getInstance().GetStrNameJob(it->GetIdJob()).c_str() ));
         i++;
     }
 }
+
+
+bool isStopSchedule = false;
+
+DWORD WINAPI ThreadStart(LPVOID lpParam)
+{
+    CDLog::Write( __FUNCTION__ , __LINE__, Info, "" );
+    time_t now;
+
+    HWND listView = GetDlgItem((HWND)lpParam, DLG_MAIN_LISTVIE);
+    std::list<CTerm> schedules = CClientManagerSchedule::getInstance().GetSchedule();
+
+    while(!isStopSchedule)
+    {
+        time( & now ); int i = 0;
+        for (std::list<CTerm>::iterator it= schedules.begin(); it != schedules.end(); it++ , i++)
+        {
+           ListView_SetItemText( listView, i, 1, const_cast<char *>(ConvertTimeToString( it->GetDateStart() - now ).c_str() ));
+        }
+        Sleep(1000);
+        schedules = CClientManagerSchedule::getInstance().GetSchedule();
+    }
+    return 0;
+}
+
 
 BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 {
@@ -730,7 +772,7 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
 
             lvc.iSubItem = 0;
-            lvc.cx = 150;
+            lvc.cx = 130;
             lvc.pszText = time;
             ListView_InsertColumn( listView, 1, & lvc );
 
@@ -768,11 +810,15 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
             CEventManager::getInstance().Subscribe(event);
             event.typeEvent = EVENT_DELETE_TERM;
             CEventManager::getInstance().Subscribe(event);
+
+            DWORD m_threadID;
+            CreateThread(NULL, 0, ThreadStart, hwndDlg , 0, &m_threadID);
         }
         return TRUE;
 
         case WM_CLOSE:
         {
+            isStopSchedule = true;
             CClientManagerSchedule::getInstance().Save();
             CScheduleManager::getInstance().Save();
             CDSetting::getInstance().Save();
@@ -833,6 +879,8 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
             }
             case ID_MENU_EXIT:
             {
+                isStopSchedule = true;
+                CClientManagerSchedule::getInstance().Save();
                 CScheduleManager::getInstance().Save();
                 CDSetting::getInstance().Save();
                 RemoveTrayIcon (hwndDlg, ID_TRAY1);

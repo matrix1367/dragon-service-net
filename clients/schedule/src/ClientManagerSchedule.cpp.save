@@ -21,7 +21,7 @@ void CClientManagerSchedule::Start()
 void CClientManagerSchedule::Save()
 {
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "SAVE Client Schedule" );
-    std::ofstream out_file("Schedule.dat", std::ios::out | std::ios::binary | std::ios::trunc);
+    std::ofstream out_file("ClientSchedule.dat", std::ios::out | std::ios::binary | std::ios::trunc);
     if (!out_file) return;
     for (std::list<CTerm>::iterator itVCTerm= schedules.begin(); itVCTerm != schedules.end(); ++itVCTerm )
     {
@@ -34,7 +34,7 @@ void CClientManagerSchedule::Save()
 void CClientManagerSchedule::Load()
 {
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "LOAD Client Schedule" );
-    std::ifstream in_file("Schedule.dat", std::ios::in | std::ios::binary);
+    std::ifstream in_file("ClientSchedule.dat", std::ios::in | std::ios::binary);
     if (!in_file) return ;
 
     in_file.seekg (0, in_file.end);
@@ -69,4 +69,54 @@ DWORD CClientManagerSchedule::ThreadStart()
 void CClientManagerSchedule::AddTerm(const CTerm& term)
 {
     schedules.push_back(term);
+}
+
+void CClientManagerSchedule::AddTerm(const std::string& name, const time_t& dateStart, const time_t& dateEnd, const int& interval)
+{
+    CTerm term(name, dateStart, dateEnd, interval);
+    schedules.push_back(term);
+}
+
+
+void CClientManagerSchedule::RemoveTerm(unsigned int term)
+{
+
+}
+
+std::list<CTerm> CClientManagerSchedule::GetSchedule()
+{
+    return schedules;
+}
+
+std::string CTerm::GetStrInterval()
+{
+    return CDLog::ToString(m_interval);
+}
+
+std::string CTerm::GetStrName()
+{
+    return m_name;
+}
+
+std::string CTerm::GetStrDateStart()
+{
+    struct tm * data;
+    char godzina[ 80 ];
+    data = localtime( & m_dateStart );
+    strftime( godzina, 80, "%d-%m-%Y %X", data );
+    return std::string(godzina);
+}
+
+std::string CTerm::GetStrDateEnd()
+{
+    if (m_dateEnd == 0 ) return "brak";
+    struct tm * data;
+    char godzina[ 80 ];
+    data = localtime( & m_dateEnd );
+    strftime( godzina, 80, "%d-%m-%Y %X", data );
+    return std::string(godzina);
+}
+
+time_t CTerm::GetDateStart() {
+    return m_da
 }

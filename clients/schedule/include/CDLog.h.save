@@ -20,7 +20,7 @@ public:
         return ss.str();
     }
 
-    static std::string ToStringLL(long long i) {
+    static std::string ToString(long long i) {
         std::ostringstream ss;
         ss << i;
         return ss.str();

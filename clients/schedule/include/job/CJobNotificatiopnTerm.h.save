@@ -1,0 +1,15 @@
+#ifndef CJOBNOTIFICATIOPNTERM_H
+#define CJOBNOTIFICATIOPNTERM_H
+#include "IJob.h"
+#include "Message.h"
+
+class CJobNotificatiopnTerm : public IJob
+{
+    public:
+        CJobNotificatiopnTerm();
+        virtual ~CJobNotificatiopnTerm();
+    protected:
+    private:
+};
+
+#endif // CJOBNOTIFICATIOPNTERM_H

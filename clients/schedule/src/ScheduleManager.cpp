@@ -115,13 +115,15 @@ DWORD CScheduleManager::ThreadStart()
 
         for (std::list<CTask>::iterator itVCTask = schedules.begin(); itVCTask != schedules.end(); itVCTask++ , i++)
         {
-           // CDLog::Write( __FUNCTION__ , __LINE__, Info, "for Task tick: " );
+
            if (i >= schedules.size()) {
             break;
            }
+
+           CDLog::Write( __FUNCTION__ , __LINE__, Info, "for Task tick: " +itVCTask->GetName());
            if(itVCTask->GetDateStart() <= now) {
                 if (itVCTask->GetDateEnd() == 0) {
-                  CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + " zostal wykonany." );
+                  CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + " zostal wykonany, task nie zawiera daty koncowej." );
                   itVCTask->Run();
 
                   if (itVCTask->GetInterval() > 0) {
@@ -201,6 +203,8 @@ void CTask::Run()
 {
     //DWORD m_threadID;
     //CreateThread(0,0,ThreadRun, (void*)this , 0 , &m_threadID);
+
+    //printf("TASK:")
 
     IJob* job = CJobsManager::getInstance().GetJobs(this->GetIdJob() );
     ParmJob parm;

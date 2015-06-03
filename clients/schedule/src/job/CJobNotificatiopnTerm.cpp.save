@@ -1,0 +1,20 @@
+#include "CJobNotificatiopnTerm.h"
+
+std::string CJobTime::name = "Powiadomienia harmonogramu";
+
+CJobNotificatiopnTerm::CJobNotificatiopnTerm() : IJob(ID_JOB_TIME)
+{
+    //ctor
+}
+
+CJobNotificatiopnTerm::~CJobNotificatiopnTerm()
+{
+    //dtor
+}
+
+CMessage CJobTime::Run()
+{
+    CMessage message("Notyfikacja:",  std::string(godzina));
+    message.SetTypeTask(TYPE_MESSAGE_SEND);
+    return message;
+}

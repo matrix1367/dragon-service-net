@@ -18,11 +18,13 @@ CMessageManager::~CMessageManager()
 
 void CMessageManager::AddMessage(CMessage message)
 {
+    CDLog::Write( __FUNCTION__ , __LINE__, Info, "AddMessage:" + message.GetName() );
     m_messages.push(message);
 }
 
 void CMessageManager::AddMessage(const std::string name, const std::string description)
 {
+    CDLog::Write( __FUNCTION__ , __LINE__, Info, "AddMessage:" + name );
     CMessage message(name, description);
     m_messages.push(message);
 }
@@ -40,7 +42,7 @@ DWORD CMessageManager::ThreadSendMessages()
         if (CModels::getInstance().IsConnect())
         {
             if (m_messages.size() > 0 ) {
-                CDLog::Write( __FUNCTION__ , __LINE__, Info, "Kolejka wiedomosci zawiera " + CDLog::ToString(m_messages.size()) + " niewyslanych wiadomosci, wysy³anie..." );
+                CDLog::Write( __FUNCTION__ , __LINE__, Info, "Kolejka wiedomosci zawiera " + CDLog::ToString(m_messages.size()) + " niewyslanych wiadomosci, wysylanie..." );
                 for (unsigned int i=0; i< m_messages.size(); i++) {
 
                     if ( m_messages.front().GetTypeTask() == TYPE_MESSAGE_NO_SEND) {

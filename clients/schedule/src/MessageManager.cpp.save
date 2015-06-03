@@ -23,6 +23,7 @@ void CMessageManager::AddMessage(CMessage message)
 
 void CMessageManager::AddMessage(const std::string name, const std::string description)
 {
+    CDLog::Write( __FUNCTION__ , __LINE__, Info, "AddMessage:" );
     CMessage message(name, description);
     m_messages.push(message);
 }
@@ -32,7 +33,7 @@ void CMessageManager::SendMessages()
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "" );
     CreateThread(0,0,StaticThreadSendMessages, (void*)this , 0,&m_threadID);
 }
-#include <cio
+//#include <cstdio>
 DWORD CMessageManager::ThreadSendMessages()
 {
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "" );
@@ -40,11 +41,11 @@ DWORD CMessageManager::ThreadSendMessages()
         if (CModels::getInstance().IsConnect())
         {
             if (m_messages.size() > 0 ) {
-                CDLog::Write( __FUNCTION__ , __LINE__, Info, "Kolejka wiedomosci zawiera " + CDLog::ToString(m_messages.size()) + " niewyslanych wiadomosci, wysy³anie..." );
+                CDLog::Write( __FUNCTION__ , __LINE__, Info, "Kolejka wiedomosci zawiera " + CDLog::ToString(m_messages.size()) + " niewyslanych wiadomosci, wysylanie..." );
                 for (unsigned int i=0; i< m_messages.size(); i++) {
 
                     if ( m_messages.front().GetTypeTask() == TYPE_MESSAGE_NO_SEND) {
-                            printf("Wiadomosc pusta: %s: %s",m_messages.front().GetName().c_str(), m_messages.front().GetDescription().c_str() );
+                            //printf("Wiadomosc pusta: %s: %s",m_messages.front().GetName().c_str(), m_messages.front().GetDescription().c_str() );
                             m_messages.pop();
                             Sleep(100);
                             continue;

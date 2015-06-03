@@ -1,1 +1,209 @@
 # depslib dependency file v1.0
+1431422746 source:f:\projects\dragon-service-net-master\clients\weether\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+	<mCtrl/chart.h>
+
+1431422746 f:\projects\dragon-service-net-master\clients\weether\resource.h
+
+1431422749 f:\projects\dragon-service-net-master\lib\mctrl-0.9.8\include\mctrl\chart.h
+	<mCtrl/_defs.h>
+	<mCtrl/_common.h>
+
+1431422749 f:\projects\dragon-service-net-master\lib\mctrl-0.9.8\include\mctrl\_defs.h
+	<windows.h>
+	<oaidl.h>
+
+1431422749 f:\projects\dragon-service-net-master\lib\mctrl-0.9.8\include\mctrl\_common.h
+	<mCtrl/_defs.h>
+
+1431006454 source:f:\projects\dragon-service-net-master\clients\weether\src\cdlog.cpp
+	"CDLog.h"
+	<iostream>
+	<fstream>
+	<time.h>
+
+1431422746 f:\projects\dragon-service-net-master\clients\weether\include\cdlog.h
+	<string>
+	<sstream>
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\weether\src\cdsetting.cpp
+	"CDSetting.h"
+	"CDSerialize.h"
+	"CDLog.h"
+	<windows.h>
+	"Shlwapi.h"
+
+1431422746 f:\projects\dragon-service-net-master\clients\weether\include\cdsetting.h
+	<string>
+
+1428355505 f:\projects\dragon-service-net-master\clients\weether\include\cdserialize.h
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\weether\src\client.cpp
+	"Client.h"
+	<winsock2.h>
+	<windows.h>
+	<fcntl.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<stdio.h>
+	<conio.h>
+	"CDSetting.h"
+	"CDLog.h"
+
+1428906820 f:\projects\dragon-service-net-master\clients\weether\include\client.h
+	<windows.h>
+	<string>
+
+1429514315 source:f:\projects\dragon-service-net-master\clients\weether\src\eventmanager.cpp
+	"EventManager.h"
+
+1431422746 f:\projects\dragon-service-net-master\clients\weether\include\eventmanager.h
+	<vector>
+	<windows.h>
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\weether\src\guimanager.cpp
+	"GUIManager.h"
+	"Convert.h"
+	"Models.h"
+	"CDSetting.h"
+
+1431422746 f:\projects\dragon-service-net-master\clients\weether\include\guimanager.h
+	<windows.h>
+	<string>
+	"../resource.h"
+
+1431422746 f:\projects\dragon-service-net-master\clients\weether\include\convert.h
+	<string>
+	<cstdio>
+	<vector>
+
+1431422746 f:\projects\dragon-service-net-master\clients\weether\include\models.h
+	"Client.h"
+	"Convert.h"
+
+1429258889 source:f:\projects\dragon-service-net-master\clients\weether\src\ijob.cpp
+	"IJob.h"
+
+1431422746 f:\projects\dragon-service-net-master\clients\weether\include\ijob.h
+	"Message.h"
+
+1431422746 f:\projects\dragon-service-net-master\clients\weether\include\message.h
+	<string>
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\weether\src\job\jobalertweether.cpp
+	"JobAlertWeether.h"
+	"WebTool.h"
+	"GUIManager.h"
+
+1431422746 f:\projects\dragon-service-net-master\clients\weether\include\job\jobalertweether.h
+	"IJob.h"
+	"Message.h"
+
+1431422746 f:\projects\dragon-service-net-master\clients\weether\include\webtool.h
+	<curl/curl.h>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1431422747 f:\projects\dragon-service-net-master\lib\curl-7.40.0-devel-mingw32\include\curl\curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1431422747 f:\projects\dragon-service-net-master\lib\curl-7.40.0-devel-mingw32\include\curl\curlver.h
+
+1431422747 f:\projects\dragon-service-net-master\lib\curl-7.40.0-devel-mingw32\include\curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1431422747 f:\projects\dragon-service-net-master\lib\curl-7.40.0-devel-mingw32\include\curl\curlrules.h
+
+1431422747 f:\projects\dragon-service-net-master\lib\curl-7.40.0-devel-mingw32\include\curl\easy.h
+
+1431422747 f:\projects\dragon-service-net-master\lib\curl-7.40.0-devel-mingw32\include\curl\multi.h
+	"curl.h"
+
+1431422747 f:\projects\dragon-service-net-master\lib\curl-7.40.0-devel-mingw32\include\curl\typecheck-gcc.h
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\weether\src\job\jobtime.cpp
+	"job\JobTime.h"
+	<time.h>
+
+1431422746 f:\projects\dragon-service-net-master\clients\weether\include\job\jobtime.h
+	"IJob.h"
+	"Message.h"
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\weether\src\message.cpp
+	"Message.h"
+	<cstdlib>
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\weether\src\messagemanager.cpp
+	"MessageManager.h"
+	"Models.h"
+	"CDLog.h"
+
+1429521976 f:\projects\dragon-service-net-master\clients\weether\include\messagemanager.h
+	<Message.h>
+	<queue>
+	<windows.h>
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\weether\src\models.cpp
+	"Models.h"
+	"CDLog.h"
+	"WebTool.h"
+	"Convert.h"
+	"EventManager.h"
+	"CDSetting.h"
+	<cstdio>
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\weether\src\schedulemanager.cpp
+	"ScheduleManager.h"
+	"MessageManager.h"
+	"CDSerialize.h"
+	<cstdio>
+	"CDLog.h"
+	"TasksManager.h"
+	"EventManager.h"
+
+1431422746 f:\projects\dragon-service-net-master\clients\weether\include\schedulemanager.h
+	<list>
+	<time.h>
+	<string>
+	<windows.h>
+
+1431422746 f:\projects\dragon-service-net-master\clients\weether\include\tasksmanager.h
+	"IJob.h"
+	"job/JobTime.h"
+	"job/JobAlertWeether.h"
+	<vector>
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\weether\src\tasksmanager.cpp
+	"TasksManager.h"
+	"JobAlertWeether.h"
+	"JobTime.h"
+
+1431422746 source:f:\projects\dragon-service-net-master\clients\weether\src\webtool.cpp
+	"WebTool.h"
+

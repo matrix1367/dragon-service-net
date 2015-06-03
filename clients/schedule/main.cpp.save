@@ -113,6 +113,18 @@ time_t ConvertStringToTime_T(std::string date, std::string time)
     return result;
 }
 
+std::string ConvertTimeToString(time_t m_dateStart)
+{
+    /*struct tm * data;
+    char godzina[ 80 ];
+    data = localtime( & m_dateStart );
+    strftime( godzina, 80, "%X %d-%m-%Y", data );
+    return std::string(godzina);
+    */
+    if (m_dateStart <= 0 ) return "0";
+    return CDLog::ToStringLL((long long)m_dateStart);
+}
+
 
 BOOL CALLBACK DlgTask(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 {
@@ -479,17 +491,7 @@ BOOL CALLBACK DlgClientTerm(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lPara
     {
     case WM_INITDIALOG:
     {
-        // printf("WM_INITDIALOG DlgTask: select item : %d\n", lParam);
-        std::vector<std::string> strJob = CJobsManager::getInstance().GetStrAllNameJob();
-        HWND hWndComboBox = GetDlgItem(hwndDlg, IDD_DIALOG_TASK_JOB);
-
-        for (std::vector<std::string>::iterator it = strJob.begin(); it != strJob.end() ; it++)
-        {
-            SendMessage(hWndComboBox,(UINT) CB_ADDSTRING,(WPARAM) 0,(LPARAM) (*it).c_str());
-        }
-
-
-        if (lParam > 0)
+      if (lParam > 0)
         {
             // CTask taskEdit
             CTask* task =  CScheduleManager::getInstance().GetTask(lParam-1);
@@ -531,7 +533,6 @@ BOOL CALLBACK DlgClientTerm(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lPara
                 EnableWindow(hTimeE, true);
             }
 
-            SendMessage((HWND) hWndComboBox, (UINT) CB_SETCURSEL,(WPARAM) CJobsManager::getInstance().GetIndexJob(task->GetIdJob()), (LPARAM) 0);
 
             ShowWindow(hButtonOK,SW_HIDE);
             ShowWindow(hButtonSave,SW_SHOW);
@@ -539,7 +540,7 @@ BOOL CALLBACK DlgClientTerm(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lPara
         else
         {
 
-            SendMessage((HWND) hWndComboBox, (UINT) CB_SETCURSEL,(WPARAM) 0, (LPARAM) 0);
+
         }
     }
     return TRUE;
@@ -555,15 +556,6 @@ BOOL CALLBACK DlgClientTerm(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lPara
     {
         if ( HIWORD( wParam ) == BN_CLICKED )
         {
-            if ( LOWORD( wParam ) == IDD_DIALOG_TASK_CHECK_STOP )
-            {
-                HWND dataP = GetDlgItem(hwndDlg, IDD_DIALOG_TASK_DATE_END);
-                HWND timeP = GetDlgItem(hwndDlg, IDD_DIALOG_TASK_TIME_END);
-                bool checkboxActive = (SendDlgItemMessage(hwndDlg,IDD_DIALOG_TASK_CHECK_STOP ,BM_GETCHECK,0,0)==BST_CHECKED);
-                EnableWindow(dataP,checkboxActive);
-                EnableWindow(timeP,checkboxActive);
-            }
-
             if ( LOWORD( wParam ) == IDD_DIALOG_TASK_CHECK_INTERVAL )
             {
                 bool checkboxActive = (SendDlgItemMessage(hwndDlg,IDD_DIALOG_TASK_CHECK_INTERVAL ,BM_GETCHECK,0,0)==BST_CHECKED);
@@ -582,27 +574,21 @@ BOOL CALLBACK DlgClientTerm(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lPara
             std::string dateEnd = GetWindowText(hwndDlg,IDD_DIALOG_TASK_DATE_END);
             std::string timeEnd = GetWindowText(hwndDlg,IDD_DIALOG_TASK_TIME_END);
             std::string interval = GetWindowText(hwndDlg,IDD_DIALOG_TASK_INTERVAL);
-            std::string settingJob = GetWindowText(hwndDlg,IDD_DIALOG_TASK_SETTING);
 
             //printf("name %s, data %s, time %s, date %s, time %s, interval %s", name.c_str(), dateSt.c_str(), timeSt.c_str(), dateEnd.c_str(), timeEnd.c_str(), interval.c_str());
 
-            //indexJob = GetWindowText(hwndDlg,IDD_DIALOG_TASK_NAME);
             int intInterval = 0;
             time_t tDateSt = ConvertStringToTime_T(dateSt, timeSt);
-            time_t tDateEnd = 0;
-            if (SendDlgItemMessage(hwndDlg,IDD_DIALOG_TASK_CHECK_STOP ,BM_GETCHECK,0,0)==BST_CHECKED)
-            {
-                tDateEnd = ConvertStringToTime_T(dateEnd, timeEnd);
-            }
+            time_t tDateEnd = ConvertStringToTime_T(dateEnd, timeEnd);
+
 
             if (SendDlgItemMessage(hwndDlg,IDD_DIALOG_TASK_CHECK_INTERVAL ,BM_GETCHECK,0,0)==BST_CHECKED)
             {
                 intInterval = atoi(interval.c_str());
             }
-            HWND hWndComboBox = GetDlgItem(hwndDlg, IDD_DIALOG_TASK_JOB);
-            int index = SendMessage((HWND) hWndComboBox, (UINT) CB_GETCURSEL,(WPARAM) 0, (LPARAM) 0);
 
-            CScheduleManager::getInstance().AddTask(name, tDateSt, tDateEnd , intInterval, CJobsManager::getInstance().GetIdJob(index),settingJob );
+            CClientManagerSchedule::getInstance().AddTerm(name, tDateSt, tDateEnd, intInterval);
+
             EndDialog(hwndDlg, IDOK);
             break;
         }
@@ -701,8 +687,61 @@ BOOL CALLBACK DlgSetting(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
 void RefreshDlgMain(TypeParmT parm)
 {
+    HWND listView = parm.handle;
+    LVITEM lvi;
+    lvi.mask = LVIF_TEXT;
+    int i = 0;
+    time_t now;
+    time(&now);
 
+    ListView_DeleteAllItems(listView);
+    std::list<CTerm> schedules = CClientManagerSchedule::getInstance().GetSchedule();
+    for (std::list<CTerm>::iterator it= schedules.begin(); it != schedules.end(); it++)
+    {
+        char buffer[5];
+        itoa(i+1,buffer,10);
+
+        lvi.pszText = const_cast<char * >(std::string(buffer).c_str());
+        lvi.iItem = i;
+        lvi.iSubItem = 0;
+
+
+
+        ListView_InsertItem( listView, & lvi );
+        ListView_SetItemText( listView, i, 1, const_cast<char *>(ConvertTimeToString( it->GetDateStart() - now ).c_str() ));
+        ListView_SetItemText( listView, i, 2, const_cast<char *>(it->GetStrName().c_str()));
+        ListView_SetItemText( listView, i, 3, const_cast<char *>(it->GetStrDateStart().c_str()));
+        ListView_SetItemText( listView, i, 4, const_cast<char *>(it->GetStrDateEnd().c_str()));
+        ListView_SetItemText( listView, i, 5, const_cast<char *>(it->GetStrInterval().c_str()));
+        //ListView_SetItemText( listView, i, 5, const_cast<char *>( CJobsManager::getInstance().GetStrNameJob(it->GetIdJob()).c_str() ));
+        i++;
+    }
 }
+
+
+bool isStopSchedule = false;
+
+DWORD WINAPI ThreadStart(LPVOID lpParam)
+{
+    CDLog::Write( __FUNCTION__ , __LINE__, Info, "" );
+    time_t now;
+
+    HWND listView = GetDlgItem((HWND)lpParam, DLG_MAIN_LISTVIE);
+    std::list<CTerm> schedules = CClientManagerSchedule::getInstance().GetSchedule();
+
+    while(!isStopSchedule)
+    {
+        time( & now ); int i = 0;
+        for (std::list<CTerm>::iterator it= schedules.begin(); it != schedules.end(); it++ , i++)
+        {
+           ListView_SetItemText( listView, i, 1, const_cast<char *>(ConvertTimeToString( it->GetDateStart() - now ).c_str() ));
+        }
+        Sleep(1000);
+        schedules = CClientManagerSchedule::getInstance().GetSchedule();
+    }
+    return 0;
+}
+
 
 BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 {
@@ -715,7 +754,8 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
             HWND listView = GetDlgItem(hwndDlg,DLG_MAIN_LISTVIE);
 
-            char lp[] = {"Czas"};
+            char lp[] = {"lp"};
+            char time[] = {"Czas"};
             char name[] = {"Nazwa"};
             char id[] = {"Data poczatkowa"};
             char adressIP[] = {"Data koncowa"};
@@ -726,37 +766,60 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
             lvc.mask = LVCF_WIDTH | LVCF_TEXT | LVCF_SUBITEM;
 
             lvc.iSubItem = 0;
-            lvc.cx = 150;
+            lvc.cx = 25;
             lvc.pszText = lp;
             ListView_InsertColumn( listView, 0, & lvc );
+
+
+            lvc.iSubItem = 0;
+            lvc.cx = 130;
+            lvc.pszText = time;
+            ListView_InsertColumn( listView, 1, & lvc );
 
             lvc.iSubItem = 0;
             lvc.cx = 150;
             lvc.pszText = name;
-            ListView_InsertColumn( listView, 1, & lvc );
-
-            lvc.iSubItem = 0;
-            lvc.cx = 120;
-            lvc.pszText = id;
             ListView_InsertColumn( listView, 2, & lvc );
 
             lvc.iSubItem = 0;
             lvc.cx = 120;
-            lvc.pszText = adressIP;
+            lvc.pszText = id;
             ListView_InsertColumn( listView, 3, & lvc );
 
             lvc.iSubItem = 0;
             lvc.cx = 120;
-            lvc.pszText = status;
+            lvc.pszText = adressIP;
             ListView_InsertColumn( listView, 4, & lvc );
+
+            lvc.iSubItem = 0;
+            lvc.cx = 120;
+            lvc.pszText = status;
+            ListView_InsertColumn( listView, 5, & lvc );
 
 
             ListView_SetExtendedListViewStyleEx(listView, LVS_EX_FULLROWSELECT, LVS_EX_FULLROWSELECT);
+
+            TypeParmT parm;
+            parm.handle = listView;
+            RefreshDlgMain(parm);
+
+            Event event;
+            event.paem1.handle = listView;
+            event.typeEvent = EVENT_ADD_TERM;
+            event.handleFunction = &RefreshDlgMain;
+            CEventManager::getInstance().Subscribe(event);
+            event.typeEvent = EVENT_DELETE_TERM;
+            CEventManager::getInstance().Subscribe(event);
+
+            DWORD m_threadID;
+            CreateThread(NULL, 0, ThreadStart, hwndDlg , 0, &m_threadID);
         }
         return TRUE;
 
         case WM_CLOSE:
         {
+            isStopSchedule = true;
+            CClientManagerSchedule::getInstance().Save();
             CScheduleManager::getInstance().Save();
             CDSetting::getInstance().Save();
             RemoveTrayIcon (hwndDlg, ID_TRAY1);
@@ -816,6 +879,8 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
             }
             case ID_MENU_EXIT:
             {
+                isStopSchedule = true;
+                CClientManagerSchedule::getInstance().Save();
                 CScheduleManager::getInstance().Save();
                 CDSetting::getInstance().Save();
                 RemoveTrayIcon (hwndDlg, ID_TRAY1);
@@ -825,10 +890,10 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
             case IDR_MENU_SCHEDUL_EDIT_ADD:
             {
                 printf("IDR_MENU_SCHEDUL_EDIT_ADD:\n");
-                int res = DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_TERM), NULL, (DLGPROC)DlgClientTerm;
+                int res = DialogBox(hInst, MAKEINTRESOURCE(IDD_DIALOG_TERM), NULL, (DLGPROC)DlgClientTerm);
                 if (res == IDOK)
                 {
-                    CEventManager::getInstance().Send(EVENT_ADD_SCHEDULE);
+                    CEventManager::getInstance().Send(EVENT_ADD_TERM);
                 }
                 break;
             }

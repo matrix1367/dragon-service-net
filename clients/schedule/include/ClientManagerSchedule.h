@@ -34,6 +34,9 @@ public:
         return id;
     }
 
+    time_t GetDateStart();
+    time_t GetDateEnd();
+
     std::string GetStrDateEnd();
     std::string GetStrDateStart();
     std::string GetStrName();

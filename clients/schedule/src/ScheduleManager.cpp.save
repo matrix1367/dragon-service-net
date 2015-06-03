@@ -31,7 +31,7 @@ void CScheduleManager::Save()
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "SAVE Schedule" );
     ofstream out_file("task.dat", ios::out | ios::binary | ios::trunc);
     if (!out_file) return;
-    for (std::list<CTask>::iterator itVCTask = schedules.begin(); itVCTask != schedules.end(); ++itVCTask++ )
+    for (std::list<CTask>::iterator itVCTask = schedules.begin(); itVCTask != schedules.end(); itVCTask++ )
     {
         out_file.write((char*) &(*itVCTask), sizeof(CTask));
     }
@@ -71,7 +71,6 @@ void CTask::GetNextTask(CTask* task) {
 
 void CScheduleManager::RemoveTask(unsigned index)
 {
-
     unsigned int i = 0;
     for (std::list<CTask>::iterator itVCTask = schedules.begin(); itVCTask != schedules.end(); ++itVCTask , i++)
     {
@@ -116,13 +115,15 @@ DWORD CScheduleManager::ThreadStart()
 
         for (std::list<CTask>::iterator itVCTask = schedules.begin(); itVCTask != schedules.end(); itVCTask++ , i++)
         {
-           // CDLog::Write( __FUNCTION__ , __LINE__, Info, "for Task tick: " );
+
            if (i >= schedules.size()) {
             break;
            }
+
+           CDLog::Write( __FUNCTION__ , __LINE__, Info, "for Task tick: " +itVCTask->GetName());
            if(itVCTask->GetDateStart() <= now) {
                 if (itVCTask->GetDateEnd() == 0) {
-                  CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + " zostal wykonany." );
+                  CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + " zostal wykonany, task nie zawiera daty koncowej." );
                   itVCTask->Run();
 
                   if (itVCTask->GetInterval() > 0) {
@@ -202,6 +203,8 @@ void CTask::Run()
 {
     //DWORD m_threadID;
     //CreateThread(0,0,ThreadRun, (void*)this , 0 , &m_threadID);
+    
+    printf("TASK:")
 
     IJob* job = CJobsManager::getInstance().GetJobs(this->GetIdJob() );
     ParmJob parm;
@@ -258,9 +261,10 @@ bool CScheduleManager::EditTask(long long ID, std::string name, time_t st, time_
             it->SetInterval(interval);
             it->SetIdJob(IDJob);
             it->SetSetting(setting);
-            printf("Update Task ID:%d", it->GetID());
+            return true;
         }
     }
+    return false;
 }
 
 
