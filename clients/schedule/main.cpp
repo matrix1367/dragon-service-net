@@ -29,7 +29,6 @@ HINSTANCE hInst;
 
 
 
-
 void UpdateTrayIcon(HWND hWnd, UINT uID, UINT uCallbackMsg, UINT uIcon, std::string icon)
 {
     //CREATE SYSTEN TRAY ICON.---------------------------------------------------------------------
@@ -60,7 +59,7 @@ void AddTrayIcon( HWND hWnd, UINT uID, UINT uCallbackMsg, UINT uIcon )
     nid.uFlags           = NIF_ICON | NIF_MESSAGE | NIF_TIP;
     nid.uCallbackMessage = uCallbackMsg;
     ExtractIconEx( "img\\schedul-icon.ico", 0, NULL, &(nid.hIcon), 1 );
-    strcpy(nid.szTip, "Weater");
+    strcpy(nid.szTip, "Terminarz");
 
     //SEND MESSAGE TO SYSTEM TRAY TO ADD ICON.--------------------------------------------
     Shell_NotifyIcon( NIM_ADD, &nid );
@@ -311,10 +310,8 @@ void RefreshListViewSchedule(TypeParmT parm)
     std::list<CTask> schedules = CScheduleManager::getInstance().GetSchedule();
     for (std::list<CTask>::iterator it= schedules.begin(); it != schedules.end(); it++)
     {
-        char buffer[5];
-        itoa(i+1,buffer,10);
 
-        lvi.pszText = const_cast<char * >(std::string(buffer).c_str());
+        lvi.pszText = const_cast<char * >(CDLog::ToString(i).c_str());
         lvi.iItem = i;
         lvi.iSubItem = 0;
 
@@ -695,7 +692,10 @@ void RefreshDlgMain(TypeParmT parm)
     time(&now);
 
     ListView_DeleteAllItems(listView);
-    std::list<CTerm> schedules = CClientManagerSchedule::getInstance().GetSchedule();
+//    CClientManagerSchedule::getInstance().waitUnlock();
+
+    std::list<CTerm> schedules;
+    CClientManagerSchedule::getInstance().GetSchedule(schedules);
     for (std::list<CTerm>::iterator it= schedules.begin(); it != schedules.end(); it++)
     {
         char buffer[5];
@@ -716,6 +716,7 @@ void RefreshDlgMain(TypeParmT parm)
         //ListView_SetItemText( listView, i, 5, const_cast<char *>( CJobsManager::getInstance().GetStrNameJob(it->GetIdJob()).c_str() ));
         i++;
     }
+    //CClientManagerSchedule::getInstance().unlock();
 }
 
 
@@ -727,17 +728,20 @@ DWORD WINAPI ThreadStart(LPVOID lpParam)
     time_t now;
 
     HWND listView = GetDlgItem((HWND)lpParam, DLG_MAIN_LISTVIE);
-    std::list<CTerm> schedules = CClientManagerSchedule::getInstance().GetSchedule();
 
+    std::list<CTerm> schedules;
+    CClientManagerSchedule::getInstance().GetSchedule(schedules);
+    int i;
     while(!isStopSchedule)
     {
-        time( & now ); int i = 0;
+        time( & now ); i =0;
         for (std::list<CTerm>::iterator it= schedules.begin(); it != schedules.end(); it++ , i++)
         {
            ListView_SetItemText( listView, i, 1, const_cast<char *>(ConvertTimeToString( it->GetDateStart() - now ).c_str() ));
         }
         Sleep(1000);
-        schedules = CClientManagerSchedule::getInstance().GetSchedule();
+        //todo tylko na event
+        CClientManagerSchedule::getInstance().GetSchedule(schedules);
     }
     return 0;
 }
@@ -749,6 +753,7 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     {
         case WM_INITDIALOG:
         {
+            CGUIManager::getInstance().SetHWindowMain(hwndDlg);
             SetClassLong( hwndDlg, GCL_HICON,( LONG ) LoadIcon( GetModuleHandle( NULL ), MAKEINTRESOURCE( IDI_ICON1 ) ) );
             AddTrayIcon( hwndDlg, ID_TRAY1, WM_APP, 0 );
 

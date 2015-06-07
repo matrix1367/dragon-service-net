@@ -104,7 +104,7 @@ DWORD CScheduleManager::ThreadStart()
 {
     CDLog::Write( __FUNCTION__ , __LINE__, Info, "" );
     time_t now;
-
+    time_t newTime;
     unsigned int i;
     while(!isStopSchedule)
     {
@@ -120,7 +120,7 @@ DWORD CScheduleManager::ThreadStart()
             break;
            }
 
-           CDLog::Write( __FUNCTION__ , __LINE__, Info, "for Task tick: " +itVCTask->GetName());
+          // CDLog::Write( __FUNCTION__ , __LINE__, Info, "for Task tick: " +itVCTask->GetName());
            if(itVCTask->GetDateStart() <= now) {
                 if (itVCTask->GetDateEnd() == 0) {
                   CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + " zostal wykonany, task nie zawiera daty koncowej." );
@@ -129,7 +129,7 @@ DWORD CScheduleManager::ThreadStart()
                   if (itVCTask->GetInterval() > 0) {
                             //task posiada interwal;
                             //CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + "  posiada interwal : " + itVCTask->GetStrInterval() );
-                            time_t newTime;
+
                             newTime =  itVCTask->GetDateStart() + itVCTask->GetInterval();
                             while (newTime <= now) {
                                  newTime += itVCTask->GetInterval();
@@ -150,7 +150,7 @@ DWORD CScheduleManager::ThreadStart()
                         if (itVCTask->GetInterval() > 0) {
                             //task posiada interwal;
                            // CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + "  posiada interwal : " + itVCTask->GetStrInterval() );
-                            time_t newTime;
+
                             newTime =  itVCTask->GetDateStart() + itVCTask->GetInterval();
                             if (newTime > itVCTask->GetDateEnd()) {
                                 //CDLog::Write( __FUNCTION__ , __LINE__, Info, "Task: " + itVCTask->GetName() + "  ddata start jest wieksza od end zostanie usuniety." );

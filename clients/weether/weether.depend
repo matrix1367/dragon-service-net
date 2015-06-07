@@ -207,3 +207,289 @@
 1431422746 source:f:\projects\dragon-service-net-master\clients\weether\src\webtool.cpp
 	"WebTool.h"
 
+1433351044 source:d:\moje dokumenty\github\dragon-service-net\clients\weether\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<gdiplus.h>
+	<stdio.h>
+	<vector>
+	<algorithm>
+	<string>
+	"resource.h"
+	"Models.h"
+	"ScheduleManager.h"
+	"CDSetting.h"
+	"CDLog.h"
+	"TasksManager.h"
+	"EventManager.h"
+	"GUIManager.h"
+	<winuser.h>
+	<mCtrl/chart.h>
+	<mCtrl/dialog.h>
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\clients\weether\resource.h
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\clients\weether\include\models.h
+	"Client.h"
+	"Convert.h"
+
+1433350842 d:\moje dokumenty\github\dragon-service-net\clients\weether\include\client.h
+	<windows.h>
+	<string>
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\clients\weether\include\convert.h
+	<string>
+	<cstdio>
+	<vector>
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\clients\weether\include\schedulemanager.h
+	<list>
+	<time.h>
+	<string>
+	<windows.h>
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\clients\weether\include\cdsetting.h
+	<string>
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\clients\weether\include\cdlog.h
+	<string>
+	<sstream>
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\clients\weether\include\tasksmanager.h
+	"IJob.h"
+	"job/JobTime.h"
+	"job/JobAlertWeether.h"
+	<vector>
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\clients\weether\include\ijob.h
+	"Message.h"
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\clients\weether\include\message.h
+	<string>
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\clients\weether\include\job\jobtime.h
+	"IJob.h"
+	"Message.h"
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\clients\weether\include\job\jobalertweether.h
+	"IJob.h"
+	"Message.h"
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\clients\weether\include\eventmanager.h
+	<vector>
+	<windows.h>
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\clients\weether\include\guimanager.h
+	<windows.h>
+	<string>
+	"../resource.h"
+
+1433351046 d:\moje dokumenty\github\dragon-service-net\lib\mctrl-0.9.8\include\mctrl\chart.h
+	<mCtrl/_defs.h>
+	<mCtrl/_common.h>
+
+1433351046 d:\moje dokumenty\github\dragon-service-net\lib\mctrl-0.9.8\include\mctrl\_defs.h
+	<windows.h>
+	<oaidl.h>
+
+1433351046 d:\moje dokumenty\github\dragon-service-net\lib\mctrl-0.9.8\include\mctrl\_common.h
+	<mCtrl/_defs.h>
+
+1433351046 d:\moje dokumenty\github\dragon-service-net\lib\mctrl-0.9.8\include\mctrl\dialog.h
+	<mCtrl/_defs.h>
+	<mCtrl/_common.h>
+	<winuser.h>
+
+1433351044 source:d:\moje dokumenty\github\dragon-service-net\clients\weether\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+	<mCtrl/chart.h>
+
+1433350842 source:d:\moje dokumenty\github\dragon-service-net\clients\weether\src\cdlog.cpp
+	"CDLog.h"
+	<iostream>
+	<fstream>
+	<time.h>
+
+1433351044 source:d:\moje dokumenty\github\dragon-service-net\clients\weether\src\cdsetting.cpp
+	"CDSetting.h"
+	"CDSerialize.h"
+	"CDLog.h"
+	<windows.h>
+	"Shlwapi.h"
+
+1433350842 d:\moje dokumenty\github\dragon-service-net\clients\weether\include\cdserialize.h
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1433351044 source:d:\moje dokumenty\github\dragon-service-net\clients\weether\src\client.cpp
+	"Client.h"
+	<winsock2.h>
+	<windows.h>
+	<fcntl.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<stdio.h>
+	<conio.h>
+	"CDSetting.h"
+	"CDLog.h"
+
+1433351044 source:d:\moje dokumenty\github\dragon-service-net\clients\weether\src\convert.cpp
+	"Convert.h"
+	"CDLog.h"
+	<json/json.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<math.h>
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\lib\jsoncpp-src-0.5.0\include\json\json.h
+	"autolink.h"
+	"value.h"
+	"reader.h"
+	"writer.h"
+	"features.h"
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\lib\jsoncpp-src-0.5.0\include\json\autolink.h
+	"config.h"
+	<cpptl/cpptl_autolink.h>
+	"autolink.h"
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\lib\jsoncpp-src-0.5.0\include\json\config.h
+	<cpptl/config.h>
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\lib\jsoncpp-src-0.5.0\include\json\value.h
+	"forwards.h"
+	<string>
+	<vector>
+	<map>
+	<cpptl/smallmap.h>
+	<cpptl/forwards.h>
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\lib\jsoncpp-src-0.5.0\include\json\forwards.h
+	"config.h"
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\lib\jsoncpp-src-0.5.0\include\json\reader.h
+	"features.h"
+	"value.h"
+	<deque>
+	<stack>
+	<string>
+	<iostream>
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\lib\jsoncpp-src-0.5.0\include\json\features.h
+	"forwards.h"
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\lib\jsoncpp-src-0.5.0\include\json\writer.h
+	"value.h"
+	<vector>
+	<string>
+	<iostream>
+
+1433350842 source:d:\moje dokumenty\github\dragon-service-net\clients\weether\src\eventmanager.cpp
+	"EventManager.h"
+
+1433351044 source:d:\moje dokumenty\github\dragon-service-net\clients\weether\src\guimanager.cpp
+	"GUIManager.h"
+	"Convert.h"
+	"Models.h"
+	"CDSetting.h"
+
+1433350842 source:d:\moje dokumenty\github\dragon-service-net\clients\weether\src\ijob.cpp
+	"IJob.h"
+
+1433351044 source:d:\moje dokumenty\github\dragon-service-net\clients\weether\src\job\jobalertweether.cpp
+	"JobAlertWeether.h"
+	"WebTool.h"
+	"GUIManager.h"
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\clients\weether\include\webtool.h
+	<curl/curl.h>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\lib\curl-7.40.0-devel-mingw32\include\curl\curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\lib\curl-7.40.0-devel-mingw32\include\curl\curlver.h
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\lib\curl-7.40.0-devel-mingw32\include\curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\lib\curl-7.40.0-devel-mingw32\include\curl\curlrules.h
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\lib\curl-7.40.0-devel-mingw32\include\curl\easy.h
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\lib\curl-7.40.0-devel-mingw32\include\curl\multi.h
+	"curl.h"
+
+1433351044 d:\moje dokumenty\github\dragon-service-net\lib\curl-7.40.0-devel-mingw32\include\curl\typecheck-gcc.h
+
+1433351044 source:d:\moje dokumenty\github\dragon-service-net\clients\weether\src\job\jobtime.cpp
+	"job\JobTime.h"
+	<time.h>
+
+1433351044 source:d:\moje dokumenty\github\dragon-service-net\clients\weether\src\message.cpp
+	"Message.h"
+	<cstdlib>
+
+1433351044 source:d:\moje dokumenty\github\dragon-service-net\clients\weether\src\messagemanager.cpp
+	"MessageManager.h"
+	"Models.h"
+	"CDLog.h"
+
+1433350842 d:\moje dokumenty\github\dragon-service-net\clients\weether\include\messagemanager.h
+	<Message.h>
+	<queue>
+	<windows.h>
+
+1433351044 source:d:\moje dokumenty\github\dragon-service-net\clients\weether\src\models.cpp
+	"Models.h"
+	"CDLog.h"
+	"WebTool.h"
+	"Convert.h"
+	"EventManager.h"
+	"CDSetting.h"
+	<cstdio>
+
+1433351044 source:d:\moje dokumenty\github\dragon-service-net\clients\weether\src\schedulemanager.cpp
+	"ScheduleManager.h"
+	"MessageManager.h"
+	"CDSerialize.h"
+	<cstdio>
+	"CDLog.h"
+	"TasksManager.h"
+	"EventManager.h"
+
+1433351044 source:d:\moje dokumenty\github\dragon-service-net\clients\weether\src\tasksmanager.cpp
+	"TasksManager.h"
+	"JobAlertWeether.h"
+	"JobTime.h"
+
+1433351044 source:d:\moje dokumenty\github\dragon-service-net\clients\weether\src\webtool.cpp
+	"WebTool.h"
+

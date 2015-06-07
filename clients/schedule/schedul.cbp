@@ -13,6 +13,7 @@
 				<Option compiler="gcc" />
 				<Option use_console_runner="0" />
 				<Compiler>
+					<Add option="-std=c++11" />
 					<Add option="-g" />
 					<Add directory="include" />
 					<Add directory="include/job" />
@@ -20,6 +21,8 @@
 				<Linker>
 					<Add option="-lWS2_32" />
 					<Add option="-lShlwapi" />
+					<Add option="-static-libgcc" />
+					<Add option="-ggdb" />
 				</Linker>
 			</Target>
 			<Target title="Release">

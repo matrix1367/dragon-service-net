@@ -18,14 +18,16 @@ class CGUIManager
          static CGUIManager instance;
          return instance;
       }
-
+      void ShowMessage(std::string title, std::string info);
+        void SetHWindowMain(HWND hwnd);
+        HWND GetHWindowMain();
 
 
     protected:
     private:
         CGUIManager();
         virtual ~CGUIManager();
-
+        HWND hWindowMain;
 };
 
 #endif // CGUIMANAGER_H

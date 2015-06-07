@@ -9,6 +9,7 @@
 #include <conio.h>
 #include "CDSetting.h"
 #include "CDLog.h"
+#include "Models.h"
 
 CClient::CClient()
 {
@@ -101,8 +102,9 @@ DWORD WINAPI CClient::ThreadStart()
         printf("Sent bytes %d\n", bytecount);
 */
         if((bytecount = recv(m_hsock, buffer, buffer_len, 0))==SOCKET_ERROR){
-            fprintf(stderr, "Error receiving data %d\n", WSAGetLastError());
+            fprintf(stderr, "[CClient::ThreadStart]Error receiving data %d\n", WSAGetLastError());
             m_isConnect = false;
+            CModels::getInstance().WaitingForServer();
             break;
         }
         this->CommandParser(std::string(buffer));
